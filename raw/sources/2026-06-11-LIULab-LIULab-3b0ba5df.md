@@ -1,0 +1,87 @@
+# LIU lab-清华大学人工智能学院
+
+> Source: https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/liulab.htm
+> Collected: 2026-06-11
+> Published: Unknown
+> Fetch status: HTTP 200
+> Seed subject: LIU Lab
+
+LIU lab-清华大学人工智能学院
+首页
+学院头条
+讲座预告
+学院概况
+学院简介
+院长寄语
+学院领导
+新闻通知
+新闻动态
+通知公告
+人员队伍
+学术委员会
+全职PI
+兼聘PI
+行政团队
+学生培养
+研究生培养
+研究生招生
+科学研究
+研究方向
+研究动态
+课题组介绍
+公开招聘
+教师招聘
+博士后招聘
+职员招聘
+社会捐赠
+科学研究
+LIU lab
+PI：Ziming LIU
+研究方向：AI+Science
+课题组简介
+我们立志于解决科学（Science）和人工智能领域（AI）的基础大问题。我们不限制解决方案，但目前觉得AI+Science的范式特别有前景——Science可以帮助AI从经验主义过渡到科学，让研究者能够科学地理解和设计AI；而AI补足传统Science的短板，给Science带来新的范式。
+AI领域的大问题：
+1.
+Science for AI
+: 让AI具有人的能力（AI不一定要类人，但是至少需要有人的能力！）。这包括视觉推理，物理推理，从少样本学习的能力，快速适应的能力。我们希望从更基础的角度——表征学习，信息论（智能即压缩），脑科学启发等，研发新的模型和算法，开创出一条不同于当前规模定律的道路。
+2.
+Science of AI
+: AI的科学理论。我们希望从科学研究的方法论出发，从可控性强的“玩具”实验中获得启发，构建相关的AI理论（模型），并且通过这些模型启发设计出更好的算法。具体地，我们希望能更科学地理解和控制当前流程中的各个元素——模型，目标函数，优化，数据，以及各种神奇的现象——Grokking，Neural Scaling Laws等。
+Science领域的大问题：
+1.
+AI for fundamental science
+: 涌现（Emergence）。涌现和很多科学上的谜题都有直接或间接的关系——比如希尔伯特第六问题，高温超导，可控核聚变。这些问题/系统之所以复杂，是因为研究涌现的科学工具非常有限，而AI现在提供了一种新的工具、带来了新的可能。
+2.
+AI for everyday science
+: AI assistants。辅助日常任务，比如智能地做数据分析和可视化，根据数据提出假设和验证方案，等等。
+代表性论文
+Science for AI:
+▪ KAN: Kolmogorov-Arnold Networks, ICLR 2025 (Oral)
+▪ Poisson Flow Generative Models, NeurIPS 2022
+▪ Seeing is Believing: Brain-inspired Modular Training for Mechanistic Interpretability, Entropy (2023)
+Science of AI:
+▪ Towards Understanding Grokking: An Effective Theory of Representation Learning, NeurIPS 2022 (Oral)
+▪ Omnigrok: Grokking Beyond Algorithmic Data, ICLR 2023 (Spotlight)
+▪ The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks, NeurIPS 2023 (Oral)
+AI for Science:
+▪ Machine Learning Conservation Laws from Trajectories, Physical Review Letters (2021)
+▪ Machine Learning Hidden Symmetries, Physical Review Letters (2022)
+▪ Scientific Discovery in the Age of Artificial Intelligence (review article), Nature (2023)
+课题组风格和人才培养理念
+LIU lab，代表Learning、Intelligence和Universe。
+• 学习是心态——研究的第一原则是基于好奇心驱动的学习，而非发表。
+• 智能是目标——理解并构建智能系统
+• 宇宙是方法论——实验室研究人工智能就像研究宇宙一样，也就是从基本原理开始拆解和构建事物，在实验与理论之间取得平衡。
+课题组成员
+唐晨成
+1159961916@qq.com
+屈清宇
+qingyuqu0@gmail.com
+新闻动态
+contacts
+Office
+Postal Code
+Email
+地址：北京市海淀区成府路45号中关村智造大街F座3层 100083 电话：62788817/62788836/62788805
+邮箱：collegeai@mail.tsinghua.edu.cn 版权所有 @ 清华大学人工智能学院
+TOP

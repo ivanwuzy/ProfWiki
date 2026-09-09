@@ -1,0 +1,15 @@
+# Local application state and conversations
+.DS_Store
+.claude/
+.claudian/
+.obsidian/
+
+# Deliberately local-only material
+/非同步文件/
+
+# Credentials and runtime caches
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc

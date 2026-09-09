@@ -1,0 +1,60 @@
+---
+type: org
+name: EIR软硬件与本体研究中心
+aliases: []
+org_type: group
+tier: 2
+parent: 清华大学具身智能与机器人研究院
+domains: [robotics]
+key_people: [李曙光]
+related_companies: []
+watch_tier: T2
+priority: A
+last_verified: 2026-06-11
+confidence: verified_primary
+tags: [org, tsinghua, frontier-talent]
+---
+
+# EIR软硬件与本体研究中心
+
+> Sources: 软硬件与本体研究中心（https://eir.tsinghua.edu.cn/yjjg/ryjybtyjzx.htm）
+> Raw: [软硬件与本体研究中心](../../raw/sources/2026-06-11-EIR软硬件与本体研究中心-软硬件与本体研究中心-586b9fc3.md)
+
+## 一句话判断
+
+机器人硬件、本体、物理仿真、数字孪生、整机系统。
+
+## 基本信息
+
+| 字段 | 内容 |
+|---|---|
+| 类型 | 实验室/课题组 / group |
+| 所属单位 | [清华大学具身智能与机器人研究院（EIR）](清华大学具身智能与机器人研究院EIR.md) |
+| 方向 | 机器人硬件、本体、物理仿真、数字孪生、整机系统。 |
+| 官网 | 软硬件与本体研究中心 |
+
+## 重点人物
+
+| 人物 | 角色 | 方向 | 信号 |
+|---|---|---|---|
+| 李曙光 | PI/负责人/相关人员 | 中心主任、机器人本体项目、软硬件栈、企业合作。 | 创建中心节点；李曙光建人物占位。 |
+
+## 创业/产业化线索
+
+| 公司/项目 | 关联方式 | 相关人物 | 证据 |
+|---|---|---|---|
+| 待验证 | 创建中心节点；李曙光建人物占位。 | 李曙光 | https://eir.tsinghua.edu.cn/yjjg/ryjybtyjzx.htm |
+
+## 导入字段
+
+中心主任、机器人本体项目、软硬件栈、企业合作。
+
+## 后续动作
+
+创建中心节点；李曙光建人物占位。
+
+## 证据
+
+| 来源 | 支持事实 | 日期 |
+|---|---|---|
+| [软硬件与本体研究中心](https://eir.tsinghua.edu.cn/yjjg/ryjybtyjzx.htm) | 支持“EIR软硬件与本体研究中心”的定位、人员入口或建页动作 | 2026-06-11 |

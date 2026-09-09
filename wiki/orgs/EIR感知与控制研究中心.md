@@ -1,0 +1,60 @@
+---
+type: org
+name: EIR感知与控制研究中心
+aliases: []
+org_type: group
+tier: 2
+parent: 清华大学具身智能与机器人研究院
+domains: [robotics]
+key_people: [鲁继文]
+related_companies: []
+watch_tier: T2
+priority: A
+last_verified: 2026-06-11
+confidence: verified_primary
+tags: [org, tsinghua, frontier-talent]
+---
+
+# EIR感知与控制研究中心
+
+> Sources: 感知与控制研究中心（https://eir.tsinghua.edu.cn/yjjg/gzykzyjzx.htm）
+> Raw: [感知与控制研究中心](../../raw/sources/2026-06-11-EIR感知与控制研究中心-感知与控制研究中心-41995a13.md)
+
+## 一句话判断
+
+机器人感知、自主决策、控制、系统集成。
+
+## 基本信息
+
+| 字段 | 内容 |
+|---|---|
+| 类型 | 实验室/课题组 / group |
+| 所属单位 | [清华大学具身智能与机器人研究院（EIR）](清华大学具身智能与机器人研究院EIR.md) |
+| 方向 | 机器人感知、自主决策、控制、系统集成。 |
+| 官网 | 感知与控制研究中心 |
+
+## 重点人物
+
+| 人物 | 角色 | 方向 | 信号 |
+|---|---|---|---|
+| 鲁继文 | PI/负责人/相关人员 | 中心主任、PI、研究方向、学生、项目。 | 创建中心节点；鲁继文建人物占位。 |
+
+## 创业/产业化线索
+
+| 公司/项目 | 关联方式 | 相关人物 | 证据 |
+|---|---|---|---|
+| 待验证 | 创建中心节点；鲁继文建人物占位。 | 鲁继文 | https://eir.tsinghua.edu.cn/yjjg/gzykzyjzx.htm |
+
+## 导入字段
+
+中心主任、PI、研究方向、学生、项目。
+
+## 后续动作
+
+创建中心节点；鲁继文建人物占位。
+
+## 证据
+
+| 来源 | 支持事实 | 日期 |
+|---|---|---|
+| [感知与控制研究中心](https://eir.tsinghua.edu.cn/yjjg/gzykzyjzx.htm) | 支持“EIR感知与控制研究中心”的定位、人员入口或建页动作 | 2026-06-11 |

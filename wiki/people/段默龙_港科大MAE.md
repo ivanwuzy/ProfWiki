@@ -1,0 +1,107 @@
+---
+type: person
+name: 段默龙
+aliases: [Molong DUAN]
+role_type: professor
+affiliations: [香港科技大学]
+labs: [Center for Smart Manufacturing]
+domains: [robotics, smart-manufacturing, precision-motion-control, embodied-ai]
+status: high_potential
+watch_tier: T1
+priority: A+
+related_companies: []
+last_verified: 2026-09-08
+confidence: unverified
+tags: [person, hkust, young-faculty, smart-manufacturing, high-watch]
+---
+
+# 段默龙
+
+> Sources: HKUST Faculty Profiles；CKSRI官网；[CKSRI执行委员会](https://ri.hkust.edu.hk/people/executive-committee)
+> Updated: 2026-09-08
+> Raw: [CKSRI执行委员会](../../raw/sources/香港具身核查-CKSRI执行委员会.md)
+
+> **证据状态（2026-09-08）：待核。** 本轮已补CKSRI职务来源，但本页其余历史断言仍缺逐项证据，原置信度 `verified_primary` 暂予撤回。下列历史内容保留为线索，不作为已核实的身份、创业、融资或平台规模结论；补存并逐项核对来源后再恢复置信度。
+
+> **Status: Disputed（2026-09-08）**：本轮实际取得的CKSRI执行委员会正文列申亚京为Center for Smart Manufacturing的Director、段默龙为Associate Director。旧库称Faculty Profiles列段默龙Director，但本次未取得对应原文来解释差异。因此旧文“段默龙任主任”及据此推断“被重点培养/近期最可能创业”的说法不作为当前结论；以下相关历史表述均受此限定。详见[来源冲突](../questions/香港具身实验室归属与创业状态待核.md)。
+
+## 一句话判断
+
+港科大MAE助理教授，Center for Smart Manufacturing主任，[CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)执行委员会中**唯一的助理教授**，精密运动控制/智能制造方向，与机器人关节、驱动高度相关，**被重点培养的信号极强，建议列为头号观察对象**。
+
+## 基本信息
+
+| 字段 | 内容 |
+|---|---|
+| 当前身份 | Assistant Professor |
+| 院系 | [MAE机械及航空航天工程学系](../orgs/香港科技大学机械及航空航天工程学系MAE.md) |
+| 方向 | 精密运动控制、智能制造、机器人关节与驱动 |
+| 关键兼任 | **Director, Center for Smart Manufacturing**；[CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)执行委员（**唯一助理教授进入执委会**） |
+| 官网 | https://facultyprofiles.hkust.edu.hk/profiles.php?profile=molong-duan-meduan |
+
+## 关键信号
+
+| 类型 | 内容 | 年份 | 证据 |
+|---|---|---:|---|
+| 研究院职务 | CKSRI执行委员，**唯一助理教授进入执委会** | 2026 | CKSRI官网 (A0) |
+| 研究中心 | Center for Smart Manufacturing主任 | 2026 | Faculty Profiles (A0) |
+| 职业发展 | 助理教授即任中心主任+进入研究院执委会，**被重点培养的信号** | 2026 | CKSRI官网+Faculty Profiles (A0) |
+| 研究方向 | 精密运动控制、智能制造，与机器人关节/驱动/本体高度相关 | 2026 | Faculty Profiles (A0) |
+
+## 产业资源与定位
+
+**"被重点培养"的三个信号**：
+1. **助理教授即任中心主任**：Center for Smart Manufacturing是CKSRI 12个研究方向之一，由助理教授担任主任极其罕见
+2. **唯一助理教授进入CKSRI执委会**：执委会其他成员均为Professor或Associate Professor，段默龙是唯一的Assistant Professor
+3. **研究方向与具身智能硬件核心缺口高度吻合**：精密运动控制直接对应机器人关节、驱动、本体设计，是人形机器人/操作机器人的关键技术
+
+**判断依据**：
+- 港科大机器人研究院有意识地将段默龙推到核心位置
+- 智能制造方向与产业转化直接相关
+- 精密运动控制是具身智能硬件的"卡脖子"技术之一
+
+## 研究方向
+
+- 精密运动控制
+- 智能制造
+- 机器人关节与驱动
+- 制造装备自动化
+
+## 学生与博士后
+
+待补：需从以下来源提取学生名单：
+- 个人主页学生列表
+- Google Scholar合作者
+- Center for Smart Manufacturing项目组成员
+- 最新论文作者列表
+
+> 注：段默龙作为助理教授即任中心主任+进入CKSRI执委会，其学生网络对理解港科大在精密运动控制/机器人关节方向的人才储备至关重要。
+
+## 创业潜力评估
+
+**第一梯队（1-2年内最可能创业）**：
+- 助理教授+中心主任+执委会，三重身份表明港科大对其重点培养
+- 研究方向（精密运动控制）与具身智能硬件核心缺口高度吻合
+- 青年教授正处于创业最佳窗口期
+- 智能制造方向与产业结合紧密，易于找到应用场景
+
+## 创业/产业关联
+
+| 公司/项目 | 关系 | 状态 | 证据 |
+|---|---|---|---|
+| 暂无 | - | - | 待验证是否有Spin-off或产业合作 |
+
+## 待验证
+
+- [ ] Center for Smart Manufacturing的当前团队规模和主要研究项目
+- [ ] 是否有个人创业公司或产业合作项目
+- [ ] 完整学生名单及毕业去向
+- [ ] 与李桂君（港科大 ISD，未建人物页）的合作关系（李桂君任 Center for Smart Manufacturing Associate Director）
+- [ ] **Center for Smart Manufacturing主任归属冲突**：CKSRI执委会页列[申亚京](申亚京_港科大ECE.md)为Director，Faculty Profiles列段默龙为Director、李桂君为Associate Director（需核实）
+
+## 证据
+
+| 来源 | 支持事实 | 日期 |
+|---|---|---|
+| [HKUST Faculty Profiles](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=molong-duan-meduan) | 职称、院系、Center for Smart Manufacturing Director | 2026-09-07 |
+| [CKSRI官网](https://ri.hkust.edu.hk/) | CKSRI执行委员、唯一助理教授 | 2026-09-07 |
