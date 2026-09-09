@@ -35,6 +35,7 @@ jobs:
           cache-dependency-path: site/package-lock.json
       - uses: actions/configure-pages@v5
       - run: npm ci
+      - run: npx tsx --test scripts/search.test.ts
       - run: npm run build
       - run: python3 scripts/check-links.py
       - uses: actions/upload-pages-artifact@v3

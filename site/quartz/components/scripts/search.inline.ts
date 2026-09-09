@@ -2,6 +2,7 @@ import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
+import { encoder } from "./search-encoder"
 
 interface Item {
   id: number
@@ -16,13 +17,6 @@ interface Item {
 type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
-const encoder = (str: string) => {
-  return str
-    .toLowerCase()
-    .split(/\s+/)
-    .filter((token) => token.length > 0)
-}
-
 let index = new FlexSearch.Document<Item>({
   encode: encoder,
   document: {

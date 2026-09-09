@@ -6,3 +6,5 @@
 ProfWiki 定制位于 `quartz.config.ts`、`quartz.layout.ts`、`quartz/styles/custom.scss`、`home.md`、`plugins/` 与 `scripts/`。
 
 `quartz/plugins/transformers/latex.ts` 增加 `singleDollarTextMath` 选项，网站关闭单美元符号数学解析，避免融资金额被误渲染；双美元符号公式仍可使用。依赖锁文件已更新，并将 `sharp` 与 `toml` 升级到修复安全公告的版本。
+
+搜索组件增加基于 `Intl.Segmenter` 的中文分词，支持在中文句子内部搜索词语，同时保留完整人名与英文缩写。
