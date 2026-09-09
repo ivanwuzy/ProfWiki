@@ -1,0 +1,29 @@
+@use "./base.scss";
+
+body {
+  --bodyFont: system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+  --headerFont: system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+article {
+  line-height: 1.85;
+  overflow-wrap: anywhere;
+}
+
+.page-title {
+  letter-spacing: -0.04em;
+}
+
+article table {
+  font-size: 0.94rem;
+}
+
+article th {
+  white-space: nowrap;
+}
+
+article blockquote {
+  border-radius: 0 8px 8px 0;
+  background: var(--highlight);
+  padding: 0.4rem 1rem;
+}

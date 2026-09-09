@@ -13,3 +13,11 @@
 !.env.example
 __pycache__/
 *.pyc
+
+# Quartz generated files
+/site/node_modules/
+/site/content/
+/site/public/
+.quartz-cache/
+/site/.cache/
+/site/tsconfig.tsbuildinfo
