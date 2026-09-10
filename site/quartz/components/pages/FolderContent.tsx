@@ -102,6 +102,10 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         : htmlToJsx(fileData.filePath!, tree)
     ) as ComponentChildren
 
+    if (fileData.slug === "wiki/index") {
+      return <div class="popover-hint"><article class={classes}>{content}</article></div>
+    }
+
     return (
       <div class="popover-hint">
         <article class={classes}>{content}</article>

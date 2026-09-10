@@ -55,7 +55,7 @@ for (const file of files) {
     body = body.replace(/^## (\w+)$/gm, (match, key) => `## ${labels[key] ?? key}`)
       .replaceAll("| Article | Summary | Updated |", "| 文章 | 摘要 | 更新日期 |")
   }
-  await writeFile(destination, matter.stringify(body, parsed.data))
+  await writeFile(file === "wiki/index.md" ? path.join(content, "wiki", "catalog.md") : destination, matter.stringify(body, parsed.data))
   notes++
 }
 // Quartz creates folder pages from Markdown; image-only evidence needs an index.
@@ -70,5 +70,6 @@ for (const [folder, images] of imageFolders) {
   const body = images.sort().map((name) => `![${name}](${encodeURIComponent(name)})`).join("\n\n")
   await writeFile(path.join(content, folder, "index.md"), matter.stringify(body, { title: path.basename(folder) }))
 }
-await copyFile(path.join(site, "home.md"), path.join(content, "index.md"))
+await copyFile(path.join(site, "home.md"), path.join(content, "wiki", "index.md"))
+await writeFile(path.join(content, "index.md"), "---\ntitle: ProfWiki\n---\n\n[进入 Wiki 首页](wiki/index.md)\n")
 console.log(`Prepared ${notes} Markdown pages plus homepage from tracked wiki/, raw/, references/.`)

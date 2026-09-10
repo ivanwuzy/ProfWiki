@@ -101,9 +101,8 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: TalentMapLink(),
-      condition: (page) => page.fileData.slug === "index",
+      condition: (page) => page.fileData.slug === "index" || page.fileData.slug === "wiki/index",
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
@@ -147,5 +146,11 @@ export const defaultListPageLayout: PageLayout = {
       },
     }),
   ],
-  right: [globalGraphPreview],
+  right: [
+    globalGraphPreview,
+    Component.ConditionalRender({
+      component: TalentMapLink(),
+      condition: (page) => page.fileData.slug === "wiki/index",
+    }),
+  ],
 }
