@@ -49,6 +49,8 @@ for (const file of files) {
     ?? dates.get(file) ?? (await stat(path.join(root, file))).mtime.toISOString()
   // Quartz renders the title separately; remove its duplicate in the web copy only.
   let body = parsed.content.replace(/^#\s+.+\r?\n/m, "")
+  // Candidate queues are local research material, not reader-facing recommendations.
+  body = body.replace(/^## 待补证人才与组织线索\r?\n[\s\S]*?(?=^## |$(?![\s\S]))/gm, "")
   if (file === "wiki/index.md") {
     parsed.data.title = "知识库总索引"
     const labels = { universities: "高校", maps: "地图与观察池", people: "人物", orgs: "院系与实验室", awards: "奖项与竞赛", companies: "公司", questions: "待验证问题" }

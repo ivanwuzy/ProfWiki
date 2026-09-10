@@ -203,3 +203,29 @@ article blockquote {
 html:has(.global-graph-outer.active) {
   overflow: hidden;
 }
+
+
+// The home page presents selected reading paths; article pages keep their tools.
+body[data-slug="wiki/index"] {
+  .breadcrumb-container, .content-meta, .tags, .sidebar.left .explorer,
+  .sidebar.left .home-button { display: none; }
+  .page > #quartz-body > .sidebar.right { display: none; }
+  .article-title { font-size: clamp(1.8rem, 3vw, 2.6rem); line-height: 1.3; }
+  article > p:first-child { font-size: 1.2rem; line-height: 1.8; }
+  article > h2 { margin-top: 2.2rem; font-size: 1.1rem; color: var(--darkgray); }
+  article > h3 { margin: 1.5rem 0 0.4rem; font-size: 1.2rem; }
+  article > h3 + p { margin-top: 0.4rem; }
+  article a { background: transparent; }
+  article > h2:first-of-type + p a {
+    display: inline-block; padding: 0.8rem 1.15rem; border-radius: 8px;
+    background: var(--secondary); color: var(--light); font-weight: 600;
+  }
+  article > hr { margin: 2.2rem 0 1.4rem; }
+  @media (min-width: 1200px) {
+    .page > #quartz-body {
+      grid-template-columns: 280px minmax(0, 800px);
+      grid-template-areas: "grid-sidebar-left grid-header" "grid-sidebar-left grid-center" "grid-sidebar-left grid-footer";
+      justify-content: center;
+    }
+  }
+}
