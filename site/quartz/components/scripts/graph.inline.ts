@@ -19,6 +19,7 @@ import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { D3Config } from "../Graph"
+import { graphNodeColor, isGraphNodeVisible } from "../../util/graphPolicy"
 
 type GraphicsInfo = {
   color: string
@@ -63,20 +64,6 @@ const graphVisualSettingsKey = "graph-visual-settings"
 const graphVisualControlsCollapsedKey = "graph-visual-controls-collapsed"
 const graphTouchSelectModeKey = "graph-touch-select-mode"
 let graphNodeSearchQuery = ""
-// Keep every published node; colors reflect this vault's topic directories.
-const graphNodeColors: Record<string, string> = {
-  companies: "#64748b",
-  people: "#3b82f6",
-  universities: "#ef4444",
-  orgs: "#f97316",
-  awards: "#a855f7",
-  maps: "#22c55e",
-  questions: "#eab308",
-}
-
-function graphNodeColor(id: SimpleSlug) {
-  return graphNodeColors[id.startsWith("wiki/") ? id.split("/")[1] : ""] ?? "#9ca3af"
-}
 
 function getVisited(): Set<SimpleSlug> {
   return new Set(JSON.parse(localStorage.getItem(localStorageKey) ?? "[]"))
@@ -187,7 +174,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   linkThickness = savedVisualSettings.linkThickness
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
-    Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
+    Object.entries<ContentDetails>(await fetchData).filter(([key]) => isGraphNodeVisible(key)).map(([k, v]) => [
       simplifySlug(k as FullSlug),
       v,
     ]),

@@ -1,6 +1,32 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import TalentMapLink from "./components/TalentMapLink"
+import type { Options as ExplorerOptions } from "./quartz/components/Explorer"
+
+// Explorer serializes this function for the browser, so keep its data inside the function.
+const explorerSort: ExplorerOptions["sortFn"] = (a, b) => {
+  if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+  if (a.isFolder && b.isFolder) {
+    const folderOrder: Record<string, number> = {
+      "wiki/index": 0,
+      "raw/index": 1,
+      "references/index": 2,
+      "wiki/universities/index": 0,
+      "wiki/orgs/index": 1,
+      "wiki/companies/index": 2,
+      "wiki/people/index": 3,
+      "wiki/awards/index": 4,
+      "wiki/maps/index": 5,
+      "wiki/questions/index": 6,
+    }
+    const difference = (folderOrder[a.slug] ?? 100) - (folderOrder[b.slug] ?? 100)
+    if (difference !== 0) return difference
+  }
+  return a.displayName.localeCompare(b.displayName, undefined, {
+    numeric: true,
+    sensitivity: "base",
+  })
+}
 
 const localGraph = Component.Graph()
 const globalGraphPreview = Component.Graph({ globalGraphPreview: true })
@@ -43,6 +69,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.HomeButton(),
     Component.Explorer({
+      sortFn: explorerSort,
       mapFn: (node) => {
         const labels: Record<string, string> = {
           wiki: "知识库",
@@ -99,6 +126,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.HomeButton(),
     Component.Explorer({
+      sortFn: explorerSort,
       mapFn: (node) => {
         const labels: Record<string, string> = {
           wiki: "知识库",
