@@ -8,6 +8,7 @@ on:
       - 'raw/**'
       - 'references/**'
       - 'site/**'
+      - 'talent-map/**'
       - '.github/workflows/deploy.yml'
   workflow_dispatch:
 

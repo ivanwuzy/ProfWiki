@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import TalentMapLink from "./components/TalentMapLink"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -51,6 +52,10 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
+    Component.ConditionalRender({
+      component: TalentMapLink(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
