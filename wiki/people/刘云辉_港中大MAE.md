@@ -14,7 +14,7 @@ tags: [people, cuhk, robotics, embodied-ai, institute-director]
 # 刘云辉
 
 > Sources: [CUHK MAE个人主页](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/)；[T Stone Robotics Institute](https://www.tstone.cuhk.edu.hk/)；[HKCLR官网](https://hkclr.hk/)
-> Raw: [香港中文大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)
+> Raw: [香港中文大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)
 
 ## 一句话判断
 

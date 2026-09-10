@@ -14,7 +14,7 @@ tags: [people, hku, computer-vision, dean]
 # 马毅
 
 > Sources: [HKU CDS官网](https://cds.hku.hk/about-cds/directors-message/)；[HKU CS个人主页](https://www.cs.hku.hk/people/academic-staff/mayi)；[Berkeley主页](https://people.eecs.berkeley.edu/~yima/)
-> Raw: [香港大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)
+> Raw: [香港大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)
 
 ## 一句话判断
 

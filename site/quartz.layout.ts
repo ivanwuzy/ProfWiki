@@ -1,5 +1,9 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import TalentMapLink from "./components/TalentMapLink"
+
+const localGraph = Component.Graph()
+const globalGraphPreview = Component.Graph({ globalGraphPreview: true })
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -34,16 +38,25 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+        { Component: Component.WideMode() },
       ],
     }),
+    Component.HomeButton(),
     Component.Explorer({
       mapFn: (node) => {
         const labels: Record<string, string> = {
-          wiki: "知识库", raw: "原始资料", references: "研究规范",
-          universities: "高校", orgs: "院系与实验室", people: "人物",
-          companies: "公司", awards: "奖项与竞赛", maps: "地图与观察池",
-          questions: "待验证问题", sources: "来源摘录", assets: "图片资料",
+          wiki: "知识库",
+          raw: "原始资料",
+          references: "研究规范",
+          universities: "高校",
+          orgs: "院系与实验室",
+          people: "人物",
+          companies: "公司",
+          awards: "奖项与竞赛",
+          maps: "地图与观察池",
+          questions: "待验证问题",
+          sources: "来源摘录",
+          assets: "图片资料",
           datasets: "数据集",
         }
         if (node.isFolder) node.displayName = labels[node.slugSegment] ?? node.displayName
@@ -51,7 +64,18 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.Graph(),
+    Component.ConditionalRender({
+      component: globalGraphPreview,
+      condition: (page) => page.fileData.slug === "index" || page.fileData.slug === "wiki/index",
+    }),
+    Component.ConditionalRender({
+      component: localGraph,
+      condition: (page) => page.fileData.slug !== "index" && page.fileData.slug !== "wiki/index",
+    }),
+    Component.ConditionalRender({
+      component: TalentMapLink(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -70,20 +94,30 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.WideMode() },
       ],
     }),
+    Component.HomeButton(),
     Component.Explorer({
       mapFn: (node) => {
         const labels: Record<string, string> = {
-          wiki: "知识库", raw: "原始资料", references: "研究规范",
-          universities: "高校", orgs: "院系与实验室", people: "人物",
-          companies: "公司", awards: "奖项与竞赛", maps: "地图与观察池",
-          questions: "待验证问题", sources: "来源摘录", assets: "图片资料",
+          wiki: "知识库",
+          raw: "原始资料",
+          references: "研究规范",
+          universities: "高校",
+          orgs: "院系与实验室",
+          people: "人物",
+          companies: "公司",
+          awards: "奖项与竞赛",
+          maps: "地图与观察池",
+          questions: "待验证问题",
+          sources: "来源摘录",
+          assets: "图片资料",
           datasets: "数据集",
         }
         if (node.isFolder) node.displayName = labels[node.slugSegment] ?? node.displayName
       },
     }),
   ],
-  right: [],
+  right: [globalGraphPreview],
 }

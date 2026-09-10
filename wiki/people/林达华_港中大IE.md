@@ -14,7 +14,7 @@ tags: [people, cuhk, computer-vision, entrepreneur, unicorn]
 # 林达华
 
 > Sources: [CUHK IE个人主页](https://www.ie.cuhk.edu.hk/people/dahua.shtml)；[SenseTime官网](https://www.sensetime.com/)；商业报道
-> Raw: [香港中文大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)
+> Raw: [香港中文大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)
 
 ## 一句话判断
 

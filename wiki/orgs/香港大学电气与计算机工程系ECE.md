@@ -19,7 +19,7 @@ tags: [org, hku, frontier-talent]
 
 > Sources: HKU ECE官网（https://ece.hku.hk/）；[刘希慧研究主页](https://xh-liu.github.io/)
 > Updated: 2026-09-08
-> Raw: [香港大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)；[刘希慧研究主页](../../raw/sources/香港具身核查-刘希慧研究主页.md)
+> Raw: [香港大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)；[刘希慧研究主页](../../raw/sources/香港具身核查-刘希慧研究主页.md)
 
 ## 一句话判断
 

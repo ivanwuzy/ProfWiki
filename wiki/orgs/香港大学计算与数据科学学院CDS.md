@@ -19,7 +19,7 @@ tags: [org, hku, frontier-talent]
 
 > Sources: HKU CDS官网（https://cds.hku.hk/）；李弘扬个人主页（https://lihongyang.info/）；OpenDriveLab官网（https://opendrivelab.com/）；[HKU-SAIL实验室](https://sail.ai.hku.hk/)；[HKU-Pan-Jia教师页](https://ai.hku.hk/people/academic-staff/jpan)；[Any3D-VLA论文修订版](https://arxiv.org/html/2602.00807)；[GraspVLA论文修订版](https://arxiv.org/html/2505.03233)；[邓胜亮研究简介](https://shengliangd.github.io/about/)
 > Updated: 2026-09-09
-> Raw: [李弘扬本人主页](../../raw/sources/李弘扬官方个人主页.md)；[源策未来官网](../../raw/sources/ArchonRobotics官方公司介绍.md)；[香港大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)；[HKU-SAIL实验室](../../raw/sources/香港具身核查-HKU-SAIL实验室.md)；[HKU-Pan-Jia教师页](../../raw/sources/香港具身核查-HKU-Pan-Jia教师页.md)；[Any3D-VLA论文修订版](../../raw/sources/2026-05-14-银河合作核验-Any3D-VLA论文修订版.md)；[GraspVLA论文修订版](../../raw/sources/2025-08-27-银河合作核验-GraspVLA论文修订版.md)；[邓胜亮研究简介](../../raw/sources/银河合作核验-邓胜亮研究简介.md)
+> Raw: [李弘扬本人主页](../../raw/sources/李弘扬官方个人主页.md)；[源策未来官网](../../raw/sources/ArchonRobotics官方公司介绍.md)；[香港大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)；[HKU-SAIL实验室](../../raw/sources/香港具身核查-HKU-SAIL实验室.md)；[HKU-Pan-Jia教师页](../../raw/sources/香港具身核查-HKU-Pan-Jia教师页.md)；[Any3D-VLA论文修订版](../../raw/sources/2026-05-14-银河合作核验-Any3D-VLA论文修订版.md)；[GraspVLA论文修订版](../../raw/sources/2025-08-27-银河合作核验-GraspVLA论文修订版.md)；[邓胜亮研究简介](../../raw/sources/银河合作核验-邓胜亮研究简介.md)
 
 ## 一句话判断
 

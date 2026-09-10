@@ -779,3 +779,19 @@
 - Updated: wiki/companies/潜界动力.md; wiki/companies/灵御智能DexTeleop.md; wiki/companies/千诀科技.md; wiki/companies/梅卡曼德.md
 - No material / pending: 本溯智能已覆盖；紫创智械、晰见科技、本溯智能新增部分证据未闭合，保留待核。
 
+
+## [2026-09-10] ingest | 正行创新（Striding AI）融资与技术路线报道
+- Disposition: Update
+- Raw: raw/sources/2026-06-23-DeepTech-姚颂三度创业正行创新融资报道.md
+- Updated: wiki/companies/正行创新StridingAI.md; wiki/people/姚颂_深鉴科技.md; wiki/people/于超_清华深圳国际研究生院.md; wiki/maps/已创业地图.md; wiki/index.md
+- 关键新增：DeepTech深科技报道披露正行创新已获近亿美元天使轮系列融资（股东含正大集团、华勤技术、九安医疗），技术路线为世界动作模型（WAM/LaWAM，已发布1.0版本），轮式双臂+人形两条产品线，海外市场优先；于超学术代表作（MAPPO算法、RLinf开源框架）首次补入人物页，与清华SIGS页已有的智东西口径形成交叉印证。
+- 证据边界：融资金额、轮次细分、LaWAM技术指标均为单一媒体（DeepTech，经百家号转载抓取）口径，未见工商登记、官方公告或独立复现；公司工商全称、成立时间、姚颂确切职务仍待验证。
+
+## [2026-09-10] ingest | 搜狐《清华00后特奖得主刘松铭入局世界模型》报道
+- Disposition: New; Update
+- Raw: raw/sources/2026-05-22-搜狐-清华00后特奖得主刘松铭入局世界模型LiberAI.md; raw/sources/2026-05-投资界-LiberAI三个月连融三轮.md; raw/sources/2026-05-网易-LiberAI成立不到半年融近5亿.md; raw/sources/2026-01-30-腾讯新闻-腾讯青云奖学金首届颁奖.md
+- New: wiki/companies/LiberAI.md; wiki/people/刘松铭_清华计算机系.md; wiki/people/林凡淇_清华交叉信息研究院.md; wiki/awards/腾讯青云奖学金.md
+- Updated: wiki/people/朱军_清华计算机科学与技术系.md; wiki/people/高阳_清华交叉信息研究院.md; wiki/people/张金涛_清华计算机系.md; wiki/awards/清华大学特等奖学金.md; wiki/maps/已创业地图.md; wiki/maps/奖项与竞赛入口.md; wiki/index.md
+- 关键新增：搜狐报道披露清华计算机系学生刘松铭（"00后特奖得主"，导师朱军）与交叉信息研究院林凡淇（师从高阳）于2025年12月共同创办世界模型公司LiberAI，三个月内连融三轮，天使+轮/Pre-A轮；投资界、网易转载交叉印证林凡淇一作论文《Data Scaling Laws in Imitation Learning》获ICLR Oral与CoRL X-Embodiment Workshop Best Paper。补充检索命中腾讯新闻2026-01-30首届"腾讯青云奖学金"颁奖报道，确认刘松铭、张金涛同为首届获奖者，遂新建奖项页并回补两人人物页。
+- 证据边界：融资总额（网易口径"近5亿"）、具体轮次金额、刘松铭获特等奖学金的具体届次均未见官方公告或工商登记原文，标记待验证；投资界、网易两篇稿件发布日期原文未标注具体日，Raw文件记为Unknown/A2；不将LiberAI与高阳另一创业公司千寻智能混淆，已在高阳页与已创业地图补充易混淆提示。
+- 关联修订：清华大学特等奖学金页"已公司化项目"表由占位行替换为刘松铭/LiberAI实际条目；奖项与竞赛入口覆盖进度与证据质量分布同步新增腾讯青云奖学金（18个奖项页，verified_secondary 5→6）。

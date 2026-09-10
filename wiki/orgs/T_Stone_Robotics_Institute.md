@@ -14,7 +14,7 @@ tags: [orgs, cuhk, robotics, tier1]
 # T Stone Robotics Institute
 
 > Sources: [T Stone官网](https://www.tstone.cuhk.edu.hk/)；[CUHK新闻](https://www.cuhk.edu.hk/)
-> Raw: [香港中文大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)
+> Raw: [香港中文大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)
 
 ## 一句话判断
 

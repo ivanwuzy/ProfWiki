@@ -15,7 +15,7 @@ tags: [orgs, hku, autonomous-driving, tier2]
 
 > Sources: [OpenDriveLab官网](https://opendrivelab.com/)；[GitHub](https://github.com/opendrivelab)；[个人主页](https://lihongyang.info/)；[OpenDriveLab研究动态](https://opendrivelab.com/)；[HKU-MMLab团队介绍](https://mmlab.hk/about-us)
 > Updated: 2026-09-08
-> Raw: [李弘扬本人主页](../../raw/sources/李弘扬官方个人主页.md)；[香港大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)；[OpenDriveLab研究动态](../../raw/sources/香港具身核查-OpenDriveLab研究动态.md)；[HKU-MMLab团队介绍](../../raw/sources/香港具身核查-HKU-MMLab团队介绍.md)
+> Raw: [李弘扬本人主页](../../raw/sources/李弘扬官方个人主页.md)；[香港大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)；[OpenDriveLab研究动态](../../raw/sources/香港具身核查-OpenDriveLab研究动态.md)；[HKU-MMLab团队介绍](../../raw/sources/香港具身核查-HKU-MMLab团队介绍.md)
 
 ## 一句话判断
 

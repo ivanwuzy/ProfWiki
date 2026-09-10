@@ -1,0 +1,30 @@
+const data = JSON.parse(document.getElementById('map-data').textContent);
+const $ = id => document.getElementById(id);
+const view = $('viewport'), canvas = $('canvas');
+const labels = {person:'人物',context:'学术 / 管理背景人物',company:'公司 / 项目',lab:'实验室 / 平台',department:'院系',platform:'平台'};
+const mapWidth=data.width||5184, mapHeight=data.height||4536;
+Object.assign(canvas.style,{width:mapWidth+'px',height:mapHeight+'px'});
+let scale=1, x=0, y=0, fitScale=1, viewportMode="reading";
+function draw(){canvas.style.transform=`translate(${x}px,${y}px) scale(${scale})`;$('zoom').value=Math.round(scale*100)+'%';}
+function fit(){viewportMode="overview";fitScale=Math.min((view.clientWidth-24)/mapWidth,(view.clientHeight-24)/mapHeight);scale=fitScale;x=(view.clientWidth-mapWidth*scale)/2;y=(view.clientHeight-mapHeight*scale)/2;draw();}
+function zoom(factor,cx=view.clientWidth/2,cy=view.clientHeight/2){viewportMode="custom";const next=Math.max(fitScale*.7,Math.min(3,scale*factor));x=cx-(cx-x)*next/scale;y=cy-(cy-y)*next/scale;scale=next;draw();}
+function focus(item,card=false){viewportMode="custom";scale=card?Math.min((view.clientWidth-40)/item.w,(view.clientHeight-40)/item.h):Math.min(1.5,view.clientWidth/520);x=view.clientWidth/2-(item.x+item.w/2)*scale;y=view.clientHeight*(card?.5:.42)-(item.y+item.h/2)*scale;const h=$('highlight');Object.assign(h.style,{left:(item.x-8)+'px',top:(item.y-8)+'px',width:(item.w+16)+'px',height:(item.h+16)+'px'});h.hidden=false;draw();if(!card){$('detail-kind').textContent=labels[item.kind];$('detail-name').textContent=item.name;$('detail-info').replaceChildren(...item.info.map(t=>{const p=document.createElement('p');p.textContent=t;return p;}));for(const [index,url] of (item.urls||[]).entries()){const a=document.createElement('a');a.href=url;a.target='_blank';a.rel='noopener noreferrer';a.textContent='查看公开来源 '+(index+1);const p=document.createElement('p');p.append(a);$('detail-info').append(p);}$('detail').hidden=false;}else $('detail').hidden=true;}
+$('plus').onclick=()=>zoom(1.35);$('minus').onclick=()=>zoom(1/1.35);$('fit').onclick=()=>{fit();$('highlight').hidden=true;$('detail').hidden=true;$('dept').value='';};$('close-detail').onclick=()=>{$('detail').hidden=true;};
+for(const [i,c] of data.cards.entries()){const o=document.createElement('option');o.value=i;o.textContent=c.name;$('dept').append(o);}
+$('dept').onchange=e=>{if(e.target.value!=='')focus(data.cards[Number(e.target.value)],true);};
+const results=$('results');
+$('query').oninput=()=>{const q=$('query').value.trim().toLowerCase();results.replaceChildren();results.hidden=!q;if(!q)return;const matches=data.items.filter(i=>(i.name+' '+i.info.join(' ')).toLowerCase().includes(q)).sort((a,b)=>{const rank=i=>i.name.toLowerCase()===q?0:i.name.toLowerCase().includes(q)?1:2;return rank(a)-rank(b);});const count=document.createElement('p');count.textContent=matches.length?`${matches.length} 个结果`:'未找到匹配项';results.append(count);for(const item of matches){const b=document.createElement('button');b.type='button';b.textContent=item.name;const small=document.createElement('small');small.textContent=labels[item.kind]+' · '+item.info.slice(0,2).join(' / ');b.append(small);b.onclick=()=>{focus(item);results.hidden=true;};results.append(b);}};
+$('query').onkeydown=e=>{if(e.key==='Escape')results.hidden=true;if(e.key==='ArrowDown'){e.preventDefault();results.querySelector('button')?.focus();}if(e.key==='Enter')results.querySelector('button')?.click();};
+document.addEventListener('click',e=>{if(!e.target.closest('.search'))results.hidden=true;});
+view.addEventListener('wheel',e=>{e.preventDefault();const r=view.getBoundingClientRect();zoom(Math.exp(-e.deltaY*.002),e.clientX-r.left,e.clientY-r.top);},{passive:false});
+const pointers=new Map();let moved=false, travel=0;
+view.onpointerdown=e=>{view.setPointerCapture(e.pointerId);pointers.set(e.pointerId,{x:e.clientX,y:e.clientY});moved=pointers.size>1;travel=0;view.classList.add('dragging');};
+view.onpointermove=e=>{if(!pointers.has(e.pointerId))return;const prev=pointers.get(e.pointerId);const next={x:e.clientX,y:e.clientY};travel+=Math.hypot(next.x-prev.x,next.y-prev.y);if(travel>4)moved=true;if(pointers.size===2){const other=[...pointers.entries()].find(([id])=>id!==e.pointerId)[1];const oldDist=Math.hypot(prev.x-other.x,prev.y-other.y);const dist=Math.hypot(next.x-other.x,next.y-other.y);const r=view.getBoundingClientRect();if(oldDist>0)zoom(dist/oldDist,(prev.x+other.x)/2-r.left,(prev.y+other.y)/2-r.top);x+=(next.x-prev.x)/2;y+=(next.y-prev.y)/2;}else{x+=next.x-prev.x;y+=next.y-prev.y;}pointers.set(e.pointerId,next);draw();};
+view.onpointerup=e=>{if(!moved&&pointers.size===1){const r=view.getBoundingClientRect();const px=(e.clientX-r.left-x)/scale,py=(e.clientY-r.top-y)/scale;const item=data.items.find(i=>px>=i.x&&px<=i.x+i.w&&py>=i.y&&py<=i.y+i.h);if(item)focus(item);}pointers.delete(e.pointerId);if(!pointers.size)view.classList.remove('dragging');};
+view.onpointercancel=e=>{pointers.delete(e.pointerId);view.classList.remove('dragging');};
+view.onkeydown=e=>{if(['+','=','-','0','ArrowLeft','ArrowRight','ArrowUp','ArrowDown'].includes(e.key))e.preventDefault();if(e.key==='+'||e.key==='=')zoom(1.3);else if(e.key==='-')zoom(1/1.3);else if(e.key==='0')fit();else{const delta={ArrowLeft:[60,0],ArrowRight:[-60,0],ArrowUp:[0,60],ArrowDown:[0,-60]}[e.key];if(delta){x+=delta[0];y+=delta[1];draw();}}};
+function reading(){viewportMode="reading";fitScale=Math.min((view.clientWidth-24)/mapWidth,(view.clientHeight-24)/mapHeight);scale=1.1;const first=data.cards[0];x=24-first.x*scale;y=20-first.y*scale;draw();}
+$('reading').onclick=()=>{reading();$('highlight').hidden=true;$('detail').hidden=true;};
+let previousWidth=view.clientWidth, previousHeight=view.clientHeight;
+new ResizeObserver(()=>{const w=view.clientWidth,h=view.clientHeight;if(viewportMode==='reading')reading();else if(viewportMode==='overview')fit();else{x+=(w-previousWidth)/2;y+=(h-previousHeight)/2;draw();}previousWidth=w;previousHeight=h;}).observe(view);
+reading();

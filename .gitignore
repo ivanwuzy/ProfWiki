@@ -21,3 +21,4 @@ __pycache__/
 .quartz-cache/
 /site/.cache/
 /site/tsconfig.tsbuildinfo
+.gstack/

@@ -1,0 +1,164 @@
+@use "../../styles/variables.scss" as *;
+
+.widemode,
+.wide-mode-floating-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  cursor: pointer;
+  padding: 0 0.6rem;
+  background: color-mix(in srgb, var(--light) 78%, transparent);
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  min-width: 4.25rem;
+  height: 32px;
+  margin: 0;
+  text-align: inherit;
+  flex-shrink: 0;
+  color: var(--darkgray);
+  font: inherit;
+  font-size: 0.85rem;
+  line-height: 1;
+  transition:
+    background 0.1s ease,
+    border-color 0.1s ease,
+    color 0.1s ease;
+
+  & svg {
+    width: 18px;
+    height: 18px;
+    stroke: currentColor;
+  }
+
+  & span {
+    white-space: nowrap;
+  }
+}
+
+:root[wide-mode="on"] .widemode,
+:root[wide-mode="on"] .wide-mode-floating-button {
+  background: color-mix(in srgb, var(--secondary) 14%, var(--light));
+  border-color: color-mix(in srgb, var(--secondary) 45%, var(--lightgray));
+  color: var(--secondary);
+}
+
+.wide-mode-floating-button {
+  display: none;
+  position: fixed;
+  z-index: 20;
+  top: 1rem;
+  left: 1rem;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+  backdrop-filter: blur(12px);
+}
+
+:root[wide-mode="on"] .wide-mode-floating-button {
+  display: inline-flex;
+}
+
+.wide-scroll-rail {
+  display: none;
+  position: fixed;
+  z-index: 19;
+  left: 50%;
+  bottom: 1rem;
+  width: min(760px, calc(100vw - 4rem));
+  padding: 0.55rem 0.7rem;
+  transform: translateX(-50%);
+  border: 1px solid var(--lightgray);
+  border-radius: 5px;
+  background: color-mix(in srgb, var(--light) 92%, transparent);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.14);
+  backdrop-filter: blur(12px);
+}
+
+:root[wide-mode="on"] .wide-scroll-rail[data-visible="true"] {
+  display: block;
+}
+
+.wide-scroll-track {
+  position: relative;
+  height: 0.5rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--lightgray) 65%, transparent);
+  cursor: pointer;
+}
+
+.wide-scroll-thumb {
+  position: absolute;
+  top: -0.15rem;
+  left: 0;
+  height: 0.8rem;
+  border-radius: 999px;
+  background: var(--secondary);
+  cursor: grab;
+}
+
+.wide-scroll-rail.is-dragging .wide-scroll-thumb,
+.wide-scrollable.is-dragging {
+  cursor: grabbing;
+}
+
+.wide-scrollable {
+  cursor: grab;
+  overscroll-behavior-x: contain;
+  scrollbar-gutter: stable;
+}
+
+.wide-scrollable.is-dragging {
+  user-select: none;
+}
+
+@media all and ($desktop) {
+  :root[wide-mode="on"] {
+    & .page {
+      width: 100%;
+      max-width: none;
+      margin: 0;
+    }
+
+    & .page > #quartz-body {
+      grid-template-columns: minmax(0, 1fr);
+      grid-template-rows: auto auto;
+      grid-template-areas:
+        "grid-center"
+        "grid-footer";
+      column-gap: 0;
+      padding: 0 clamp(1rem, 2.5vw, 3rem) 4.75rem;
+    }
+
+    & .page > #quartz-body > .sidebar.left,
+    & .page > #quartz-body > .sidebar.right {
+      display: none;
+    }
+
+    & .page > #quartz-body > .center {
+      grid-area: grid-center;
+      width: 100%;
+      max-width: none;
+      min-width: 0;
+    }
+
+    & .page > #quartz-body > footer {
+      grid-area: grid-footer;
+    }
+
+    & .page-header {
+      margin-top: clamp(2rem, 3vw, 3.5rem);
+    }
+
+    & .center > article {
+      max-width: none;
+      min-width: 0;
+    }
+  }
+}
+
+@media all and not ($desktop) {
+  .widemode,
+  .wide-mode-floating-button,
+  .wide-scroll-rail {
+    display: none !important;
+  }
+}

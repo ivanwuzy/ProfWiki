@@ -27,3 +27,179 @@ article blockquote {
   background: var(--highlight);
   padding: 0.4rem 1rem;
 }
+
+.graph > .global-graph-outer.active {
+  display: block;
+}
+
+.graph > .global-graph-outer > .global-graph-container {
+  border: 0;
+  border-radius: 0;
+  height: 100vh;
+  height: 100dvh;
+  left: 0;
+  top: 0;
+  transform: none;
+  width: 100vw;
+}
+
+.graph > .graph-outer.global-graph-entry {
+  cursor: pointer;
+  transition:
+    border-color 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.graph > .graph-outer.global-graph-entry:hover,
+.graph > .graph-outer.global-graph-entry:focus-visible {
+  border-color: var(--secondary);
+  box-shadow: 0 8px 24px rgb(0 0 0 / 10%);
+  outline: none;
+}
+
+.graph > .graph-outer.global-graph-entry > .graph-container canvas {
+  pointer-events: none;
+}
+
+.graph > .global-graph-outer > .global-graph-close,
+.graph > .global-graph-outer > .global-graph-controls-gear {
+  align-items: center;
+  background: var(--dark);
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  box-shadow: 0 12px 30px rgb(0 0 0 / 24%);
+  color: var(--light);
+  cursor: pointer;
+  display: flex;
+  font: 700 1.1rem/1 var(--bodyFont);
+  height: 44px;
+  justify-content: center;
+  position: fixed;
+  right: max(16px, env(safe-area-inset-right));
+  top: max(16px, env(safe-area-inset-top));
+  transition:
+    background-color 0.15s ease,
+    transform 0.15s ease;
+  width: 44px;
+  z-index: 10000;
+}
+
+.graph > .global-graph-outer > .global-graph-controls-gear {
+  display: none;
+  top: max(72px, calc(env(safe-area-inset-top) + 72px));
+}
+
+.graph > .global-graph-outer > .global-graph-controls-gear > svg {
+  height: 20px;
+  width: 20px;
+}
+
+.graph > .global-graph-outer.controls-collapsed > .global-graph-controls {
+  display: none;
+}
+
+.graph > .global-graph-outer.controls-collapsed > .global-graph-controls-gear {
+  display: flex;
+}
+
+.graph > .global-graph-outer > .global-graph-close:hover,
+.graph > .global-graph-outer > .global-graph-close:focus-visible,
+.graph > .global-graph-outer > .global-graph-controls-gear:hover,
+.graph > .global-graph-outer > .global-graph-controls-gear:focus-visible {
+  background: var(--secondary);
+  transform: scale(1.06);
+}
+
+.graph > .global-graph-outer > .global-graph-controls {
+  background: color-mix(in srgb, var(--light) 92%, transparent);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  box-shadow: 0 18px 40px rgb(0 0 0 / 18%);
+  box-sizing: border-box;
+  color: var(--dark);
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  padding: 0.9rem;
+  position: fixed;
+  right: max(16px, env(safe-area-inset-right));
+  top: max(72px, calc(env(safe-area-inset-top) + 72px));
+  width: min(280px, calc(100vw - 32px));
+  z-index: 10000;
+}
+
+.graph > .global-graph-outer > .global-graph-controls > .global-graph-controls-header {
+  align-items: center;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: space-between;
+}
+
+.graph > .global-graph-outer > .global-graph-controls h3 {
+  font-size: 0.95rem;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.graph > .global-graph-outer .global-graph-controls-actions {
+  display: flex;
+  gap: 0.35rem;
+}
+
+.graph > .global-graph-outer .global-graph-reset,
+.graph > .global-graph-outer .global-graph-controls-collapse {
+  align-items: center;
+  background: var(--dark);
+  border: 1px solid var(--lightgray);
+  border-radius: 999px;
+  color: var(--light);
+  cursor: pointer;
+  display: flex;
+  font: 700 0.9rem/1 var(--bodyFont);
+  height: 28px;
+  justify-content: center;
+  padding: 0;
+  transition:
+    background-color 0.15s ease,
+    transform 0.15s ease;
+  width: 28px;
+}
+
+.graph > .global-graph-outer .global-graph-reset:hover,
+.graph > .global-graph-outer .global-graph-reset:focus-visible,
+.graph > .global-graph-outer .global-graph-controls-collapse:hover,
+.graph > .global-graph-outer .global-graph-controls-collapse:focus-visible {
+  background: var(--secondary);
+  transform: scale(1.06);
+}
+
+.graph > .global-graph-outer > .global-graph-controls > label {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.graph > .global-graph-outer > .global-graph-controls span {
+  color: var(--darkgray);
+  font-size: 0.78rem;
+  line-height: 1.2;
+}
+
+.graph > .global-graph-outer > .global-graph-controls input[type="range"] {
+  accent-color: var(--secondary);
+  cursor: grab;
+  margin: 0;
+  width: 100%;
+}
+
+.graph > .global-graph-outer > .global-graph-controls input[type="range"]:active {
+  cursor: grabbing;
+}
+
+.graph > .global-graph-outer > .global-graph-controls {
+  max-height: calc(100dvh - 96px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+html:has(.global-graph-outer.active) {
+  overflow: hidden;
+}

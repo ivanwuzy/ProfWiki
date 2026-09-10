@@ -14,7 +14,7 @@ tags: [people, cuhk, medical-robotics, surgical-ai]
 # 窦琪
 
 > Sources: [CUHK CSE个人主页](https://www.cse.cuhk.edu.hk/~qdou/)；[Multi-Scale Medical Robotics Center](https://www.mrc.cuhk.edu.hk/)；研究报道
-> Raw: [窦琪院系官方主页](../../raw/sources/窦琪港中大官方个人主页.md)；[Agilis 公司团队页](../../raw/sources/AgilisRobotics公司团队.md)；[香港中文大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)
+> Raw: [窦琪院系官方主页](../../raw/sources/窦琪港中大官方个人主页.md)；[Agilis 公司团队页](../../raw/sources/AgilisRobotics公司团队.md)；[香港中文大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)
 
 ## 一句话判断
 

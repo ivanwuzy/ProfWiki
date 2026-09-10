@@ -18,7 +18,7 @@ tags: [org, hku, frontier-talent]
 # 香港大学数据与系统工程系DASE
 
 > Sources: HKU DASE官网（https://www.dase.hku.hk/）；AIR Lab官网（https://airlab.hku.hk/）
-> Raw: [香港大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)
+> Raw: [香港大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)
 
 ## 一句话判断
 

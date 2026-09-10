@@ -19,11 +19,16 @@ export interface D3Config {
   showTags: boolean
   focusOnHover?: boolean
   enableRadial?: boolean
+  enableNavigation?: boolean
+  labelOpacity?: number
+  linkOpacity?: number
+  linkThickness?: number
 }
 
 interface GraphOptions {
   localGraph: Partial<D3Config> | undefined
   globalGraph: Partial<D3Config> | undefined
+  globalGraphPreview: boolean
 }
 
 const defaultOptions: GraphOptions = {
@@ -35,12 +40,16 @@ const defaultOptions: GraphOptions = {
     repelForce: 0.5,
     centerForce: 0.3,
     linkDistance: 30,
-    fontSize: 0.6,
-    opacityScale: 1,
+    fontSize: 0.45,
+    opacityScale: 2.7,
     showTags: true,
     removeTags: [],
     focusOnHover: false,
     enableRadial: false,
+    enableNavigation: true,
+    labelOpacity: 0.65,
+    linkOpacity: 1,
+    linkThickness: 1.1,
   },
   globalGraph: {
     drag: true,
@@ -50,25 +59,45 @@ const defaultOptions: GraphOptions = {
     repelForce: 0.5,
     centerForce: 0.2,
     linkDistance: 30,
-    fontSize: 0.6,
-    opacityScale: 1,
+    fontSize: 0.45,
+    opacityScale: 2.7,
     showTags: true,
     removeTags: [],
     focusOnHover: true,
     enableRadial: true,
+    enableNavigation: true,
+    labelOpacity: 0.65,
+    linkOpacity: 1,
+    linkThickness: 1.1,
   },
+  globalGraphPreview: false,
 }
 
 export default ((opts?: Partial<GraphOptions>) => {
   const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
+    const globalGraphPreview = opts?.globalGraphPreview ?? defaultOptions.globalGraphPreview
+    const previewGraph = globalGraphPreview
+      ? { ...globalGraph, drag: false, zoom: false, enableNavigation: false }
+      : { ...localGraph, enableNavigation: false }
     return (
       <div class={classNames(displayClass, "graph")}>
         <h3>{i18n(cfg.locale).components.graph.title}</h3>
-        <div class="graph-outer">
-          <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
-          <button class="global-graph-icon" aria-label="Global Graph">
+        <div
+          class={[
+            "graph-outer",
+            "global-graph-entry",
+            globalGraphPreview ? "global-graph-preview" : "",
+          ]
+            .filter(Boolean)
+            .join(" ")}
+          role="button"
+          tabIndex={0}
+          aria-label="打开全局知识图谱"
+        >
+          <div class="graph-container" data-cfg={JSON.stringify(previewGraph)}></div>
+          <span class="global-graph-icon" aria-hidden="true">
             <svg
               version="1.1"
               xmlns="http://www.w3.org/2000/svg"
@@ -93,9 +122,98 @@ export default ((opts?: Partial<GraphOptions>) => {
                 s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"
               />
             </svg>
-          </button>
+          </span>
         </div>
-        <div class="global-graph-outer">
+        <div class="global-graph-outer" role="dialog" aria-modal="true" aria-label="关系图谱">
+          <button
+            class="global-graph-close"
+            type="button"
+            aria-label="关闭知识图谱"
+            title="关闭知识图谱"
+          >
+            X
+          </button>
+          <section class="global-graph-controls" aria-label="图谱显示设置">
+            <div class="global-graph-controls-header">
+              <h3>图谱视觉</h3>
+              <div class="global-graph-controls-actions">
+                <button
+                  class="global-graph-reset"
+                  type="button"
+                  aria-label="恢复默认图谱视觉设置"
+                  title="恢复默认"
+                >
+                  ↺
+                </button>
+                <button
+                  class="global-graph-controls-collapse"
+                  type="button"
+                  aria-label="收起图谱视觉面板"
+                  title="收起"
+                >
+                  −
+                </button>
+              </div>
+            </div>
+            <button
+              class="global-graph-touch-toggle"
+              type="button"
+              data-graph-touch-select-mode
+              aria-pressed="true"
+              title="开启后，点击节点先选中，再次点击同一节点打开页面"
+            >
+              首次点击选中，再次点击打开
+            </button>
+            <label class="global-graph-search">
+              <span>搜索节点</span>
+              <input
+                type="search"
+                data-graph-node-search
+                aria-label="搜索节点名称"
+                autocomplete="off"
+                placeholder="输入节点名称"
+              />
+            </label>
+            <label>
+              <span>文字字体大小</span>
+              <input type="range" data-graph-control="fontSize" min="0.35" max="1.4" step="0.05" />
+            </label>
+            <label>
+              <span>文字透明度</span>
+              <input type="range" data-graph-control="labelOpacity" min="0.1" max="1" step="0.05" />
+            </label>
+            <label>
+              <span>文字缩放可视度</span>
+              <input type="range" data-graph-control="opacityScale" min="0.2" max="4" step="0.1" />
+            </label>
+            <label>
+              <span>连线粗细</span>
+              <input type="range" data-graph-control="linkThickness" min="0.3" max="4" step="0.1" />
+            </label>
+            <label>
+              <span>连线透明度</span>
+              <input type="range" data-graph-control="linkOpacity" min="0.05" max="1" step="0.05" />
+            </label>
+          </section>
+          <button
+            class="global-graph-controls-gear"
+            type="button"
+            aria-label="展开图谱视觉面板"
+            title="图谱视觉"
+          >
+            <svg
+              viewBox="0 0 24 24"
+              aria-hidden="true"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M12 15.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z" />
+              <path d="M19.4 15a1.7 1.7 0 0 0 .34 1.88l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06A1.7 1.7 0 0 0 15 19.4a1.7 1.7 0 0 0-1 .6V20a2 2 0 1 1-4 0v-.08a1.7 1.7 0 0 0-1-.6 1.7 1.7 0 0 0-1.88.34l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.7 1.7 0 0 0 4.6 15a1.7 1.7 0 0 0-.6-1H4a2 2 0 1 1 0-4h.08a1.7 1.7 0 0 0 .6-1 1.7 1.7 0 0 0-.34-1.88l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.7 1.7 0 0 0 9 4.6a1.7 1.7 0 0 0 1-.6V4a2 2 0 1 1 4 0v.08a1.7 1.7 0 0 0 1 .6 1.7 1.7 0 0 0 1.88-.34l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.7 1.7 0 0 0 19.4 9c.23.36.42.7.6 1H20a2 2 0 1 1 0 4h-.08a1.7 1.7 0 0 0-.52 1Z" />
+            </svg>
+          </button>
           <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
         </div>
       </div>

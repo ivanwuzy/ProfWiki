@@ -19,7 +19,7 @@
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "prepare-content": "node scripts/prepare-content.mjs",
-    "build": "npm run prepare-content && npx quartz build",
+    "build": "npm run prepare-content && npx quartz build && node scripts/publish-talent-map.mjs",
     "serve": "npm run prepare-content && npx quartz build --serve"
   },
   "engines": {

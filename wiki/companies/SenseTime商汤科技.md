@@ -17,7 +17,7 @@ tags: [companies, cuhk, computer-vision, AI, unicorn, ipo]
 # SenseTime商汤科技
 
 > Sources: [SenseTime官网](https://www.sensetime.com/)；商业报道；港交所上市公告；商汤科技招股书；21世纪经济报道关于商汤创始团队的报道
-> Raw: [香港中文大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)、[港中大MMLab商汤创始团队公开记录](../../raw/sources/2026-09-07-港中大MMLab商汤创始团队公开记录.md)
+> Raw: [香港中文大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)、[港中大MMLab商汤创始团队公开记录](../../raw/sources/2026-09-07-港中大MMLab商汤创始团队公开记录.md)
 
 ## 一句话判断
 

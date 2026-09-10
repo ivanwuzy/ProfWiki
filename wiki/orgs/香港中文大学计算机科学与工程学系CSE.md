@@ -19,7 +19,7 @@ tags: [org, cuhk, frontier-talent]
 
 > Sources: CUHK CSE官网（https://www.cse.cuhk.edu.hk/）；窦琪个人主页（https://www.cse.cuhk.edu.hk/~qdou）；[Liwei-Wang与LaVi](https://lwwangcse.github.io/)
 > Updated: 2026-09-08
-> Raw: [香港中文大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)；[Liwei-Wang与LaVi](../../raw/sources/香港具身核查-Liwei-Wang与LaVi.md)
+> Raw: [香港中文大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)；[Liwei-Wang与LaVi](../../raw/sources/香港具身核查-Liwei-Wang与LaVi.md)
 
 ## 一句话判断
 

@@ -19,7 +19,7 @@ tags: [org, cuhk, frontier-talent]
 
 > Sources: CUHK IE官网（https://www.ie.cuhk.edu.hk/）；多媒体实验室官网（http://mmlab.ie.cuhk.edu.hk/）；[Xiangyu-Yue研究主页](https://xyue.io/)；[CUHK-MMLab成员](https://mmlab.ie.cuhk.edu.hk/people.html)
 > Updated: 2026-09-08
-> Raw: [香港中文大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)；[Xiangyu-Yue研究主页](../../raw/sources/香港具身核查-Xiangyu-Yue研究主页.md)；[CUHK-MMLab成员](../../raw/sources/香港具身核查-CUHK-MMLab成员.md)
+> Raw: [香港中文大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)；[Xiangyu-Yue研究主页](../../raw/sources/香港具身核查-Xiangyu-Yue研究主页.md)；[CUHK-MMLab成员](../../raw/sources/香港具身核查-CUHK-MMLab成员.md)
 
 ## 一句话判断
 

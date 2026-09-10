@@ -18,7 +18,7 @@ tags: [org, cuhk, frontier-talent]
 # 香港中文大学机械与自动化工程学系MAE
 
 > Sources: CUHK MAE官网（https://www4.mae.cuhk.edu.hk/）；刘云辉个人主页（http://www.mae.cuhk.edu.hk/~yhliu/）
-> Raw: [欧国威院系官方履历](../../raw/sources/欧国威-港中大MAE教师主页.md)；[郭嘉威 MAE 官方个人页](../../raw/sources/郭嘉威港中大MAE官方个人页.md)；[香港中文大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)
+> Raw: [欧国威院系官方履历](../../raw/sources/欧国威-港中大MAE教师主页.md)；[郭嘉威 MAE 官方个人页](../../raw/sources/郭嘉威港中大MAE官方个人页.md)；[香港中文大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)
 
 ## 一句话判断
 

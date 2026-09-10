@@ -114,11 +114,15 @@ button.desktop-explorer {
   overflow-y: auto;
   margin-top: 0.5rem;
 
+  // Keep nested folder lists free to pass wheel scrolling to the root list.
+  & > .explorer-ul {
+    overscroll-behavior: contain;
+  }
+
   & ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    overscroll-behavior: contain;
 
     & li > a {
       color: var(--dark);

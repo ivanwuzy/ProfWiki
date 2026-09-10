@@ -14,7 +14,7 @@ tags: [orgs, hku, medical-robotics, tier2]
 # 港大AIR Lab（Automation and Intelligent Robot Lab）
 
 > Sources: [AIR Lab官网](https://airlab.hku.hk/)；[HKU研究亮点](https://ke.hku.hk/story/innovation/micro-and-medical-robotics)
-> Raw: [香港大学工程学院院系与重点人物调研报告](../../raw/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)
+> Raw: [香港大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)
 
 ## 一句话判断
 
