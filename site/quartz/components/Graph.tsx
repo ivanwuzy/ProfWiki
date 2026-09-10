@@ -1,7 +1,12 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import {
+  QuartzComponent,
+  QuartzComponentConstructor,
+  QuartzComponentProps,
+} from "./types"
 // @ts-ignore
 import script from "./scripts/graph.inline"
 import style from "./styles/graph.scss"
+import GraphThumbnail from "./GraphThumbnail"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
 
@@ -74,10 +79,15 @@ const defaultOptions: GraphOptions = {
 }
 
 export default ((opts?: Partial<GraphOptions>) => {
-  const Graph: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+  const Graph: QuartzComponent = ({
+    displayClass,
+    cfg,
+    allFiles,
+  }: QuartzComponentProps) => {
     const localGraph = { ...defaultOptions.localGraph, ...opts?.localGraph }
     const globalGraph = { ...defaultOptions.globalGraph, ...opts?.globalGraph }
-    const globalGraphPreview = opts?.globalGraphPreview ?? defaultOptions.globalGraphPreview
+    const globalGraphPreview =
+      opts?.globalGraphPreview ?? defaultOptions.globalGraphPreview
     const previewGraph = globalGraphPreview
       ? { ...globalGraph, drag: false, zoom: false, enableNavigation: false }
       : { ...localGraph, enableNavigation: false }
@@ -96,7 +106,14 @@ export default ((opts?: Partial<GraphOptions>) => {
           tabIndex={0}
           aria-label="打开全局知识图谱"
         >
-          <div class="graph-container" data-cfg={JSON.stringify(previewGraph)}></div>
+          {globalGraphPreview ? (
+            <GraphThumbnail allFiles={allFiles} />
+          ) : (
+            <div
+              class="graph-container"
+              data-cfg={JSON.stringify(previewGraph)}
+            ></div>
+          )}
           <span class="global-graph-icon" aria-hidden="true">
             <svg
               version="1.1"
@@ -124,7 +141,12 @@ export default ((opts?: Partial<GraphOptions>) => {
             </svg>
           </span>
         </div>
-        <div class="global-graph-outer" role="dialog" aria-modal="true" aria-label="关系图谱">
+        <div
+          class="global-graph-outer"
+          role="dialog"
+          aria-modal="true"
+          aria-label="关系图谱"
+        >
           <button
             class="global-graph-close"
             type="button"
@@ -176,23 +198,53 @@ export default ((opts?: Partial<GraphOptions>) => {
             </label>
             <label>
               <span>文字字体大小</span>
-              <input type="range" data-graph-control="fontSize" min="0.35" max="1.4" step="0.05" />
+              <input
+                type="range"
+                data-graph-control="fontSize"
+                min="0.35"
+                max="1.4"
+                step="0.05"
+              />
             </label>
             <label>
               <span>文字透明度</span>
-              <input type="range" data-graph-control="labelOpacity" min="0.1" max="1" step="0.05" />
+              <input
+                type="range"
+                data-graph-control="labelOpacity"
+                min="0.1"
+                max="1"
+                step="0.05"
+              />
             </label>
             <label>
               <span>文字缩放可视度</span>
-              <input type="range" data-graph-control="opacityScale" min="0.2" max="4" step="0.1" />
+              <input
+                type="range"
+                data-graph-control="opacityScale"
+                min="0.2"
+                max="4"
+                step="0.1"
+              />
             </label>
             <label>
               <span>连线粗细</span>
-              <input type="range" data-graph-control="linkThickness" min="0.3" max="4" step="0.1" />
+              <input
+                type="range"
+                data-graph-control="linkThickness"
+                min="0.3"
+                max="4"
+                step="0.1"
+              />
             </label>
             <label>
               <span>连线透明度</span>
-              <input type="range" data-graph-control="linkOpacity" min="0.05" max="1" step="0.05" />
+              <input
+                type="range"
+                data-graph-control="linkOpacity"
+                min="0.05"
+                max="1"
+                step="0.05"
+              />
             </label>
           </section>
           <button
@@ -214,7 +266,10 @@ export default ((opts?: Partial<GraphOptions>) => {
               <path d="M19.4 15a1.7 1.7 0 0 0 .34 1.88l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06A1.7 1.7 0 0 0 15 19.4a1.7 1.7 0 0 0-1 .6V20a2 2 0 1 1-4 0v-.08a1.7 1.7 0 0 0-1-.6 1.7 1.7 0 0 0-1.88.34l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.7 1.7 0 0 0 4.6 15a1.7 1.7 0 0 0-.6-1H4a2 2 0 1 1 0-4h.08a1.7 1.7 0 0 0 .6-1 1.7 1.7 0 0 0-.34-1.88l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.7 1.7 0 0 0 9 4.6a1.7 1.7 0 0 0 1-.6V4a2 2 0 1 1 4 0v.08a1.7 1.7 0 0 0 1 .6 1.7 1.7 0 0 0 1.88-.34l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.7 1.7 0 0 0 19.4 9c.23.36.42.7.6 1H20a2 2 0 1 1 0 4h-.08a1.7 1.7 0 0 0-.52 1Z" />
             </svg>
           </button>
-          <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
+          <div
+            class="global-graph-container"
+            data-cfg={JSON.stringify(globalGraph)}
+          ></div>
         </div>
       </div>
     )
