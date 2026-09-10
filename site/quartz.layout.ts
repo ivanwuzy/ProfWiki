@@ -52,11 +52,11 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
+    Component.Graph(),
     Component.ConditionalRender({
       component: TalentMapLink(),
       condition: (page) => page.fileData.slug === "index",
     }),
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
