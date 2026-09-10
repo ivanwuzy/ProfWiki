@@ -1,7 +1,7 @@
 ---
 type: org
-name: EIR软硬件与本体研究中心
-aliases: []
+name: 清华大学具身智能与机器人研究院软硬件与本体研究中心
+aliases: ["EIR软硬件与本体研究中心"]
 org_type: group
 tier: 2
 parent: 清华大学具身智能与机器人研究院
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# EIR软硬件与本体研究中心
+# 清华大学具身智能与机器人研究院软硬件与本体研究中心
 
 > Sources: 软硬件与本体研究中心（https://eir.tsinghua.edu.cn/yjjg/ryjybtyjzx.htm）
 > Raw: [软硬件与本体研究中心](../../raw/sources/2026-06-11-EIR软硬件与本体研究中心-软硬件与本体研究中心-586b9fc3.md)
@@ -29,7 +29,7 @@ tags: [org, tsinghua, frontier-talent]
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室/课题组 / group |
-| 所属单位 | [清华大学具身智能与机器人研究院（EIR）](清华大学具身智能与机器人研究院EIR.md) |
+| 所属单位 | [清华大学具身智能与机器人研究院](清华大学具身智能与机器人研究院EIR.md) |
 | 方向 | 机器人硬件、本体、物理仿真、数字孪生、整机系统。 |
 | 官网 | 软硬件与本体研究中心 |
 

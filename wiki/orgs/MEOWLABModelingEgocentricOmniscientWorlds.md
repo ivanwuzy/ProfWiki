@@ -1,7 +1,7 @@
 ---
 type: org
-name: MEOW LAB（Modeling Egocentric Omniscient Worlds）
-aliases: []
+name: 清华大学 MEOW LAB
+aliases: ["MEOW LAB（Modeling Egocentric Omniscient Worlds）"]
 org_type: group
 tier: 2
 parent: 清华大学人工智能学院
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# MEOW LAB（Modeling Egocentric Omniscient Worlds）
+# 清华大学 MEOW LAB
 
 > Sources: MEOW LAB（https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/MEOW_LAB_Modeling_Egocentric_Omniscient_Worlds_.htm）; 刘淼（https://collegeai.tsinghua.edu.cn/rydw/qzpi/liumiao.htm）; Semantic Scholar检索（https://www.semanticscholar.org/search?q=Miao%20Liu%20egocentric%20vision&sort=relevance）; DBLP检索（https://dblp.org/search?q=Miao%20Liu%20egocentric%20vision）
 > Raw: [MEOW LAB](../../raw/sources/2026-06-11-MEOWLABModelingEgocentricOmniscien-MEOWLAB-4c024595.md); [刘淼](../../raw/sources/2026-06-11-MEOWLABModelingEgocentricOmniscien-刘淼-c96f264f.md)
@@ -29,7 +29,7 @@ tags: [org, tsinghua, frontier-talent]
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室/课题组 / group |
-| 所属单位 | [清华大学人工智能学院（CollegeAI）](清华大学人工智能学院CollegeAI.md) |
+| 所属单位 | [清华大学人工智能学院](清华大学人工智能学院CollegeAI.md) |
 | 方向 | 第一视角视觉、多模态生成式AI、AR/智能眼镜；面向人本智能和消费硬件。 |
 | 官网 | MEOW LAB |
 

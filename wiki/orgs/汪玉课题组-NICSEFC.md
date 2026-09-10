@@ -1,7 +1,7 @@
 ---
 type: org
-name: 汪玉课题组 / NICSEFC
-aliases: []
+name: 清华大学汪玉课题组
+aliases: ["汪玉课题组 / NICSEFC"]
 org_type: group
 tier: 2
 parent: 清华大学电子工程系
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# 汪玉课题组 / NICSEFC
+# 清华大学汪玉课题组
 
 > Sources: 汪玉个人主页（https://web.ee.tsinghua.edu.cn/wangyu/zh_CN/index.htm）; 课题组主页（http://nicsefc.ee.tsinghua.edu.cn）; 清华学者库（https://thurid.lib.tsinghua.edu.cn/scholar/654571）; Google Scholar（https://scholar.google.com/citations?user=j8JGVvoAAAAJ）
 > Raw: [汪玉个人主页](../../raw/sources/2026-06-11-汪玉课题组-NICSEFC-汪玉个人主页-7c92f5b4.md); [课题组主页](../../raw/sources/2026-06-11-汪玉课题组-NICSEFC-课题组主页-556459d6.md); [清华学者库](../../raw/sources/2026-06-11-汪玉课题组-NICSEFC-清华学者库-f669bee4.md)；[东方空间业务摘录](../../raw/sources/2022-08-03-东方空间姚颂校友总会转载摘录.md)

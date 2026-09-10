@@ -1,7 +1,7 @@
 ---
 type: org
-name: Precognition Lab
-aliases: []
+name: 香港科技大学（广州） Precognition Lab
+aliases: ["Precognition Lab"]
 domains:
 - embodied-ai
 - robotics
@@ -15,7 +15,7 @@ parent: 香港科技大学（广州）人工智能学域
 tier: 3
 ---
 
-# Precognition Lab
+# 香港科技大学（广州） Precognition Lab
 
 > Sources: [Precognition实验室](https://precognition.team/)；[梁俊卫研究主页](https://junweiliang.me/)；[邱迪聪港科广创业访谈](https://www.hkust-gz.edu.cn/zh/2024/04/07/他的代码在nasa上天，在港科广落地/?variant=zh-cn)
 > Raw: [Precognition实验室](../../raw/sources/香港具身核查-Precognition实验室.md)；[梁俊卫研究主页](../../raw/sources/香港具身核查-梁俊卫研究主页.md)；[邱迪聪港科广创业访谈](../../raw/sources/2024-04-07-香港具身核查-邱迪聪港科广创业访谈.md)

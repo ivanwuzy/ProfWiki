@@ -1,10 +1,10 @@
 ---
 type: org
-name: 港科大无人机研究组（UAV Group）
-aliases: [HKUST Aerial Robotics Group, UAV Group, 沈劭劼课题组]
+name: 香港科技大学无人机研究组
+aliases: ["HKUST Aerial Robotics Group","UAV Group","沈劭劼课题组","港科大无人机研究组（UAV Group）"]
 org_type: lab
 tier: 2
-parent: 香港科技大学ECE系
+parent: 香港科技大学电子及计算机工程学系
 domains: [robotics, autonomous-driving, visual-inertial-navigation, drone, slam]
 watch_tier: T0
 last_verified: 2026-09-08
@@ -12,7 +12,7 @@ confidence: unverified
 tags: [org, hkust, lab, uav]
 ---
 
-# 港科大无人机研究组（UAV Group）
+# 香港科技大学无人机研究组
 
 > Sources: HKUST Aerial Robotics Group官网；沈劭劼个人主页；卓驭科技融资报道
 > Updated: 2026-09-08
@@ -30,7 +30,7 @@ tags: [org, hkust, lab, uav]
 |---|---|
 | 类型 | 实验室（lab）|
 | 英文全称 | HKUST Aerial Robotics Group |
-| 所属院系 | [香港科技大学电子及计算机工程学系ECE](香港科技大学电子及计算机工程学系ECE.md) |
+| 所属院系 | [香港科技大学电子及计算机工程学系](香港科技大学电子及计算机工程学系ECE.md) |
 | 负责人 | [沈劭劼](../people/沈劭劼_港科大ECE.md) |
 | 官网 | 待补 |
 | 核心研究方向 | 无人机、自动驾驶、视觉惯性导航（VINS）、SLAM |

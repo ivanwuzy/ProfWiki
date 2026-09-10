@@ -1,7 +1,7 @@
 ---
 type: org
-name: 香港科技大学机械及航空航天工程学系MAE
-aliases: [MAE, MAE系, Department of Mechanical and Aerospace Engineering, 机械及航空航天工程学系, 香港科技大学MAE系]
+name: 香港科技大学机械及航空航天工程学系
+aliases: ["MAE","MAE系","Department of Mechanical and Aerospace Engineering","机械及航空航天工程学系","香港科技大学MAE系","香港科技大学机械及航空航天工程学系MAE"]
 org_type: department
 tier: 1
 parent: 香港科技大学
@@ -12,7 +12,7 @@ confidence: unverified
 tags: [org, hkust, department]
 ---
 
-# 香港科技大学MAE系
+# 香港科技大学机械及航空航天工程学系
 
 > Sources: HKUST MAE官网 (https://mae.hkust.edu.hk/)；HKUST Faculty Profiles；[CKSRI执行委员会](https://ri.hkust.edu.hk/people/executive-committee)
 > Updated: 2026-09-08
@@ -39,11 +39,11 @@ tags: [org, hkust, department]
 
 | 实验室/课题组 | 负责人 | 重点方向 |
 |---|---|---|
-| [港科大智能制造中心](港科大智能制造中心.md) | [段默龙](../people/段默龙_港科大MAE.md)（Director）、李桂君（Associate Director） | 精密运动控制、智能制造、机器人关节/驱动器 |
+| [香港科技大学智能制造中心](港科大智能制造中心.md) | [段默龙](../people/段默龙_港科大MAE.md)（Director）、李桂君（Associate Director） | 精密运动控制、智能制造、机器人关节/驱动器 |
 | Center for AI Robotics in Space Sustainability | 高扬 Yang GAO（Director）、孙庆平（Associate Director） | 空间机器人 |
 | 待补 | - | - |
 
-> 注：MAE系教授部分挂靠[CKSRI郑家纯机器人研究院](郑家纯机器人研究院CKSRI.md)，为机器人提供本体、机构、驱动等硬件支撑。
+> 注：MAE系教授部分挂靠[香港科技大学郑家纯机器人研究院](郑家纯机器人研究院CKSRI.md)，为机器人提供本体、机构、驱动等硬件支撑。
 
 ## 核心教授（机器人/具身智能方向）
 
@@ -109,7 +109,7 @@ MAE系主要在"具身硬件"方向培养创业人才：
 
 - [ ] 完整教师名单及研究方向
 - [ ] 历年毕业生创业统计
-- [ ] 与[CKSRI](郑家纯机器人研究院CKSRI.md)的组织关系和资源分配机制
+- [ ] 与[香港科技大学郑家纯机器人研究院](郑家纯机器人研究院CKSRI.md)的组织关系和资源分配机制
 - [ ] 胡文琪、Rob SCHARFF等青年PI的具体研究方向和学生名单
 
 ## 证据

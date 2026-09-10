@@ -1,7 +1,7 @@
 ---
 type: org
-name: 等离子体科学与聚变实验室 / SUNIST
-aliases: []
+name: 清华大学等离子体科学与聚变实验室
+aliases: ["等离子体科学与聚变实验室 / SUNIST"]
 org_type: lab
 tier: 2
 parent: 清华大学工程物理系
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# 等离子体科学与聚变实验室 / SUNIST
+# 清华大学等离子体科学与聚变实验室
 
 > Sources: 等离子体科学与聚变实验室（https://www.ep.tsinghua.edu.cn/info/1028/1708.htm）; 高喆个人页（https://www.ep.tsinghua.edu.cn/info/1165/2376.htm）; 谭熠个人页（https://www.ep.tsinghua.edu.cn/info/1170/2788.htm）; Semantic Scholar检索（https://www.semanticscholar.org/search?q=SUNIST%20spherical%20tokamak%20Tsinghua&sort=relevance）
 > Raw: [等离子体科学与聚变实验室](../../raw/sources/2026-06-11-等离子体科学与聚变实验室-SUNIST-等离子体科学与聚变实验室-0a4ccea3.md); [高喆个人页](../../raw/sources/2026-06-11-等离子体科学与聚变实验室-SUNIST-高喆个人页-d73b8fd8.md); [谭熠个人页](../../raw/sources/2026-06-11-等离子体科学与聚变实验室-SUNIST-谭熠个人页-a372dd28.md)
@@ -44,7 +44,7 @@ tags: [org, tsinghua, frontier-talent]
 
 | 公司/项目 | 关联方式 | 相关人物 | 证据 |
 |---|---|---|---|
-| [星环聚能](../companies/星环聚能.md) | 实验室技术路线（球形托卡马克 + 重复重联）产业化：[谭熠](../people/谭熠_清华工程物理系.md) 以在职副教授身份任联合创始人兼首席科学家，其 1999 级工物系同班同学 [陈锐](../people/陈锐_星环聚能.md) 任 CEO；公司与清华合作 279 天建成 [SUNIST-2](SUNIST-2球形托卡马克.md) | [谭熠](../people/谭熠_清华工程物理系.md)、[陈锐](../people/陈锐_星环聚能.md) | 界面新闻、上海证券报、新浪财经 |
+| [星环聚能](../companies/星环聚能.md) | 实验室技术路线（球形托卡马克 + 重复重联）产业化：[谭熠](../people/谭熠_清华工程物理系.md) 以在职副教授身份任联合创始人兼首席科学家，其 1999 级工物系同班同学 [陈锐](../people/陈锐_星环聚能.md) 任 CEO；公司与清华合作 279 天建成 [清华大学 SUNIST-2球形托卡马克](SUNIST-2球形托卡马克.md) | [谭熠](../people/谭熠_清华工程物理系.md)、[陈锐](../people/陈锐_星环聚能.md) | 界面新闻、上海证券报、新浪财经 |
 | 硕橙科技 | 谭熠与陈锐 2016 年的第一次共同创业（工业声学检测，未建公司页） | [谭熠](../people/谭熠_清华工程物理系.md)、[陈锐](../people/陈锐_星环聚能.md) | 界面新闻、联想之星 |
 
 ## 派系判断

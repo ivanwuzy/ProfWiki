@@ -1,7 +1,7 @@
 ---
 type: org
-name: 香港大学计算与数据科学学院CDS
-aliases: [HKU School of Computing and Data Science, HKUCDS, CDS]
+name: 香港大学计算与数据科学学院
+aliases: ["HKU School of Computing and Data Science","HKUCDS","CDS","香港大学计算与数据科学学院CDS"]
 org_type: school
 tier: 1
 parent: 香港大学
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, hku, frontier-talent]
 ---
 
-# 香港大学计算与数据科学学院CDS
+# 香港大学计算与数据科学学院
 
 > Sources: HKU CDS官网（https://cds.hku.hk/）；李弘扬个人主页（https://lihongyang.info/）；OpenDriveLab官网（https://opendrivelab.com/）；[HKU-SAIL实验室](https://sail.ai.hku.hk/)；[HKU-Pan-Jia教师页](https://ai.hku.hk/people/academic-staff/jpan)；[Any3D-VLA论文修订版](https://arxiv.org/html/2602.00807)；[GraspVLA论文修订版](https://arxiv.org/html/2505.03233)；[邓胜亮研究简介](https://shengliangd.github.io/about/)
 > Updated: 2026-09-09
@@ -52,14 +52,14 @@ tags: [org, hku, frontier-talent]
 
 | 实验室/研究组 | 负责人 | 重点方向 | 页面链接 |
 |---|---|---|---|
-| OpenDriveLab | [李弘扬](../people/李弘扬_港大CDS.md) | 端到端自动驾驶、具身智能、CVPR 2023最佳论文 | [OpenDriveLab](OpenDriveLab.md) |
+| OpenDriveLab | [李弘扬](../people/李弘扬_港大CDS.md) | 端到端自动驾驶、具身智能、CVPR 2023最佳论文 | [香港大学 OpenDriveLab](OpenDriveLab.md) |
 
 本轮新增：
 
 | 实验室/院系 | 负责人/覆盖 | 重点方向 | 页面 |
 |---|---|---|---|
-| [港大SAIL实验室](港大SAIL实验室.md) | [赵恒爽](../people/赵恒爽_港大SAIL.md) | 空间智能、具身学习 | [SAIL](港大SAIL实验室.md) |
-| [香港大学AI与数据科学系](香港大学AI与数据科学系.md) | 本轮覆盖潘佳 | AI、机器人规划与操作；下钻课题组 | [AI与数据科学系](香港大学AI与数据科学系.md) |
+| [香港大学 SAIL实验室](港大SAIL实验室.md) | [赵恒爽](../people/赵恒爽_港大SAIL.md) | 空间智能、具身学习 | [香港大学 SAIL实验室](港大SAIL实验室.md) |
+| [香港大学 AI与数据科学系](香港大学AI与数据科学系.md) | 本轮覆盖潘佳 | AI、机器人规划与操作；下钻课题组 | [香港大学 AI与数据科学系](香港大学AI与数据科学系.md) |
 
 ## 组织架构
 
@@ -179,7 +179,7 @@ CDS在香港大学工程学院中承担AI与数据科学核心平台角色：
 
 ## 银河通用相关研究链
 
-- SAIL侧：[赵恒爽](../people/赵恒爽_港大SAIL.md)为Any3D-VLA通讯作者；[Xianzhe Fan](../people/Xianzhe-Fan_港大SAIL.md)与Xiaoyang Wu参与，见[SAIL](港大SAIL实验室.md)。
+- SAIL侧：[赵恒爽](../people/赵恒爽_港大SAIL.md)为Any3D-VLA通讯作者；[Xianzhe Fan](../people/Xianzhe-Fan_港大SAIL.md)与Xiaoyang Wu参与，见[香港大学 SAIL实验室](港大SAIL实验室.md)。
 - Heming Cui侧：[邓胜亮](../people/邓胜亮_香港大学.md)主页明确其导师为Heming Cui，参与GraspVLA及Any3D-VLA；不并入SAIL名册。
 
 论文层合作不等于学院签订合作协议；GraspVLA无赵恒爽署名。

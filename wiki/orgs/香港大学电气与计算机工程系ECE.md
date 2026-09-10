@@ -1,7 +1,7 @@
 ---
 type: org
-name: 香港大学电气与计算机工程系ECE
-aliases: [HKU Department of Electrical and Computer Engineering, HKUECE, HKU ECE]
+name: 香港大学电气与计算机工程系
+aliases: ["HKU Department of Electrical and Computer Engineering","HKUECE","HKU ECE","香港大学电气与计算机工程系ECE"]
 org_type: department
 tier: 1
 parent: 香港大学
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, hku, frontier-talent]
 ---
 
-# 香港大学电气与计算机工程系ECE
+# 香港大学电气与计算机工程系
 
 > Sources: HKU ECE官网（https://ece.hku.hk/）；[刘希慧研究主页](https://xh-liu.github.io/)
 > Updated: 2026-09-08
@@ -113,4 +113,4 @@ ECE系在香港大学工程学院中承担电气、电子与计算机硬件方�
 
 ## 本轮补充：多模态与具身人才
 
-[刘希慧](../people/刘希慧_港大ECE.md)现任本系助理教授、IDS成员，参与[HKU-MMLab](港大多媒体实验室HKU-MMLab.md)。EgoPlan系列、DSPv2与Adobe/WAIC奖项支撑人物建页；不据其本系任职认定整个HKU-MMLab隶属ECE。
+[刘希慧](../people/刘希慧_港大ECE.md)现任本系助理教授、IDS成员，参与[香港大学多媒体实验室](港大多媒体实验室HKU-MMLab.md)。EgoPlan系列、DSPv2与Adobe/WAIC奖项支撑人物建页；不据其本系任职认定整个HKU-MMLab隶属ECE。

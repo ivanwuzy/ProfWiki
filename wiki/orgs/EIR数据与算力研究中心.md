@@ -1,7 +1,7 @@
 ---
 type: org
-name: EIR数据与算力研究中心
-aliases: []
+name: 清华大学具身智能与机器人研究院数据与算力研究中心
+aliases: ["EIR数据与算力研究中心"]
 org_type: group
 tier: 2
 parent: 清华大学具身智能与机器人研究院
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# EIR数据与算力研究中心
+# 清华大学具身智能与机器人研究院数据与算力研究中心
 
 > Sources: 数据与算力研究中心（https://eir.tsinghua.edu.cn/yjjg/sjyslyjzx.htm）
 > Raw: [数据与算力研究中心](../../raw/sources/2026-06-11-EIR数据与算力研究中心-数据与算力研究中心-8c98932e.md)
@@ -29,7 +29,7 @@ tags: [org, tsinghua, frontier-talent]
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室/课题组 / group |
-| 所属单位 | [清华大学具身智能与机器人研究院（EIR）](清华大学具身智能与机器人研究院EIR.md) |
+| 所属单位 | [清华大学具身智能与机器人研究院](清华大学具身智能与机器人研究院EIR.md) |
 | 方向 | 具身智能数据、算力、测评、通信导航、基准。 |
 | 官网 | 数据与算力研究中心 |
 

@@ -1,7 +1,7 @@
 ---
 type: org
-name: 香港大学AI与数据科学系
-aliases: []
+name: 香港大学 AI与数据科学系
+aliases: [香港大学AI与数据科学系]
 domains:
 - embodied-ai
 - robotics
@@ -11,11 +11,11 @@ confidence: verified_primary
 tags:
 - org
 org_type: department
-parent: 香港大学计算与数据科学学院CDS
+parent: 香港大学计算与数据科学学院
 tier: 2
 ---
 
-# 香港大学AI与数据科学系
+# 香港大学 AI与数据科学系
 
 > Sources: [HKU-Pan-Jia教师页](https://ai.hku.hk/people/academic-staff/jpan)
 > Raw: [HKU-Pan-Jia教师页](../../raw/sources/香港具身核查-HKU-Pan-Jia教师页.md)
@@ -28,7 +28,7 @@ tier: 2
 
 | 字段 | 内容 |
 |---|---|
-| 所属单位 | [香港大学计算与数据科学学院CDS](香港大学计算与数据科学学院CDS.md) |
+| 所属单位 | [香港大学计算与数据科学学院](香港大学计算与数据科学学院CDS.md) |
 | 英文名称 | Department of AI and Data Science |
 | 核验范围 | 官方系网站的潘佳教师页及其学院组成说明；非完整师资普查 |
 
@@ -36,4 +36,4 @@ tier: 2
 
 | 实验室/课题组 | 重点方向 |
 |---|---|
-| [潘佳机器人课题组](港大潘佳机器人课题组.md) | 机器人学习、操作、规划与感知 |
+| [香港大学潘佳机器人课题组](港大潘佳机器人课题组.md) | 机器人学习、操作、规划与感知 |

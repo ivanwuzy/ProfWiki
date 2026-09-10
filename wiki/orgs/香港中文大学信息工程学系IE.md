@@ -1,7 +1,7 @@
 ---
 type: org
-name: 香港中文大学信息工程学系IE
-aliases: [CUHK Department of Information Engineering, CUHK IE]
+name: 香港中文大学信息工程学系
+aliases: ["CUHK Department of Information Engineering","CUHK IE","香港中文大学信息工程学系IE"]
 org_type: department
 tier: 1
 parent: 香港中文大学
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, cuhk, frontier-talent]
 ---
 
-# 香港中文大学信息工程学系IE
+# 香港中文大学信息工程学系
 
 > Sources: CUHK IE官网（https://www.ie.cuhk.edu.hk/）；多媒体实验室官网（http://mmlab.ie.cuhk.edu.hk/）；[Xiangyu-Yue研究主页](https://xyue.io/)；[CUHK-MMLab成员](https://mmlab.ie.cuhk.edu.hk/people.html)
 > Updated: 2026-09-08
@@ -39,7 +39,7 @@ tags: [org, cuhk, frontier-talent]
 
 | 人物 | 角色 | 方向 | 信号 |
 |---|---|---|---|
-| [汤晓鸥](../people/汤晓鸥_港中大IE.md) | 教师（2023-12-15 逝世） | 计算机视觉、人脸识别 | 2001-07 创立 [MMLab](港中大多媒体实验室MMLab.md)；CVPR 2009 最佳论文；[商汤科技](../companies/SenseTime商汤科技.md) 创始人（招股书披露持股约 20.63%）；上海人工智能实验室主任 |
+| [汤晓鸥](../people/汤晓鸥_港中大IE.md) | 教师（2023-12-15 逝世） | 计算机视觉、人脸识别 | 2001-07 创立 [香港中文大学多媒体实验室](港中大多媒体实验室MMLab.md)；CVPR 2009 最佳论文；[商汤科技](../companies/SenseTime商汤科技.md) 创始人（招股书披露持股约 20.63%）；上海人工智能实验室主任 |
 | [林达华](../people/林达华_港中大IE.md) | 教师 | 计算机视觉、多媒体 | 多媒体实验室、人脸识别系统；商汤科技联合创始人；OpenMMLab 开源体系 |
 | [王晓刚](../people/王晓刚_港中大ECE.md) | 校友（IE 硕士 2004，师从汤晓鸥）；现任电子工程学系教授 | 深度学习、人脸识别、自动驾驶 | MIT 博士；商汤联合创始人兼首席科学家、绝影事业群总裁 |
 | [徐立](../people/徐立_商汤科技.md) | 校友（港中大博士） | 计算机视觉、底层视觉 | 商汤科技董事长兼 CEO；导师口径存在争议（21世纪经济报道称为贾佳亚） |
@@ -53,14 +53,14 @@ tags: [org, cuhk, frontier-talent]
 
 | 实验室/研究组 | 负责人 | 重点方向 | 页面链接 |
 |---|---|---|---|
-| 多媒体实验室（Multimedia Laboratory / MMLab） | [汤晓鸥](../people/汤晓鸥_港中大IE.md)（创始人，已故）、[林达华](../people/林达华_港中大IE.md)、[王晓刚](../people/王晓刚_港中大ECE.md) | 计算机视觉、深度学习、多媒体、人脸识别 | [港中大多媒体实验室MMLab](港中大多媒体实验室MMLab.md) |
+| 多媒体实验室（Multimedia Laboratory / MMLab） | [汤晓鸥](../people/汤晓鸥_港中大IE.md)（创始人，已故）、[林达华](../people/林达华_港中大IE.md)、[王晓刚](../people/王晓刚_港中大ECE.md) | 计算机视觉、深度学习、多媒体、人脸识别 | [香港中文大学多媒体实验室](港中大多媒体实验室MMLab.md) |
 | CUHK AIoT实验室（CUHK AIoT Lab） | 待确认 | 人工智能物联网 | 待建 |
 
 ## 创业/产业化线索
 
 | 公司/项目 | 关联方式 | 相关人物 | 证据 |
 |---|---|---|---|
-| [商汤科技](../companies/SenseTime商汤科技.md) | [MMLab](港中大多媒体实验室MMLab.md) 成果与人才转化；2014 年创办，2021 年 12 月港交所上市 | [汤晓鸥](../people/汤晓鸥_港中大IE.md)、[徐立](../people/徐立_商汤科技.md)、[王晓刚](../people/王晓刚_港中大ECE.md)、[林达华](../people/林达华_港中大IE.md) | 商汤招股书、MMLab 官网 |
+| [商汤科技](../companies/SenseTime商汤科技.md) | [香港中文大学多媒体实验室](港中大多媒体实验室MMLab.md) 成果与人才转化；2014 年创办，2021 年 12 月港交所上市 | [汤晓鸥](../people/汤晓鸥_港中大IE.md)、[徐立](../people/徐立_商汤科技.md)、[王晓刚](../people/王晓刚_港中大ECE.md)、[林达华](../people/林达华_港中大IE.md) | 商汤招股书、MMLab 官网 |
 
 ## 核心研究方向
 
@@ -132,4 +132,4 @@ IE系在香港中文大学工程学院中承担AI、视觉、AIoT研究：
 
 ## 本轮补充：MMLab青年PI
 
-[岳翔宇](../people/岳翔宇_港中大MMLab.md)为本系助理教授、[MMLab](港中大多媒体实验室MMLab.md)成员；其2026年论文、活动与Robotics AI 2000荣誉提名支持当前运行和人才跟踪。
+[岳翔宇](../people/岳翔宇_港中大MMLab.md)为本系助理教授、[香港中文大学多媒体实验室](港中大多媒体实验室MMLab.md)成员；其2026年论文、活动与Robotics AI 2000荣誉提名支持当前运行和人才跟踪。

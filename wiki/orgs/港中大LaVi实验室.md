@@ -1,7 +1,7 @@
 ---
 type: org
-name: 港中大LaVi实验室
-aliases: []
+name: 香港中文大学 LaVi实验室
+aliases: ["港中大LaVi实验室"]
 domains:
 - embodied-ai
 - robotics
@@ -11,11 +11,11 @@ confidence: verified_primary
 tags:
 - org
 org_type: lab
-parent: 香港中文大学计算机科学与工程学系CSE
+parent: 香港中文大学计算机科学与工程学系
 tier: 2
 ---
 
-# 港中大LaVi实验室
+# 香港中文大学 LaVi实验室
 
 > Sources: [Liwei-Wang与LaVi](https://lwwangcse.github.io/)
 > Raw: [Liwei-Wang与LaVi](../../raw/sources/香港具身核查-Liwei-Wang与LaVi.md)
@@ -29,7 +29,7 @@ Liwei Wang的语言、视觉与世界模型团队，在具身导航和三维理�
 | 字段 | 内容 |
 |---|---|
 | 英文名称 | Language and Vision (LaVi) Lab |
-| 所属单位 | [香港中文大学计算机科学与工程学系CSE](香港中文大学计算机科学与工程学系CSE.md)，不是香港大学 |
+| 所属单位 | [香港中文大学计算机科学与工程学系](香港中文大学计算机科学与工程学系CSE.md)，不是香港大学 |
 | 当前运行 | 主任主页有2026/09更新、招生与World Model Symposium信息。 |
 | 负责人 | [Liwei Wang](../people/Liwei-Wang_港中大CSE.md) |
 | 代表工作 | Towards Learning a Generalist Model for Embodied Navigation；Video-3D LLM；Efficient-VLN |

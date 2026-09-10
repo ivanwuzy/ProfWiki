@@ -35,7 +35,7 @@ related_companies:
 | 字段 | 内容 |
 |---|---|
 | 当前公开身份 | 香港科技大学（广州）人工智能学域教授团队负责人 |
-| 课题组/实验室 | [Precognition Lab](../orgs/PrecognitionLab.md) |
+| 课题组/实验室 | [香港科技大学（广州） Precognition Lab](../orgs/PrecognitionLab.md) |
 | 学术轨迹与导师 | 2021年获CMU博士，导师Alexander Hauptmann；学校2024访谈职称为人工智能学域助理教授，主页泛称Prof.不据此升级为正教授。 |
 | 范围 | 本页按公开身份、具名工作与奖项建页；未确认的信息不由职称或方向推断。 |
 

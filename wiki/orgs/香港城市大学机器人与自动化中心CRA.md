@@ -1,7 +1,7 @@
 ---
 type: org
-name: 香港城市大学机器人与自动化中心CRA
-aliases: []
+name: 香港城市大学机器人与自动化中心
+aliases: ["香港城市大学机器人与自动化中心CRA"]
 domains:
 - embodied-ai
 - robotics
@@ -15,7 +15,7 @@ parent: 香港城市大学
 tier: 1
 ---
 
-# 香港城市大学机器人与自动化中心CRA
+# 香港城市大学机器人与自动化中心
 
 > Sources: [CityU-CRA成员摘录](https://www.cityu.edu.hk/cra/core_members.htm)
 > Raw: [CityU-CRA成员摘录](../../raw/sources/2026-06-18-香港具身核查-CityU-CRA成员摘录.md)

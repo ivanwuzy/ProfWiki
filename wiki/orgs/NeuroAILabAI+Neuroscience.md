@@ -1,7 +1,7 @@
 ---
 type: org
-name: NeuroAI Lab（AI + Neuroscience）
-aliases: []
+name: 清华大学 NeuroAI Lab
+aliases: ["NeuroAI Lab（AI + Neuroscience）"]
 org_type: lab
 tier: 2
 parent: 清华大学人工智能学院
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# NeuroAI Lab（AI + Neuroscience）
+# 清华大学 NeuroAI Lab
 
 > Sources: NeuroAI Lab（https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/NeuroAI_Lab__AI___Neuroscience_.htm）
 > Raw: [NeuroAI Lab](../../raw/sources/2026-06-11-NeuroAILabAI+Neuroscience-NeuroAILab-e302ef09.md)
@@ -29,7 +29,7 @@ AI与神经科学、脑机接口算法；与脑机、医疗AI、机器人感知�
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室/课题组 / lab |
-| 所属单位 | [清华大学人工智能学院（CollegeAI）](清华大学人工智能学院CollegeAI.md) |
+| 所属单位 | [清华大学人工智能学院](清华大学人工智能学院CollegeAI.md) |
 | 方向 | AI与神经科学、脑机接口算法；与脑机、医疗AI、机器人感知交叉。 |
 | 官网 | NeuroAI Lab |
 

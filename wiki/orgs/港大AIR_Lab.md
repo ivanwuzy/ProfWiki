@@ -1,8 +1,8 @@
 ---
 type: orgs
-name: 港大AIR_Lab
-aliases: [AIR Lab, Automation and Intelligent Robot Lab, 自动化与智能机器人实验室]
-parent: 香港大学数据与系统工程系DASE
+name: 香港大学自动化与智能机器人实验室
+aliases: ["AIR Lab","Automation and Intelligent Robot Lab","自动化与智能机器人实验室","港大AIR_Lab","港大AIR Lab（Automation and Intelligent Robot Lab）"]
+parent: 香港大学数据与系统工程系
 tier: 2
 domains: [micro-nano-robotics, medical-robotics, cell-manipulation, biomedical-engineering]
 key_people: [刘俊]
@@ -11,7 +11,7 @@ confidence: verified_primary
 tags: [orgs, hku, medical-robotics, tier2]
 ---
 
-# 港大AIR Lab（Automation and Intelligent Robot Lab）
+# 香港大学自动化与智能机器人实验室
 
 > Sources: [AIR Lab官网](https://airlab.hku.hk/)；[HKU研究亮点](https://ke.hku.hk/story/innovation/micro-and-medical-robotics)
 > Raw: [香港大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)
@@ -26,7 +26,7 @@ HKU数据与系统工程系下属的自动化与智能机器人实验室，由�
 |---|---|
 | 名称 | Automation and Intelligent Robot Lab (AIR Lab) |
 | 类型 | tier 2 实验室 |
-| 所属单位 | [香港大学数据与系统工程系DASE](香港大学数据与系统工程系DASE.md) |
+| 所属单位 | [香港大学数据与系统工程系](香港大学数据与系统工程系DASE.md) |
 | 负责人 | [刘俊](../people/刘俊_港大DASE.md) |
 | 官网 | https://airlab.hku.hk/ |
 

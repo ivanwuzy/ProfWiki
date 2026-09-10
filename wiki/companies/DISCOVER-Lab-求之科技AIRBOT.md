@@ -23,7 +23,7 @@ tags: [company, tsinghua, air, embodied-ai, robotics, frontier-talent]
 
 ## 一句话判断
 
-求之科技（产品品牌 AIRBOT）是 [清华大学智能产业研究院（AIR）](../orgs/清华大学智能产业研究院AIR.md) 孵化的具身智能／机器人公司，与 [周谷越](../people/周谷越_清华智能产业研究院.md) 的 DISCOVER Lab 同源。**本页是实验室与公司的混合入口**——这在本库是个结构例外，实验室部分应拆到 `wiki/orgs/`，见"待验证"。当前仅有 AIR 官网单一来源，工商主体与融资均未核实。
+求之科技（产品品牌 AIRBOT）是 [清华大学智能产业研究院](../orgs/清华大学智能产业研究院AIR.md) 孵化的具身智能／机器人公司，与 [周谷越](../people/周谷越_清华智能产业研究院.md) 的 DISCOVER Lab 同源。**本页是实验室与公司的混合入口**——这在本库是个结构例外，实验室部分应拆到 `wiki/orgs/`，见"待验证"。当前仅有 AIR 官网单一来源，工商主体与融资均未核实。
 
 ## 基本信息
 
@@ -41,8 +41,8 @@ tags: [company, tsinghua, air, embodied-ai, robotics, frontier-talent]
 
 | 关联类型 | 内容 | 证据 |
 |---|---|---|
-| 孵化单位 | [清华大学智能产业研究院（AIR）](../orgs/清华大学智能产业研究院AIR.md) 官网将其列为孵化公司 | https://air.tsinghua.edu.cn/yjhzdw/qzkj.htm |
-| 关联实验室 | DISCOVER Lab，属 [AIR 智能机器人方向](../orgs/AIR智能机器人方向.md) | https://air.tsinghua.edu.cn/airtd/yjtd.htm |
+| 孵化单位 | [清华大学智能产业研究院](../orgs/清华大学智能产业研究院AIR.md) 官网将其列为孵化公司 | https://air.tsinghua.edu.cn/yjhzdw/qzkj.htm |
+| 关联实验室 | DISCOVER Lab，属 [清华大学智能产业研究院智能机器人方向](../orgs/AIR智能机器人方向.md) | https://air.tsinghua.edu.cn/airtd/yjtd.htm |
 | 关联 PI | [周谷越](../people/周谷越_清华智能产业研究院.md)（AIR 研究员，DISCOVER Lab 负责人）；**在公司中的具体角色待验证** | 同上 |
 
 ## 融资情况

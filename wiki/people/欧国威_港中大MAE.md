@@ -28,12 +28,12 @@ tags: [person, cuhk, medical-robotics]
 
 | 项目 | 内容 | 证据 |
 |---|---|---|
-| 当前任职 | [港中大 MAE](../orgs/香港中文大学机械与自动化工程学系MAE.md) 教授；Department of Surgery（by courtesy） | 院系官网 |
+| 当前任职 | [香港中文大学机械与自动化工程学系](../orgs/香港中文大学机械与自动化工程学系MAE.md) 教授；Department of Surgery（by courtesy） | 院系官网 |
 | 教育 | 港中大 B.Eng.（1997）、M.Phil.（1999）；MIT 机械工程 Ph.D.（2007） | 院系官网 |
 | 技术转化 | 与 Hugh Herr 等 MIT Biomechatronics 成员共同发明 Powered Ankle-foot Prosthesis，后由 iWalk 商业化 | 院系官网；不等于其创办iWalk |
 | 产业任职 | 加入港中大前在 Intuitive Surgical 任新产品开发部门 Systems Analysis manager | 院系官网 |
 | 产品工作 | 参与 da Vinci Single-Site 系列软件/控制开发，以及 ION 系统早期研发 | 院系官网；不等于创办Intuitive Surgical |
-| 研究平台 | [多尺度医疗机器人中心](../orgs/港中大多尺度医疗机器人中心.md) Founding Co-Director | 院系官网 |
+| 研究平台 | [香港中文大学多尺度医疗机器人中心](../orgs/港中大多尺度医疗机器人中心.md) Founding Co-Director | 院系官网 |
 
 ## 创业与产业关系边界
 

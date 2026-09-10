@@ -22,16 +22,16 @@ tags: [person, hkust, visual-ai, young-faculty]
 
 ## 一句话判断
 
-港科大CSE/ECE年轻教授，[CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)执行委员，CAiRE（人工智能研究中心）代理主任，视觉生成/多模态方向，少年班-斯坦福背景，学术影响力高，创业倾向值得跟踪。
+港科大CSE/ECE年轻教授，[香港科技大学郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)执行委员，CAiRE（人工智能研究中心）代理主任，视觉生成/多模态方向，少年班-斯坦福背景，学术影响力高，创业倾向值得跟踪。
 
 ## 基本信息
 
 | 字段 | 内容 |
 |---|---|
 | 当前身份 | Associate Professor |
-| 院系 | [CSE计算机科学及工程学系](../orgs/香港科技大学计算机科学及工程学系CSE.md)、[ECE电子及计算机工程学系](../orgs/香港科技大学电子及计算机工程学系ECE.md)、AMC艺术与机器创造力学部 |
+| 院系 | [香港科技大学计算机科学及工程学系](../orgs/香港科技大学计算机科学及工程学系CSE.md)、[香港科技大学电子及计算机工程学系](../orgs/香港科技大学电子及计算机工程学系ECE.md)、AMC艺术与机器创造力学部 |
 | 方向 | 视觉智能、生成式AI、多模态、计算机视觉 |
-| 关键兼任 | **Acting Director, Center for Artificial Intelligence Research（CAiRE）**；[CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)执行委员 |
+| 关键兼任 | **Acting Director, Center for Artificial Intelligence Research（CAiRE）**；[香港科技大学郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)执行委员 |
 | 学术背景 | 少年班-斯坦福（待验证具体院校） |
 | 官网 | https://facultyprofiles.hkust.edu.hk/profiles.php?profile=qifeng-chen-cqf |
 

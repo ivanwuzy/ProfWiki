@@ -1,7 +1,7 @@
 ---
 type: org
-name: TSAIL实验室
-aliases: [TSAIL, 清华大学人工智能研究院基础理论研究中心, 朱军课题组]
+name: 清华大学 TSAIL实验室
+aliases: ["TSAIL","清华大学人工智能研究院基础理论研究中心","朱军课题组","TSAIL实验室","TSAIL 实验室（清华计算机系）"]
 org_type: lab
 tier: 2
 parent: 清华大学计算机科学与技术系
@@ -15,7 +15,7 @@ confidence: verified_secondary
 tags: [org, tsinghua, generative-model, world-model, frontier-talent]
 ---
 
-# TSAIL 实验室（清华计算机系）
+# 清华大学 TSAIL实验室
 
 > Sources: [TSAIL 实验室主页](http://ml.cs.tsinghua.edu.cn/)；[arXiv:2512.13030](https://arxiv.org/abs/2512.13030)
 > Raw: [AA计划清华高校老师信息表](../../raw/sources/2026-09-08-AA计划-清华高校老师信息表.md)

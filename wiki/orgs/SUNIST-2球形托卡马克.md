@@ -1,7 +1,7 @@
 ---
 type: org
-name: SUNIST-2球形托卡马克
-aliases: []
+name: 清华大学 SUNIST-2球形托卡马克
+aliases: ["SUNIST-2球形托卡马克"]
 org_type: lab
 tier: 2
 parent: 清华大学工程物理系
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# SUNIST-2球形托卡马克
+# 清华大学 SUNIST-2球形托卡马克
 
 > Sources: SUNIST-2建成并获等离子体新闻（https://www.ep.tsinghua.edu.cn/info/1003/3230.htm）; 谭熠个人页（https://www.ep.tsinghua.edu.cn/info/1170/2788.htm）; 高喆个人页（https://www.ep.tsinghua.edu.cn/info/1165/2376.htm）
 > Raw: [SUNIST-2建成并获等离子体新闻](../../raw/sources/2026-06-11-SUNIST-2球形托卡马克-SUNIST-2建成并获等离子体新闻-8a877646.md); [谭熠个人页](../../raw/sources/2026-06-11-SUNIST-2球形托卡马克-谭熠个人页-a372dd28.md); [高喆个人页](../../raw/sources/2026-06-11-SUNIST-2球形托卡马克-高喆个人页-d73b8fd8.md)

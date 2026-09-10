@@ -1,7 +1,7 @@
 ---
 type: org
-name: Tsinghua SAIL Group
-aliases: []
+name: 清华大学 SAIL Group
+aliases: ["Tsinghua SAIL Group"]
 org_type: group
 tier: 2
 parent: 清华大学计算机科学与技术系
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# Tsinghua SAIL Group
+# 清华大学 SAIL Group
 
 > Sources: SAIL Group官网（https://ml.cs.tsinghua.edu.cn/）
 > Raw: [SAIL Group官网](../../raw/sources/2026-06-11-TsinghuaSAILGroup-SAILGroup官网-da35a2b8.md)

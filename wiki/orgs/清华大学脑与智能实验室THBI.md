@@ -1,7 +1,7 @@
 ---
 type: org
-name: 清华大学脑与智能实验室THBI
-aliases: [THBI, Tsinghua Laboratory of Brain and Intelligence, 脑与智能实验室]
+name: 清华大学脑与智能实验室
+aliases: ["THBI","Tsinghua Laboratory of Brain and Intelligence","脑与智能实验室","清华大学脑与智能实验室THBI","清华大学脑与智能实验室（THBI）"]
 org_type: institute
 tier: 1
 parent: 清华大学
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, brain, frontier-talent]
 ---
 
-# 清华大学脑与智能实验室（THBI）
+# 清华大学脑与智能实验室
 
 > Sources: [THBI 官网](https://brain.tsinghua.edu.cn/)；[THBI 英文站](https://brain.tsinghua.edu.cn/en/)；[千诀融资与高海川课题组](https://36kr.com/p/3204104567185673)
 > Raw: [AA计划清华高校老师信息表](../../raw/sources/2026-09-08-AA计划-清华高校老师信息表.md)；[千诀融资与高海川课题组](../../raw/sources/2025-03-14-千诀融资与高海川课题组.md)
@@ -46,7 +46,7 @@ THBI 是清华"脑科学 × AI"最核心的校级交叉平台，下辖 10 个独
 |---|---|
 | 清华大学-IDG/麦戈文脑科学研究院 | **不同机构**。2011 年设立、2013 年 11 月揭牌，依托生命学院与医学院共建，23 个独立实验室，院长时松海。与 THBI 成立时间、依托单位、负责人均不同，仅有人员交叉 |
 | "清华大学脑研究中心" | **未找到对应的官方实体**。内部整理表使用了这一名称，疑为与上述两者之一混淆 |
-| [清华大学类脑计算研究中心（CBICR）](类脑计算研究中心CBICR.md) | 不同机构。施路平主持，走类脑计算芯片路线 |
+| [清华大学类脑计算研究中心](类脑计算研究中心CBICR.md) | 不同机构。施路平主持，走类脑计算芯片路线 |
 
 ## 重点人物
 

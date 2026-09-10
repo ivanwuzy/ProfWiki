@@ -1,7 +1,7 @@
 ---
 type: org
-name: LIU Lab
-aliases: []
+name: 清华大学 LIU Lab
+aliases: ["LIU Lab"]
 org_type: lab
 tier: 2
 parent: 清华大学人工智能学院
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# LIU Lab
+# 清华大学 LIU Lab
 
 > Sources: LIU Lab（https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/liulab.htm）; 刘子鸣（https://collegeai.tsinghua.edu.cn/rydw/qzpi/liuziming.htm）; Semantic Scholar检索（https://www.semanticscholar.org/search?q=Ziming%20Liu%20AI%20Science%20KAN&sort=relevance）
 > Raw: [LIU Lab](../../raw/sources/2026-06-11-LIULab-LIULab-3b0ba5df.md); [刘子鸣](../../raw/sources/2026-06-11-LIULab-刘子鸣-b4cde062.md)
@@ -29,7 +29,7 @@ AI+Science，连接可解释AI、物理、科学发现；适合跟踪科学智�
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室/课题组 / lab |
-| 所属单位 | [清华大学人工智能学院（CollegeAI）](清华大学人工智能学院CollegeAI.md) |
+| 所属单位 | [清华大学人工智能学院](清华大学人工智能学院CollegeAI.md) |
 | 方向 | AI+Science，连接可解释AI、物理、科学发现；适合跟踪科学智能创业。 |
 | 官网 | LIU Lab |
 

@@ -27,16 +27,16 @@ tags: [person, hkust, embodied-ai, soft-robotics, program-director]
 
 ## 一句话判断
 
-港科大ECE教授，[CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)副院长，**MEng in Robotics and Embodied AI项目负责人**（2027年秋首届入学），港科大-比亚迪具身智能联合实验室副主任，深圳平台+比亚迪实验室+新硕士项目三重身份，产业转化位置极佳。
+港科大ECE教授，[香港科技大学郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)副院长，**MEng in Robotics and Embodied AI项目负责人**（2027年秋首届入学），港科大-比亚迪具身智能联合实验室副主任，深圳平台+比亚迪实验室+新硕士项目三重身份，产业转化位置极佳。
 
 ## 基本信息
 
 | 字段 | 内容 |
 |---|---|
 | 当前身份 | Professor |
-| 院系 | [ECE电子及计算机工程学系](../orgs/香港科技大学电子及计算机工程学系ECE.md) |
+| 院系 | [香港科技大学电子及计算机工程学系](../orgs/香港科技大学电子及计算机工程学系ECE.md) |
 | 方向 | 机器人及其在生物医学工程与人机交互中的应用、微纳机器人、软体机器人 |
-| 关键兼任 | **Associate Director, [CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)**（副院长）；**Program Director, MEng in Robotics and Embodied AI**（2027年秋首届入学）；Director, HKUST Shenzhen Multi-I Robotic System Lab；**Associate Director, 港科大-比亚迪具身智能联合实验室**；Associate Director, Research Center of SMART FiberTech |
+| 关键兼任 | **Associate Director, [香港科技大学郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)**（副院长）；**Program Director, MEng in Robotics and Embodied AI**（2027年秋首届入学）；Director, HKUST Shenzhen Multi-I Robotic System Lab；**Associate Director, 港科大-比亚迪具身智能联合实验室**；Associate Director, Research Center of SMART FiberTech |
 | 官网 | https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yajing-shen-eeshen |
 
 ## 关键信号

@@ -1,10 +1,10 @@
 ---
 type: org
-name: 港中大多媒体实验室MMLab
-aliases: [CUHK Multimedia Laboratory, MMLab, MMLab@CUHK, 香港中文大学多媒体实验室]
+name: 香港中文大学多媒体实验室
+aliases: ["CUHK Multimedia Laboratory","MMLab","MMLab@CUHK","港中大多媒体实验室MMLab"]
 org_type: lab
 tier: 2
-parent: 香港中文大学信息工程学系IE
+parent: 香港中文大学信息工程学系
 domains: [computer-vision, deep-learning, multimedia, face-recognition]
 key_people: [汤晓鸥, 王晓刚, 林达华, 吕健勤]
 related_companies: [SenseTime商汤科技]
@@ -15,7 +15,7 @@ confidence: multi_source
 tags: [org, cuhk, tier2, computer-vision, frontier-talent]
 ---
 
-# 港中大多媒体实验室MMLab
+# 香港中文大学多媒体实验室
 
 > Sources: MMLab 官网（http://mmlab.ie.cuhk.edu.hk/）；香港中文大学信息工程学系官网（https://www.ie.cuhk.edu.hk/）；商汤科技公开材料与招股书披露；汤晓鸥逝世相关媒体报道（2023-12）；[CUHK-MMLab成员](https://mmlab.ie.cuhk.edu.hk/people.html)；[Xiangyu-Yue研究主页](https://xyue.io/)
 > Updated: 2026-09-08
@@ -31,7 +31,7 @@ tags: [org, cuhk, tier2, computer-vision, frontier-talent]
 |---|---|
 | 名称 | Multimedia Laboratory（MMLab） |
 | 类型 | tier 2 实验室 |
-| 所属单位 | [香港中文大学信息工程学系 IE](香港中文大学信息工程学系IE.md) |
+| 所属单位 | [香港中文大学信息工程学系](香港中文大学信息工程学系IE.md) |
 | 创立 | 2001 年 7 月，由 [汤晓鸥](../people/汤晓鸥_港中大IE.md) 创立 |
 | 方向 | 计算机视觉、深度学习、多媒体、人脸识别、视频理解、图像生成 |
 | 官网 | http://mmlab.ie.cuhk.edu.hk/ |

@@ -1,7 +1,7 @@
 ---
 type: org
-name: 郑家纯机器人研究院
-aliases: [Cheng Kar-Shun Robotics Institute, CKSRI, 港科大机器人研究院]
+name: 香港科技大学郑家纯机器人研究院
+aliases: ["Cheng Kar-Shun Robotics Institute","CKSRI","港科大机器人研究院","郑家纯机器人研究院"]
 org_type: institute
 tier: 1
 parent: 香港科技大学
@@ -12,7 +12,7 @@ confidence: unverified
 tags: [org, hkust, robotics-institute]
 ---
 
-# 郑家纯机器人研究院
+# 香港科技大学郑家纯机器人研究院
 
 > Sources: CKSRI官网 (https://ri.hkust.edu.hk/)；CKSRI人员页 (https://ri.hkust.edu.hk/people_list)；CKSRI创业页 (https://ri.hkust.edu.hk/entrepreneurship)；[CKSRI执行委员会](https://ri.hkust.edu.hk/people/executive-committee)；[CKSRI官方创业目录](https://ri.hkust.edu.hk/entrepreneurship)；[CKSRI冠名历史](https://seng.hkust.edu.hk/zh-hans/node/7013)
 > Updated: 2026-09-08

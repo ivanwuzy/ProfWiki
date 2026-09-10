@@ -28,7 +28,7 @@ tags: [person, cuhk, surgical-robotics, founder]
 
 | 字段 | 内容 |
 |---|---|
-| 当前身份 | [港中大 MAE](../orgs/香港中文大学机械与自动化工程学系MAE.md) 教授、机械与自动化工程硕士项目主任 |
+| 当前身份 | [香港中文大学机械与自动化工程学系](../orgs/香港中文大学机械与自动化工程学系MAE.md) 教授、机械与自动化工程硕士项目主任 |
 | 教育背景 | 港中大 B.Eng.、M.Phil.；2012 年获 Imperial College London Hamlyn Centre / Department of Computing 博士学位 |
 | 职业轨迹 | 院系官网记载其在香港大学机械工程系任教期间为 2014–2024 |
 | 研究组 | Interventional Robotic and Imaging Systems（IRIS），负责人 |

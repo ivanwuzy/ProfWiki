@@ -1,7 +1,7 @@
 ---
 type: org
-name: 知识工程实验室/KEG（唐杰团队）
-aliases: []
+name: 清华大学知识工程实验室
+aliases: ["知识工程实验室/KEG（唐杰团队）"]
 org_type: lab
 tier: 2
 parent: 清华大学计算机科学与技术系
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# 知识工程实验室/KEG（唐杰团队）
+# 清华大学知识工程实验室
 
 > Sources: 唐杰个人页（https://www.cs.tsinghua.edu.cn/info/1111/3486.htm）; 唐杰个人主页/KEG（https://keg.cs.tsinghua.edu.cn/jietang/）; DBLP检索（https://dblp.org/search?q=Jie%20Tang%20Tsinghua）; Semantic Scholar检索（https://www.semanticscholar.org/search?q=Jie%20Tang%20Tsinghua%20Knowledge%20Graph&sort=relevance）
 > Raw: [唐杰个人页](../../raw/sources/2026-06-11-知识工程实验室-KEG唐杰团队-唐杰个人页-6c3555e3.md); [唐杰个人主页/KEG](../../raw/sources/2026-06-11-知识工程实验室-KEG唐杰团队-唐杰个人主页-KEG-6033b064.md)；[2025-12-30-智谱AI港交所招股书创始人与融资](../../raw/sources/2025-12-30-智谱AI港交所招股书创始人与融资.md)
@@ -51,7 +51,7 @@ tags: [org, tsinghua, frontier-talent]
 
 ## 派系判断
 
-KEG 是本库中**成果转化规模最大的清华实验室**：单一系统（AMiner）转化出一家港股上市公司。其结构特征是"教授作为联合创始人（唐杰）+ 学生全职任 CEO（张鹏）+ 外部博士任董事长（刘德兵）"，与 [THUNLP](THUNLP.md)、[汪玉课题组](汪玉课题组-NICSEFC.md) 形成三种不同的教授—学生分工模式。
+KEG 是本库中**成果转化规模最大的清华实验室**：单一系统（AMiner）转化出一家港股上市公司。其结构特征是"教授作为联合创始人（唐杰）+ 学生全职任 CEO（张鹏）+ 外部博士任董事长（刘德兵）"，与 [清华大学 THUNLP](THUNLP.md)、[清华大学汪玉课题组](汪玉课题组-NICSEFC.md) 形成三种不同的教授—学生分工模式。
 
 ## 待验证
 

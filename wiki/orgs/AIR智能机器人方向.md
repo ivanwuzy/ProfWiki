@@ -1,7 +1,7 @@
 ---
 type: org
-name: AIR智能机器人方向
-aliases: []
+name: 清华大学智能产业研究院智能机器人方向
+aliases: ["AIR智能机器人方向"]
 org_type: group
 tier: 2
 parent: 清华大学智能产业研究院
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# AIR智能机器人方向
+# 清华大学智能产业研究院智能机器人方向
 
 > Sources: AIR智能机器人（https://air.tsinghua.edu.cn/kxyj/znjqr.htm）; AIR研究团队（https://air.tsinghua.edu.cn/airtd/yjtd.htm）; AIR研究生（https://air.tsinghua.edu.cn/airtd/yjs.htm）
 > Raw: [AIR智能机器人](../../raw/sources/2026-06-11-AIR智能机器人方向-AIR智能机器人-b855437a.md); [AIR研究团队](../../raw/sources/2026-06-11-AIR智能机器人方向-AIR研究团队-f0de4e00.md); [AIR研究生](../../raw/sources/2026-06-11-AIR智能机器人方向-AIR研究生-635ccdf1.md)
@@ -29,7 +29,7 @@ tags: [org, tsinghua, frontier-talent]
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室/课题组 / group |
-| 所属单位 | [清华大学智能产业研究院（AIR）](清华大学智能产业研究院AIR.md) |
+| 所属单位 | [清华大学智能产业研究院](清华大学智能产业研究院AIR.md) |
 | 方向 | 机器人、自动驾驶、柔性制造、工业自动化；与创业项目/产业化强相关。 |
 | 官网 | AIR智能机器人 |
 
@@ -54,7 +54,7 @@ tags: [org, tsinghua, frontier-talent]
 
 ## 派系判断
 
-AIR 智能机器人方向的人才结构以"产业首席专家"为特征：[陈亦伦](../people/陈亦伦_它石智航.md)（大疆/华为）、[周谷越](../people/周谷越_清华智能产业研究院.md)（大疆）、[聂再清](../people/聂再清_清华智能产业研究院.md)（阿里）等均先在头部公司担任技术一号位，再以 AIR 为平台完成学界身份与创业资源的衔接，机构一号位为 [张亚勤](../people/张亚勤_清华智能产业研究院.md)。这与 [汪玉课题组](汪玉课题组-NICSEFC.md)、[THUNLP](THUNLP.md) 等"从实验室长出公司"的路径相反，是"产业—学界—创业"的反向流动。
+AIR 智能机器人方向的人才结构以"产业首席专家"为特征：[陈亦伦](../people/陈亦伦_它石智航.md)（大疆/华为）、[周谷越](../people/周谷越_清华智能产业研究院.md)（大疆）、[聂再清](../people/聂再清_清华智能产业研究院.md)（阿里）等均先在头部公司担任技术一号位，再以 AIR 为平台完成学界身份与创业资源的衔接，机构一号位为 [张亚勤](../people/张亚勤_清华智能产业研究院.md)。这与 [清华大学汪玉课题组](汪玉课题组-NICSEFC.md)、[清华大学 THUNLP](THUNLP.md) 等"从实验室长出公司"的路径相反，是"产业—学界—创业"的反向流动。
 
 ## 导入字段
 

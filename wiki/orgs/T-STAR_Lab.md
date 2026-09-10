@@ -1,7 +1,7 @@
 ---
 type: org
-name: T-STAR Lab
-aliases: [Tsinghua Safe and Trustworthy AI Research Lab, 清华大学安全与可信人工智能实验室, T-STAR实验室]
+name: 清华大学安全与可信人工智能实验室
+aliases: ["Tsinghua Safe and Trustworthy AI Research Lab","T-STAR实验室","T-STAR Lab"]
 org_type: lab
 tier: 2
 parent: 清华大学人工智能学院
@@ -14,7 +14,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent, ai, ai-safety]
 ---
 
-# T-STAR Lab
+# 清华大学安全与可信人工智能实验室
 
 > Sources: 清华大学人工智能学院 T-STAR Lab, 2026-06-11; 清华大学人工智能学院董胤蓬页面, 2026-06-11; 清华大学人工智能学院课题组介绍, 2026-06-11
 > Raw: [T-STAR Lab](../../raw/sources/2026-06-11-t-star-lab.md); [董胤蓬-清华大学人工智能学院](../../raw/sources/2026-06-11-董胤蓬-清华大学人工智能学院.md); [课题组介绍](../../raw/sources/2026-06-11-清华大学人工智能学院课题组介绍.md)
@@ -28,7 +28,7 @@ T-STAR Lab 是清华大学人工智能学院 AI 安全与可信 AI 方向的全�
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室/课题组 |
-| 所属单位 | 清华大学人工智能学院；见 [AI学院课题组总入口](清华大学人工智能学院课题组总入口.md) |
+| 所属单位 | 清华大学人工智能学院；见 [清华大学人工智能学院课题组总入口](清华大学人工智能学院课题组总入口.md) |
 | 方向 | 人工智能基础理论、机器学习、大模型安全与对齐、生成式AI、可信AI |
 | 官网 | https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/T_STAR_Lab.htm |
 

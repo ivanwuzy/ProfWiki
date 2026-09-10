@@ -1,8 +1,8 @@
 ---
 type: orgs
-name: OpenDriveLab
-aliases: [OpenDriveLab, 开源自动驾驶实验室]
-parent: 香港大学计算与数据科学学院CDS
+name: 香港大学 OpenDriveLab
+aliases: ["OpenDriveLab","开源自动驾驶实验室"]
+parent: 香港大学计算与数据科学学院
 tier: 2
 domains: [autonomous-driving, embodied-ai, end-to-end-driving, computer-vision]
 key_people: [李弘扬]
@@ -11,7 +11,7 @@ confidence: verified_primary
 tags: [orgs, hku, autonomous-driving, tier2]
 ---
 
-# OpenDriveLab
+# 香港大学 OpenDriveLab
 
 > Sources: [OpenDriveLab官网](https://opendrivelab.com/)；[GitHub](https://github.com/opendrivelab)；[个人主页](https://lihongyang.info/)；[OpenDriveLab研究动态](https://opendrivelab.com/)；[HKU-MMLab团队介绍](https://mmlab.hk/about-us)
 > Updated: 2026-09-08
@@ -27,7 +27,7 @@ HKU计算与数据科学学院下属的开源自动驾驶研究实验室，由�
 |---|---|
 | 名称 | OpenDriveLab |
 | 类型 | tier 2 实验室 |
-| 所属单位 | [香港大学计算与数据科学学院CDS](香港大学计算与数据科学学院CDS.md) |
+| 所属单位 | [香港大学计算与数据科学学院](香港大学计算与数据科学学院CDS.md) |
 | 负责人 | [李弘扬](../people/李弘扬_港大CDS.md) |
 | 创建时间 | 2021年 |
 | 官网 | https://opendrivelab.com/ |

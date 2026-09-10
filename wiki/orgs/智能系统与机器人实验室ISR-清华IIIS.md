@@ -1,10 +1,10 @@
 ---
 type: org
-name: 智能系统与机器人实验室（ISR Lab）
-aliases: [ISR Lab, Intelligent Systems and Robotics Lab, 陈建宇课题组]
+name: 清华大学智能系统与机器人实验室
+aliases: ["ISR Lab","Intelligent Systems and Robotics Lab","陈建宇课题组","智能系统与机器人实验室（ISR Lab）","智能系统与机器人实验室（ISR Lab，清华 IIIS）"]
 org_type: lab
 tier: 2
-parent: 清华大学交叉信息研究院（IIIS）
+parent: 清华大学交叉信息研究院
 domains: [embodied-ai, robotics, humanoid-robots, optimal-control, reinforcement-learning]
 key_people: [陈建宇, 胡钰承]
 related_companies: [星动纪元, 潜界动力]
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, iiis, embodied-ai, frontier-talent]
 ---
 
-# 智能系统与机器人实验室（ISR Lab，清华 IIIS）
+# 清华大学智能系统与机器人实验室
 
 > Sources: [IIIS 陈建宇课题组页](https://iiis.tsinghua.edu.cn/kxyj/ktzjs/)；[陈建宇个人主页](http://www.chenjianyu.net/)
 > Raw: [AA计划清华高校老师信息表](../../raw/sources/2026-09-08-AA计划-清华高校老师信息表.md)
@@ -23,14 +23,14 @@ tags: [org, tsinghua, iiis, embodied-ai, frontier-talent]
 
 ## 一句话判断
 
-ISR Lab 是[清华大学交叉信息研究院（IIIS）](清华大学交叉信息研究院IIIS.md)陈建宇助理教授领衔的机器人实验室，走"最优控制 + 学习"路线，是星动纪元的学术源头，并持续外溢出具身智能创业者。
+ISR Lab 是[清华大学交叉信息研究院](清华大学交叉信息研究院IIIS.md)陈建宇助理教授领衔的机器人实验室，走"最优控制 + 学习"路线，是星动纪元的学术源头，并持续外溢出具身智能创业者。
 
 ## ⚠️ 与相邻实验室的区分
 
 | 实验室 | 负责人 | 关系 |
 |---|---|---|
 | ISR Lab（本页） | [陈建宇](../people/陈建宇_清华交叉信息研究院.md) | 最优控制、人形机器人整机 |
-| [具身智能实验室（TEA Lab）](清华大学具身智能实验室IIIS.md) | [许华哲](../people/许华哲_清华交叉信息研究院.md) | 强化学习、机器人操作、触觉 |
+| [清华大学具身智能实验室](清华大学具身智能实验室IIIS.md) | [许华哲](../people/许华哲_清华交叉信息研究院.md) | 强化学习、机器人操作、触觉 |
 
 > 两者同属 IIIS、方向相邻但为**不同课题组**，内部整理材料中曾把 ISR Lab 的学生错记到许华哲名下，本库按导师关系分开记。
 

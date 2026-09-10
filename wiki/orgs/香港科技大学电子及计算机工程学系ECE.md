@@ -1,7 +1,7 @@
 ---
 type: org
-name: 香港科技大学电子及计算机工程学系ECE
-aliases: [ECE, ECE系, Department of Electronic and Computer Engineering, 电子及计算机工程学系, 香港科技大学ECE系]
+name: 香港科技大学电子及计算机工程学系
+aliases: ["ECE","ECE系","Department of Electronic and Computer Engineering","电子及计算机工程学系","香港科技大学ECE系","香港科技大学电子及计算机工程学系ECE"]
 org_type: department
 tier: 1
 parent: 香港科技大学
@@ -12,7 +12,7 @@ confidence: unverified
 tags: [org, hkust, department]
 ---
 
-# 香港科技大学ECE系
+# 香港科技大学电子及计算机工程学系
 
 > Sources: HKUST ECE官网 (https://ece.hkust.edu.hk/)；HKUST Faculty Profiles
 > Raw: [港科大ECE官方首页](../../raw/sources/港科大ECE官方首页.md)；[沈劭劼-港科大教师主页](../../raw/sources/沈劭劼-港科大教师主页.md)；[卓驭科技官网发展历程](../../raw/sources/卓驭科技官网发展历程.md)；[2025-11-21-卓驭科技获一汽战略投资超36亿元](../../raw/sources/2025-11-21-卓驭科技获一汽战略投资超36亿元.md)；[2023-01-06-大疆车载分拆为卓驭科技](../../raw/sources/2023-01-06-大疆车载分拆为卓驭科技.md)
@@ -37,12 +37,12 @@ tags: [org, hkust, department]
 
 | 实验室/课题组 | 负责人 | 重点方向 |
 |---|---|---|
-| [港科大无人机研究组（UAV Group）](港科大无人机研究组UAVGroup.md) | [沈劭劼](../people/沈劭劼_港科大ECE.md) | 无人机、自动驾驶、视觉惯性导航、SLAM |
-| [港科大多维度机器人系统实验室](港科大多维度机器人系统实验室.md) | [申亚京](../people/申亚京_港科大ECE.md) | 微纳机器人、软体机器人、人机交互、医疗机器人 |
+| [香港科技大学无人机研究组](港科大无人机研究组UAVGroup.md) | [沈劭劼](../people/沈劭劼_港科大ECE.md) | 无人机、自动驾驶、视觉惯性导航、SLAM |
+| [香港科技大学多维度机器人系统实验室](港科大多维度机器人系统实验室.md) | [申亚京](../people/申亚京_港科大ECE.md) | 微纳机器人、软体机器人、人机交互、医疗机器人 |
 | Intelligent Space Computing Lab | [谭平](../people/谭平_港科大ECE.md) | 智能空间计算、XR |
 | 待补 | - | - |
 
-> 注：ECE系教授同时挂靠[CKSRI郑家纯机器人研究院](郑家纯机器人研究院CKSRI.md)，形成院系+研究院双轨机制。
+> 注：ECE系教授同时挂靠[香港科技大学郑家纯机器人研究院](郑家纯机器人研究院CKSRI.md)，形成院系+研究院双轨机制。
 
 ## 核心教授（机器人/具身智能方向）
 
@@ -99,7 +99,7 @@ ECE系是港科大机器人创业的**主力军**：
 - [ ] 完整教师名单及研究方向
 - [ ] CRS研究方向的具体教授组成
 - [ ] 历年毕业生创业统计
-- [ ] 与[CKSRI](郑家纯机器人研究院CKSRI.md)的组织关系和资源分配机制
+- [ ] 与[香港科技大学郑家纯机器人研究院](郑家纯机器人研究院CKSRI.md)的组织关系和资源分配机制
 
 ## 证据
 

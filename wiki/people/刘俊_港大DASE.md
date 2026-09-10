@@ -27,7 +27,7 @@ tags: [people, hku, micro-robotics, medical-ai]
 | 姓名 | 刘俊 (Jun Liu) |
 | 当前职位 | HKU数据与系统工程系副教授 |
 | 研究方向 | 微纳米机器人、医疗机器人、单细胞操作、生物医学工程 |
-| 所在组织 | [香港大学数据与系统工程系DASE](../orgs/香港大学数据与系统工程系DASE.md) |
+| 所在组织 | [香港大学数据与系统工程系](../orgs/香港大学数据与系统工程系DASE.md) |
 | 实验室 | Automation and Intelligent Robot Lab (AIR Lab) |
 | 实验室官网 | https://airlab.hku.hk/ |
 

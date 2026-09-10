@@ -29,7 +29,7 @@ tags: [people, hku, computer-vision, dean]
 | 学术头衔 | Chair Professor |
 | 兼职 | HKU Musketeers Foundation数据科学研究院主任 |
 | 研究方向 | 计算机视觉、机器学习、高维数据分析、人工智能 |
-| 所在组织 | [香港大学计算与数据科学学院CDS](../orgs/香港大学计算与数据科学学院CDS.md) |
+| 所在组织 | [香港大学计算与数据科学学院](../orgs/香港大学计算与数据科学学院CDS.md) |
 | 个人主页 | https://www.cs.hku.hk/people/academic-staff/mayi |
 
 ## 关键信号

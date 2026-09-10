@@ -1,7 +1,7 @@
 ---
 type: org
-name: 智能技术与系统实验室（Tsinghua AI Lab/CS）
-aliases: []
+name: 清华大学智能技术与系统实验室
+aliases: ["智能技术与系统实验室（Tsinghua AI Lab/CS）"]
 org_type: lab
 tier: 2
 parent: 清华大学计算机科学与技术系
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# 智能技术与系统实验室（Tsinghua AI Lab/CS）
+# 清华大学智能技术与系统实验室
 
 > Sources: 实验室官网（https://ai.cs.tsinghua.edu.cn/）; 实验室师资（https://ai.cs.tsinghua.edu.cn/sysgk/syssz.htm）; 研究生/博士后/学生动态入口（https://ai.cs.tsinghua.edu.cn/rcpy.htm）
 > Raw: [实验室官网](../../raw/sources/2026-06-11-智能技术与系统实验室TsinghuaAILab-CS-实验室官网-288b6d60.md); [实验室师资](../../raw/sources/2026-06-11-智能技术与系统实验室TsinghuaAILab-CS-实验室师资-217d9d54.md); [研究生/博士后/学生动态入口](../../raw/sources/2026-06-11-智能技术与系统实验室TsinghuaAILab-CS-研究生-博士后-学生动态入口-ac1b93f6.md)
