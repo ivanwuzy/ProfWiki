@@ -22,16 +22,16 @@ tags: [person, hkust, robotics-director, control-theory]
 
 ## 一句话判断
 
-港科大ECE教授，[CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)院长（Director），控制/网络化系统方向，连接研究院与产业合作网络（具体权限待核），港科大机器人生态的核心枢纽。
+港科大ECE教授，[香港科技大学郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)院长（Director），控制/网络化系统方向，连接研究院与产业合作网络（具体权限待核），港科大机器人生态的核心枢纽。
 
 ## 基本信息
 
 | 字段 | 内容 |
 |---|---|
 | 当前身份 | Professor |
-| 院系 | [ECE电子及计算机工程学系](../orgs/香港科技大学电子及计算机工程学系ECE.md)、CBE化学及生物工程学系 |
+| 院系 | [香港科技大学电子及计算机工程学系](../orgs/香港科技大学电子及计算机工程学系ECE.md)、CBE化学及生物工程学系 |
 | 方向 | 控制系统、网络化系统、机器人 |
-| 关键兼任 | **Director, [CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)**（研究院院长）；Program Director, MSc in Electronic Engineering；Associate Director, HKUST-DJI Joint Innovation Laboratory；Associate Director, Space Science and Technology Institute |
+| 关键兼任 | **Director, [香港科技大学郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)**（研究院院长）；Program Director, MSc in Electronic Engineering；Associate Director, HKUST-DJI Joint Innovation Laboratory；Associate Director, Space Science and Technology Institute |
 | 官网 | https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ling-shi-eesling |
 
 ## 关键信号

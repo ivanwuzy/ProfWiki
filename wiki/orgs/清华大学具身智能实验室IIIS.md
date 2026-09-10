@@ -1,10 +1,10 @@
 ---
 type: org
-name: 清华大学具身智能实验室（IIIS）
-aliases: [TEA Lab, Tsinghua Embodied AI Lab]
+name: 清华大学具身智能实验室
+aliases: ["TEA Lab","Tsinghua Embodied AI Lab","清华大学具身智能实验室（IIIS）"]
 org_type: lab
 tier: 2
-parent: 清华大学交叉信息研究院（IIIS）
+parent: 清华大学交叉信息研究院
 domains: [embodied-ai, robotics, reinforcement-learning, imitation-learning, tactile-sensing]
 key_people: [许华哲]
 related_companies: [星海图, 破壳机器人]
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, iiis, frontier-talent]
 ---
 
-# 清华大学具身智能实验室（IIIS）
+# 清华大学具身智能实验室
 
 > Sources: IIIS 具身智能实验室页（https://iiis.tsinghua.edu.cn/kxyj/ktzjs/qhdxjsznsys.htm）; 清华电子系《星海图许华哲：具身智能的星海征途》（https://www.ee.tsinghua.edu.cn/info/1076/4939.htm）; 智源社区 DP3 报道（https://hub.baai.ac.cn/view/37364）；[破壳许华哲专访与离任星海图](https://36kr.com/p/3784365164322055)
 > Raw: [具身智能实验室](../../raw/sources/2026-06-11-清华大学具身智能实验室IIIS-具身智能实验室-0f8ab1db.md); [IIIS公开人员候选名单](../../raw/sources/2026-09-07-清华大学交叉信息研究院IIIS-公开人员候选名单.md)；[破壳许华哲专访与离任星海图](../../raw/sources/破壳许华哲专访与离任星海图.md)
@@ -33,7 +33,7 @@ tags: [org, tsinghua, iiis, frontier-talent]
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室 / lab |
-| 所属单位 | [清华大学交叉信息研究院（IIIS）](清华大学交叉信息研究院IIIS.md) |
+| 所属单位 | [清华大学交叉信息研究院](清华大学交叉信息研究院IIIS.md) |
 | 负责人 | [许华哲](../people/许华哲_清华交叉信息研究院.md) |
 | 方向 | 通用具身智能、机器人操作、强化学习、模仿学习、触觉感知、机器人硬件 |
 | 具体课题 | 策略泛化性；模仿学习/强化学习的数据效率与规模效应；无仿真物理真机强化学习；多模态机器人数据与采集；全身控制移动操作、灵巧手操作、软体操作 |

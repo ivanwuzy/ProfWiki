@@ -29,9 +29,9 @@ tags: [person, hkust, founder, embodied-ai, xr]
 | 字段 | 内容 |
 |---|---|
 | 当前身份 | Professor；Executive Director for Industry Engagement and Executive Education (School of Engineering) |
-| 院系 | [ECE电子及计算机工程学系](../orgs/香港科技大学电子及计算机工程学系ECE.md)、AMC艺术与机器创造力学部 |
+| 院系 | [香港科技大学电子及计算机工程学系](../orgs/香港科技大学电子及计算机工程学系ECE.md)、AMC艺术与机器创造力学部 |
 | 方向 | 具身智能、XR（扩展现实）、视觉智能、自动驾驶 |
-| 关键兼任 | **Associate Director, [CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)**；**Director, 港科大-比亚迪具身智能联合实验室**；Director, Intelligent Space Computing Lab；Associate Director, HKUST Von Neumann Institute |
+| 关键兼任 | **Associate Director, [香港科技大学郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)**；**Director, 港科大-比亚迪具身智能联合实验室**；Director, Intelligent Space Computing Lab；Associate Director, HKUST Von Neumann Institute |
 | 官网 | https://facultyprofiles.hkust.edu.hk/profiles.php?profile=ping-tan-eetan |
 
 ## 关键信号

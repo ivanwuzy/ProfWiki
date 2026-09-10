@@ -1,7 +1,7 @@
 ---
 type: org
-name: 港大SAIL实验室
-aliases: []
+name: 香港大学 SAIL实验室
+aliases: ["港大SAIL实验室"]
 domains:
 - embodied-ai
 - robotics
@@ -11,11 +11,11 @@ confidence: verified_primary
 tags:
 - org
 org_type: lab
-parent: 香港大学计算与数据科学学院CDS
+parent: 香港大学计算与数据科学学院
 tier: 2
 ---
 
-# 港大SAIL实验室
+# 香港大学 SAIL实验室
 
 > Sources: [HKU-SAIL实验室](https://sail.ai.hku.hk/)；[HKU-SAIL成员](https://sail.ai.hku.hk/lab.html)；[Hengshuang-Zhao研究主页](https://i.cs.hku.hk/~hszhao/)；[SAIL成员名册](https://sail.ai.hku.hk/lab.html)；[Any3D-VLA论文修订版](https://arxiv.org/html/2602.00807)；[GraspVLA论文修订版](https://arxiv.org/html/2505.03233)
 > Raw: [HKU-SAIL实验室](../../raw/sources/香港具身核查-HKU-SAIL实验室.md)；[HKU-SAIL成员](../../raw/sources/香港具身核查-HKU-SAIL成员.md)；[Hengshuang-Zhao研究主页](../../raw/sources/香港具身核查-Hengshuang-Zhao研究主页.md)；[SAIL成员名册](../../raw/sources/银河合作核验-SAIL成员名册.md)；[Any3D-VLA论文修订版](../../raw/sources/2026-05-14-银河合作核验-Any3D-VLA论文修订版.md)；[GraspVLA论文修订版](../../raw/sources/2025-08-27-银河合作核验-GraspVLA论文修订版.md)
@@ -30,7 +30,7 @@ tier: 2
 | 字段 | 内容 |
 |---|---|
 | 英文名称 | Super Artificial Intelligence Lab (SAIL) |
-| 所属单位 | [香港大学计算与数据科学学院CDS](香港大学计算与数据科学学院CDS.md)；按实验室官网直接确认的层级导航 |
+| 所属单位 | [香港大学计算与数据科学学院](香港大学计算与数据科学学院CDS.md)；按实验室官网直接确认的层级导航 |
 | 当前运行 | 官网有2026年7月新闻、2026年成员与招聘信息，判定持续活跃。 |
 | 代表工作 | Depth Anything V2、Point Transformer V3、PlayerOne、FASTER、DreamAvoid |
 

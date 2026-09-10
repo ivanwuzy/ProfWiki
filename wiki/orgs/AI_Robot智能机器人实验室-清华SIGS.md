@@ -1,7 +1,7 @@
 ---
 type: org
-name: AI&Robot智能机器人实验室
-aliases: [AI&Robot Lab, 智能机器人实验室]
+name: 清华大学智能机器人实验室
+aliases: ["AI&Robot Lab","智能机器人实验室","AI&Robot智能机器人实验室","AI&Robot 智能机器人实验室（清华 SIGS）"]
 org_type: lab
 tier: 2
 parent: 清华大学深圳国际研究生院
@@ -15,7 +15,7 @@ confidence: single_source
 tags: [org, tsinghua, shenzhen, embodied-ai]
 ---
 
-# AI&Robot 智能机器人实验室（清华 SIGS）
+# 清华大学智能机器人实验室
 
 > Sources: 零次方机器人相关媒体报道（二手）；[零次方清华xlab团队报道](https://www.x-lab.tsinghua.edu.cn/2025/0429/c455a7027/page.htm)；[零次方带队人物原文补充](https://www.x-lab.tsinghua.edu.cn/2025/0429/c455a7027/page.htm)
 > Raw: [AA计划清华高校老师信息表](../../raw/sources/2026-09-08-AA计划-清华高校老师信息表.md)；[零次方清华xlab团队报道](../../raw/sources/2025-04-29-零次方清华xlab团队报道.md)；[零次方带队人物原文补充](../../raw/sources/2025-04-29-零次方带队人物原文补充.md)

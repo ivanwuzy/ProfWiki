@@ -1,10 +1,10 @@
 ---
 type: org
-name: IDEAL 实验室
-aliases: [IDEAL, Innovative Data-centric Efficient Architecture Lab]
+name: 清华大学 IDEAL 实验室
+aliases: ["IDEAL","Innovative Data-centric Efficient Architecture Lab","IDEAL 实验室"]
 org_type: lab
 tier: 2
-parent: 清华大学交叉信息研究院（IIIS）
+parent: 清华大学交叉信息研究院
 domains: [computer-architecture, ai-chip, memory-architecture, hardware-security]
 key_people: [高鸣宇]
 related_companies: []
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, iiis, frontier-talent]
 ---
 
-# IDEAL 实验室
+# 清华大学 IDEAL 实验室
 
 > Sources: IIIS IDEAL 课题组页（https://iiis.tsinghua.edu.cn/kxyj/ktzjs/IDEAL__Innovative_Data_centric_Efficient_Architect.htm）; Mingyu Gao - Students（https://people.iiis.tsinghua.edu.cn/~gaomy/students.html）; IIIS 人员队伍（https://iiis.tsinghua.edu.cn/rydw.htm）
 > Raw: [IIIS公开人员候选名单](../../raw/sources/2026-09-07-清华大学交叉信息研究院IIIS-公开人员候选名单.md)（来源编号 S1、S7、S8）
@@ -29,7 +29,7 @@ IDEAL（Innovative Data-centric Efficient Architecture Lab）是 IIIS 的计算�
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室 / lab |
-| 所属单位 | [清华大学交叉信息研究院（IIIS）](清华大学交叉信息研究院IIIS.md) |
+| 所属单位 | [清华大学交叉信息研究院](清华大学交叉信息研究院IIIS.md) |
 | PI | [高鸣宇](../people/高鸣宇_清华交叉信息研究院.md) |
 | 方向 | 计算机系统结构：新型存储架构、专用计算系统、硬件系统安全；面向深度学习、图形处理、数据分析等数据密集型应用的高效架构 |
 | 官网 | https://iiis.tsinghua.edu.cn/kxyj/ktzjs/IDEAL__Innovative_Data_centric_Efficient_Architect.htm |
@@ -70,7 +70,7 @@ IDEAL（Innovative Data-centric Efficient Architecture Lab）是 IIIS 的计算�
 | 待验证 | 高鸣宇入选福布斯 U30 属产业化关注度信号，但未检索到其创办公司的公开证据 | 高鸣宇 | 福布斯中国 U30 页 |
 | AI 芯片/算力硬件 | 方向与国内 AI 芯片、存算一体、算力优化创业赛道高度相邻 | 高鸣宇及学生 | 课题组方向列表 |
 
-> 已核实：**高鸣宇与无问芯穹无公开关联**。无问芯穹核心团队为清华电子系汪玉、夏立雪及颜深根、戴国浩，见 [汪玉课题组 / NICSEFC](汪玉课题组-NICSEFC.md)。此处特别标注以防后续误连。
+> 已核实：**高鸣宇与无问芯穹无公开关联**。无问芯穹核心团队为清华电子系汪玉、夏立雪及颜深根、戴国浩，见 [清华大学汪玉课题组](汪玉课题组-NICSEFC.md)。此处特别标注以防后续误连。
 
 ## 待验证
 

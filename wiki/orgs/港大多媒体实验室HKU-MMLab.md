@@ -1,7 +1,7 @@
 ---
 type: org
-name: 港大多媒体实验室HKU-MMLab
-aliases: []
+name: 香港大学多媒体实验室
+aliases: ["港大多媒体实验室HKU-MMLab"]
 domains:
 - embodied-ai
 - robotics
@@ -15,7 +15,7 @@ parent: 香港大学
 tier: 1
 ---
 
-# 港大多媒体实验室HKU-MMLab
+# 香港大学多媒体实验室
 
 > Sources: [HKU-MMLab团队介绍](https://mmlab.hk/about-us)；[刘希慧研究主页](https://xh-liu.github.io/)；[港大官方双语讲者名单](https://datascience.hku.hk/hk-sh-ai-forum-2024/speakers/)
 > Raw: [HKU-MMLab团队介绍](../../raw/sources/香港具身核查-HKU-MMLab团队介绍.md)；[刘希慧研究主页](../../raw/sources/香港具身核查-刘希慧研究主页.md)；[港大官方双语讲者名单](../../raw/sources/香港具身核查-港大沪港AI论坛双语姓名.md)
@@ -38,7 +38,7 @@ tier: 1
 |---|---|
 | [罗平](../people/罗平_港大MMLab.md) | 官网成员；商汤研究总监转入港大，导师汤晓鸥、王晓刚 |
 | [刘希慧](../people/刘希慧_港大ECE.md) | 官网成员；EgoPlan、多模态与具身研究，清华本科 |
-| [李弘扬](../people/李弘扬_港大CDS.md) | 官网成员；[OpenDriveLab](OpenDriveLab.md)负责人、UniAD与AgiBot World |
+| [李弘扬](../people/李弘扬_港大CDS.md) | 官网成员；[香港大学 OpenDriveLab](OpenDriveLab.md)负责人、UniAD与AgiBot World |
 | [戴勃](../people/戴勃_港大IDS.md) | 官网成员；AnimateDiff、CityNeRF等具名工作 |
 | Yao Mu | 官网列为上海交通大学助理教授、港大博士；属于跨校人才网络，不计作港大在职PI |
 

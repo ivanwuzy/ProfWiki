@@ -1,7 +1,7 @@
 ---
 type: org
-name: 港科广APEX课题组
-aliases: []
+name: 香港科技大学（广州） APEX课题组
+aliases: ["港科广APEX课题组"]
 domains:
 - embodied-ai
 - robotics
@@ -15,7 +15,7 @@ parent: 香港科技大学（广州）计算媒体与艺术学域
 tier: 3
 ---
 
-# 港科广APEX课题组
+# 香港科技大学（广州） APEX课题组
 
 > Sources: [APEX实验室](https://apex-hci.com/)；[范明明研究主页](https://www.mingmingfan.com/)；[港科广信息枢纽](https://www.hkust-gz.edu.cn/zh/academics/hubs-and-thrust-areas/information-hub/?variant=zh-cn)
 > Raw: [APEX实验室](../../raw/sources/香港具身核查-APEX实验室.md)；[范明明研究主页](../../raw/sources/香港具身核查-范明明研究主页.md)；[港科广信息枢纽](../../raw/sources/香港具身核查-港科广信息枢纽.md)

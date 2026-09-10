@@ -1,7 +1,7 @@
 ---
 type: org
-name: 深圳市人工智能与机器人研究院AIRS
-aliases: []
+name: 深圳市人工智能与机器人研究院
+aliases: ["深圳市人工智能与机器人研究院AIRS"]
 domains:
 - embodied-ai
 - robotics
@@ -15,7 +15,7 @@ parent: 香港中文大学（深圳）
 tier: 1
 ---
 
-# 深圳市人工智能与机器人研究院AIRS
+# 深圳市人工智能与机器人研究院
 
 > Sources: [AIRS研究院简介](https://airs.cuhk.edu.cn/about)；[AIRS科研力量](https://airs.cuhk.edu.cn/team)；[极数迭代战略合作公告](https://airs.cuhk.edu.cn/article/1349)；[AIRS世界机器人大会展示](https://airs.cuhk.edu.cn/article/1441)
 > Raw: [AIRS研究院简介](../../raw/sources/香港具身核查-AIRS研究院简介.md)；[AIRS科研力量](../../raw/sources/香港具身核查-AIRS科研力量.md)；[极数迭代战略合作公告](../../raw/sources/2025-11-14-香港具身核查-极数迭代战略合作公告.md)；[AIRS世界机器人大会展示](../../raw/sources/2026-08-24-香港具身核查-AIRS世界机器人大会展示.md)

@@ -1,7 +1,7 @@
 ---
 type: org
 name: 清华大学具身智能与机器人研究院
-aliases: [EIR, THUEIR, Institute for Embodied Intelligence and Robotics Tsinghua University]
+aliases: ["EIR","THUEIR","Institute for Embodied Intelligence and Robotics Tsinghua University","清华大学具身智能与机器人研究院（EIR）"]
 org_type: institute
 tier: 1
 parent: 清华大学
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# 清华大学具身智能与机器人研究院（EIR）
+# 清华大学具身智能与机器人研究院
 
 > Sources: EIR 首页（https://eir.tsinghua.edu.cn/）; 研究院简介（https://eir.tsinghua.edu.cn/gyyjy/yjyjj.htm）; 院长简介（https://eir.tsinghua.edu.cn/gyyjy/yzjj.htm）; 院务会（https://eir.tsinghua.edu.cn/gyyjy/ywh.htm）; 学术委员会（https://eir.tsinghua.edu.cn/gyyjy/xswyh.htm）; 五大中心页面（https://eir.tsinghua.edu.cn/yjjg/mxyjhyjzx.htm 等）
 > Raw: [EIR 公开人员候选名单（2026-09-07）](../../raw/sources/2026-09-07-清华大学具身智能与机器人研究院EIR-公开人员候选名单.md); [EIR 首页](../../raw/sources/2026-06-11-清华大学具身智能与机器人研究院EIR-EIR官网-60abbe24.md); [研究院简介](../../raw/sources/2026-06-11-eir-intro.md); [院长简介](../../raw/sources/2026-06-11-eir-dean.md); [院务会](../../raw/sources/2026-06-11-eir-institute-council.md); [学术委员会](../../raw/sources/2026-06-11-eir-academic-committee.md); [模型与交互研究中心](../../raw/sources/2026-06-11-eir-model-interaction-center.md); [感知与控制研究中心](../../raw/sources/2026-06-11-eir-perception-control-center.md); [软硬件与本体研究中心](../../raw/sources/2026-06-11-eir-hardware-embodiment-center.md); [数据与算力研究中心](../../raw/sources/2026-06-11-eir-data-computing-center.md); [战略与标准研究中心](../../raw/sources/2026-06-11-eir-strategy-standards-center.md)
@@ -45,7 +45,7 @@ EIR 是 2025-09-30 成立的校级具身智能与机器人研究院，挂靠科�
 | 数据与算力研究中心 | [张卫强](../people/张卫强_清华电子工程系.md) | **电子系** | 围绕具身智能“**感、通、导、数、算、测六大基础能力**”；“多模态数据治理、智能算力研发、测试评估体系构建”；愿景“数据标准化、算力国产化、生态一体化” |
 | 战略与标准研究中心 | 苏竣 | 公共管理学院 | “具身智能战略与治理”“具身智能标准研制”“战略标准场景一体化落地” |
 
-> **这条对应关系是本轮七份报告的组织学主线**：其他六个单位的人员都可以据此定位其在具身智能技术栈中的层位——[自动化系](清华大学自动化系.md)管感知控制、[计算机系](清华大学计算机科学与技术系.md)管模型交互、[机械系](清华大学机械工程系.md)管本体软硬件、[电子系](清华大学电子工程系.md)管数据算力。
+> **这条对应关系是本轮七份报告的组织学主线**：其他六个单位的人员都可以据此定位其在具身智能技术栈中的层位——[清华大学自动化系](清华大学自动化系.md)管感知控制、[清华大学计算机科学与技术系](清华大学计算机科学与技术系.md)管模型交互、[清华大学机械工程系](清华大学机械工程系.md)管本体软硬件、[清华大学电子工程系](清华大学电子工程系.md)管数据算力。
 >
 > **模型与交互中心的“视觉-语言-动作的深度融合架构”是 VLA 路线的官方表述**，是清华官网上少见的、由校级机构直接写明的技术路线声明。
 
@@ -122,11 +122,11 @@ EIR 是 2025-09-30 成立的校级具身智能与机器人研究院，挂靠科�
 
 | 实验室/课题组 | 主任 | 重点方向 |
 |---|---|---|
-| [EIR感知与控制研究中心](EIR感知与控制研究中心.md) | 鲁继文（自动化系） | 具身智能感知、具身智能控制、具身感知控制一体化 |
-| [EIR模型与交互研究中心](EIR模型与交互研究中心.md) | 刘华平（计算机系） | 大模型融合、多模态交互、具身表征；VLA 深度融合架构 |
-| [EIR软硬件与本体研究中心](EIR软硬件与本体研究中心.md) | 李曙光（机械系） | 本体硬件研发、物理仿真与数字孪生、软硬件本体一体化集成 |
-| [EIR数据与算力研究中心](EIR数据与算力研究中心.md) | 张卫强（电子系） | 感通导数算测六大基础能力、多模态数据治理、智能算力、测评体系 |
-| [EIR战略与标准研究中心](EIR战略与标准研究中心.md) | 苏竣（公管学院） | 具身智能战略与治理、标准研制、战略标准场景一体化落地 |
+| [清华大学具身智能与机器人研究院感知与控制研究中心](EIR感知与控制研究中心.md) | 鲁继文（自动化系） | 具身智能感知、具身智能控制、具身感知控制一体化 |
+| [清华大学具身智能与机器人研究院模型与交互研究中心](EIR模型与交互研究中心.md) | 刘华平（计算机系） | 大模型融合、多模态交互、具身表征；VLA 深度融合架构 |
+| [清华大学具身智能与机器人研究院软硬件与本体研究中心](EIR软硬件与本体研究中心.md) | 李曙光（机械系） | 本体硬件研发、物理仿真与数字孪生、软硬件本体一体化集成 |
+| [清华大学具身智能与机器人研究院数据与算力研究中心](EIR数据与算力研究中心.md) | 张卫强（电子系） | 感通导数算测六大基础能力、多模态数据治理、智能算力、测评体系 |
+| [清华大学具身智能与机器人研究院战略与标准研究中心](EIR战略与标准研究中心.md) | 苏竣（公管学院） | 具身智能战略与治理、标准研制、战略标准场景一体化落地 |
 
 > **五个中心页面均只公开主任姓名与研究方向，未公开任何中心成员名单。** 这是 EIR 当前最大的信息缺口——五个中心的实际研究团队构成完全不可见。上述五个 wiki 页面的“方向”字段为概括性描述，本次已用官网原文表述补充到本页；**五个中心页本身的方向原文升级尚未做**。
 
@@ -144,11 +144,11 @@ EIR 是 2025-09-30 成立的校级具身智能与机器人研究院，挂靠科�
 
 | 公司/项目 | 关联方式 | 相关人物 | 证据 |
 |---|---|---|---|
-| [EIR模型与交互研究中心](EIR模型与交互研究中心.md) | 五大中心之一，聚焦大模型融合、多模态交互、具身表征。 | 刘华平 | https://eir.tsinghua.edu.cn/yjjg/mxyjhyjzx.htm |
-| [EIR感知与控制研究中心](EIR感知与控制研究中心.md) | 五大中心之一，聚焦环境感知、自主决策与智能控制。 | 鲁继文 | https://eir.tsinghua.edu.cn/yjjg/gzykzyjzx.htm |
-| [EIR软硬件与本体研究中心](EIR软硬件与本体研究中心.md) | 五大中心之一，聚焦机器人本体硬件、物理仿真与软硬件集成。 | 李曙光 | https://eir.tsinghua.edu.cn/yjjg/ryjybtyjzx.htm |
-| [EIR数据与算力研究中心](EIR数据与算力研究中心.md) | 五大中心之一，聚焦多模态数据治理、智能算力、测试评估。 | 张卫强 | https://eir.tsinghua.edu.cn/yjjg/sjyslyjzx.htm |
-| [EIR战略与标准研究中心](EIR战略与标准研究中心.md) | 五大中心之一，聚焦战略政策、技术标准和场景治理。 | 苏竣 | https://eir.tsinghua.edu.cn/yjjg/zlybzyjzx.htm |
+| [清华大学具身智能与机器人研究院模型与交互研究中心](EIR模型与交互研究中心.md) | 五大中心之一，聚焦大模型融合、多模态交互、具身表征。 | 刘华平 | https://eir.tsinghua.edu.cn/yjjg/mxyjhyjzx.htm |
+| [清华大学具身智能与机器人研究院感知与控制研究中心](EIR感知与控制研究中心.md) | 五大中心之一，聚焦环境感知、自主决策与智能控制。 | 鲁继文 | https://eir.tsinghua.edu.cn/yjjg/gzykzyjzx.htm |
+| [清华大学具身智能与机器人研究院软硬件与本体研究中心](EIR软硬件与本体研究中心.md) | 五大中心之一，聚焦机器人本体硬件、物理仿真与软硬件集成。 | 李曙光 | https://eir.tsinghua.edu.cn/yjjg/ryjybtyjzx.htm |
+| [清华大学具身智能与机器人研究院数据与算力研究中心](EIR数据与算力研究中心.md) | 五大中心之一，聚焦多模态数据治理、智能算力、测试评估。 | 张卫强 | https://eir.tsinghua.edu.cn/yjjg/sjyslyjzx.htm |
+| [清华大学具身智能与机器人研究院战略与标准研究中心](EIR战略与标准研究中心.md) | 五大中心之一，聚焦战略政策、技术标准和场景治理。 | 苏竣 | https://eir.tsinghua.edu.cn/yjjg/zlybzyjzx.htm |
 | 技术研发-中试验证-场景应用转化枢纽 | 研究院简介称将依托北京市产业生态资源，构建全链条转化枢纽；本轮未在 EIR 官网发现具体企业名单。 | 待后续从产业合作页面补证 | https://eir.tsinghua.edu.cn/gyyjy/yjyjj.htm |
 
 ## 证据

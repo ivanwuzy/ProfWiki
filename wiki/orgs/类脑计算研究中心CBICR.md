@@ -1,7 +1,7 @@
 ---
 type: org
 name: 清华大学类脑计算研究中心
-aliases: [CBICR, Center for Brain-Inspired Computing Research]
+aliases: ["CBICR","Center for Brain-Inspired Computing Research","清华大学类脑计算研究中心（CBICR）"]
 org_type: institute
 tier: 2
 parent: 清华大学精密仪器系
@@ -15,7 +15,7 @@ confidence: verified_secondary
 tags: [org, tsinghua, ai-chip, frontier-talent]
 ---
 
-# 清华大学类脑计算研究中心（CBICR）
+# 清华大学类脑计算研究中心
 
 > Sources: [CBICR 官网](https://www.cbicr.tsinghua.edu.cn/)；[清华官网·天眸芯](https://www.tsinghua.edu.cn/info/1182/111940.htm)；[清华官网·精仪系类脑中心](https://www.tsinghua.edu.cn/info/1175/111803.htm)；[千诀融资与高海川课题组](https://36kr.com/p/3204104567185673)
 > Raw: [AA计划清华高校老师信息表](../../raw/sources/2026-09-08-AA计划-清华高校老师信息表.md)；[千诀融资与高海川课题组](../../raw/sources/2025-03-14-千诀融资与高海川课题组.md)

@@ -1,10 +1,10 @@
 ---
 type: org
-name: Embryo Labs
-aliases: [IIIS 数据库系统课题组]
+name: 清华大学 Embryo Labs
+aliases: ["IIIS 数据库系统课题组","Embryo Labs"]
 org_type: group
 tier: 2
-parent: 清华大学交叉信息研究院（IIIS）
+parent: 清华大学交叉信息研究院
 domains: [database, cloud-database, data-infra, ai-data-infra]
 key_people: [张焕晨]
 related_companies: []
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, iiis, frontier-talent]
 ---
 
-# Embryo Labs
+# 清华大学 Embryo Labs
 
 > Sources: IIIS Embryo Labs 页（https://iiis.tsinghua.edu.cn/kxyj/ktzjs/Embryo_Labs.htm）; GitHub 组织 embryo-labs（https://github.com/embryo-labs）; IIIS 人员队伍（https://iiis.tsinghua.edu.cn/rydw.htm）
 > Raw: [IIIS公开人员候选名单](../../raw/sources/2026-09-07-清华大学交叉信息研究院IIIS-公开人员候选名单.md)（来源编号 S1、S6）
@@ -31,7 +31,7 @@ Embryo Labs 是 IIIS 的数据库系统课题组，PI [张焕晨](../people/张�
 | 字段 | 内容 |
 |---|---|
 | 类型 | 课题组 / group |
-| 所属单位 | [清华大学交叉信息研究院（IIIS）](清华大学交叉信息研究院IIIS.md) |
+| 所属单位 | [清华大学交叉信息研究院](清华大学交叉信息研究院IIIS.md) |
 | PI | [张焕晨](../people/张焕晨_清华交叉信息研究院.md) |
 | 方向 | 数据库管理系统、索引/过滤数据结构、数据压缩、云数据库；智能云原生数据库、复杂查询优化、向量化执行引擎、LSM-tree 存储引擎、面向 AI 的现代存储格式 |
 | 官网 | https://iiis.tsinghua.edu.cn/kxyj/ktzjs/Embryo_Labs.htm |

@@ -138,6 +138,7 @@ button.desktop-explorer {
 
   .folder-outer {
     display: grid;
+    min-width: 0;
     grid-template-rows: 0fr;
     transition: grid-template-rows 0.3s ease-in-out;
   }
@@ -194,6 +195,26 @@ button.desktop-explorer {
       line-height: 1.5rem;
       pointer-events: none;
     }
+  }
+}
+
+.explorer-content {
+  & li > a,
+  & .folder-title {
+    display: block;
+    min-width: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  & .folder-container > div {
+    flex: 1;
+    min-width: 0;
+  }
+
+  & .folder-button {
+    max-width: 100%;
   }
 }
 

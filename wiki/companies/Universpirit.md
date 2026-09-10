@@ -23,7 +23,7 @@ tags: [company, hkust, edtech, small-scale]
 
 ## 一句话判断
 
-Universpirit（宏宇创新）是港科大 [郑家纯机器人研究院CKSRI](../orgs/郑家纯机器人研究院CKSRI.md) 院长 [施凌](../people/施凌_港科大ECE.md) 以联合创始人身份参与的一家**规模较小、处于早期阶段**的 STEAM 教育科技公司，2022 年成立，尚未查到外部机构融资，仅在 2025 年获得校内创业赛事的学生团队奖。它与施凌本人主业研究方向（网络物理系统安全、网络化控制系统、多智能体机器人）关联度不高，不宜与李泽湘、谭平、沈劭劼等人主业高度相关的创业公司同等看待。
+Universpirit（宏宇创新）是港科大 [香港科技大学郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md) 院长 [施凌](../people/施凌_港科大ECE.md) 以联合创始人身份参与的一家**规模较小、处于早期阶段**的 STEAM 教育科技公司，2022 年成立，尚未查到外部机构融资，仅在 2025 年获得校内创业赛事的学生团队奖。它与施凌本人主业研究方向（网络物理系统安全、网络化控制系统、多智能体机器人）关联度不高，不宜与李泽湘、谭平、沈劭劼等人主业高度相关的创业公司同等看待。
 
 ## 基本信息
 
@@ -43,7 +43,7 @@ Universpirit（宏宇创新）是港科大 [郑家纯机器人研究院CKSRI](..
 
 | 关联类型 | 内容 | 证据 |
 |---|---|---|
-| 联合创始人 | [施凌](../people/施凌_港科大ECE.md)，港科大 ECE/CBE 教授，[CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md) 院长；官方页面明确写"co-founded Universpirit in 2022 to promote STEAM education" | HKUST Entrepreneurship Center Founders' Club (A0) |
+| 联合创始人 | [施凌](../people/施凌_港科大ECE.md)，港科大 ECE/CBE 教授，[香港科技大学郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md) 院长；官方页面明确写"co-founded Universpirit in 2022 to promote STEAM education" | HKUST Entrepreneurship Center Founders' Club (A0) |
 | 学生创业团队 | 2025 年"HKUST-SINO 百万美元创业大赛"香港赛区获奖团队由施凌指导的港科大 ECE 系研究生组成：博士生 LIN Hin-Wang、ZHANG Fan、YIM Ying-Hong、WANG Pengyu，硕士生 DU Xiawei（原文未注明各成员在公司内的具体职务） | HKUST 工学院新闻 (A0) |
 | 产业展示 | 产品 DXPERT 在 CKSRI 首届产业峰会暨"机器人产业联盟"成立活动的展览环节亮相 | HKUST 新闻 (A0) |
 

@@ -1,7 +1,7 @@
 ---
 type: org
-name: 香港中文大学计算机科学与工程学系CSE
-aliases: [CUHK Department of Computer Science and Engineering, CUHK CSE]
+name: 香港中文大学计算机科学与工程学系
+aliases: ["CUHK Department of Computer Science and Engineering","CUHK CSE","香港中文大学计算机科学与工程学系CSE"]
 org_type: department
 tier: 1
 parent: 香港中文大学
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, cuhk, frontier-talent]
 ---
 
-# 香港中文大学计算机科学与工程学系CSE
+# 香港中文大学计算机科学与工程学系
 
 > Sources: CUHK CSE官网（https://www.cse.cuhk.edu.hk/）；窦琪个人主页（https://www.cse.cuhk.edu.hk/~qdou）；[Liwei-Wang与LaVi](https://lwwangcse.github.io/)
 > Updated: 2026-09-08
@@ -57,7 +57,7 @@ tags: [org, cuhk, frontier-talent]
 
 | 实验室/院系 | 负责人/覆盖 | 重点方向 | 页面 |
 |---|---|---|---|
-| [港中大LaVi实验室](港中大LaVi实验室.md) | [Liwei Wang](../people/Liwei-Wang_港中大CSE.md) | 语言视觉、世界模型与具身导航 | [LaVi](港中大LaVi实验室.md) |
+| [香港中文大学 LaVi实验室](港中大LaVi实验室.md) | [Liwei Wang](../people/Liwei-Wang_港中大CSE.md) | 语言视觉、世界模型与具身导航 | [香港中文大学 LaVi实验室](港中大LaVi实验室.md) |
 
 ## 核心研究方向
 

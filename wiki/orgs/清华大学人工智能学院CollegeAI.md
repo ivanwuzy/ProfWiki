@@ -1,7 +1,7 @@
 ---
 type: org
 name: 清华大学人工智能学院
-aliases: [CollegeAI, College of AI Tsinghua University, 清华AI学院]
+aliases: ["CollegeAI","College of AI Tsinghua University","清华AI学院","清华大学人工智能学院（CollegeAI）"]
 org_type: department
 tier: 1
 parent: 清华大学
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# 清华大学人工智能学院（CollegeAI）
+# 清华大学人工智能学院
 
 > Sources: 清华大学人工智能学院简介（https://collegeai.tsinghua.edu.cn/xygk/xyjj.htm）; 人员队伍（https://collegeai.tsinghua.edu.cn/rydw.htm）; 课题组介绍（https://collegeai.tsinghua.edu.cn/kxyj/ktzjs.htm）；[薛晗研究主页](https://axian12138.github.io/)；[廖浩然研究主页](https://liaohr9.github.io/)
 > Raw: [学院简介](../../raw/sources/2026-06-11-collegeai-intro.md); [人员队伍](../../raw/sources/2026-06-11-collegeai-people.md); [课题组介绍](../../raw/sources/2026-06-11-collegeai-research-groups.md)；[薛晗研究主页](../../raw/sources/银河合作核验-薛晗研究主页.md)；[廖浩然研究主页](../../raw/sources/银河合作核验-廖浩然研究主页.md)
@@ -54,19 +54,19 @@ tags: [org, tsinghua, frontier-talent]
 
 | 实验室/课题组 | 重点方向 |
 |---|---|
-| [AI Agent课题组](AI_Agent课题组.md) | 大模型驱动智能体、Coding Agent、Agent 安全 |
-| [Delta-I Lab](Delta-ILab.md) | 多智能体、机制设计、Human-AI 经济学、安全博弈 |
-| [LIU Lab](LIULab.md) | AI+Science、可解释 AI、物理与 AI 交叉 |
-| [Lamb Lab](LambLab.md) | 快速学习与环境适应的学习系统 |
-| [MEOW LAB（Modeling Egocentric Omniscient Worlds）](MEOWLABModelingEgocentricOmniscientWorlds.md) | 第一视角视觉、多模态生成式 AI、AR/智能眼镜 |
-| [NeuroAI Lab（AI + Neuroscience）](NeuroAILabAI+Neuroscience.md) | AI 与神经科学、脑机接口算法 |
-| [T-STAR Lab](T-STAR_Lab.md) | 大模型安全与对齐、可信评测、对抗鲁棒性 |
-| [交互式具身智能课题组](交互式具身智能课题组.md) | 具身智能、世界模型、灵巧控制与感知 |
-| [多模态智能课题组](多模态智能课题组.md) | 多模态大模型能力体系 |
-| [李欣阳课题组](李欣阳课题组.md) | 成像与视觉、AI 赋能科学观测 |
+| [清华大学 AI Agent课题组](AI_Agent课题组.md) | 大模型驱动智能体、Coding Agent、Agent 安全 |
+| [清华大学 Delta-I Lab](Delta-ILab.md) | 多智能体、机制设计、Human-AI 经济学、安全博弈 |
+| [清华大学 LIU Lab](LIULab.md) | AI+Science、可解释 AI、物理与 AI 交叉 |
+| [清华大学 Lamb Lab](LambLab.md) | 快速学习与环境适应的学习系统 |
+| [清华大学 MEOW LAB](MEOWLABModelingEgocentricOmniscientWorlds.md) | 第一视角视觉、多模态生成式 AI、AR/智能眼镜 |
+| [清华大学 NeuroAI Lab](NeuroAILabAI+Neuroscience.md) | AI 与神经科学、脑机接口算法 |
+| [清华大学安全与可信人工智能实验室](T-STAR_Lab.md) | 大模型安全与对齐、可信评测、对抗鲁棒性 |
+| [清华大学交互式具身智能课题组](交互式具身智能课题组.md) | 具身智能、世界模型、灵巧控制与感知 |
+| [清华大学多模态智能课题组](多模态智能课题组.md) | 多模态大模型能力体系 |
+| [清华大学李欣阳课题组](李欣阳课题组.md) | 成像与视觉、AI 赋能科学观测 |
 | [清华大学人工智能学院课题组总入口](清华大学人工智能学院课题组总入口.md) | 全部 PI 课题组索引，批量采集入口 |
-| [科学智能与物理感知实验室](科学智能与物理感知实验室.md) | 物理驱动科学智能、计算成像、遥感/天文 AI |
-| [结构表征学习实验室](结构表征学习实验室.md) | 结构化表征学习、矩阵几何、等变/解耦表征 |
+| [清华大学科学智能与物理感知实验室](科学智能与物理感知实验室.md) | 物理驱动科学智能、计算成像、遥感/天文 AI |
+| [清华大学结构表征学习实验室](结构表征学习实验室.md) | 结构化表征学习、矩阵几何、等变/解耦表征 |
 
 ## 人员结构：一个“全员助理教授”的新建学院
 

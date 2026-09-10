@@ -27,16 +27,16 @@ tags: [person, hkust, young-faculty, smart-manufacturing, high-watch]
 
 ## 一句话判断
 
-港科大MAE助理教授，Center for Smart Manufacturing主任，[CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)执行委员会中**唯一的助理教授**，精密运动控制/智能制造方向，与机器人关节、驱动高度相关，**被重点培养的信号极强，建议列为头号观察对象**。
+港科大MAE助理教授，Center for Smart Manufacturing主任，[香港科技大学郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)执行委员会中**唯一的助理教授**，精密运动控制/智能制造方向，与机器人关节、驱动高度相关，**被重点培养的信号极强，建议列为头号观察对象**。
 
 ## 基本信息
 
 | 字段 | 内容 |
 |---|---|
 | 当前身份 | Assistant Professor |
-| 院系 | [MAE机械及航空航天工程学系](../orgs/香港科技大学机械及航空航天工程学系MAE.md) |
+| 院系 | [香港科技大学机械及航空航天工程学系](../orgs/香港科技大学机械及航空航天工程学系MAE.md) |
 | 方向 | 精密运动控制、智能制造、机器人关节与驱动 |
-| 关键兼任 | **Director, Center for Smart Manufacturing**；[CKSRI郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)执行委员（**唯一助理教授进入执委会**） |
+| 关键兼任 | **Director, Center for Smart Manufacturing**；[香港科技大学郑家纯机器人研究院](../orgs/郑家纯机器人研究院CKSRI.md)执行委员（**唯一助理教授进入执委会**） |
 | 官网 | https://facultyprofiles.hkust.edu.hk/profiles.php?profile=molong-duan-meduan |
 
 ## 关键信号

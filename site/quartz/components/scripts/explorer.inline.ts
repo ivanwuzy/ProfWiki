@@ -87,6 +87,7 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   a.href = resolveRelative(currentSlug, node.slug)
   a.dataset.for = node.slug
   a.textContent = node.displayName
+  a.title = node.displayName
 
   if (currentSlug === node.slug) {
     a.classList.add("active")
@@ -110,6 +111,7 @@ function createFolderNode(
 
   const folderPath = node.slug
   folderContainer.dataset.folderpath = folderPath
+  titleContainer.title = node.displayName
 
   if (opts.folderClickBehavior === "link") {
     // Replace button with link for link behavior

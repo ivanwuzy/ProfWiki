@@ -29,7 +29,7 @@ tags: [people, cuhk, robotics, embodied-ai, institute-director]
 | 学术头衔 | Chair Professor |
 | 行政职务 | T Stone Robotics Institute主任 |
 | 研究方向 | 机器人学、具身智能、网络化传感器系统、工业自动化 |
-| 所在组织 | [香港中文大学机械与自动化工程学系MAE](../orgs/香港中文大学机械与自动化工程学系MAE.md) |
+| 所在组织 | [香港中文大学机械与自动化工程学系](../orgs/香港中文大学机械与自动化工程学系MAE.md) |
 | 实验室 | Networked Sensing and Control Lab（1995年创建） |
 | 个人主页 | https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/ |
 

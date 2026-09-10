@@ -1,7 +1,7 @@
 ---
 type: org
-name: 港理工ROMI实验室
-aliases: []
+name: 香港理工大学 ROMI实验室
+aliases: ["港理工ROMI实验室"]
 domains:
 - embodied-ai
 - robotics
@@ -15,7 +15,7 @@ parent: 香港理工大学机械工程学系
 tier: 2
 ---
 
-# 港理工ROMI实验室
+# 香港理工大学 ROMI实验室
 
 > Sources: [ROMI实验室](https://www.romi-lab.org/)；[ROMI成员](https://www.romi-lab.org/people)；[ROMI研究成果](https://www.romi-lab.org/publications)；[ROMI企业转化栏目](https://www.romi-lab.org/enterprise)
 > Raw: [ROMI实验室](../../raw/sources/香港具身核查-ROMI实验室.md)；[ROMI成员](../../raw/sources/香港具身核查-ROMI成员.md)；[ROMI研究成果](../../raw/sources/香港具身核查-ROMI研究成果.md)；[ROMI企业转化栏目](../../raw/sources/香港具身核查-ROMI企业转化栏目.md)

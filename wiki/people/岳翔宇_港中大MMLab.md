@@ -34,7 +34,7 @@ related_companies: []
 | 字段 | 内容 |
 |---|---|
 | 当前公开身份 | 香港中文大学信息工程学系助理教授、MMLab成员 |
-| 课题组/实验室 | [港中大多媒体实验室MMLab](../orgs/港中大多媒体实验室MMLab.md) |
+| 课题组/实验室 | [香港中文大学多媒体实验室](../orgs/港中大多媒体实验室MMLab.md) |
 | 学术轨迹与导师 | 南京大学本科、Stanford硕士、Berkeley EECS博士；博士导师Alberto Sangiovanni Vincentelli与Kurt Keutzer。 |
 | 范围 | 本页按公开身份、具名工作与奖项建页；未确认的信息不由职称或方向推断。 |
 

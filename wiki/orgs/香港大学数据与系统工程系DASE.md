@@ -1,7 +1,7 @@
 ---
 type: org
-name: 香港大学数据与系统工程系DASE
-aliases: [HKU Department of Data and Systems Engineering, HKU DASE]
+name: 香港大学数据与系统工程系
+aliases: ["HKU Department of Data and Systems Engineering","HKU DASE","香港大学数据与系统工程系DASE"]
 org_type: department
 tier: 1
 parent: 香港大学
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, hku, frontier-talent]
 ---
 
-# 香港大学数据与系统工程系DASE
+# 香港大学数据与系统工程系
 
 > Sources: HKU DASE官网（https://www.dase.hku.hk/）；AIR Lab官网（https://airlab.hku.hk/）
 > Raw: [香港大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)
@@ -48,7 +48,7 @@ tags: [org, hku, frontier-talent]
 
 | 实验室/研究组 | 负责人 | 重点方向 | 页面链接 |
 |---|---|---|---|
-| AIR Lab | [刘俊](../people/刘俊_港大DASE.md) | 微纳米机器人、医疗机器人、单细胞操作、IVF应用 | [港大AIR Lab](港大AIR_Lab.md) |
+| AIR Lab | [刘俊](../people/刘俊_港大DASE.md) | 微纳米机器人、医疗机器人、单细胞操作、IVF应用 | [香港大学自动化与智能机器人实验室](港大AIR_Lab.md) |
 
 ## 核心研究方向
 

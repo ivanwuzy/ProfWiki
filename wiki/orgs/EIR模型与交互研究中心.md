@@ -1,7 +1,7 @@
 ---
 type: org
-name: EIR模型与交互研究中心
-aliases: []
+name: 清华大学具身智能与机器人研究院模型与交互研究中心
+aliases: ["EIR模型与交互研究中心"]
 org_type: group
 tier: 2
 parent: 清华大学具身智能与机器人研究院
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# EIR模型与交互研究中心
+# 清华大学具身智能与机器人研究院模型与交互研究中心
 
 > Sources: 模型与交互研究中心（https://eir.tsinghua.edu.cn/yjjg/mxyjhyjzx.htm）
 > Raw: [模型与交互研究中心](../../raw/sources/2026-06-11-EIR模型与交互研究中心-模型与交互研究中心-aeb2792c.md)
@@ -29,7 +29,7 @@ tags: [org, tsinghua, frontier-talent]
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室/课题组 / group |
-| 所属单位 | [清华大学具身智能与机器人研究院（EIR）](清华大学具身智能与机器人研究院EIR.md) |
+| 所属单位 | [清华大学具身智能与机器人研究院](清华大学具身智能与机器人研究院EIR.md) |
 | 方向 | 具身智能脑模型、交互学习、模型-数据-交互闭环。 |
 | 官网 | 模型与交互研究中心 |
 

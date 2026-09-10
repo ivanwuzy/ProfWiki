@@ -1,10 +1,10 @@
 ---
 type: org
-name: 港科大物理AI中心
-aliases: [Center of Physical AI, 物理AI中心]
+name: 香港科技大学物理AI中心
+aliases: ["Center of Physical AI","物理AI中心","港科大物理AI中心"]
 org_type: center
 tier: 2
-parent: 香港科技大学CSE系
+parent: 香港科技大学计算机科学及工程学系
 domains: [physical-ai, embodied-ai, edge-computing, iot]
 watch_tier: T1
 last_verified: 2026-09-07
@@ -12,7 +12,7 @@ confidence: unverified
 tags: [org, hkust, center, physical-ai]
 ---
 
-# 港科大物理AI中心
+# 香港科技大学物理AI中心
 
 > Sources: HKUST Faculty Profiles；郭嵩个人主页
 > Updated: 2026-09-08
@@ -30,7 +30,7 @@ tags: [org, hkust, center, physical-ai]
 |---|---|
 | 类型 | 研究中心（center）|
 | 英文全称 | Center of Physical AI |
-| 所属院系 | [香港科技大学计算机科学及工程学系CSE](香港科技大学计算机科学及工程学系CSE.md) |
+| 所属院系 | [香港科技大学计算机科学及工程学系](香港科技大学计算机科学及工程学系CSE.md) |
 | 主任 | 郭嵩 Song GUO（Chair Professor） |
 | 官网 | 待补 |
 | 核心研究方向 | 物理AI、具身智能、边缘计算、物联网 |

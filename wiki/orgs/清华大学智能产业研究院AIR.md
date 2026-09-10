@@ -1,7 +1,7 @@
 ---
 type: org
 name: 清华大学智能产业研究院
-aliases: [AIR, Institute for AI Industry Research Tsinghua University, 清华AIR]
+aliases: ["AIR","Institute for AI Industry Research Tsinghua University","清华AIR","清华大学智能产业研究院（AIR）"]
 org_type: institute
 tier: 1
 parent: 清华大学
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# 清华大学智能产业研究院（AIR）
+# 清华大学智能产业研究院
 
 > Sources: AIR 简介（https://air.tsinghua.edu.cn/gyair/AIRjj.htm）; 科学研究（https://air.tsinghua.edu.cn/kxyj.htm）; 研究团队（https://air.tsinghua.edu.cn/airtd/yjtd.htm）; 研究生（https://air.tsinghua.edu.cn/airtd/yjs.htm）; 智能机器人方向（https://air.tsinghua.edu.cn/kxyj/znjqr.htm）; 院级合作单位入口页尝试（https://air.tsinghua.edu.cn/yjhzdw.htm）; 求之科技（https://air.tsinghua.edu.cn/yjhzdw/qzkj.htm）; 水木分子（https://air.tsinghua.edu.cn/yjhzdw/smfz.htm）; 华深智药（https://air.tsinghua.edu.cn/yjhzdw/hszy.htm）；[DeepTech专访](https://m.sohu.com/a/1071293284_354973)
 > Raw: [AIR 公开人员候选名单（2026-09-07）](../../raw/sources/2026-09-07-清华大学智能产业研究院AIR-公开人员候选名单.md); [AIR 简介](../../raw/sources/2026-06-11-air-intro.md); [科学研究](../../raw/sources/2026-06-11-air-research.md); [研究团队](../../raw/sources/2026-06-11-air-research-team.md); [研究生名单](../../raw/sources/2026-06-11-air-graduate-students.md); [院级合作单位入口页 404 快照](../../raw/sources/2026-06-11-清华大学智能产业研究院AIR-院级合作单位-e385808a.md); [合作单位导航页](../../raw/sources/2026-06-11-air-college-level-partners.md); [求之科技](../../raw/sources/2026-06-11-air-discover-robotics.md); [水木分子](../../raw/sources/2026-06-11-air-pharmolix.md); [华深智药](../../raw/sources/2026-06-11-air-helixon.md)；[DeepTech李健雄专访](../../raw/sources/2026-09-03-DeepTech李健雄本溯智能创业专访摘录.md)
@@ -51,7 +51,7 @@ AIR 是 2020 年由张亚勤创建的清华 AI 产业化研究院，也是**本�
 
 | 实验室/课题组 | 重点方向 | 本库页面 |
 |---|---|---|
-| [AIR智能机器人方向](AIR智能机器人方向.md) | 机器人、自动驾驶、柔性制造、工业自动化 | 已建页 |
+| [清华大学智能产业研究院智能机器人方向](AIR智能机器人方向.md) | 机器人、自动驾驶、柔性制造、工业自动化 | 已建页 |
 | DISCOVER Lab（协同视觉与机器人实验室，周谷越主任） | 协同视觉与机器人、先进制造、人机交互 | 内容承接于[DISCOVER Lab / 求之科技](../companies/DISCOVER-Lab-求之科技AIRBOT.md)，不另建组织页 |
 | 清华大学-戴尔乐具身与协同机器人联合研究院（周谷越院长） | 名称直接含“具身”，校企联合建制 | 未建页（建制边界与成员未公开） |
 
@@ -112,11 +112,11 @@ Rahim Tafazolli、陶大程、张宏江、彭健、许锦波、欧阳晔
 | 刘洋（**非现任院长**） | 曾任副研究员 | 2021–2025 | 联邦学习；原微众银行联邦学习研究团队负责人 |
 | 龚江涛 | 页面未标注职务级别 | 2022–2026 | **具身认知增强的类人智能体** |
 
-> **同名去重陷阱（必须标记）**：“刘洋”在 AIR 页面上出现两次——**现任院长**刘洋（NLP/智慧医疗/科学智能，本库[已建页](../people/刘洋_AIR.md)）与**曾任副研究员**刘洋（联邦学习，2021–2025 已离职）。职务、方向、任期均不同，**是两位同名的不同研究者**。此外[人工智能学院](清华大学人工智能学院CollegeAI.md)兼聘 PI 名单中还有一位未标注本职单位的“刘洋”，归属待定。**三者不可混同**，任何按姓名做的跨页去重都必须避开这个坑（与计算机系“周强”属同类问题）。
+> **同名去重陷阱（必须标记）**：“刘洋”在 AIR 页面上出现两次——**现任院长**刘洋（NLP/智慧医疗/科学智能，本库[已建页](../people/刘洋_AIR.md)）与**曾任副研究员**刘洋（联邦学习，2021–2025 已离职）。职务、方向、任期均不同，**是两位同名的不同研究者**。此外[清华大学人工智能学院](清华大学人工智能学院CollegeAI.md)兼聘 PI 名单中还有一位未标注本职单位的“刘洋”，归属待定。**三者不可混同**，任何按姓名做的跨页去重都必须避开这个坑（与计算机系“周强”属同类问题）。
 
 ## 智能机器人方向的结构性缺口
 
-AIR 官网五大方向为智慧物联、智慧交通、智慧医疗、大数据智能、**智能机器人**，布局原文称大数据智能与智能机器人追求“**原始技术突破**”，依靠“大学与企业创新双引擎”。但[智能机器人方向页](AIR智能机器人方向.md)存在明显缺口：
+AIR 官网五大方向为智慧物联、智慧交通、智慧医疗、大数据智能、**智能机器人**，布局原文称大数据智能与智能机器人追求“**原始技术突破**”，依靠“大学与企业创新双引擎”。但[清华大学智能产业研究院智能机器人方向](AIR智能机器人方向.md)存在明显缺口：
 
 | 项目 | 页面内容 |
 |---|---|
@@ -137,7 +137,7 @@ AIR 官网五大方向为智慧物联、智慧交通、智慧医疗、大数据�
 - [ ] AIR 无博士后栏目，仅从成果作者中可见博士后郑琛一人。
 - [ ] 张亚勤、聂再清、刘云新的方向在团队页未单列，须以个人页为准。
 - [ ] 院级合作单位页公开了企业业务邮箱与电话，**已按本库隐私规则全部剔除，不予记录**。
-- [ ] 张亚勤、刘云新、马维英、聂再清、兰艳艳、刘洋 6 人同时出现在[人工智能学院](清华大学人工智能学院CollegeAI.md)兼聘 PI 名单中，**跨单位统计时不得重复计数**。
+- [ ] 张亚勤、刘云新、马维英、聂再清、兰艳艳、刘洋 6 人同时出现在[清华大学人工智能学院](清华大学人工智能学院CollegeAI.md)兼聘 PI 名单中，**跨单位统计时不得重复计数**。
 
 ## 创业/产业化线索
 
@@ -147,7 +147,7 @@ AIR 官网五大方向为智慧物联、智慧交通、智慧医疗、大数据�
 | [水木分子（AIR孵化）](../companies/水木分子AIR孵化.md) | AIR 官方页面称水木分子由 AIR 孵化，面向生物医药行业基础大模型和对话式研发助手。 | [聂再清](../people/聂再清_清华智能产业研究院.md) | https://air.tsinghua.edu.cn/yjhzdw/smfz.htm |
 | [华深智药（AIR合作单位）](../companies/华深智药AIR合作单位.md) | AIR 官方页面列为院级合作单位，描述为 AI-based drug discovery 公司。 | 彭健 | https://air.tsinghua.edu.cn/yjhzdw/hszy.htm |
 | 清华无锡院智能产业创新中心 | 院级合作单位；官网称依托无锡产业生态和 AIR 人才科研优势，推动人工智能科技创新与成果转化。 | 孙伟 | https://air.tsinghua.edu.cn/yjhzdw/wxcxzx.htm |
-| [AIR智能机器人方向](AIR智能机器人方向.md) | AIR 科学研究方向之一，连接智能机器人、自动驾驶、柔性制造和产业应用。 | 周谷越、赵昊等 | https://air.tsinghua.edu.cn/kxyj/znjqr.htm |
+| [清华大学智能产业研究院智能机器人方向](AIR智能机器人方向.md) | AIR 科学研究方向之一，连接智能机器人、自动驾驶、柔性制造和产业应用。 | 周谷越、赵昊等 | https://air.tsinghua.edu.cn/kxyj/znjqr.htm |
 
 ## 证据
 

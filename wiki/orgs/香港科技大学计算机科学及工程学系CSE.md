@@ -1,7 +1,7 @@
 ---
 type: org
-name: 香港科技大学计算机科学及工程学系CSE
-aliases: [CSE, CSE系, Department of Computer Science and Engineering, 计算机科学及工程学系, 香港科技大学CSE系]
+name: 香港科技大学计算机科学及工程学系
+aliases: ["CSE","CSE系","Department of Computer Science and Engineering","计算机科学及工程学系","香港科技大学CSE系","香港科技大学计算机科学及工程学系CSE"]
 org_type: department
 tier: 1
 parent: 香港科技大学
@@ -12,7 +12,7 @@ confidence: unverified
 tags: [org, hkust, department]
 ---
 
-# 香港科技大学CSE系
+# 香港科技大学计算机科学及工程学系
 
 > Sources: HKUST CSE官网 (https://cse.hkust.edu.hk/)；HKUST Faculty Profiles
 > Raw: [港科大CSE官方首页](../../raw/sources/港科大CSE官方首页.md)
@@ -37,13 +37,13 @@ tags: [org, hkust, department]
 
 | 实验室/课题组 | 负责人 | 重点方向 |
 |---|---|---|
-| [港科大对话与智能机器人中心（CAiRE）](港科大对话与智能机器人中心CAiRE.md) | [陈启峰](../people/陈启峰_港科大CSE.md)（Acting Director） | 视觉智能、生成式AI、多模态、VLA |
-| [港科大物理AI中心](港科大物理AI中心.md) | 郭嵩 Song GUO（Director） | 物理AI、具身智能、边缘计算 |
-| [港科大深圳大模型AI实验室](港科大深圳大模型AI实验室.md) | 罗文寒 Wenhan LUO（Director） | 大模型、视频生成 |
+| [香港科技大学对话与智能机器人中心](港科大对话与智能机器人中心CAiRE.md) | [陈启峰](../people/陈启峰_港科大CSE.md)（Acting Director） | 视觉智能、生成式AI、多模态、VLA |
+| [香港科技大学物理AI中心](港科大物理AI中心.md) | 郭嵩 Song GUO（Director） | 物理AI、具身智能、边缘计算 |
+| [香港科技大学深圳大模型AI实验室](港科大深圳大模型AI实验室.md) | 罗文寒 Wenhan LUO（Director） | 大模型、视频生成 |
 | HKUST Big Data Institute | 李波 Bo LI（Director） | 大数据、系统 |
 | 待补 | - | - |
 
-> 注：CSE系教授部分挂靠[CKSRI郑家纯机器人研究院](郑家纯机器人研究院CKSRI.md)，为机器人提供"大脑"侧算法支持。
+> 注：CSE系教授部分挂靠[香港科技大学郑家纯机器人研究院](郑家纯机器人研究院CKSRI.md)，为机器人提供"大脑"侧算法支持。
 
 ## 核心教授（AI/具身智能方向）
 
@@ -97,7 +97,7 @@ CSE系主要在"具身大脑"方向培养创业人才：
 
 - [ ] 完整教师名单及研究方向
 - [ ] 历年毕业生创业统计
-- [ ] 与[CKSRI](郑家纯机器人研究院CKSRI.md)的组织关系和资源分配机制
+- [ ] 与[香港科技大学郑家纯机器人研究院](郑家纯机器人研究院CKSRI.md)的组织关系和资源分配机制
 - [ ] CAiRE的当前团队规模和主要研究项目
 
 ## 证据

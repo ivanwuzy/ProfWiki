@@ -1,10 +1,10 @@
 ---
 type: org
-name: AI Theory Group
-aliases: [张景昭课题组]
+name: 清华大学 AI Theory Group
+aliases: ["张景昭课题组","AI Theory Group"]
 org_type: group
 tier: 2
-parent: 清华大学交叉信息研究院（IIIS）
+parent: 清华大学交叉信息研究院
 domains: [ml-theory, optimization, deep-learning-theory, scaling-law]
 key_people: [张景昭]
 related_companies: []
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, iiis, frontier-talent]
 ---
 
-# AI Theory Group
+# 清华大学 AI Theory Group
 
 > Sources: IIIS AI Theory Group 页（https://iiis.tsinghua.edu.cn/kxyj/ktzjs/AI_Theory_Group.htm）; Jingzhao's homepage - Our group（https://sites.google.com/view/jingzhao/our-group）; IIIS 张景昭研究团队获 COLT 2025 最佳学生论文奖（https://iiis.tsinghua.edu.cn/info/1018/4755.htm）
 > Raw: [IIIS公开人员候选名单](../../raw/sources/2026-09-07-清华大学交叉信息研究院IIIS-公开人员候选名单.md)（来源编号 S1、S9、S10）；[陈乐偲本人主页](../../raw/sources/陈乐偲个人主页与论文列表.md)；[IIIS与PMLR官方获奖/作者原文](../../raw/sources/2025-07-07-IIIS陈乐偲COLT2025最佳学生论文奖.md)
@@ -29,7 +29,7 @@ AI Theory Group 是 [张景昭](../people/张景昭_清华交叉信息研究院.
 | 字段 | 内容 |
 |---|---|
 | 类型 | 课题组 / group |
-| 所属单位 | [清华大学交叉信息研究院（IIIS）](清华大学交叉信息研究院IIIS.md) |
+| 所属单位 | [清华大学交叉信息研究院](清华大学交叉信息研究院IIIS.md) |
 | PI | [张景昭](../people/张景昭_清华交叉信息研究院.md) |
 | 方向 | 优化、机器学习理论、强化学习、动力系统、异常检测；transformer scaling law、神经网络空间划分、训练数据成员检测 |
 | 官网 | https://iiis.tsinghua.edu.cn/kxyj/ktzjs/AI_Theory_Group.htm |

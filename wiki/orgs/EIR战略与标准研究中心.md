@@ -1,7 +1,7 @@
 ---
 type: org
-name: EIR战略与标准研究中心
-aliases: []
+name: 清华大学具身智能与机器人研究院战略与标准研究中心
+aliases: ["EIR战略与标准研究中心"]
 org_type: group
 tier: 2
 parent: 清华大学具身智能与机器人研究院
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# EIR战略与标准研究中心
+# 清华大学具身智能与机器人研究院战略与标准研究中心
 
 > Sources: 战略与标准研究中心（https://eir.tsinghua.edu.cn/yjjg/zlybzyjzx.htm）
 > Raw: [战略与标准研究中心](../../raw/sources/2026-06-11-EIR战略与标准研究中心-战略与标准研究中心-80705877.md)
@@ -29,7 +29,7 @@ tags: [org, tsinghua, frontier-talent]
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室/课题组 / group |
-| 所属单位 | [清华大学具身智能与机器人研究院（EIR）](清华大学具身智能与机器人研究院EIR.md) |
+| 所属单位 | [清华大学具身智能与机器人研究院](清华大学具身智能与机器人研究院EIR.md) |
 | 方向 | 具身智能政策、标准、场景治理；投资机构理解监管/产业标准有用。 |
 | 官网 | 战略与标准研究中心 |
 

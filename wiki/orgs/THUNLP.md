@@ -1,7 +1,7 @@
 ---
 type: org
-name: THUNLP
-aliases: []
+name: 清华大学 THUNLP
+aliases: ["THUNLP"]
 org_type: group
 tier: 2
 parent: 清华大学计算机科学与技术系
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, frontier-talent]
 ---
 
-# THUNLP
+# 清华大学 THUNLP
 
 > Sources: THUNLP官网（https://nlp.csai.tsinghua.edu.cn/）; THUNLP Staff（https://nlp.csai.tsinghua.edu.cn/staff/）; 孙茂松页面（https://nlp.csai.tsinghua.edu.cn/staff/sms/）
 > Raw: [THUNLP官网](../../raw/sources/2026-06-11-THUNLP-THUNLP官网-2ef3c667.md); [THUNLP Staff](../../raw/sources/2026-06-11-THUNLP-THUNLPStaff-f1842b9a.md); [孙茂松页面](../../raw/sources/2026-06-11-THUNLP-孙茂松页面-36c3dad9.md)

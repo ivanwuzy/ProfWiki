@@ -27,7 +27,7 @@ tags: [people, cuhk, medical-robotics, surgical-ai]
 | 姓名 | 窦琪 (Qi Dou) |
 | 当前职位 | CUHK计算机科学与工程学系副教授 |
 | 研究方向 | 医疗机器人、手术AI、计算机视觉、深度学习 |
-| 所在组织 | [香港中文大学计算机科学与工程学系CSE](../orgs/香港中文大学计算机科学与工程学系CSE.md) |
+| 所在组织 | [香港中文大学计算机科学与工程学系](../orgs/香港中文大学计算机科学与工程学系CSE.md) |
 | 平台 | Multi-Scale Medical Robotics Center |
 | 个人主页 | https://www.cse.cuhk.edu.hk/~qdou/ |
 

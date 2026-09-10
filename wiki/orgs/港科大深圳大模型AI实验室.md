@@ -1,10 +1,10 @@
 ---
 type: org
-name: 港科大深圳大模型AI实验室
-aliases: [HKUST Shenzhen Large Model AI Laboratory, 深圳大模型实验室]
+name: 香港科技大学深圳大模型AI实验室
+aliases: ["HKUST Shenzhen Large Model AI Laboratory","深圳大模型实验室","港科大深圳大模型AI实验室"]
 org_type: lab
 tier: 2
-parent: 香港科技大学CSE系
+parent: 香港科技大学计算机科学及工程学系
 domains: [ai, foundation-model, video-generation, generative-ai]
 watch_tier: T1
 last_verified: 2026-09-07
@@ -12,7 +12,7 @@ confidence: unverified
 tags: [org, hkust, lab, large-model]
 ---
 
-# 港科大深圳大模型AI实验室
+# 香港科技大学深圳大模型AI实验室
 
 > Sources: HKUST Faculty Profiles；罗文寒个人主页
 > Updated: 2026-09-08
@@ -30,7 +30,7 @@ tags: [org, hkust, lab, large-model]
 |---|---|
 | 类型 | 实验室（lab）|
 | 英文全称 | HKUST Shenzhen Large Model AI Laboratory |
-| 所属院系 | [香港科技大学计算机科学及工程学系CSE](香港科技大学计算机科学及工程学系CSE.md) |
+| 所属院系 | [香港科技大学计算机科学及工程学系](香港科技大学计算机科学及工程学系CSE.md) |
 | 主任 | 罗文寒 Wenhan LUO（Associate Professor） |
 | 官网 | 待补 |
 | 核心研究方向 | 大模型、视频生成、生成式AI |

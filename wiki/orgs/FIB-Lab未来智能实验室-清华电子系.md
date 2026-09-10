@@ -1,7 +1,7 @@
 ---
 type: org
-name: FIB-Lab未来智能实验室
-aliases: [FIB-Lab, Future Intelligence laB, 城市科学与计算研究中心]
+name: 清华大学未来智能实验室
+aliases: ["FIB-Lab","Future Intelligence laB","城市科学与计算研究中心","FIB-Lab未来智能实验室","FIB-Lab 未来智能实验室（清华电子系）"]
 org_type: lab
 tier: 2
 parent: 清华大学电子工程系
@@ -15,7 +15,7 @@ confidence: verified_primary
 tags: [org, tsinghua, world-model, frontier-talent]
 ---
 
-# FIB-Lab 未来智能实验室（清华电子系）
+# 清华大学未来智能实验室
 
 > Sources: [FIB-Lab 新闻页·WorldScape 系列](https://fi.ee.tsinghua.edu.cn/news/20/)；[英诺流形空间融资与团队](https://www.innospace.cn/news/detail/c28b732bf4895d1e87368ecf5ec325d4/2)
 > Raw: [AA计划清华高校老师信息表](../../raw/sources/2026-09-08-AA计划-清华高校老师信息表.md)；[英诺流形空间融资与团队](../../raw/sources/英诺流形空间融资与团队.md)

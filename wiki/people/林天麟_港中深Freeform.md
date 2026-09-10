@@ -34,7 +34,7 @@ related_companies: []
 | 字段 | 内容 |
 |---|---|
 | 当前公开身份 | 香港中文大学（深圳）副教授；Freeform主任 |
-| 课题组/实验室 | [Freeform Robotics](../orgs/FreeformRobotics.md) |
+| 课题组/实验室 | [香港中文大学（深圳） Freeform Robotics](../orgs/FreeformRobotics.md) |
 | 学术轨迹与导师 | 港中大B.Eng.（2006）及Ph.D.（2010）；导师尚未核实。个人主页列SSE Assistant Dean (Research)，组页列国家地方联合工程实验室Executive Deputy Director，个人页写Deputy Director，中文精确职务待统一。 |
 | 范围 | 本页按公开身份、具名工作与奖项建页；未确认的信息不由职称或方向推断。 |
 
@@ -47,7 +47,7 @@ related_companies: []
 
 ## 创业/产业关联
 
-[AIRS](../orgs/深圳市人工智能与机器人研究院AIRS.md)官网列为项目负责人；未核实个人创办公司。
+[深圳市人工智能与机器人研究院](../orgs/深圳市人工智能与机器人研究院AIRS.md)官网列为项目负责人；未核实个人创办公司。
 
 ## 待验证
 

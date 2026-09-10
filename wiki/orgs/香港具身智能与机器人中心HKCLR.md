@@ -1,7 +1,7 @@
 ---
 type: orgs
-name: 香港具身智能与机器人中心HKCLR
-aliases: [HKCLR, Hong Kong Center for Logistics Robotics, 香港具身智能与机器人中心]
+name: 香港具身智能与机器人中心
+aliases: ["HKCLR","Hong Kong Center for Logistics Robotics","香港具身智能与机器人中心HKCLR","香港具身智能与机器人中心（HKCLR）"]
 parent: 香港中文大学
 tier: 1
 domains: [embodied-ai, robotics, full-stack-ai, automation]
@@ -11,7 +11,7 @@ confidence: verified_primary
 tags: [orgs, cuhk, embodied-ai, tier1]
 ---
 
-# 香港具身智能与机器人中心（HKCLR）
+# 香港具身智能与机器人中心
 
 > Sources: [HKCLR官网](https://hkclr.hk/)；[CUHK新闻](https://www.cuhk.edu.hk/)
 > Raw: [香港中文大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)

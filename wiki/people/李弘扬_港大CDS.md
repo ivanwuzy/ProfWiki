@@ -22,13 +22,13 @@ tags: [person, hku, embodied-ai, founder]
 
 ## 一句话判断
 
-李弘扬是香港大学计算与数据科学学院助理教授、助理院长（AI研究与技术转化），[OpenDriveLab](../orgs/OpenDriveLab.md) 联合创办者；现任 [源策未来](../companies/源策未来ArchonRobotics.md) 创始人兼 Chief Robot Officer（CRO），CEO 是李天羽。
+李弘扬是香港大学计算与数据科学学院助理教授、助理院长（AI研究与技术转化），[香港大学 OpenDriveLab](../orgs/OpenDriveLab.md) 联合创办者；现任 [源策未来](../companies/源策未来ArchonRobotics.md) 创始人兼 Chief Robot Officer（CRO），CEO 是李天羽。
 
 ## 基本信息与信号
 
 | 项目 | 内容 | 证据 |
 |---|---|---|
-| 高校身份 | [港大 CDS](../orgs/香港大学计算与数据科学学院CDS.md) Assistant Professor、Assistant Director（AI Research and Tech Transfer） | 本人中英文官方简介 |
+| 高校身份 | [香港大学计算与数据科学学院](../orgs/香港大学计算与数据科学学院CDS.md) Assistant Professor、Assistant Director（AI Research and Tech Transfer） | 本人中英文官方简介 |
 | 实验室 | 2021 年联合创办 OpenDriveLab；中文简介称团队负责人 | 本人主页 |
 | 代表工作 | 主导 UniAD，获 CVPR 2023 Best Paper Award | 本人主页；公司官网 |
 | 具身研究 | AgiBot World、机器人操作 scaling law；IROS 2025 Best Paper Finalist | 本人主页；这是入围，非最佳论文获奖 |
@@ -54,4 +54,4 @@ tags: [person, hku, embodied-ai, founder]
 
 ## 本轮组织网络补充
 
-[HKU-MMLab](../orgs/港大多媒体实验室HKU-MMLab.md)官方团队页将Hongyang Li列为成员，并介绍UniAD、AgiBot World和OpenDriveLab。此为公开研究网络关系，不等同于其公司由该网络作为法人孵化。
+[香港大学多媒体实验室](../orgs/港大多媒体实验室HKU-MMLab.md)官方团队页将Hongyang Li列为成员，并介绍UniAD、AgiBot World和OpenDriveLab。此为公开研究网络关系，不等同于其公司由该网络作为法人孵化。

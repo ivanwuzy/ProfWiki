@@ -1,10 +1,10 @@
 ---
 type: org
-name: 港科大对话与智能机器人中心（CAiRE）
-aliases: [CAiRE, Center for Artificial Intelligence Research, 人工智能研究中心]
+name: 香港科技大学对话与智能机器人中心
+aliases: ["CAiRE","Center for Artificial Intelligence Research","人工智能研究中心","港科大对话与智能机器人中心（CAiRE）"]
 org_type: center
 tier: 2
-parent: 香港科技大学CSE系
+parent: 香港科技大学计算机科学及工程学系
 domains: [ai, visual-intelligence, multimodal, generative-ai, embodied-ai, vla]
 watch_tier: T1
 last_verified: 2026-09-07
@@ -12,7 +12,7 @@ confidence: unverified
 tags: [org, hkust, center, ai]
 ---
 
-# 港科大对话与智能机器人中心（CAiRE）
+# 香港科技大学对话与智能机器人中心
 
 > Sources: CAiRE官网；HKUST Faculty Profiles；陈启峰个人主页
 > Updated: 2026-09-08
@@ -30,7 +30,7 @@ tags: [org, hkust, center, ai]
 |---|---|
 | 类型 | 研究中心（center）|
 | 英文全称 | Center for Artificial Intelligence Research |
-| 所属院系 | [香港科技大学计算机科学及工程学系CSE](香港科技大学计算机科学及工程学系CSE.md) |
+| 所属院系 | [香港科技大学计算机科学及工程学系](香港科技大学计算机科学及工程学系CSE.md) |
 | 代理主任 | [陈启峰](../people/陈启峰_港科大CSE.md) |
 | 官网 | 待补 |
 | 核心研究方向 | 视觉智能、生成式AI、多模态、VLA、对话系统 |
@@ -72,7 +72,7 @@ tags: [org, hkust, center, ai]
 
 ## 产业合作
 
-- [CKSRI郑家纯机器人研究院](郑家纯机器人研究院CKSRI.md)：陈启峰任执行委员
+- [香港科技大学郑家纯机器人研究院](郑家纯机器人研究院CKSRI.md)：陈启峰任执行委员
 - 待补：需从CAiRE官网产业合作页面提取
 
 ## 组织定位
