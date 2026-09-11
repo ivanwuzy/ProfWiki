@@ -246,6 +246,11 @@ export default ((opts?: Partial<GraphOptions>) => {
                 step="0.05"
               />
             </label>
+            <section class="global-graph-universities" aria-label="已收录高校">
+              <h4>已收录高校</h4>
+              <p>点击高校，高亮节点与关联</p>
+              <div data-graph-universities />
+            </section>
           </section>
           <button
             class="global-graph-controls-gear"

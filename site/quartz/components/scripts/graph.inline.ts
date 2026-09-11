@@ -303,7 +303,15 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   let searchMatchedNodeIds: Set<SimpleSlug> = new Set()
   const linkRenderData: LinkRenderData[] = []
   const nodeRenderData: NodeRenderData[] = []
+  const universityList = graph.parentElement?.querySelector<HTMLElement>(
+    "[data-graph-universities]",
+  )
+  const universityButtons: HTMLButtonElement[] = []
+
   function updateHoverInfo(newHoveredId: string | null) {
+    for (const button of universityButtons) {
+      button.setAttribute("aria-pressed", String(button.dataset.nodeId === pinnedNodeId))
+    }
     hoveredNodeId = newHoveredId
 
     if (newHoveredId === null) {
@@ -488,24 +496,22 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     window.spaNavigate(new URL(targ, window.location.toString()))
   }
 
+  function selectNode(nodeId: SimpleSlug) {
+    searchHighlightPaused = true
+    pinnedNodeId = nodeId
+    updateHoverInfo(nodeId)
+    if (!dragging) renderPixiFromD3()
+  }
+
   function handleNodePress(nodeId: SimpleSlug) {
     if (isSearchHighlightActive()) {
-      searchHighlightPaused = true
-      pinnedNodeId = nodeId
-      updateHoverInfo(nodeId)
-      if (!dragging) {
-        renderPixiFromD3()
-      }
+      selectNode(nodeId)
       return
     }
 
     if (readGraphTouchSelectMode()) {
       if (pinnedNodeId !== nodeId) {
-        pinnedNodeId = nodeId
-        updateHoverInfo(nodeId)
-        if (!dragging) {
-          renderPixiFromD3()
-        }
+        selectNode(nodeId)
         return
       }
     }
@@ -584,7 +590,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           }
         : null
     }
-    if ((!readGraphTouchSelectMode() || pinnedNodeId === null) && searchQuery === "") {
+    if (pinnedNodeId === null && searchQuery === "") {
       blankPointerStart = null
       return
     }
@@ -692,7 +698,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         }
       })
       .on("pointerleave", () => {
-        const fallbackNodeId = readGraphTouchSelectMode() ? pinnedNodeId : null
+        const fallbackNodeId = pinnedNodeId
         updateHoverInfo(fallbackNodeId)
         if (fallbackNodeId !== nodeId) {
           label.alpha = oldLabelOpacity
@@ -852,6 +858,27 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
   document.addEventListener("graphnodesearchchange", handleGraphNodeSearchChange)
 
+  if (universityList) {
+    removeAllChildren(universityList)
+    const universities = graphData.nodes
+      .filter((node) => node.id.startsWith("wiki/universities/"))
+      .sort((a, b) => {
+        const aFirst = a.id === "wiki/universities/清华大学"
+        const bFirst = b.id === "wiki/universities/清华大学"
+        return Number(bFirst) - Number(aFirst) || a.text.localeCompare(b.text, "zh-CN")
+      })
+    for (const node of universities) {
+      const button = document.createElement("button")
+      button.type = "button"
+      button.textContent = node.text
+      button.dataset.nodeId = node.id
+      button.setAttribute("aria-pressed", "false")
+      button.addEventListener("click", () => selectNode(node.id))
+      universityButtons.push(button)
+      universityList.appendChild(button)
+    }
+  }
+
   let stopAnimation = false
   function animate(time: number) {
     if (stopAnimation) return
@@ -898,6 +925,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   resizeObserver.observe(graph)
   requestAnimationFrame(animate)
   return () => {
+    if (universityList) removeAllChildren(universityList)
     resizeObserver.disconnect()
     simulation.stop()
     tweens.forEach((tween) => tween.stop())
