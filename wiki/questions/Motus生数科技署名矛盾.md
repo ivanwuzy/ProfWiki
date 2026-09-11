@@ -23,11 +23,11 @@ tags: [question, tsinghua, world-model, frontier-talent]
 | 内部整理表 | arXiv:2512.13030 实际署名 |
 |---|---|
 | "Motus（生数科技×清华联合开源）" | 清华大学、北京大学、地平线机器人（Horizon Robotics） |
-| "[谭恒楷](../people/谭恒楷_清华计算机系.md)…在朱军教授的生数科技" | 论文未标注生数科技；谭恒楷在生数科技的任职未找到公开信息 |
+| "[谭恒楷](../people/谭恒楷-清华计算机.md)…在朱军教授的生数科技" | 论文未标注生数科技；谭恒楷在生数科技的任职未找到公开信息 |
 
 ## 不受影响的事实
 
-- [朱军](../people/朱军_清华计算机科学与技术系.md)是[生数科技](../companies/生数科技.md)创始人兼首席科学家——这一点独立成立，有公开来源。
+- [朱军](../people/朱军-清华计算机.md)是[生数科技](../companies/生数科技.md)创始人兼首席科学家——这一点独立成立，有公开来源。
 - 谭恒楷师从朱军、属 [清华大学 TSAIL实验室](../orgs/TSAIL实验室-清华计算机系.md) 实验室——与 Motus 的机构署名一致。
 
 ## 可能的解释（均未验证）
@@ -39,7 +39,7 @@ tags: [question, tsinghua, world-model, frontier-talent]
 
 | 页面 | 影响 |
 |---|---|
-| [谭恒楷](../people/谭恒楷_清华计算机系.md) | `related_companies` 留空 |
+| [谭恒楷](../people/谭恒楷-清华计算机.md) | `related_companies` 留空 |
 | [生数科技](../companies/生数科技.md) | 不把 Motus 列入公司成果 |
 
 ## 下一步验证

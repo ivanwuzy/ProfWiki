@@ -17,8 +17,9 @@ tags: [org, tsinghua, frontier-talent]
 
 # 清华大学 Delta-I Lab
 
-> Sources: Delta-I Lab（https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/Delta_I_Lab_.htm）; Semantic Scholar检索（https://www.semanticscholar.org/search?q=Tonghan%20Wang%20multi-agent%20reinforcement%20learning%20economics&sort=relevance）; DBLP检索（https://dblp.org/search?q=Tonghan%20Wang%20multi-agent）
+> Sources: [Delta-I Lab](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/Delta_I_Lab_.htm)
 > Raw: [Delta-I Lab](../../raw/sources/2026-06-11-Delta-ILab-Delta-ILab-92d6eddd.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
@@ -35,28 +36,23 @@ tags: [org, tsinghua, frontier-talent]
 
 ## 重点人物
 
-| 人物 | 角色 | 方向 | 信号 |
+| 人物 | 角色 | 方向 | 证据与边界 |
 |---|---|---|---|
-| [王同翰](../people/王同翰_清华人工智能学院.md) | PI/负责人/相关人员 | 多智能体论文、博弈/机制设计、强化学习、学生招聘信息。 | 创建课题组节点；王同翰建人物节点，标注“拟入职/入职状态需复核”。 |
+| [王同翰](../people/王同翰-清华AI学院.md) | 课题组 PI | （多）智能体及其经济学 | [课题组原文](../../raw/sources/2026-06-11-Delta-ILab-Delta-ILab-92d6eddd.md)列 PI：Tonghan WANG。正式入职状态仍按人物页待核口径。 |
 
 ## 创业/产业化线索
 
-| 公司/项目 | 关联方式 | 相关人物 | 证据 |
-|---|---|---|---|
-| 待验证 | 创建课题组节点；王同翰建人物节点，标注“拟入职/入职状态需复核”。 | 王同翰 | https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/Delta_I_Lab_.htm |
-
-## 导入字段
-
-多智能体论文、博弈/机制设计、强化学习、学生招聘信息。
-
-## 后续动作
-
-创建课题组节点；王同翰建人物节点，标注“拟入职/入职状态需复核”。
+尚无本页原始资料可以确认的公司化关系；采集计划不作为创业证据。
 
 ## 证据
 
 | 来源 | 支持事实 | 日期 |
 |---|---|---|
 | [Delta-I Lab](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/Delta_I_Lab_.htm) | 支持“Delta-I Lab”的定位、人员入口或建页动作 | 2026-06-11 |
-| [Semantic Scholar检索](https://www.semanticscholar.org/search?q=Tonghan%20Wang%20multi-agent%20reinforcement%20learning%20economics&sort=relevance) | 支持“Delta-I Lab”的定位、人员入口或建页动作 | 2026-06-11 |
-| [DBLP检索](https://dblp.org/search?q=Tonghan%20Wang%20multi-agent) | 支持“Delta-I Lab”的定位、人员入口或建页动作 | 2026-06-11 |
+
+## 待补证检索入口
+
+以下链接仅用于寻找具体论文或作者页面，不支持本文事实判断；检索结果需完成身份核对并取得原文后再引用。
+
+- [Semantic Scholar 检索](https://www.semanticscholar.org/search?q=Tonghan%20Wang%20multi-agent%20reinforcement%20learning%20economics&sort=relevance)
+- [DBLP 检索](https://dblp.org/search?q=Tonghan%20Wang%20multi-agent)

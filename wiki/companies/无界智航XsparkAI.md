@@ -18,13 +18,13 @@ tags: [company, tsinghua, embodied-ai, frontier-talent]
 
 # 无界智航（Xspark AI）
 
-> Sources: [爱范儿·Xspark AI 天使轮融资](https://www.ifanr.com/digest/1671776)；[GitHub XsparkAI](https://github.com/XsparkAI)；[清华 SIGS·SuperTac](https://www.sigs.tsinghua.edu.cn/2026/0119/c7688a288292/page.htm)
+> Sources: [爱范儿·Xspark AI 天使轮融资](https://www.ifanr.com/digest/1671776)；GitHub XsparkAI[^source-1]；[清华 SIGS·SuperTac](https://www.sigs.tsinghua.edu.cn/2026/0119/c7688a288292/page.htm)
 > Raw: [AA计划清华高校老师信息表](../../raw/sources/2026-09-08-AA计划-清华高校老师信息表.md)
 > Updated: 2026-09-08
 
 ## 一句话判断
 
-无界智航定位"可信物理智能（Physical AI）"，做机器人基础模型 + 真实世界数据采集 + 具身智能评测三件事；清华 SIGS 副教授[丁文伯](../people/丁文伯_清华深圳国际研究生院.md)任联合创始人兼首席科学家，把 Nature Sensors 级的触觉传感成果直接接入产品线。
+无界智航定位"可信物理智能（Physical AI）"，做机器人基础模型 + 真实世界数据采集 + 具身智能评测三件事；清华 SIGS 副教授[丁文伯](../people/丁文伯-清华深研院.md)任联合创始人兼首席科学家，把 Nature Sensors 级的触觉传感成果直接接入产品线。
 
 ## ⚠️ 名称区分
 
@@ -41,7 +41,7 @@ tags: [company, tsinghua, embodied-ai, frontier-talent]
 | 总部 | 深圳 |
 | 主营业务 | 可信物理智能：机器人基础模型 + 真实世界数据采集 + 具身智能评测 |
 | 融资阶段 | 近亿元天使轮（2026-07） |
-| 开源 | GitHub 组织 [XsparkAI](https://github.com/XsparkAI) |
+| 开源 | GitHub 组织 XsparkAI[^source-1] |
 
 ## 高校关联
 
@@ -65,7 +65,7 @@ tags: [company, tsinghua, embodied-ai, frontier-talent]
 | 姓名 | 角色 | 背景 | 证据 |
 |---|---|---|---|
 | 熊祺 | 联合创始人兼 CEO | 前蔚来自动驾驶核心高管、大模型交付团队负责人 | 爱范儿 |
-| [丁文伯](../people/丁文伯_清华深圳国际研究生院.md) | 联合创始人兼首席科学家 | 清华 SIGS 副教授、博导；机器触觉、软体机器人 | 清华 SIGS |
+| [丁文伯](../people/丁文伯-清华深研院.md) | 联合创始人兼首席科学家 | 清华 SIGS 副教授、博导；机器触觉、软体机器人 | 清华 SIGS |
 | 陈天行 | 联合创始人兼 CTO | 港大 MMLab 00 后博士生（导师罗平），RoboTwin / RoboDojo 一作 | 爱范儿 |
 
 顾问：上海交大穆尧（助理教授）、南洋理工博士后李寿杰。
@@ -91,4 +91,8 @@ tags: [company, tsinghua, embodied-ai, frontier-talent]
 |---|---|---|
 | [爱范儿](https://www.ifanr.com/digest/1671776) | 融资、创始团队头衔、定位 | 2026-07 |
 | [Nature Sensors](https://www.nature.com/articles/s44460-025-00006-y) | SuperTac / DOVE 成果与通讯作者 | 2026-01-15 |
-| [GitHub XsparkAI](https://github.com/XsparkAI) | 开源仓库与自述定位 | 2026-09-08 |
+| GitHub XsparkAI[^source-1] | 开源仓库与自述定位 | 2026-09-08 |
+
+## 引用来源
+
+[^source-1]: [GitHub XsparkAI](https://github.com/XsparkAI)

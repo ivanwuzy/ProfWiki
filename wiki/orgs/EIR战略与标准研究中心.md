@@ -17,7 +17,7 @@ tags: [org, tsinghua, frontier-talent]
 
 # 清华大学具身智能与机器人研究院战略与标准研究中心
 
-> Sources: 战略与标准研究中心（https://eir.tsinghua.edu.cn/yjjg/zlybzyjzx.htm）
+> Sources: 战略与标准研究中心[^source-1]
 > Raw: [战略与标准研究中心](../../raw/sources/2026-06-11-EIR战略与标准研究中心-战略与标准研究中心-80705877.md)
 
 ## 一句话判断
@@ -43,7 +43,7 @@ tags: [org, tsinghua, frontier-talent]
 
 | 公司/项目 | 关联方式 | 相关人物 | 证据 |
 |---|---|---|---|
-| 待验证 | 创建轻量节点；不用拆太多人。 | 苏竣 | https://eir.tsinghua.edu.cn/yjjg/zlybzyjzx.htm |
+| 待验证 | 创建轻量节点；不用拆太多人。 | 苏竣 | [^source-1] |
 
 ## 导入字段
 
@@ -57,4 +57,8 @@ tags: [org, tsinghua, frontier-talent]
 
 | 来源 | 支持事实 | 日期 |
 |---|---|---|
-| [战略与标准研究中心](https://eir.tsinghua.edu.cn/yjjg/zlybzyjzx.htm) | 支持“EIR战略与标准研究中心”的定位、人员入口或建页动作 | 2026-06-11 |
+| 战略与标准研究中心[^source-1] | 支持“EIR战略与标准研究中心”的定位、人员入口或建页动作 | 2026-06-11 |
+
+## 引用来源
+
+[^source-1]: [战略与标准研究中心](https://eir.tsinghua.edu.cn/yjjg/zlybzyjzx.htm)

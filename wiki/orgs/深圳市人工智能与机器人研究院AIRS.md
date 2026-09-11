@@ -6,7 +6,7 @@ domains:
 - embodied-ai
 - robotics
 watch_tier: T2
-last_verified: '2026-09-08'
+last_verified: "2026-09-11"
 confidence: verified_primary
 tags:
 - org
@@ -17,8 +17,9 @@ tier: 1
 
 # 深圳市人工智能与机器人研究院
 
-> Sources: [AIRS研究院简介](https://airs.cuhk.edu.cn/about)；[AIRS科研力量](https://airs.cuhk.edu.cn/team)；[极数迭代战略合作公告](https://airs.cuhk.edu.cn/article/1349)；[AIRS世界机器人大会展示](https://airs.cuhk.edu.cn/article/1441)
-> Raw: [AIRS研究院简介](../../raw/sources/香港具身核查-AIRS研究院简介.md)；[AIRS科研力量](../../raw/sources/香港具身核查-AIRS科研力量.md)；[极数迭代战略合作公告](../../raw/sources/2025-11-14-香港具身核查-极数迭代战略合作公告.md)；[AIRS世界机器人大会展示](../../raw/sources/2026-08-24-香港具身核查-AIRS世界机器人大会展示.md)
+> Sources: [AIRS研究院简介](https://airs.cuhk.edu.cn/about)；[AIRS科研力量](https://airs.cuhk.edu.cn/team)；[极数迭代战略合作公告](https://airs.cuhk.edu.cn/article/1349)；[AIRS世界机器人大会展示](https://airs.cuhk.edu.cn/article/1441)；[985教授们集体创业做具身智能，今年已拿下超百亿元融资](https://news.qq.com/rain/a/20260827A088G500)；[港中深俞江帆履历](https://sai.cuhk.edu.cn/zh-hans/teacher/116)；[港中深血管内软体机器人](https://sse.cuhk.edu.cn/article/2350)；[港中深胡君杰机器人感知](https://sai.cuhk.edu.cn/zh-hans/teacher/153)；[港科广具身智能研究所国家项目](https://www.hkust-gz.edu.cn/zh/2026/06/28/港科大（广州）具身智能团队获批国家重点研发计/?variant=zh-cn)
+> Raw: [AIRS研究院简介](../../raw/sources/香港具身核查-AIRS研究院简介.md)；[AIRS科研力量](../../raw/sources/香港具身核查-AIRS科研力量.md)；[极数迭代战略合作公告](../../raw/sources/2025-11-14-香港具身核查-极数迭代战略合作公告.md)；[AIRS世界机器人大会展示](../../raw/sources/2026-08-24-香港具身核查-AIRS世界机器人大会展示.md)；[985教授们集体创业做具身智能，今年已拿下超百亿元融资](../../raw/sources/2026-09-11-学院派核查-IT桔子盘点.md)；[港中深俞江帆履历](../../raw/sources/四校补全-港中深俞江帆履历.md)；[港中深血管内软体机器人](../../raw/sources/四校补全-港中深血管内软体机器人.md)；[港中深胡君杰机器人感知](../../raw/sources/四校补全-港中深胡君杰机器人感知.md)；[港科广具身智能研究所国家项目](../../raw/sources/四校补全-港科广具身智能研究所国家项目.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
@@ -40,8 +41,9 @@ tier: 1
 | 徐扬生 | 院长 |
 | 丁宁 / 黄建伟 / 韩龙 | 常务副院长 / 副院长 / 副院长 |
 | Takeo Kanade | 主任研究员；不据此推断全职驻场 |
-| [林天麟](../people/林天麟_港中深Freeform.md) | 项目负责人 |
-| 俞江帆 / 刘少山 | 中心主任；具体中心及创业链本轮未展开 |
+| [林天麟](../people/林天麟-港中深Freeform.md) | 项目负责人 |
+| [俞江帆](../people/俞江帆-港中深医疗机器人.md) | [微型机器人中心](深圳市人工智能与机器人研究院微型机器人中心.md)主任；医疗微机器人研究 |
+| 刘少山 | 中心主任；具体中心及创业链未在本次展开 |
 
 ## 创业/产业化线索
 
@@ -51,4 +53,17 @@ tier: 1
 
 ## 下属实验室/课题组
 
-本轮未建立已确认以AIRS为组织父节点的下属页。Freeform仅保留项目负责人关系。
+| 实验室/课题组 | 重点方向 |
+|---|---|
+| [深圳市人工智能与机器人研究院微型机器人中心](深圳市人工智能与机器人研究院微型机器人中心.md) | 俞江帆负责；磁控微机器人、血管内软体机器人 |
+
+Freeform仍仅保留项目负责人关系。
+
+
+## 待补证人才与组织线索
+
+IT桔子2026-08-27盘点将[擎羽科技](../companies/擎羽科技.md)列为AIRS孵化项目，校方/研究院直接公告待补。公司已凭创始人彭锐的港大博士校友关系独立建页，不将媒体孵化说法升级为确认关系。
+
+## 跨机构研究与人才流动
+- [胡君杰](../people/胡君杰-港中深AI.md)于2020–2025年任AIRS研究科学家，2025年8月转入港中深人工智能学院；不把旧研究员身份当作当前全职任职。[港中深胡君杰机器人感知](https://sai.cuhk.edu.cn/zh-hans/teacher/153)
+- AIRS是港科广[具身智能研究所](香港科技大学（广州）具身智能研究所.md)所参与高海拔巡检国家项目的合作单位；总项目经费不等于AIRS获配经费。[港科广具身智能研究所国家项目](https://www.hkust-gz.edu.cn/zh/2026/06/28/港科大（广州）具身智能团队获批国家重点研发计/?variant=zh-cn)

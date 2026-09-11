@@ -1,0 +1,73 @@
+---
+title: "刘子鸣-清华AI学院"
+type: person
+name: 刘子鸣
+aliases: []
+role_type: professor
+affiliations: [清华大学人工智能学院]
+labs: []
+domains: [ai]
+status: high_potential
+watch_tier: T2
+priority: A
+related_companies: []
+last_verified: 2026-09-08
+confidence: verified_primary
+tags: [person, tsinghua, frontier-talent]
+---
+
+# 刘子鸣
+
+> Sources: 刘子鸣-人工智能学院[^source-1]；[LIU Lab](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/liulab.htm)
+> Raw: [刘子鸣-人工智能学院](../../raw/sources/2026-06-11-刘子鸣-刘子鸣-人工智能学院-b4cde062.md)；[LIU Lab](../../raw/sources/2026-06-11-刘子鸣-LIULab-3b0ba5df.md)
+> Updated: 2026-09-11
+
+## 一句话判断
+
+AI学院全职PI；AI+Science/KAN方向，物理与AI交叉。
+
+## 基本信息
+
+| 字段 | 内容 |
+|---|---|
+| 当前身份 | 清华大学人工智能学院相关教授/PI或研究人员，具体职务以官网快照为准 |
+| 清华关联 | [清华大学人工智能学院](../orgs/清华大学人工智能学院CollegeAI.md) |
+| 方向 | AI学院全职PI；AI+Science/KAN方向，物理与AI交叉。 |
+| 导师/实验室 | LIU Lab Semantic Scholar检索 |
+| 公开主页 | 刘子鸣-人工智能学院 |
+
+## 关键信号
+
+| 类型 | 内容 | 年份 | 证据 |
+|---|---|---:|---|
+| 研究方向 | PKU/MIT/Stanford履历、AI4Science论文、开源项目、学生作者。 | 2026 | [^source-1] |
+| 建页动作 | 创建人物节点；进入AI4Science观察池。 | 2026 | 种子表 |
+
+## 创业/产业关联
+
+| 公司/项目 | 关系 | 状态 | 证据 |
+|---|---|---|---|
+| 暂无 | 内部整理材料的"创业项目名字"列为空，方向归为 AI4S；未见创业信号 | 学术路径 | 内部整理表 |
+
+> **方向补充（二手）**：内部整理材料把其代表工作记为 **KAN（Kolmogorov–Arnold Networks）神经网络架构**，与官网 AI+Science / 物理与 AI 交叉方向一致。
+
+## 待验证
+
+- [ ] 当前职务、学生名单、公司关系和融资事实均需在后续迭代中按官网/工商/投资机构来源交叉验证。
+
+## 证据
+
+| 来源 | 支持事实 | 日期 |
+|---|---|---|
+| 刘子鸣-人工智能学院[^source-1] | 支持“刘子鸣”的定位、人员入口或建页动作 | 2026-06-11 |
+| [LIU Lab](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/liulab.htm) | 支持“刘子鸣”的定位、人员入口或建页动作 | 2026-06-11 |
+
+## 待补证检索入口
+
+以下链接仅用于寻找具体论文或作者页面，不支持本文事实判断；检索结果需完成身份核对并取得原文后再引用。
+
+- [Semantic Scholar 检索](https://www.semanticscholar.org/search?q=Ziming%20Liu%20Kolmogorov%20Arnold%20Network%20AI%20Science&sort=relevance)
+
+## 引用来源
+
+[^source-1]: [刘子鸣-人工智能学院](https://collegeai.tsinghua.edu.cn/rydw/qzpi/liuziming.htm)

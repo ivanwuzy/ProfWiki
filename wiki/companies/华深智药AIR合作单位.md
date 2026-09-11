@@ -18,7 +18,7 @@ tags: [company, tsinghua, air, ai-bio, frontier-talent]
 
 # 华深智药（AIR合作单位）
 
-> Sources: 华深智药（https://air.tsinghua.edu.cn/yjhzdw/hszy.htm）
+> Sources: 华深智药[^source-1]
 > Raw: [华深智药](../../raw/sources/2026-06-11-华深智药AIR合作单位-华深智药-811428fc.md)
 
 ## 一句话判断
@@ -41,7 +41,7 @@ tags: [company, tsinghua, air, ai-bio, frontier-talent]
 
 | 关联类型 | 内容 | 证据 |
 |---|---|---|
-| 合作单位 | [清华大学智能产业研究院](../orgs/清华大学智能产业研究院AIR.md) 官网将其列为合作单位（非孵化） | https://air.tsinghua.edu.cn/yjhzdw/hszy.htm |
+| 合作单位 | [清华大学智能产业研究院](../orgs/清华大学智能产业研究院AIR.md) 官网将其列为合作单位（非孵化） | [^source-1] |
 | 人物关联 | 种子记录称其创始人／CEO 与 AIR 访问教授存在关联，**具体姓名与关系类型均待验证**，暂未建人物页 | 同上 |
 
 ## 融资情况
@@ -76,4 +76,8 @@ tags: [company, tsinghua, air, ai-bio, frontier-talent]
 
 | 来源 | 支持事实 | 日期 |
 |---|---|---|
-| [华深智药（AIR 官网）](https://air.tsinghua.edu.cn/yjhzdw/hszy.htm) | AIR 合作单位身份、AI 药物发现方向、与访问教授存在关联的表述 | 2026-06-11 |
+| 华深智药（AIR 官网）[^source-1] | AIR 合作单位身份、AI 药物发现方向、与访问教授存在关联的表述 | 2026-06-11 |
+
+## 引用来源
+
+[^source-1]: [华深智药](https://air.tsinghua.edu.cn/yjhzdw/hszy.htm)

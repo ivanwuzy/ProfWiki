@@ -4,6 +4,31 @@ const view = $('viewport'), canvas = $('canvas'), map = $('map');
 const highlight = $('highlight'), hoverRing = $('hover'), detail = $('detail');
 const labels = {person:'人物',context:'学术 / 管理背景人物',company:'公司 / 项目',lab:'实验室 / 平台',department:'院系',platform:'平台'};
 const byId = new Map(data.items.map(i => [i.id, i]));
+const relations = new Map(data.relations.map(edge => [edge.id, edge]));
+const nodeElements = new Map([...map.querySelectorAll('[data-node-id]')].map(node => [node.dataset.nodeId, node]));
+const edgeElements = new Map([...map.querySelectorAll('#connections [data-relation-id]')].map(path => [path.dataset.relationId, path]));
+let activeEdges = [], activeNodes = [];
+
+function updateSelection(item) {
+  for (const edge of activeEdges) edge.setAttribute('hidden', '');
+  for (const node of activeNodes) node.classList.remove('selected', 'connected');
+  activeEdges = []; activeNodes = [];
+  const enabled = item?.kind === 'person' || item?.kind === 'company';
+  map.classList.toggle('has-selection', enabled);
+  highlight.classList.toggle('relations-selected', enabled);
+  if (!enabled) return;
+  const connected = new Set([item.id]);
+  for (const id of item.relationIds) {
+    const edge = relations.get(id), path = edgeElements.get(id);
+    connected.add(edge.source); connected.add(edge.target);
+    path.removeAttribute('hidden'); activeEdges.push(path);
+  }
+  for (const id of connected) {
+    const node = nodeElements.get(id);
+    const selected = byId.get(id).entityId === item.entityId;
+    node.classList.add(selected ? 'selected' : 'connected'); activeNodes.push(node);
+  }
+}
 
 const mapWidth = data.width, mapHeight = data.height;
 // Render only the visible SVG viewport instead of scaling a giant CSS layer.
@@ -32,6 +57,7 @@ function setTier() {
   if (next === tier) return;
   if (tier) map.classList.remove(tier);
   map.classList.add(next); tier = next;
+  highlight.classList.toggle('overview-hidden', next === 'z-far');
 }
 let drawFrame = 0;
 function draw() {
@@ -81,7 +107,7 @@ function closeDetail() {
   setTimeout(() => { if (!detail.classList.contains('open')) detail.hidden = true; }, 260);
 }
 function clearFocus() {
-  highlight.hidden = true; closeDetail();
+  updateSelection(null); highlight.hidden = true; hoverRing.hidden = true; closeDetail();
 }
 
 function fillDetail(item) {
@@ -97,9 +123,13 @@ function fillDetail(item) {
     const b = document.createElement('button');
     b.type = 'button'; b.textContent = link.label;
     const target = byId.get(link.target);
-    if (target) b.onclick = () => focus(target); else b.disabled = true;
+    if (target) b.onclick = () => focus(target, {jump: true}); else b.disabled = true;
     return b;
   }));
+  if ((item.kind === 'person' || item.kind === 'company') && !item.relationIds.length) {
+    const empty = document.createElement('p'); empty.textContent = '暂无已记录的直接关系';
+    $('detail-links').append(empty);
+  }
 
   const info = (item.info || []).filter(Boolean).map(t => {
     const p = document.createElement('p'); p.textContent = t; return p;
@@ -119,15 +149,20 @@ function place(el, item, pad) {
   el.hidden = false;
 }
 
-function focus(item, card = item.isCard === true) {
-  viewportMode = 'custom';
-  const inset = Math.min(330, view.clientWidth * .4);
-  scale = card
-    ? Math.min((view.clientWidth - inset - 40) / item.w, (view.clientHeight - 40) / item.h)
-    : Math.min(1.5, view.clientWidth / 520);
-  /* Leave room for the drawer so the picked node never lands underneath it. */
-  x = (view.clientWidth - inset) / 2 - (item.x + item.w / 2) * scale;
-  y = view.clientHeight * (card ? .5 : .44) - (item.y + item.h / 2) * scale;
+function focus(item, {jump = false, card = item.isCard === true} = {}) {
+  updateSelection(item);
+  // Canvas picks preserve the user's view; only explicit navigation relocates it.
+  if (jump) {
+    viewportMode = 'custom';
+    const compact = view.clientWidth <= 800;
+    const inset = compact ? 0 : 330;
+    const availableHeight = view.clientHeight * (compact ? .56 : 1);
+    scale = card
+      ? Math.min((view.clientWidth - inset - 40) / item.w, (availableHeight - 40) / item.h)
+      : Math.min(1.5, view.clientWidth / 520);
+    x = (view.clientWidth - inset) / 2 - (item.x + item.w / 2) * scale;
+    y = availableHeight * (card ? .5 : .44) - (item.y + item.h / 2) * scale;
+  }
   place(highlight, item, card ? 10 : 9);
   hoverRing.hidden = true;
   draw();
@@ -156,7 +191,7 @@ for (const [i, c] of data.cards.entries()) {
   const o = document.createElement('option');
   o.value = i; o.textContent = c.name; $('dept').append(o);
 }
-$('dept').onchange = e => { if (e.target.value !== '') focus(data.cards[Number(e.target.value)], true); };
+$('dept').onchange = e => { if (e.target.value !== '') focus(data.cards[Number(e.target.value)], {jump: true}); };
 
 /* --- search -------------------------------------------------------------- */
 const results = $('results'), query = $('query');
@@ -179,7 +214,7 @@ query.oninput = () => {
     const small = document.createElement('small');
     small.textContent = labels[item.kind] + ' · ' + item.info.slice(0, 2).join(' / ');
     b.append(small);
-    b.onclick = () => { focus(item); results.hidden = true; };
+    b.onclick = () => { focus(item, {jump: true}); results.hidden = true; };
     results.append(b);
   }
 };

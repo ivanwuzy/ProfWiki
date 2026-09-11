@@ -17,8 +17,9 @@ tags: [org, tsinghua, frontier-talent]
 
 # 清华大学 LIU Lab
 
-> Sources: LIU Lab（https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/liulab.htm）; 刘子鸣（https://collegeai.tsinghua.edu.cn/rydw/qzpi/liuziming.htm）; Semantic Scholar检索（https://www.semanticscholar.org/search?q=Ziming%20Liu%20AI%20Science%20KAN&sort=relevance）
-> Raw: [LIU Lab](../../raw/sources/2026-06-11-LIULab-LIULab-3b0ba5df.md); [刘子鸣](../../raw/sources/2026-06-11-LIULab-刘子鸣-b4cde062.md)
+> Sources: [LIU Lab](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/liulab.htm)；[刘子鸣](https://collegeai.tsinghua.edu.cn/rydw/qzpi/liuziming.htm)
+> Raw: [LIU Lab](../../raw/sources/2026-06-11-LIULab-LIULab-3b0ba5df.md)；[刘子鸣](../../raw/sources/2026-06-11-LIULab-刘子鸣-b4cde062.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
@@ -35,23 +36,13 @@ AI+Science，连接可解释AI、物理、科学发现；适合跟踪科学智�
 
 ## 重点人物
 
-| 人物 | 角色 | 方向 | 信号 |
+| 人物 | 角色 | 方向 | 证据与边界 |
 |---|---|---|---|
-| [刘子鸣](../people/刘子鸣_清华人工智能学院.md) | PI/负责人/相关人员 | KAN、AI+Science论文、物理/数学背景、开源项目、学生作者。 | 创建课题组节点；刘子鸣建人物节点；关联AI4S创业观察。 |
+| [刘子鸣](../people/刘子鸣-清华AI学院.md) | 课题组 PI | AI+Science | [课题组原文](../../raw/sources/2026-06-11-LIULab-LIULab-3b0ba5df.md)列 PI：Ziming LIU。 |
 
 ## 创业/产业化线索
 
-| 公司/项目 | 关联方式 | 相关人物 | 证据 |
-|---|---|---|---|
-| 待验证 | 创建课题组节点；刘子鸣建人物节点；关联AI4S创业观察。 | 刘子鸣 | https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/liulab.htm |
-
-## 导入字段
-
-KAN、AI+Science论文、物理/数学背景、开源项目、学生作者。
-
-## 后续动作
-
-创建课题组节点；刘子鸣建人物节点；关联AI4S创业观察。
+尚无本页原始资料可以确认的公司化关系；采集计划不作为创业证据。
 
 ## 证据
 
@@ -59,4 +50,9 @@ KAN、AI+Science论文、物理/数学背景、开源项目、学生作者。
 |---|---|---|
 | [LIU Lab](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/liulab.htm) | 支持“LIU Lab”的定位、人员入口或建页动作 | 2026-06-11 |
 | [刘子鸣](https://collegeai.tsinghua.edu.cn/rydw/qzpi/liuziming.htm) | 支持“LIU Lab”的定位、人员入口或建页动作 | 2026-06-11 |
-| [Semantic Scholar检索](https://www.semanticscholar.org/search?q=Ziming%20Liu%20AI%20Science%20KAN&sort=relevance) | 支持“LIU Lab”的定位、人员入口或建页动作 | 2026-06-11 |
+
+## 待补证检索入口
+
+以下链接仅用于寻找具体论文或作者页面，不支持本文事实判断；检索结果需完成身份核对并取得原文后再引用。
+
+- [Semantic Scholar 检索](https://www.semanticscholar.org/search?q=Ziming%20Liu%20AI%20Science%20KAN&sort=relevance)

@@ -33,7 +33,7 @@ FIB-Lab 是[清华大学电子工程系](清华大学电子工程系.md)李勇�
 | 所属单位 | 清华大学电子工程系 |
 | 方向 | 城市科学与计算、世界模型、具身智能、时空数据智能 |
 | 负责人 | 李勇（教授） |
-| 官网 | https://fi.ee.tsinghua.edu.cn/ |
+| 官网 | <https://fi.ee.tsinghua.edu.cn/> |
 
 ## 代表成果：WorldScape 系列
 

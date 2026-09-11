@@ -17,7 +17,7 @@ tags: [org, tsinghua, shenzhen, embodied-ai]
 
 # 清华大学智能机器人实验室
 
-> Sources: 零次方机器人相关媒体报道（二手）；[零次方清华xlab团队报道](https://www.x-lab.tsinghua.edu.cn/2025/0429/c455a7027/page.htm)；[零次方带队人物原文补充](https://www.x-lab.tsinghua.edu.cn/2025/0429/c455a7027/page.htm)
+> Sources: 零次方机器人相关媒体报道（二手）；[零次方清华xlab团队报道](https://www.x-lab.tsinghua.edu.cn/2025/0429/c455a7027/page.htm)
 > Raw: [AA计划清华高校老师信息表](../../raw/sources/2026-09-08-AA计划-清华高校老师信息表.md)；[零次方清华xlab团队报道](../../raw/sources/2025-04-29-零次方清华xlab团队报道.md)；[零次方带队人物原文补充](../../raw/sources/2025-04-29-零次方带队人物原文补充.md)
 > Updated: 2026-09-08
 
@@ -39,7 +39,7 @@ AI&Robot 智能机器人实验室是[清华大学深圳国际研究生院](清�
 
 | 人物 | 角色 | 方向 | 信号 |
 |---|---|---|---|
-| [闵宇恒](../people/闵宇恒_零次方机器人.md) | 硕士 | 消费级人形机器人 | [零次方机器人](../companies/零次方机器人.md)创始人兼 CEO |
+| [闵宇恒](../people/闵宇恒-零次方机器人.md) | 硕士 | 消费级人形机器人 | [零次方机器人](../companies/零次方机器人.md)创始人兼 CEO |
 
 ## 创业/产业化线索
 

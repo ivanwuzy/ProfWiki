@@ -13,6 +13,19 @@ const universityMaps = [
     color: "#660874",
     light: "#873b94",
     dark: "#390b49",
+    squareLogo: false,
+  },
+  {
+    name: "香港高校",
+    english: "HONG KONG UNIVERSITIES",
+    description: "具身人才地图",
+    href: "hong-kong-talent-map/",
+    // Official regional emblem: Hong Kong SAR Protocol Division.
+    logo: "static/hong-kong-emblem.gif",
+    color: "#a32a39",
+    light: "#c45560",
+    dark: "#671a27",
+    squareLogo: true,
   },
 ]
 
@@ -31,7 +44,7 @@ const TalentMapLink: QuartzComponent = ({ fileData }) => {
             style={`--university-color:${university.color};--university-light:${university.light};--university-dark:${university.dark}`}
           >
             <span class="university-map-brand">
-              <span class="university-map-seal" aria-hidden="true">
+              <span class={`university-map-seal${university.squareLogo ? " square-logo" : ""}`} aria-hidden="true">
                 <img src={`${root}/${university.logo}`} alt="" width="180" height="58" />
               </span>
               <span class="university-map-name">
@@ -60,6 +73,7 @@ a.talent-map-link:focus-visible{outline:3px solid #b98ac6;outline-offset:4px}
 .university-map-brand{display:flex;align-items:center;gap:12px}
 .university-map-seal{display:block;flex:0 0 44px;width:44px;height:44px;overflow:hidden;opacity:.96}
 .university-map-seal img{content-visibility:visible;display:block;width:136.55px;height:44px;max-width:none;margin:0;border-radius:0}
+.university-map-seal.square-logo img{width:44px;height:44px;border-radius:50%;object-fit:contain}
 .university-map-name{display:flex;flex-direction:column;gap:5px;min-width:0}
 .university-map-name strong{font-size:1.12rem;font-weight:600;letter-spacing:.12em;line-height:1.3;color:#fff}
 .university-map-name small{font-size:.55rem;font-weight:500;letter-spacing:.09em;color:#e5cce9;white-space:nowrap}

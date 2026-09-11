@@ -17,7 +17,7 @@ tags: [org, tsinghua, frontier-talent]
 
 # 清华大学 NeuroAI Lab
 
-> Sources: NeuroAI Lab（https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/NeuroAI_Lab__AI___Neuroscience_.htm）
+> Sources: NeuroAI Lab[^source-1]
 > Raw: [NeuroAI Lab](../../raw/sources/2026-06-11-NeuroAILabAI+Neuroscience-NeuroAILab-e302ef09.md)
 
 ## 一句话判断
@@ -43,7 +43,7 @@ AI与神经科学、脑机接口算法；与脑机、医疗AI、机器人感知�
 
 | 公司/项目 | 关联方式 | 相关人物 | 证据 |
 |---|---|---|---|
-| 待验证 | 创建轻量课题组节点；人物节点先做占位。 | 米璐 | https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/NeuroAI_Lab__AI___Neuroscience_.htm |
+| 待验证 | 创建轻量课题组节点；人物节点先做占位。 | 米璐 | [^source-1] |
 
 ## 导入字段
 
@@ -57,4 +57,8 @@ AI与神经科学、脑机接口算法；与脑机、医疗AI、机器人感知�
 
 | 来源 | 支持事实 | 日期 |
 |---|---|---|
-| [NeuroAI Lab](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/NeuroAI_Lab__AI___Neuroscience_.htm) | 支持“NeuroAI Lab（AI + Neuroscience）”的定位、人员入口或建页动作 | 2026-06-11 |
+| NeuroAI Lab[^source-1] | 支持“NeuroAI Lab（AI + Neuroscience）”的定位、人员入口或建页动作 | 2026-06-11 |
+
+## 引用来源
+
+[^source-1]: [NeuroAI Lab](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/NeuroAI_Lab__AI___Neuroscience_.htm)

@@ -1,0 +1,75 @@
+---
+title: "姚远-清华AI学院"
+type: person
+name: 姚远
+aliases: []
+role_type: professor
+affiliations: [清华大学人工智能学院]
+labs: []
+domains: [ai, llm]
+status: high_potential
+watch_tier: T1
+priority: A
+related_companies: [面壁智能]
+last_verified: 2026-09-07
+confidence: verified_primary
+tags: [person, tsinghua, frontier-talent]
+---
+
+# 姚远
+
+> Sources: 姚远-人工智能学院[^source-1]；[多模态智能课题组](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/dmtznktz.htm)；[腾讯新闻《面壁智能首席科学家专访》](https://news.qq.com/rain/a/20240707A0522U00)；[新浪财经创始团队专访](https://finance.sina.com.cn/tech/roll/2026-02-06/doc-inhkwwxz4905009.shtml)；[网易《对话面壁智能首席科学家》](https://www.163.com/dy/article/L2HHQMPJ051180F7.html)
+> Raw: [姚远-人工智能学院](../../raw/sources/2026-06-11-姚远-姚远-人工智能学院-eb193721.md)；[多模态智能课题组](../../raw/sources/2026-06-11-姚远-多模态智能课题组-e2ff3449.md)
+> Updated: 2026-09-11
+
+## 一句话判断
+
+AI学院全职PI；多模态大模型、MiniCPM/MiniCPM-V相关。
+
+## 基本信息
+
+| 字段 | 内容 |
+|---|---|
+| 当前身份 | 清华大学人工智能学院相关教授/PI或研究人员，具体职务以官网快照为准 |
+| 清华关联 | [清华大学人工智能学院](../orgs/清华大学人工智能学院CollegeAI.md) |
+| 方向 | AI学院全职PI；多模态大模型、MiniCPM/MiniCPM-V相关。 |
+| 导师/实验室 | 多模态智能课题组 Semantic Scholar检索 |
+| 公开主页 | 姚远-人工智能学院 |
+
+## 关键信号
+
+| 类型 | 内容 | 年份 | 证据 |
+|---|---|---:|---|
+| 研究方向 | 本博履历、NUS经历、模型、论文、下载量、学生作者。 | 2026 | [^source-1] |
+| 建页动作 | 创建人物节点；连接开源模型生态。 | 2026 | 种子表 |
+
+## 创业/产业关联
+
+| 公司/项目 | 关系 | 状态 | 证据 |
+|---|---|---|---|
+| [面壁智能](../companies/面壁智能.md) | 多模态首席科学家；主导 MiniCPM 多模态/全模态与具身智能 VLA 模型研发；**非官方联合创始人**（与[刘知远](刘知远-清华THUNLP.md)的创始人身份不同） | 在任 | 腾讯新闻、网易、新浪财经（详见面壁智能页"证据"表） |
+
+## 待验证
+
+- [ ] 当前在人工智能学院的具体职务、学生名单需按官网快照进一步核实。
+- [ ] "多模态首席科学家"是否对应正式股权/合伙人身份（是否持股）未见披露，详见[面壁智能](../companies/面壁智能.md)页"待验证"部分。
+
+## 证据
+
+| 来源 | 支持事实 | 日期 |
+|---|---|---|
+| 姚远-人工智能学院[^source-1] | 支持“姚远”的定位、人员入口或建页动作 | 2026-06-11 |
+| [多模态智能课题组](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/dmtznktz.htm) | 支持“姚远”的定位、人员入口或建页动作 | 2026-06-11 |
+| [腾讯新闻：面壁智能首席科学家专访](https://news.qq.com/rain/a/20240707A0522U00) | 姚远"面壁智能多模态首席科学家"身份、MiniCPM-o 4.5 主要研发者 | 2026-09-07 |
+| [新浪财经：面壁智能创始团队专访](https://finance.sina.com.cn/tech/roll/2026-02-06/doc-inhkwwxz4905009.shtml) | 姚远与刘知远角色区分；具身智能 VLA 技术路线 | 2026-09-07 |
+| [网易：对话面壁智能首席科学家](https://www.163.com/dy/article/L2HHQMPJ051180F7.html) | 姚远"面壁智能多模态智能首席科学家"、语言-多模态-具身团队协同 | 2026-09-07 |
+
+## 待补证检索入口
+
+以下链接仅用于寻找具体论文或作者页面，不支持本文事实判断；检索结果需完成身份核对并取得原文后再引用。
+
+- [Semantic Scholar 检索](https://www.semanticscholar.org/search?q=Yuan%20Yao%20MiniCPM%20multimodal&sort=relevance)
+
+## 引用来源
+
+[^source-1]: [姚远-人工智能学院](https://collegeai.tsinghua.edu.cn/rydw/qzpi/yaoyuan.htm)

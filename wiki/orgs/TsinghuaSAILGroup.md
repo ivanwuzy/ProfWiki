@@ -17,7 +17,7 @@ tags: [org, tsinghua, frontier-talent]
 
 # 清华大学 SAIL Group
 
-> Sources: SAIL Group官网（https://ml.cs.tsinghua.edu.cn/）
+> Sources: SAIL Group官网[^source-1]
 > Raw: [SAIL Group官网](../../raw/sources/2026-06-11-TsinghuaSAILGroup-SAILGroup官网-da35a2b8.md)
 
 ## 一句话判断
@@ -43,7 +43,7 @@ Statistical Artificial Intelligence & Learning；机器学习理论、算法与�
 
 | 公司/项目 | 关联方式 | 相关人物 | 证据 |
 |---|---|---|---|
-| 待验证 | 创建实验室节点；作为朱军等机器学习人才池入口。 | 待抽取 | https://ml.cs.tsinghua.edu.cn/ |
+| 待验证 | 创建实验室节点；作为朱军等机器学习人才池入口。 | 待抽取 | [^source-1] |
 
 ## 导入字段
 
@@ -57,4 +57,8 @@ PI/学生、论文、代码、研究方向、毕业去向。
 
 | 来源 | 支持事实 | 日期 |
 |---|---|---|
-| [SAIL Group官网](https://ml.cs.tsinghua.edu.cn/) | 支持“Tsinghua SAIL Group”的定位、人员入口或建页动作 | 2026-06-11 |
+| SAIL Group官网[^source-1] | 支持“Tsinghua SAIL Group”的定位、人员入口或建页动作 | 2026-06-11 |
+
+## 引用来源
+
+[^source-1]: [SAIL Group官网](https://ml.cs.tsinghua.edu.cn/)

@@ -24,7 +24,7 @@ tags: [company, tsinghua, foundation-model, frontier-talent]
 
 ## 一句话判断
 
-超衍智能是[清华大学人工智能学院](../orgs/清华大学人工智能学院CollegeAI.md)助理教授[陈勇超](../people/陈勇超_清华人工智能学院.md)关联的创业项目，技术方向为"自改进大模型（Self-Improving Models）"；公开信息极少。
+超衍智能是[清华大学人工智能学院](../orgs/清华大学人工智能学院CollegeAI.md)助理教授[陈勇超](../people/陈勇超-清华AI学院.md)关联的创业项目，技术方向为"自改进大模型（Self-Improving Models）"；公开信息极少。
 
 ## 基本信息
 

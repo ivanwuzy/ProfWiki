@@ -17,7 +17,7 @@ tags: [org, tsinghua, frontier-talent]
 
 # 清华大学具身智能与机器人研究院数据与算力研究中心
 
-> Sources: 数据与算力研究中心（https://eir.tsinghua.edu.cn/yjjg/sjyslyjzx.htm）
+> Sources: 数据与算力研究中心[^source-1]
 > Raw: [数据与算力研究中心](../../raw/sources/2026-06-11-EIR数据与算力研究中心-数据与算力研究中心-8c98932e.md)
 
 ## 一句话判断
@@ -43,7 +43,7 @@ tags: [org, tsinghua, frontier-talent]
 
 | 公司/项目 | 关联方式 | 相关人物 | 证据 |
 |---|---|---|---|
-| 待验证 | 创建中心节点；与电子系AI算力/通信方向关联。 | 张卫强 | https://eir.tsinghua.edu.cn/yjjg/sjyslyjzx.htm |
+| 待验证 | 创建中心节点；与电子系AI算力/通信方向关联。 | 张卫强 | [^source-1] |
 
 ## 导入字段
 
@@ -57,4 +57,8 @@ tags: [org, tsinghua, frontier-talent]
 
 | 来源 | 支持事实 | 日期 |
 |---|---|---|
-| [数据与算力研究中心](https://eir.tsinghua.edu.cn/yjjg/sjyslyjzx.htm) | 支持“EIR数据与算力研究中心”的定位、人员入口或建页动作 | 2026-06-11 |
+| 数据与算力研究中心[^source-1] | 支持“EIR数据与算力研究中心”的定位、人员入口或建页动作 | 2026-06-11 |
+
+## 引用来源
+
+[^source-1]: [数据与算力研究中心](https://eir.tsinghua.edu.cn/yjjg/sjyslyjzx.htm)

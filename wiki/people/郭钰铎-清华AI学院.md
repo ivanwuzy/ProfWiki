@@ -1,0 +1,71 @@
+---
+title: "郭钰铎-清华AI学院"
+type: person
+name: 郭钰铎
+aliases: []
+role_type: professor
+affiliations: [清华大学人工智能学院]
+labs: []
+domains: [ai]
+status: high_potential
+watch_tier: T2
+priority: A
+related_companies: []
+last_verified: 2026-06-11
+confidence: verified_primary
+tags: [person, tsinghua, frontier-talent]
+---
+
+# 郭钰铎
+
+> Sources: 郭钰铎-人工智能学院[^source-1]；[科学智能与物理感知实验室](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/kxznywlgzsys.htm)
+> Raw: [郭钰铎-人工智能学院](../../raw/sources/2026-06-11-郭钰铎-郭钰铎-人工智能学院-2d54d074.md)；[科学智能与物理感知实验室](../../raw/sources/2026-06-11-郭钰铎-科学智能与物理感知实验室-612271ea.md)
+> Updated: 2026-09-11
+
+## 一句话判断
+
+AI学院PI；物理驱动科学智能、计算成像、遥感/天文AI。
+
+## 基本信息
+
+| 字段 | 内容 |
+|---|---|
+| 当前身份 | 清华大学人工智能学院相关教授/PI或研究人员，具体职务以官网快照为准 |
+| 清华关联 | [清华大学人工智能学院](../orgs/清华大学人工智能学院CollegeAI.md) |
+| 方向 | AI学院PI；物理驱动科学智能、计算成像、遥感/天文AI。 |
+| 导师/实验室 | 科学智能与物理感知实验室 Semantic Scholar检索 |
+| 公开主页 | 郭钰铎-人工智能学院 |
+
+## 关键信号
+
+| 类型 | 内容 | 年份 | 证据 |
+|---|---|---:|---|
+| 研究方向 | TBSI博士/自动化博后、AI4Science、科学仪器、论文。 | 2026 | [^source-1] |
+| 建页动作 | 创建人物节点；跟踪2026入职与课题组成员。 | 2026 | 种子表 |
+
+## 创业/产业关联
+
+| 公司/项目 | 关系 | 状态 | 证据 |
+|---|---|---|---|
+| 待验证 | 创建人物节点；跟踪2026入职与课题组成员。 | 待验证 | [^source-1] |
+
+## 待验证
+
+- [ ] 当前职务、学生名单、公司关系和融资事实均需在后续迭代中按官网/工商/投资机构来源交叉验证。
+
+## 证据
+
+| 来源 | 支持事实 | 日期 |
+|---|---|---|
+| 郭钰铎-人工智能学院[^source-1] | 支持“郭钰铎”的定位、人员入口或建页动作 | 2026-06-11 |
+| [科学智能与物理感知实验室](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/kxznywlgzsys.htm) | 支持“郭钰铎”的定位、人员入口或建页动作 | 2026-06-11 |
+
+## 待补证检索入口
+
+以下链接仅用于寻找具体论文或作者页面，不支持本文事实判断；检索结果需完成身份核对并取得原文后再引用。
+
+- [Semantic Scholar 检索](https://www.semanticscholar.org/search?q=Yuduo%20Guo%20computational%20imaging%20physics%20informed%20AI&sort=relevance)
+
+## 引用来源
+
+[^source-1]: [郭钰铎-人工智能学院](https://collegeai.tsinghua.edu.cn/rydw/qzpi/gyd.htm)

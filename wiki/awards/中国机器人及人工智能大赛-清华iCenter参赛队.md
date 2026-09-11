@@ -17,7 +17,7 @@ tags: [award, tsinghua, frontier-talent, robotics]
 
 # 中国机器人及人工智能大赛（清华 iCenter 参赛队）
 
-> Sources: 清华大学新闻网（https://www.tsinghua.edu.cn/info/1180/90596.htm）, 2026-09-07
+> Sources: 清华大学新闻网（<https://www.tsinghua.edu.cn/info/1180/90596.htm>）, 2026-09-07
 > Raw: [第23届中国机器人及人工智能大赛清华获奖](../../raw/sources/2026-09-07-第23届中国机器人及人工智能大赛清华获奖.md)
 
 ## 一句话判断
@@ -32,7 +32,7 @@ tags: [award, tsinghua, frontier-talent, robotics]
 | 层级 | national |
 | 关注方向 | 机器人创新、人形机器人全自主挑战、无人车智能挑战 |
 | 第23届规模 | 220 余所高校、千余支队伍 |
-| 官网/入口 | https://www.tsinghua.edu.cn/info/1180/90596.htm |
+| 官网/入口 | <https://www.tsinghua.edu.cn/info/1180/90596.htm> |
 
 ## 获奖/参赛记录
 

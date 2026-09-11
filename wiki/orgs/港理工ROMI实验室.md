@@ -30,7 +30,7 @@ tier: 2
 |---|---|
 | 英文名称 | Robotics and Machine Intelligence Laboratory (ROMI-Lab) |
 | 所属单位 | [香港理工大学机械工程学系](香港理工大学机械工程学系.md) |
-| 负责人 | [David Navarro-Alarcon](../people/David-Navarro-Alarcon_港理工ROMI.md) |
+| 负责人 | [David Navarro-Alarcon](../people/David-Navarro-Alarcon-港理工ROMI.md) |
 | 当前运行 | 成员页有现役研究人员和学生，论文页持续列2026论文及预印本，支持活跃判断。 |
 | 代表工作 | Pass the Parcel；非抓取工具操作中的LLM规划；形态可变机器人抓取 |
 

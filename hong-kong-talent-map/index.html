@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+ <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+ <title>香港高校人才地图 · ProfWiki</title>
+ <meta name="description" content="从香港五校的实验室、师承与校友关系，探索具身智能、机器人、语音AI、能源材料及AI科学实验人才和创业网络。">
+ <link rel="icon" href="../static/hong-kong-emblem.gif"><link rel="stylesheet" href="style.css">
+ <script src="data.js" defer></script><script src="app.js" defer></script>
+</head>
+<body>
+<header class="topbar">
+ <a class="back" href="../wiki/" aria-label="返回知识库">← <span>知识库</span></a>
+ <div class="brand"><img src="../static/hong-kong-emblem.gif" alt="香港特别行政区区徽" width="38" height="38"><div><h1>香港高校人才地图</h1><p>机器人 · AI · 医疗与能源交叉</p></div></div>
+ <div class="search"><label class="sr" for="search">搜索人物、团队或公司</label><input id="search" type="search" placeholder="搜索人物、团队、公司…" autocomplete="off" aria-controls="results" aria-expanded="false"><kbd>/</kbd><div id="results" hidden></div></div>
+ <a class="sibling" href="../talent-map/">清华地图 ↗</a>
+</header>
+<div class="workspace">
+ <aside class="sidebar" aria-label="地图导航">
+  <div class="sidebar-heading"><span>HONG KONG</span><strong>从学校，找到人。</strong><p>沿研究团队、培养关系与创业路径探索。</p></div>
+  <nav id="schools" aria-label="学校筛选"></nav>
+  <label class="extension"><input id="related" type="checkbox"><span>关联内地高校与平台<small>港科广 · 港中深</small></span></label>
+  <div class="side-note"><span class="live-dot"></span>精选公开关系 · <time id="updated"></time><p>覆盖深度因校而异；人数为本图收录量，不代表全校规模。</p></div>
+  <a class="network-link" href="../wiki/maps/香港具身实验室与创业网络">阅读研究与创业网络 ↗</a>
+ </aside>
+ <main class="main">
+  <div class="toolbar"><div><span class="eyebrow">RESEARCH NETWORK</span><h2 id="view-title">香港五校</h2></div><div id="stats" aria-live="polite"></div><div class="filters"><label for="domain" class="sr">研究方向</label><select id="domain"><option value="">全部研究方向</option></select><label class="company-toggle"><input id="industry" type="checkbox">有产业联系</label></div></div>
+  <div class="legend"><span><i class="dot founder"></i>创办</span><span><i class="dot industry"></i>任职 / 支持</span><span><i class="dot collab"></i>研究合作</span><span><i class="line mentor"></i>培养关系</span><span><i class="line pending"></i>待核关系</span><small>点击人物或团队展开关系；同名节点共用一份资料</small></div>
+  <div id="viewport" tabindex="0" aria-label="人才地图，拖动空白处移动；使用缩放按钮调整大小">
+   <div id="map-space"><div id="board"></div><svg id="connections" aria-hidden="true"></svg></div>
+   <div id="empty" hidden><strong>当前筛选下暂无收录</strong><p>试试其他研究方向，或清除筛选。</p><button id="reset-empty">清除筛选</button></div>
+  </div>
+  <div class="map-bottom"><p id="hint">点击学校聚焦阅读 · 点击人物查看证据与关系</p><div class="zoom-controls"><button id="zoom-out" aria-label="缩小">−</button><output id="zoom-level">100%</output><button id="zoom-in" aria-label="放大">+</button><button id="fit">适合宽度</button><button id="reset">重置</button></div></div>
+ </main>
+ <aside id="detail" aria-label="实体详情" hidden><div class="detail-top"><span id="detail-kind"></span><button id="close-detail" aria-label="关闭详情">×</button></div><h2 id="detail-name"></h2><p id="detail-role"></p><div id="detail-body"></div><div id="detail-relations"></div><div id="detail-sources"></div></aside>
+</div>
+<noscript>请启用 JavaScript 查看交互地图，或<a href="../wiki/maps/香港具身实验室与创业网络">阅读香港具身实验室与创业网络</a>。</noscript>
+</body></html>

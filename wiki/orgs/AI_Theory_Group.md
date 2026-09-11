@@ -17,12 +17,12 @@ tags: [org, tsinghua, iiis, frontier-talent]
 
 # 清华大学 AI Theory Group
 
-> Sources: IIIS AI Theory Group 页（https://iiis.tsinghua.edu.cn/kxyj/ktzjs/AI_Theory_Group.htm）; Jingzhao's homepage - Our group（https://sites.google.com/view/jingzhao/our-group）; IIIS 张景昭研究团队获 COLT 2025 最佳学生论文奖（https://iiis.tsinghua.edu.cn/info/1018/4755.htm）
+> Sources: IIIS AI Theory Group 页[^source-1]；Jingzhao's homepage - Our group[^source-2]；[IIIS 张景昭研究团队获 COLT 2025 最佳学生论文奖](https://iiis.tsinghua.edu.cn/info/1018/4755.htm)
 > Raw: [IIIS公开人员候选名单](../../raw/sources/2026-09-07-清华大学交叉信息研究院IIIS-公开人员候选名单.md)（来源编号 S1、S9、S10）；[陈乐偲本人主页](../../raw/sources/陈乐偲个人主页与论文列表.md)；[IIIS与PMLR官方获奖/作者原文](../../raw/sources/2025-07-07-IIIS陈乐偲COLT2025最佳学生论文奖.md)
 
 ## 一句话判断
 
-AI Theory Group 是 [张景昭](../people/张景昭_清华交叉信息研究院.md) 领衔的深度学习理论课题组，关注 scaling law、优化复杂度与神经网络理论；**2025 年组内学生获 COLT 最佳学生论文奖**，是本库中"理论方向学生已有顶会最高荣誉"的少数案例，值得跟踪其学生去向。
+AI Theory Group 是 [张景昭](../people/张景昭-清华叉院.md) 领衔的深度学习理论课题组，关注 scaling law、优化复杂度与神经网络理论；**2025 年组内学生获 COLT 最佳学生论文奖**，是本库中"理论方向学生已有顶会最高荣誉"的少数案例，值得跟踪其学生去向。
 
 ## 基本信息
 
@@ -30,16 +30,16 @@ AI Theory Group 是 [张景昭](../people/张景昭_清华交叉信息研究院.
 |---|---|
 | 类型 | 课题组 / group |
 | 所属单位 | [清华大学交叉信息研究院](清华大学交叉信息研究院IIIS.md) |
-| PI | [张景昭](../people/张景昭_清华交叉信息研究院.md) |
+| PI | [张景昭](../people/张景昭-清华叉院.md) |
 | 方向 | 优化、机器学习理论、强化学习、动力系统、异常检测；transformer scaling law、神经网络空间划分、训练数据成员检测 |
-| 官网 | https://iiis.tsinghua.edu.cn/kxyj/ktzjs/AI_Theory_Group.htm |
-| 成员页 | https://sites.google.com/view/jingzhao/our-group |
+| 官网 | [^source-1] |
+| 成员页 | [^source-2] |
 
 ## 重点人物
 
 | 人物 | 角色 | 方向 | 信号 |
 |---|---|---|---|
-| [张景昭](../people/张景昭_清华交叉信息研究院.md) | PI | 优化理论、深度学习理论、scaling law | MIT 博士（Suvrit Sra、Ali Jadbabaie）；MIT Sprowls 最佳博士论文奖；上海期智研究院 PI；组内获 COLT 2025 最佳学生论文奖 |
+| [张景昭](../people/张景昭-清华叉院.md) | PI | 优化理论、深度学习理论、scaling law | MIT 博士（Suvrit Sra、Ali Jadbabaie）；MIT Sprowls 最佳博士论文奖；上海期智研究院 PI；组内获 COLT 2025 最佳学生论文奖 |
 
 ## 成员（在读博士生）
 
@@ -82,11 +82,17 @@ AI Theory Group 是 [张景昭](../people/张景昭_清华交叉信息研究院.
 
 | 来源 | 支持事实 | 日期 |
 |---|---|---|
-| [IIIS AI Theory Group 页](https://iiis.tsinghua.edu.cn/kxyj/ktzjs/AI_Theory_Group.htm) | 课题组归属与对成员页的直接链接 | 2026-09-07 |
-| [Jingzhao's homepage - Our group](https://sites.google.com/view/jingzhao/our-group) | 5 位 PhD students 名单 | 2026-09-07 |
+| IIIS AI Theory Group 页[^source-1] | 课题组归属与对成员页的直接链接 | 2026-09-07 |
+| Jingzhao's homepage - Our group[^source-2] | 5 位 PhD students 名单 | 2026-09-07 |
 | [IIIS：张景昭研究团队获 COLT 2025 最佳学生论文奖](https://iiis.tsinghua.edu.cn/info/1018/4755.htm) | COLT 2025 最佳学生论文奖与获奖工作题目 | 2026-09-07 |
 | [IIIS 人员队伍](https://iiis.tsinghua.edu.cn/rydw.htm) | 张景昭职称与公开研究方向 | 2026-09-07 |
 
 ## 成员消歧补证（2026-09-08）
 
-[陈乐偲](../people/陈乐偲_清华交叉信息研究院.md)本人主页同时列Lesi Chen（陈乐偲）、IIIS博士生与导师张景昭，已完成中英文身份桥接；其国家奖学金与多篇论文满足T2建页门槛。其余英文成员不随之自动消歧。
+[陈乐偲](../people/陈乐偲-清华叉院.md)本人主页同时列Lesi Chen（陈乐偲）、IIIS博士生与导师张景昭，已完成中英文身份桥接；其国家奖学金与多篇论文满足T2建页门槛。其余英文成员不随之自动消歧。
+
+## 引用来源
+
+[^source-1]: [IIIS AI Theory Group 页](https://iiis.tsinghua.edu.cn/kxyj/ktzjs/AI_Theory_Group.htm)
+
+[^source-2]: [Jingzhao's homepage - Our group](https://sites.google.com/view/jingzhao/our-group)

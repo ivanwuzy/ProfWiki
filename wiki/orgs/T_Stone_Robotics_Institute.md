@@ -1,125 +1,47 @@
 ---
-type: orgs
+type: org
 name: 香港中文大学郑家纯机器人研究院
 aliases: ["T Stone Robotics Institute","TSRI","郑家纯机器人研究院","T_Stone_Robotics_Institute"]
 parent: 香港中文大学
 tier: 1
 domains: [robotics, embodied-ai, automation, industrial-robotics]
 key_people: [刘云辉]
-last_verified: 2026-09-07
-confidence: verified_primary
+last_verified: "2026-09-11"
+confidence: unverified
 tags: [orgs, cuhk, robotics, tier1]
+org_type: institute
 ---
 
 # 香港中文大学郑家纯机器人研究院
 
-> Sources: [T Stone官网](https://www.tstone.cuhk.edu.hk/)；[CUHK新闻](https://www.cuhk.edu.hk/)
-> Raw: [香港中文大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)
+> Sources: [T Stone官网](https://www.tstone.cuhk.edu.hk/)；[CUHK新闻](https://www.cuhk.edu.hk/)；[LIU Yun-hui 劉雲輝 – MAE CUHK](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/)；[Overview | Hong Kong Centre for Logistics Robotics](https://hkclr.hk/en/about-us/overview)；[刘云辉-联想访谈](https://capital.lenovo.com/news/detail/id/965/s/1.html)
+> Raw: [香港中文大学工程学院院系与重点人物调研报告](../../raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)；[LIU Yun-hui 劉雲輝 – MAE CUHK](../../raw/sources/香港三校系统采集-cuhk-mae-p-liu-yun-hui.md)；[Overview | Hong Kong Centre for Logistics Robotics](../../raw/sources/香港三校系统采集-hkclr-Overview.md)；[刘云辉-联想访谈](../../raw/sources/2024-04-12-刘云辉-联想访谈.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
-香港中文大学机器人研究总枢纽，由刘云辉教授担任主任，统筹全校机器人资源与产业合作，是港中大机器人与具身智能方向的核心组织平台。
+刘云辉官方 MAE 教师页直接支持其担任 CUHK T Stone Robotics Institute 主任。研究院完整组织架构与人员名册仍待官网补证。
 
 ## 基本信息
 
-| 字段 | 内容 |
-|---|---|
-| 名称 | T Stone Robotics Institute |
-| 类型 | tier 1 研究院（校级） |
-| 所属单位 | [香港中文大学](../universities/香港中文大学.md) |
-| 主任 | [刘云辉](../people/刘云辉_港中大MAE.md) |
-| 官网 | https://www.tstone.cuhk.edu.hk/ |
+学校关联：[香港中文大学](../universities/香港中文大学.md)；主任：[刘云辉](../people/刘云辉-港中文机械自动化.md)。名称与港科大 CKSRI 分开维护，不因中文同名而合并。
 
-## 研究方向
+## 平台关系
 
-### 机器人学
-- 工业机器人
-- 服务机器人
-- 医疗机器人
-- 协作机器人
-
-### 具身智能
-- 全栈具身智能系统
-- 机器人感知与规划
-- 人机协作
-- 智能操作
-
-### 自动化
-- 工业自动化
-- 物流自动化
-- 制造自动化
-- 智能工厂
-
-## 组织架构
-
-### 研究院领导
-- 主任：[刘云辉](../people/刘云辉_港中大MAE.md)
-- 其他管理团队待补充
-
-### 跨院系协作
-- 机械与自动化工程学系（MAE）
-- 计算机科学与工程学系（CSE）
-- 信息工程学系（IE）
-- 其他相关院系
-
-## 平台与资源
-
-### 研究设施
-- 机器人实验室
-- 测试平台
-- 制造设施
-- 具体设施待补充
-
-### 产业合作
-- 与企业联合实验室
-- 技术转化平台
-- 产学研合作项目
-
-## 重点项目
-
-### 具身智能中心（HKCLR）
-- 香港首个全栈具身智能实验室
-- 刘云辉参与创建
-- 整合港中大机器人团队
-
-### 其他重点项目
-- 待补充
-
-## 人才培养
-
-### 学生项目
-- 跨院系研究生培养
-- 本科生科研机会
-- 博士生联合培养
-
-## 学术影响
-
-### 组织建设
-- 港中大机器人研究总枢纽
-- 统筹全校机器人资源
-- 跨院系协作平台
-
-### 产业对接
-- 企业合作窗口
-- 技术转化通道
-- 产业化推进
+同一教师页同时列刘云辉为[香港物流机械人研究中心](香港具身智能与机器人中心HKCLR.md)主任；两者之间的正式隶属关系未由此得到证明。
 
 ## 待验证
 
-- [ ] 研究院成立时间
-- [ ] 完整管理团队名单
-- [ ] 研究院组织架构图
-- [ ] 下属实验室/中心完整列表
-- [ ] 研究设施详细信息
-- [ ] 产业合作伙伴名单
-- [ ] 资金来源与规模
-- [ ] 代表性研究成果
-- [ ] 是否有衍生创业项目
+研究院成立日期、完整成员、具体下属实验室与独立产业合作。当前只核实研究院身份和主任，不将全校机器人工作归为其成果。
 
-## 证据
+## 修订记录
 
-| 来源 | 支持事实 | 日期 |
-|---|---|---|
-| T Stone官网 | 研究院介绍、研究方向 | 2026-09-07 |
-| CUHK MAE官网 | 刘云辉担任主任 | 2026-09-07 |
-| HKCLR官网 | 刘云辉参与具身智能中心创建 | 2024 |
+> **Status: Disputed（2026-09-11）**：旧文“统筹全校机器人资源”以及将 HKCLR 列为“首个全栈具身智能项目”的描述缺充分证据，撤出当前判断；HKCLR 官网支持独立名称与 2020 年成立。
+
+## 下属实验室/课题组
+
+目前未建页。
+
+## 人才转化去向
+
+主任[刘云辉](../people/刘云辉-港中文机械自动化.md)本人访谈确认参与[未来机器人](../companies/未来机器人.md)创业，CEO[李陆洋](../people/李陆洋-未来机器人.md)、CTO[方牧](../people/方牧-未来机器人.md)来自其博士生团队。此为主任及其学生的创业网络；不把公司推定为研究院控股主体。

@@ -1,20 +1,21 @@
 ---
-type: orgs
+type: org
 name: 香港大学自动化与智能机器人实验室
 aliases: ["AIR Lab","Automation and Intelligent Robot Lab","自动化与智能机器人实验室","港大AIR_Lab","港大AIR Lab（Automation and Intelligent Robot Lab）"]
 parent: 香港大学数据与系统工程系
 tier: 2
 domains: [micro-nano-robotics, medical-robotics, cell-manipulation, biomedical-engineering]
 key_people: [刘俊]
-last_verified: 2026-09-07
+last_verified: 2026-09-11
 confidence: verified_primary
 tags: [orgs, hku, medical-robotics, tier2]
 ---
 
 # 香港大学自动化与智能机器人实验室
 
-> Sources: [AIR Lab官网](https://airlab.hku.hk/)；[HKU研究亮点](https://ke.hku.hk/story/innovation/micro-and-medical-robotics)
-> Raw: [香港大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)
+> Sources: [AIR Lab官网](https://airlab.hku.hk/)；[HKU研究亮点](https://ke.hku.hk/story/innovation/micro-and-medical-robotics)；[Team - Automation and Intelligent Robot Lab](https://airlab.hku.hk/team/)
+> Raw: [香港大学工程学院院系与重点人物调研报告](../../raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)；[HKU Robotics](../../raw/sources/香港三校系统采集-hku-airlab.md)；[Team - Automation and Intelligent Robot Lab](../../raw/sources/香港三校系统采集-hku-airlab-team.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
@@ -27,8 +28,8 @@ HKU数据与系统工程系下属的自动化与智能机器人实验室，由�
 | 名称 | Automation and Intelligent Robot Lab (AIR Lab) |
 | 类型 | tier 2 实验室 |
 | 所属单位 | [香港大学数据与系统工程系](香港大学数据与系统工程系DASE.md) |
-| 负责人 | [刘俊](../people/刘俊_港大DASE.md) |
-| 官网 | https://airlab.hku.hk/ |
+| 负责人 | [刘俊](../people/刘俊-港大数据系统.md) |
+| 官网 | <https://airlab.hku.hk/> |
 
 ## 研究方向
 
@@ -80,7 +81,7 @@ HKU数据与系统工程系下属的自动化与智能机器人实验室，由�
 ## 团队成员
 
 ### 核心成员
-- [刘俊](../people/刘俊_港大DASE.md)：实验室负责人、HKU副教授
+- [刘俊](../people/刘俊-港大数据系统.md)：实验室负责人、HKU副教授
 - 其他成员待补充
 
 ### 学生培养
@@ -136,3 +137,22 @@ HKU数据与系统工程系下属的自动化与智能机器人实验室，由�
 | HKU DASE官网 | 刘俊负责实验室 | 2026-09-07 |
 | HKU研究亮点 | 微纳米机器人、单细胞操作、IVF应用 | 2026-09-07 |
 | 研究页面 | AI医学、智能传感器、医疗机器人 | 2026-09-07 |
+
+## 成员与去向
+
+| 人员 | 原页身份／履历 | 边界 |
+|---|---|---|
+| Jun Liu | PI；Toronto PhD 2016；Cornell 博士后 | 与港大 DASE 刘俊为同一团队入口 |
+| Lincheng Li | Beihang 助理教授；AIR Lab visiting assistant professor | 外校访问，不是港大全职 |
+| Min Wang | CSU lecturer；AIR Lab visiting assistant professor | Alumni 又列 first position assistant professor，时点／职称差异待核 |
+| Mansen Chen | DUT PhD 2021；DUT 与 CityU 博士后经历 | 现具体职务未注明 |
+| Lepeng Chen；Sen Wang；Yi Tang；Shuai Zhang；Xiaohan Li | 具博士学位的研究者，官网列研究方向 | 不能由 Ph.D. 后缀全部判为博士后 |
+| Chengxiang Lu | HKU DASE PhD 在读；NUS 硕士 2024 | origami／biomimetic／micro-nano robotics |
+| Cong Liu | HKU DASE PhD 在读；清华电子信息硕士 2025 | micro manipulation／robotics／vision |
+| Jiajun Guo | HKU DASE PhD 在读；Bristol 机器人硕士 2025 | soft robotics／wearable rehabilitation |
+| Tianyi Wu | Alumni PhD 2021–2025；首站 BJUT 助理教授 | 不等于当前仍任同职 |
+| Rui Liu | Alumni PhD 2020–2024；首站 Guangzhou University of Chinese Medicine 助理教授 | 时间按网页记录 |
+
+## 覆盖范围与证据边界
+
+主页展示磁驱微机器人等研究；成员页有访问、研究者、在读博士与校友层级。页面更新时间与人物当前身份不等价，保留原文说明。

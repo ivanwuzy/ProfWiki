@@ -9,6 +9,7 @@ on:
       - 'references/**'
       - 'site/**'
       - 'talent-map/**'
+      - 'hong-kong-talent-map/**'
       - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
@@ -37,6 +38,7 @@ jobs:
       - uses: actions/configure-pages@v5
       - run: npm ci
       - run: npx tsx --test scripts/search.test.ts
+      - run: node --test ../hong-kong-talent-map/source/map.test.cjs
       - run: npm run build
       - run: python3 scripts/check-links.py
       - uses: actions/upload-pages-artifact@v3

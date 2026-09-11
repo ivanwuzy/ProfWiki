@@ -10,16 +10,16 @@ key_people: [窦琪, 刘云辉]
 related_companies: []
 watch_tier: T1
 priority: A+
-last_verified: 2026-09-08
+last_verified: 2026-09-11
 confidence: verified_primary
 tags: [org, cuhk, frontier-talent]
 ---
 
 # 香港中文大学计算机科学与工程学系
 
-> Sources: CUHK CSE官网（https://www.cse.cuhk.edu.hk/）；窦琪个人主页（https://www.cse.cuhk.edu.hk/~qdou）；[Liwei-Wang与LaVi](https://lwwangcse.github.io/)
-> Updated: 2026-09-08
-> Raw: [香港中文大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)；[Liwei-Wang与LaVi](../../raw/sources/香港具身核查-Liwei-Wang与LaVi.md)
+> Sources: [CUHK CSE官网](https://www.cse.cuhk.edu.hk/)；[窦琪个人主页](https://www.cse.cuhk.edu.hk/~qdou)；[Liwei-Wang与LaVi](https://lwwangcse.github.io/)；[Faculty – CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/)；[Jiaya JIA | HKUST CSE](https://cse.hkust.edu.hk/admin/people/faculty/profile/jia)
+> Updated: 2026-09-11
+> Raw: [香港中文大学工程学院院系与重点人物调研报告](../../raw/sources/2026-09-07-香港中文大学工程学院院系与重点人物调研报告.md)；[Liwei-Wang与LaVi](../../raw/sources/香港具身核查-Liwei-Wang与LaVi.md)；[Faculty – CUHK CSE](../../raw/sources/香港三校系统采集-cuhk-cse-staff.md)；[Jiaya JIA | HKUST CSE](../../raw/sources/香港三校系统采集-ust-cse-p-jia.md)
 
 ## 一句话判断
 
@@ -36,28 +36,20 @@ tags: [org, cuhk, frontier-talent]
 | QS排名2022 | 计算机科学全球第26位 |
 | 师资荣誉 | 1位图灵奖得主、8位ACM Fellow、16位IEEE Fellow |
 | 方向 | 深度学习、AI、医疗AI、机器人、计算机视觉、手术自动化 |
-| 官网 | https://www.cse.cuhk.edu.hk/ |
+| 官网 | <https://www.cse.cuhk.edu.hk/> |
 
 ## 重点人物
 
 | 人物 | 角色 | 方向 | 信号 |
 |---|---|---|---|
-| [窦琪](../people/窦琪_港中大CSE.md) | 副教授 | 医疗AI、具身智能、手术自动化 | 手术自动化研究（实验范围待原始论文核对）、COVID-19 AI检测 |
-| [刘云辉](../people/刘云辉_港中大MAE.md) | 教授（CSE/MAE双聘） | 视觉机器人、物流机器人、医疗机器人 | 物流机器人中心主任、T Stone机器人研究院院长 |
+| [窦琪](../people/窦琪-港中文计算机.md) | 副教授 | 医疗AI、具身智能、手术自动化 | 手术自动化研究（实验范围待原始论文核对）、COVID-19 AI检测 |
+| [刘云辉](../people/刘云辉-港中文机械自动化.md) | 教授（CSE/MAE双聘） | 视觉机器人、物流机器人、医疗机器人 | 物流机器人中心主任、T Stone机器人研究院院长 |
 
 ## 下属实验室/课题组
 
-本库目前已给「香港中文大学计算机科学与工程学系CSE」建立以下 tier: 2 实验室/研究组页面：
-
-| 实验室/研究组 | 负责人 | 重点方向 | 页面链接 |
-|---|---|---|---|
-| 待补 | 窦琪 | 医疗AI、手术机器人 | 待建 |
-
-本轮新增：
-
-| 实验室/院系 | 负责人/覆盖 | 重点方向 | 页面 |
-|---|---|---|---|
-| [香港中文大学 LaVi实验室](港中大LaVi实验室.md) | [Liwei Wang](../people/Liwei-Wang_港中大CSE.md) | 语言视觉、世界模型与具身导航 | [香港中文大学 LaVi实验室](港中大LaVi实验室.md) |
+| 实验室/课题组 | 重点方向 |
+|---|---|
+| [香港中文大学 LaVi实验室](港中大LaVi实验室.md) | - embodied-ai |
 
 ## 核心研究方向
 
@@ -156,3 +148,95 @@ CSE系在香港中文大学工程学院中承担AI与机器人核心研究：
 | CUHK新闻 | 世界首个多任务手术自动化活体测试 | 2026-09-07 |
 | 刘云辉个人主页 | 视觉机器人、VLM空间智能、全栈具身AI | 2026-09-07 |
 | AI 2000榜单新闻 | AI 2000学者入选 | 2026-09-07 |
+
+## 人员名册
+
+此表保存采集时的公开栏目快照；含合聘、荣休、附属等身份，不能相加为全职人数。“方向待补”表示名册未提供，非无相关研究。重点方向标注只用于安排后续检索。
+
+| 分类 | 姓名 | 公开职务 | 方向原文 | 范围标注 | 主页 |
+|---|---|---|---|---|---|
+| Faculty（含兼职、礼聘、荣休及纪念） | Leizhen Cai | Emeritus Professor | Computer Theory | 相邻 | [原页](https://www.cse.cuhk.edu.hk/~lcai/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Lai Wan Chan | Emeritus Professor | Applications, Artificial Intelligence, Data and Software Engineering | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/lai-wan-chan/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Chuck-jee Chau | Lecturer | Data and Software Engineering, Rich Media | 相邻 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/chuck-jee-chau) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Tien Chi Chen | In Memoriam | 未列 | 方向待补 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/tien-chi-chen/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Hong Cheng | Professor (by courtesy) | Artificial Intelligence, Data and Software Engineering | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/hong-cheng/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | James Cheng | Professor | Artificial Intelligence, Data and Software Engineering, Networks and Systems | 命中 | [原页](https://www.cse.cuhk.edu.hk/~jcheng/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Chi Hong Cheong | Lecturer | 未列 | 方向待补 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/chi-hong-cheong/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Jackey Cheung | Lecturer | Artificial Intelligence, Data and Software Engineering, Networks and Systems, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/jackey-cheung/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Yim Pan Chui | Lecturer | Rich Media | 本轮非重点 | [原页](https://www.cse.cuhk.edu.hk/~ypchui/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Qi Dou | Associate Professor | Applications, Artificial Intelligence, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/qi-dou/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Farzan Farnia | Assistant Professor | Artificial Intelligence, Computer Theory | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/farzan-farnia/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Chi Wing Fu | Vice-Chairman (Undergraduate) and Professor | Artificial Intelligence, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/fu-chi-wing/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Ada Wai Chee Fu | Adjunct Associate Professor | 未列 | 方向待补 | [原页](http://www.cse.cuhk.edu.hk/~adafu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Michael Ping Fu Fung | Senior Lecturer | Rich Media | 本轮非重点 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/michael-ping-fu-fung/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Jinwei Gu | Adjunct Associate Professor | Artificial Intelligence, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/jinwei-gu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Pheng Ann Heng | Choh-Ming Li Professor of Computer Science and Engineering | Applications, Artificial Intelligence, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/pheng-ann-heng/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Tsung-Yi Ho | Professor | Artificial Intelligence, Computer Engineering, Computer Theory | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Jiaya Jia | Adjunct Professor | Artificial Intelligence, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/jiaya-jia/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Yuli Jiang | Lecturer | Data and Software Engineering | 相邻 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/yuli-jiang/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Ho Chuen Kam | Lecturer | Artificial Intelligence, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/ho-chuen-kam/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Wai-Yiu Keung | Assistant Lecturer | Artificial Intelligence, Computer Theory | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/wai-yiu-keung/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Irwin King | Professor | Applications, Artificial Intelligence, Data and Software Engineering, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/irwin-king/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | King Tin Lam | Lecturer | 未列 | 方向待补 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/king-tin-lam/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Lap Chi Lau | Adjunct Professor | 未列 | 方向待补 | [原页](https://cs.uwaterloo.ca/~lapchi/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Yat Chiu Law | Senior Lecturer | Artificial Intelligence, Computer Theory | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/yat-chiu-law/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Jimmy Ho Man Lee | Professor | Applications, Artificial Intelligence, Computer Theory, Data and Software Engineering | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/jimmy-ho-man-lee/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Patrick P.C. Lee | Professor | Networks and Systems | 相邻 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/patrick-pc-lee/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Billy Ka Kit Lee | Assistant Lecturer | Artificial Intelligence | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/kklee/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Ho Fung Leung | Emeritus Professor | Artificial Intelligence, Data and Software Engineering | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/ho-fung-leung/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Kwong Sak Leung | Emeritus Professor | Applications, Artificial Intelligence, Data and Software Engineering | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/kwong-sak-leung/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Hongsheng Li | Associate Professor (by courtesy) | 未列 | 方向待补 | [原页](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-hongsheng-li) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Shaohua Li | Assistant Professor | Artificial Intelligence, Data and Software Engineering, Networks and Systems | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/shaohuali/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Yu Li | Assistant Professor | Applications, Artificial Intelligence | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/yu-li/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Xiao Liang | Assistant Professor | Computer Theory, Networks and Systems | 相邻 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/xiao-liang/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Zhiding Liang | Assistant Professor | Computer Engineering, Computer Architecture, Computer Theory, Quantum Computing | 相邻 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/Zhiding-Liang/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Dahua Lin | Associate Professor (by courtesy) | 未列 | 方向待补 | [原页](http://dahualin.site/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Shengchao LIU | Assistant Professor | Artificial Intelligence, Bioinformatics, Deep Learning, Machine Learning | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/shengchao-liu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Weiyang Liu | Assistant Professor | Applications, Artificial Intelligence, Data and Software Engineering, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/Weiyang-Liu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Yunhui Liu | Choh-Ming Li Professor of Mechanical and Automation Engineering (by courtesy) | Robotics, Computer Vision | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/yunhui-liu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Eric Chi Lik Lo | Associate Professor | Applications, Artificial Intelligence, Data and Software Engineering, Networks and Systems | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/eric-chi-lik-lo/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Songtao Lu | Assistant professor | Artificial Intelligence, Computer Theory, Data and Software Engineering | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/songtao-lu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | John Chi Shing Lui | Choh-Ming Li Professor of Computer Science and Engineering | Machine Learning, Computer Theory,  Data Engineering, Networks, Quantum Communication, Internet Engineering | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/john-chi-shing-lui/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Michael Rung Tsong Lyu | Choh-Ming Li Professor of Computer Science and Engineering | Applications, Artificial Intelligence, Data and Software Engineering, Networks and Systems | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/michael-rung-tsong-lyu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Wallace W. H. Mak | Lecturer | 未列 | 方向待补 | [原页](http://www.cse.cuhk.edu.hk/~wallace/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Wei Meng | Associate Professor | Applications, Data and Software Engineering, Networks and Systems | 相邻 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/wei-meng/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Sinno Jialin Pan | Vice-Chairman (Postgraduate) and Professor | Applications, Artificial Intelligence | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/sinno-jialin-pan/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Lauren Pick | Assistant Professor | Artificial Intelligence, Computer Theory, Data and Software Engineering, Networks and Systems | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/Lauren-PICK/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Shi Qiu | Research Assistant Professor | Applications, Artificial Intelligence, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/shi-qiu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Zili Shao | Professor | Computer Engineering, Data and Software Engineering, Networks and Systems | 相邻 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/zili-shao/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Peter James STUCKEY | Adjunct Professor | 未列 | 方向待补 | [原页](https://research.monash.edu/en/persons/peter-stuckey/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Anthony K. W. Sum | Lecturer | Artificial Intelligence, Computer Engineering | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/anthony-k-w-sum/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Sean Xiaoou Tang | In Memoriam | 未列 | 方向待补 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/sean-xiaoou-tang/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Yufei Tao | Professor | Artificial Intelligence, Computer Theory, Data and Software Engineering | 命中 | [原页](https://www.cse.cuhk.edu.hk/~taoyf/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Yusheng Tian | Lecturer | Applications, Artificial Intelligence, Deep Learning, Machine Learning | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/tian-yusheng/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Colin S. C. Tsang | Lecturer | Artificial Intelligence, Computer Theory | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/colin-s-c-tsang/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Benjamin Wan Sang Wah, BBS, JP | Emeritus Professor | Applications, Artificial Intelligence, Data and Software Engineering | 命中 | [原页](https://benjaminwah.github.io/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Liwei Wang | Assistant Professor | Artificial Intelligence, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/liwei-wang/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Zhengrong Wang | Assistant Professor | Artificial Intelligence, Computer Engineering, Networks and Systems | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/zhengrong-wang/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Sibo Wang | Associate Professor (by courtesy) | 未列 | 方向待补 | [原页](http://www1.se.cuhk.edu.hk/~swang/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Chak Kuen Wong | Emeritus Professor | 未列 | 方向待补 | [原页](http://appsrv.cse.cuhk.edu.hk/~wongck/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Martin Ding Fat Wong | Adjunct Professor | Computer Engineering | 相邻 | [原页](https://www.erg.cuhk.edu.hk/erg/DeanMessage) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Man Hon Wong | Adjunct Associate Professor | Applications, Artificial Intelligence, Data and Software Engineering, Networks and Systems | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/man-hon-wong/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | WONG Tien Tsin | Adjunct Professor | 未列 | 方向待补 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/tien-tsin-wong/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Guoliang Xing | Professor (by courtesy) | Intersection of systems and Embedded AI | 命中 | [原页](https://staff.ie.cuhk.edu.hk/~glxing/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Henry Hong Xu | Associate Professor | Data and Software Engineering, Networks and Systems | 相邻 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/henry-hong-xu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Lei Xu | Emeritus Professor | 未列 | 方向待补 | [原页](http://www.cse.cuhk.edu.hk/~lxu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Mengya Xu | Research Assistant Professor, MedAIR@CUHK Lab | Applications, Artificial Intelligence, Deep Learning, Human Computer Interaction, Medical Image, Robotics, Computer Engineering, Data and Software Engineering, Rich Media, Computer Vision | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/xu-mengya/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Qiang Xu | Professor | Artificial Intelligence, Computer Engineering, Networks and Systems | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/qiang-xu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Ming-Chang Yang | Associate Professor | Computer Engineering, Data and Software Engineering, Networks and Systems | 相邻 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/ming-chang-yang/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Andrew Chi Chih Yao | Distinguished Professor-at-Large | Computer Theory | 相邻 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/andrew-chi-chih-yao/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Evangeline F.Y. Young | Chairman and Professor | Artificial Intelligence, Computer Engineering, Computer Theory | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/evangeline-f-y-young/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Kevin Yip | Adjunct Professor | 未列 | 方向待补 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/kevin-yip/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Bei Yu | Professor | Applications, Artificial Intelligence, Computer Engineering, Rich Media | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/bei-yu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Michael Ruisi Yu | Lecturer | 未列 | 方向待补 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/michael-ruisi-yu/) |
+| Faculty（含兼职、礼聘、荣休及纪念） | Hanrui Zhang | Assistant Professor | Artificial Intelligence, Computer Theory | 命中 | [原页](https://www.cse.cuhk.edu.hk/people/faculty/hanrui/) |
+
+## 覆盖范围与证据边界
+
+本轮名册来源：[Faculty – CUHK CSE](https://www.cse.cuhk.edu.hk/people/faculty/)。原始名单见 Raw。教授身份与研究方向不作为独立建页信号。人员现职以学校最新名单为锚点，旧个人主页中的职称与毕业预测不自动沿用。
+
+学生、博士后与毕业校友从下属团队名单继续核实；没有公开名单不表示没有成员。
+
+## 历史与附属教职边界
+
+[贾佳亚](../people/贾佳亚-港科大计算机.md)在本校 2004 年加入、2015 年晋升教授的经历为历史教职；2024 年转 HKUST Chair Professor。本校当前名册列 Adjunct，不计为本校全职教师。

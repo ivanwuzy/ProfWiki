@@ -6,7 +6,7 @@ domains:
 - embodied-ai
 - robotics
 watch_tier: T2
-last_verified: '2026-09-08'
+last_verified: 2026-09-11
 confidence: verified_primary
 tags:
 - org
@@ -17,8 +17,9 @@ tier: 2
 
 # 香港大学 AI与数据科学系
 
-> Sources: [HKU-Pan-Jia教师页](https://ai.hku.hk/people/academic-staff/jpan)
-> Raw: [HKU-Pan-Jia教师页](../../raw/sources/香港具身核查-HKU-Pan-Jia教师页.md)
+> Sources: [HKU-Pan-Jia教师页](https://ai.hku.hk/people/academic-staff/jpan)；[Pan, J.](https://www.ai.hku.hk/index.php/people/academic-staff/jpan)
+> Raw: [HKU-Pan-Jia教师页](../../raw/sources/香港具身核查-HKU-Pan-Jia教师页.md)；[Pan, J.](../../raw/sources/香港三校系统采集-hku-cds-p-jpan.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
@@ -36,4 +37,8 @@ tier: 2
 
 | 实验室/课题组 | 重点方向 |
 |---|---|
-| [香港大学潘佳机器人课题组](港大潘佳机器人课题组.md) | 机器人学习、操作、规划与感知 |
+| [香港大学潘佳机器人课题组](港大潘佳机器人课题组.md) | - embodied-ai |
+
+## 覆盖范围
+
+Department of AI and Data Science 是 CDS 组成部分。此次补证聚焦潘佳团队与院系名册中的相关人员；尚未取得能与 CDS 完全去重的独立全系名册。

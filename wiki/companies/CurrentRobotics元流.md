@@ -24,7 +24,7 @@ tags: [company, embodied-ai, frontier-talent]
 
 ## 一句话判断
 
-元流由 95 后、前美的集团具身智能部部长[祝毅晨](../people/祝毅晨_CurrentRobotics.md)创办；**创始人本科为多伦多大学，内部整理表标注的"清华校友"未获证实**。
+元流由 95 后、前美的集团具身智能部部长[祝毅晨](../people/祝毅晨-CurrentRobotics.md)创办；**创始人本科为多伦多大学，内部整理表标注的"清华校友"未获证实**。
 
 ## ⚠️ 清华关联证伪
 
@@ -46,7 +46,7 @@ tags: [company, embodied-ai, frontier-talent]
 
 | 姓名 | 角色 | 背景 | 证据 |
 |---|---|---|---|
-| [祝毅晨](../people/祝毅晨_CurrentRobotics.md) | 创始人 | 95 后；前美的集团具身智能部部长；40 余篇顶会论文 | 内部整理表 |
+| [祝毅晨](../people/祝毅晨-CurrentRobotics.md) | 创始人 | 95 后；前美的集团具身智能部部长；40 余篇顶会论文 | 内部整理表 |
 
 ## 待验证
 

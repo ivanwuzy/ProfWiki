@@ -17,12 +17,12 @@ tags: [org, tsinghua, iiis, frontier-talent]
 
 # 清华大学 IDEAL 实验室
 
-> Sources: IIIS IDEAL 课题组页（https://iiis.tsinghua.edu.cn/kxyj/ktzjs/IDEAL__Innovative_Data_centric_Efficient_Architect.htm）; Mingyu Gao - Students（https://people.iiis.tsinghua.edu.cn/~gaomy/students.html）; IIIS 人员队伍（https://iiis.tsinghua.edu.cn/rydw.htm）
+> Sources: IIIS IDEAL 课题组页[^source-1]；Mingyu Gao - Students[^source-2]；[IIIS 人员队伍](https://iiis.tsinghua.edu.cn/rydw.htm)
 > Raw: [IIIS公开人员候选名单](../../raw/sources/2026-09-07-清华大学交叉信息研究院IIIS-公开人员候选名单.md)（来源编号 S1、S7、S8）
 
 ## 一句话判断
 
-IDEAL（Innovative Data-centric Efficient Architecture Lab）是 IIIS 的计算机体系结构实验室，PI [高鸣宇](../people/高鸣宇_清华交叉信息研究院.md) 为福布斯中国 U30 上榜者，方向覆盖新型存储架构、专用计算系统与硬件安全，是本库观察 AI 芯片/算力硬件这条线在 IIIS 侧的入口。
+IDEAL（Innovative Data-centric Efficient Architecture Lab）是 IIIS 的计算机体系结构实验室，PI [高鸣宇](../people/高鸣宇-清华叉院.md) 为福布斯中国 U30 上榜者，方向覆盖新型存储架构、专用计算系统与硬件安全，是本库观察 AI 芯片/算力硬件这条线在 IIIS 侧的入口。
 
 ## 基本信息
 
@@ -30,16 +30,16 @@ IDEAL（Innovative Data-centric Efficient Architecture Lab）是 IIIS 的计算�
 |---|---|
 | 类型 | 实验室 / lab |
 | 所属单位 | [清华大学交叉信息研究院](清华大学交叉信息研究院IIIS.md) |
-| PI | [高鸣宇](../people/高鸣宇_清华交叉信息研究院.md) |
+| PI | [高鸣宇](../people/高鸣宇-清华叉院.md) |
 | 方向 | 计算机系统结构：新型存储架构、专用计算系统、硬件系统安全；面向深度学习、图形处理、数据分析等数据密集型应用的高效架构 |
-| 官网 | https://iiis.tsinghua.edu.cn/kxyj/ktzjs/IDEAL__Innovative_Data_centric_Efficient_Architect.htm |
-| 成员页 | https://people.iiis.tsinghua.edu.cn/~gaomy/students.html |
+| 官网 | [^source-1] |
+| 成员页 | [^source-2] |
 
 ## 重点人物
 
 | 人物 | 角色 | 方向 | 信号 |
 |---|---|---|---|
-| [高鸣宇](../people/高鸣宇_清华交叉信息研究院.md) | PI | 计算机体系结构、存储架构、硬件安全 | IIIS 院长助理、长聘副教授；福布斯中国 U30（科学）上榜者；斯坦福 EE 博士 |
+| [高鸣宇](../people/高鸣宇-清华叉院.md) | PI | 计算机体系结构、存储架构、硬件安全 | IIIS 院长助理、长聘副教授；福布斯中国 U30（科学）上榜者；斯坦福 EE 博士 |
 
 ## 成员（在读博士生）
 
@@ -61,7 +61,7 @@ IDEAL（Innovative Data-centric Efficient Architecture Lab）是 IIIS 的计算�
 | Cheng Wang | Current Students / PhDs | 页面明示为与上海交通大学联合指导，同上 |
 | Hanshuo Wang | Current Students / PhDs | 页面明示为联合指导，同上 |
 
-三人均见[清华大学交叉信息研究院高潜观察池](../maps/清华大学交叉信息研究院高潜观察池.md)待核线索表。
+三人的联合指导记录由本页承接，不能据此直接认定为IIIS在读博士。
 
 ## 创业/产业化线索
 
@@ -82,7 +82,13 @@ IDEAL（Innovative Data-centric Efficient Architecture Lab）是 IIIS 的计算�
 
 | 来源 | 支持事实 | 日期 |
 |---|---|---|
-| [IIIS IDEAL 课题组页](https://iiis.tsinghua.edu.cn/kxyj/ktzjs/IDEAL__Innovative_Data_centric_Efficient_Architect.htm) | 实验室归属与对成员页的直接链接 | 2026-09-07 |
-| [Mingyu Gao - Students](https://people.iiis.tsinghua.edu.cn/~gaomy/students.html) | 在读博士生名单、联合指导标注 | 2026-09-07 |
+| IIIS IDEAL 课题组页[^source-1] | 实验室归属与对成员页的直接链接 | 2026-09-07 |
+| Mingyu Gao - Students[^source-2] | 在读博士生名单、联合指导标注 | 2026-09-07 |
 | [福布斯中国 U30：高鸣宇](https://www.forbeschina.com/entrepreneur/45013) | IDEAL 实验室定位、高鸣宇教育背景与 U30 身份 | 2026-09-07 |
 | [IIIS 人员队伍](https://iiis.tsinghua.edu.cn/rydw.htm) | 高鸣宇职称与公开研究方向 | 2026-09-07 |
+
+## 引用来源
+
+[^source-1]: [IIIS IDEAL 课题组页](https://iiis.tsinghua.edu.cn/kxyj/ktzjs/IDEAL__Innovative_Data_centric_Efficient_Architect.htm)
+
+[^source-2]: [Mingyu Gao - Students](https://people.iiis.tsinghua.edu.cn/~gaomy/students.html)

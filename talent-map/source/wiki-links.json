@@ -117,5 +117,11 @@
   "lab:NICS-EFC": "wiki/orgs/汪玉课题组-NICSEFC.md",
   "lab:AI&Robot实验室": "wiki/orgs/AI_Robot智能机器人实验室-清华SIGS.md",
   "lab:智能绿色车辆国重室": "wiki/orgs/智能绿色车辆与交通全国重点实验室.md",
-  "lab:SUNIST": "wiki/orgs/等离子体科学与聚变实验室-SUNIST.md"
+  "lab:SUNIST": "wiki/orgs/等离子体科学与聚变实验室-SUNIST.md",
+  "lab:VAR Lab": "wiki/orgs/清华大学视觉与机器人实验室.md",
+  "lab:MARS Lab": "wiki/orgs/清华大学-MARS-Lab.md",
+  "company:求之科技": "wiki/companies/DISCOVER-Lab-求之科技AIRBOT.md",
+  "company:西湖交互": "wiki/companies/西湖交互.md",
+  "company:逐际动力": "wiki/companies/逐际动力.md",
+  "department:航天航空学院": "wiki/orgs/清华大学航天航空学院.md"
 }

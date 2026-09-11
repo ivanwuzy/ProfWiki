@@ -806,3 +806,825 @@
 - 重写保留的五页；撤回旧唯一性、创业密度与过时建页统计，删除批次追加式正文；未新增事实核验等级。
 - 原始资料不变；清理前全文留本地非同步备份及 Git 历史，原错误不再作为当前结论传播。
 - 更新入链、索引与长尾承接规则；云端首页仅推荐精选专题。
+
+## [2026-09-11] ingest | 香港三校系统扩充与存量关系校准
+
+- Disposition: New; Update; Disputed; Outdated
+- Scope: 香港大学、香港科技大学、香港中文大学；两所内地关联高校不并计。
+- Result: 39 个人物新页、14 个人物更新；22 个组织新页、27 个组织更新；10 个奖项新页；11 个公司新页、2 个公司更新；12 份名册快照与 90 条教师方向初筛。
+- Boundary: 官网事实核准与未决项分开；近三年度奖项、附属聘任逐人产业检索和公司尽调尚未全覆盖。
+- Corrections: HKCLR 名称/2020 年建立、智能制造中心正副主任、林达华职称、贾佳亚现职及跨校成员边界。
+- Raw:
+  - raw/sources/香港三校系统采集-hku-cds-staff.md
+  - raw/sources/香港三校系统采集-hku-cds-adjunct.md
+  - raw/sources/香港三校系统采集-hku-cds-research.md
+  - raw/sources/香港三校系统采集-hku-dase-staff.md
+  - raw/sources/香港三校系统采集-hku-mech-staff.md
+  - raw/sources/香港三校系统采集-ust-cse-staff.md
+  - raw/sources/香港三校系统采集-ust-mae-staff.md
+  - raw/sources/香港三校系统采集-cuhk-cse-staff.md
+  - raw/sources/香港三校系统采集-cuhk-mae-staff.md
+  - raw/sources/香港三校系统采集-hku-sail-members.md
+  - raw/sources/香港三校系统采集-cuhk-mmlab-members.md
+  - raw/sources/香港三校系统采集-hku-opendrive.md
+  - raw/sources/香港三校系统采集-hku-airlab.md
+  - raw/sources/香港三校系统采集-ust-ece-roster.md
+  - raw/sources/香港三校系统采集-ust-ri-roster.md
+  - raw/sources/香港三校系统采集-ust-ece-bio-892.md
+  - raw/sources/香港三校系统采集-ust-ece-bio-951.md
+  - raw/sources/香港三校系统采集-ust-ece-bio-2227.md
+  - raw/sources/香港三校系统采集-ust-ece-bio-2251.md
+  - raw/sources/香港三校系统采集-ust-ece-bio-2273.md
+  - raw/sources/香港三校系统采集-ust-ece-bio-2414.md
+  - raw/sources/香港三校系统采集-ust-ece-bio-2486.md
+  - raw/sources/香港三校系统采集-ust-ece-bio-2020.md
+  - raw/sources/香港三校系统采集-hku-mech-p-zhang-f.md
+  - raw/sources/香港三校系统采集-hku-mars.md
+  - raw/sources/香港三校系统采集-hku-mech-p-lu-p.md
+  - raw/sources/香港三校系统采集-hku-arc.md
+  - raw/sources/香港三校系统采集-hku-cds-p-lpk.md
+  - raw/sources/香港三校系统采集-hku-cds-p-taku.md
+  - raw/sources/香港三校系统采集-hku-cds-p-yanchaoy.md
+  - raw/sources/香港三校系统采集-hku-yanchao.md
+  - raw/sources/香港三校系统采集-hku-cds-p-kaihan.md
+  - raw/sources/香港三校系统采集-hku-visualai.md
+  - raw/sources/香港三校系统采集-hku-cds-p-liuqi.md
+  - raw/sources/香港三校系统采集-hku-cds-p-zqwu.md
+  - raw/sources/香港三校系统采集-hku-zhenqin.md
+  - raw/sources/香港三校系统采集-hku-cds-p-yulequan.md
+  - raw/sources/香港三校系统采集-hku-lequan.md
+  - raw/sources/香港三校系统采集-cuhk-mae-p-li-zhongyu.md
+  - raw/sources/香港三校系统采集-cuhk-mae-p-chen-fei.md
+  - raw/sources/香港三校系统采集-cuhk-feichen.md
+  - raw/sources/香港三校系统采集-cuhk-mae-p-he-qiguang.md
+  - raw/sources/香港三校系统采集-cuhk-mae-p-zhang-li.md
+  - raw/sources/香港三校系统采集-cuhk-microbot.md
+  - raw/sources/香港三校系统采集-cuhk-mae-p-lu-yi-chun.md
+  - raw/sources/香港三校系统采集-cuhk-mae-bochk.md
+  - raw/sources/香港三校系统采集-cuhk-mae-p-cheng-shing-shin.md
+  - raw/sources/香港三校系统采集-cuhk-surgical.md
+  - raw/sources/香港三校系统采集-cuhk-mae-p-lau-darwin-tat-ming.md
+  - raw/sources/香港三校系统采集-cuhk-c3.md
+  - raw/sources/香港三校系统采集-ust-cse-p-junxianh.md
+  - raw/sources/香港三校系统采集-ust-cse-p-justimyhxu.md
+  - raw/sources/香港三校系统采集-ust-cse-p-danxu.md
+  - raw/sources/香港三校系统采集-ust-mae-p-hu-wenqi.md
+  - raw/sources/香港三校系统采集-ust-personal-892.md
+  - raw/sources/香港三校系统采集-ust-personal-2227.md
+  - raw/sources/香港三校系统采集-ust-personal-2251.md
+  - raw/sources/香港三校系统采集-ust-personal-2273.md
+  - raw/sources/香港三校系统采集-ust-personal-2486.md
+  - raw/sources/香港三校系统采集-ust-personal-2020.md
+  - raw/sources/香港三校系统采集-cuhk-ie-roster.md
+  - raw/sources/香港三校系统采集-cuhk-bme-staff.md
+  - raw/sources/香港三校系统采集-hku-mars-people.md
+  - raw/sources/香港三校系统采集-hku-mech-tro.md
+  - raw/sources/香港三校系统采集-hku-arc-People.md
+  - raw/sources/香港三校系统采集-hku-visualai-people.md
+  - raw/sources/香港三校系统采集-hku-zhenqin-Team.md
+  - raw/sources/香港三校系统采集-ust-personal-892-People.md
+  - raw/sources/香港三校系统采集-ust-personal-2251-Students.md
+  - raw/sources/香港三校系统采集-ust-personal-2227-Students.md
+  - raw/sources/香港三校系统采集-ust-cse-p-justimyhxu-Personal-Webpage.md
+  - raw/sources/香港三校系统采集-cuhk-feichen-members.md
+  - raw/sources/香港三校系统采集-cuhk-microbot-people.md
+  - raw/sources/香港三校系统采集-cuhk-surgical-people.md
+  - raw/sources/香港三校系统采集-cuhk-c3-team.md
+  - raw/sources/香港三校系统采集-cuhk-energy-people.md
+  - raw/sources/香港三校系统采集-hku-dase-award-22.md
+  - raw/sources/香港三校系统采集-hku-mech-award-23.md
+  - raw/sources/香港三校系统采集-hku-dase-award-20.md
+  - raw/sources/香港三校系统采集-hku-dase-award-21.md
+  - raw/sources/香港三校系统采集-ust-cse-dissertation.md
+  - raw/sources/香港三校系统采集-ust-ece-ying-award.md
+  - raw/sources/香港三校系统采集-ust-million-2024-awardees.md
+  - raw/sources/香港三校系统采集-ust-million-2025-awardees.md
+  - raw/sources/香港三校系统采集-ust-million-finalists.md
+  - raw/sources/香港三校系统采集-cuhk-geneva-2025.md
+  - raw/sources/香港三校系统采集-cuhk-geneva-2023.md
+  - raw/sources/香港三校系统采集-cuhk-mae-bochk-linked-5.md
+  - raw/sources/香港三校系统采集-cuhk-mae-bochk-linked-8.md
+  - raw/sources/香港三校系统采集-cuhk-mae-bochk-linked-7.md
+  - raw/sources/香港三校系统采集-cuhk-bme-profile-44.md
+  - raw/sources/香港三校系统采集-cuhk-bme-profile-48.md
+  - raw/sources/香港三校系统采集-cuhk-bme-profile-49-linked-15.md
+  - raw/sources/香港三校系统采集-cuhk-bme-profile-49.md
+  - raw/sources/香港三校系统采集-cuhk-bme-profile-47.md
+  - raw/sources/香港三校系统采集-cuhk-bme-profile-47-linked-13.md
+  - raw/sources/香港三校系统采集-cuhk-bme-profile-45.md
+  - raw/sources/香港三校系统采集-ust-cse-p-songguo.md
+  - raw/sources/香港三校系统采集-ust-cse-p-songguo-personal.md
+  - raw/sources/香港三校系统采集-ust-cse-p-jia.md
+  - raw/sources/香港三校系统采集-hku-startups.md
+  - raw/sources/香港三校系统采集-company-hku-Clearbot.md
+  - raw/sources/香港三校系统采集-cuhk-mae-raise.md
+  - raw/sources/香港三校系统采集-cuhk-mae-raise-linked-9.md
+  - raw/sources/香港三校系统采集-hku-sail-home.md
+  - raw/sources/香港三校系统采集-hku-opendrive-team.md
+  - raw/sources/香港三校系统采集-hku-airlab-team.md
+  - raw/sources/香港三校系统采集-cuhk-ie-p-lin-dahua.md
+  - raw/sources/香港三校系统采集-orgcheck-港中大LaVi实验室-0.md
+  - raw/sources/香港三校系统采集-orgcheck-港大多媒体实验室HKU-MMLab-0.md
+  - raw/sources/香港三校系统采集-orgcheck-港大多媒体实验室HKU-MMLab-1.md
+  - raw/sources/香港三校系统采集-ust-cse-p-cqf.md
+  - raw/sources/香港三校系统采集-ust-mae-p-duan-molong.md
+  - raw/sources/香港三校系统采集-ust-ri-executive.md
+  - raw/sources/香港三校系统采集-hku-ece-browser-roster.md
+  - raw/sources/香港三校系统采集-hkclr-Overview.md
+  - raw/sources/香港三校系统采集-hkclr-Investigators.md
+  - raw/sources/香港三校系统采集-hkclr-Message-from-the-Director.md
+  - raw/sources/香港三校系统采集-hkclr-AIeveR-Robotics.md
+  - raw/sources/香港三校系统采集-hkclr-Cartesius-Robotics.md
+  - raw/sources/香港三校系统采集-hkclr-CU-Craft.md
+  - raw/sources/香港三校系统采集-hkclr-Sota-Robotics.md
+  - raw/sources/香港三校系统采集-hku-cds-p-jpan.md
+  - raw/sources/香港三校系统采集-ust-team-922-1.md
+  - raw/sources/香港三校系统采集-ust-uav-current.md
+  - raw/sources/香港三校系统采集-ust-uav-alumni.md
+  - raw/sources/香港三校系统采集-ust-mevita-team.md
+  - raw/sources/香港三校系统采集-ust-team-2247-1.md
+  - raw/sources/香港三校系统采集-cuhk-bme-profile-49-linked-16.md
+  - raw/sources/香港三校系统采集-cuhk-bme-profile-49-linked-17.md
+  - raw/sources/香港三校系统采集-ust-ece-bio-2977.md
+  - raw/sources/香港三校系统采集-hku-cds-p-akirkley.md
+  - raw/sources/香港三校系统采集-hku-cds-p-bruno.md
+  - raw/sources/香港三校系统采集-hku-cds-p-chenho.md
+  - raw/sources/香港三校系统采集-hku-cds-p-chin.md
+  - raw/sources/香港三校系统采集-hku-cds-p-ckcheng.md
+  - raw/sources/香港三校系统采集-hku-cds-p-cwu.md
+  - raw/sources/香港三校系统采集-hku-cds-p-dgasevic.md
+  - raw/sources/香港三校系统采集-hku-cds-p-dongxu.md
+  - raw/sources/香港三校系统采集-hku-cds-p-dwipf.md
+  - raw/sources/香港三校系统采集-hku-cds-p-dzou.md
+  - raw/sources/香港三校系统采集-hku-cds-p-giulio.md
+  - raw/sources/香港三校系统采集-hku-cds-p-heming.md
+  - raw/sources/香港三校系统采集-hku-cds-p-hongyang.md
+  - raw/sources/香港三校系统采集-hku-cds-p-hszhao.md
+  - raw/sources/香港三校系统采集-hku-cds-p-hubert.md
+  - raw/sources/香港三校系统采集-hku-cds-p-jianqian.md
+  - raw/sources/香港三校系统采集-hku-cds-p-jzuming.md
+  - raw/sources/香港三校系统采集-hku-cds-p-kao.md
+  - raw/sources/香港三校系统采集-hku-cds-p-kykwong.md
+  - raw/sources/香港三校系统采集-hku-cds-p-liangqqu.md
+  - raw/sources/香港三校系统采集-hku-cds-p-lkkong.md
+  - raw/sources/香港三校系统采集-hku-cds-p-mayi.md
+  - raw/sources/香港三校系统采集-hku-cds-p-ravi.md
+  - raw/sources/香港三校系统采集-hku-cds-p-smyiu.md
+  - raw/sources/香港三校系统采集-hku-cds-p-twlam.md
+  - raw/sources/香港三校系统采集-hku-dase-adjunct.md
+  - raw/sources/香港三校系统采集-hku-mech-staff-Honorary-Professors.md
+  - raw/sources/香港三校系统采集-hku-mech-staff-Adjunct-Professors.md
+  - raw/sources/香港三校系统采集-cuhk-bme-associate-faculty.md
+  - raw/sources/香港三校系统采集-cuhk-bme-adjunct-professors.md
+  - raw/sources/香港三校系统采集-cuhk-bme-research-staff.md
+  - raw/sources/香港三校系统采集-cuhk-mae-p-liu-yun-hui.md
+  - raw/sources/香港三校系统采集-cuhk-mae-p-au-kwok-wai-samuel.md
+  - raw/sources/香港三校系统采集-cuhk-mae-p-yam-yeung.md
+  - raw/sources/香港三校系统采集-cuhk-mae-p-xiangyu-chu.md
+  - raw/sources/香港三校系统采集-hku-cds-p-yuancao.md
+  - raw/sources/香港三校系统采集-hku-cds-p-xjwang26.md
+  - raw/sources/香港三校系统采集-hku-cds-p-twchim.md
+  - raw/sources/香港三校系统采集-hku-cds-p-ykchoi.md
+  - raw/sources/香港三校系统采集-hku-cds-p-jrfang.md
+  - raw/sources/香港三校系统采集-hku-cds-p-wfeng.md
+  - raw/sources/香港三校系统采集-hku-cds-p-zhiyi.md
+  - raw/sources/香港三校系统采集-hku-cds-p-yingyul.md
+  - raw/sources/香港三校系统采集-hku-cds-p-cmliu.md
+  - raw/sources/香港三校系统采集-hku-cds-p-szqin.md
+  - raw/sources/香港三校系统采集-hku-cds-p-sdirk.md
+  - raw/sources/香港三校系统采集-hku-cds-p-yzyu.md
+  - raw/sources/香港三校系统采集-hku-cds-p-zhaz.md
+  - raw/sources/香港三校系统采集-hku-cds-p-zhaoqi.md
+  - raw/sources/香港三校系统采集-cuhk-c3-alumni-periods.md
+- Updated:
+  - wiki/orgs/香港大学计算与数据科学学院CDS.md
+  - wiki/orgs/香港中文大学机械与自动化工程学系MAE.md
+  - wiki/orgs/香港中文大学计算机科学与工程学系CSE.md
+  - wiki/orgs/香港科技大学计算机科学及工程学系CSE.md
+  - wiki/orgs/香港科技大学机械及航空航天工程学系MAE.md
+  - wiki/orgs/香港大学数据与系统工程系DASE.md
+  - wiki/orgs/香港科技大学电子及计算机工程学系ECE.md
+  - wiki/orgs/郑家纯机器人研究院CKSRI.md
+  - wiki/people/张富.md
+  - wiki/people/鲁鹏.md
+  - wiki/people/李钟毓.md
+  - wiki/people/陈翡.md
+  - wiki/people/何奇洸.md
+  - wiki/people/张立.md
+  - wiki/people/卢怡君.md
+  - wiki/people/郑勋仁.md
+  - wiki/people/刘达铭.md
+  - wiki/people/何俊贤.md
+  - wiki/people/徐英豪.md
+  - wiki/people/徐旦.md
+  - wiki/people/胡文琪.md
+  - wiki/people/王怡雯.md
+  - wiki/people/张薇.md
+  - wiki/people/谢知遥.md
+  - wiki/people/涂锋斌.md
+  - wiki/people/张福民.md
+  - wiki/people/谢源.md
+  - wiki/people/潘玲.md
+  - wiki/people/李小萌.md
+  - wiki/orgs/香港大学机械工程系.md
+  - wiki/orgs/香港中文大学信息工程学系IE.md
+  - wiki/awards/Robocon香港赛.md
+  - wiki/awards/Samsung Solve for Tomorrow香港赛.md
+  - wiki/awards/香港品质学会学生项目比赛.md
+  - wiki/awards/HKIE物流与运输分部最佳学生论文奖.md
+  - wiki/awards/港科大CSE最佳博士论文奖.md
+  - wiki/awards/港科大應家族博士生傑出研究獎.md
+  - wiki/awards/港科大百万奖金创业大赛.md
+  - wiki/awards/日内瓦国际发明展-港中文.md
+  - wiki/awards/中银香港科技创新奖-港中文.md
+  - wiki/awards/VTech创新与可持续发展奖-港中文.md
+  - wiki/people/舒心.md
+  - wiki/people/张启航.md
+  - wiki/people/郭嵩.md
+  - wiki/people/贾佳亚.md
+  - wiki/companies/Clearbot.md
+  - wiki/companies/LuquosEnergy.md
+  - wiki/companies/AstraOptics.md
+  - wiki/companies/CipherInsight.md
+  - wiki/companies/LoonGaN.md
+  - wiki/companies/KingjuneRobotics.md
+  - wiki/companies/AIVOICE.md
+  - wiki/companies/Universpirit.md
+  - wiki/orgs/港大SAIL实验室.md
+  - wiki/orgs/OpenDriveLab.md
+  - wiki/orgs/港大AIR_Lab.md
+  - wiki/orgs/港中大多媒体实验室MMLab.md
+  - wiki/orgs/港中大LaVi实验室.md
+  - wiki/orgs/港大多媒体实验室HKU-MMLab.md
+  - wiki/people/赵恒爽_港大SAIL.md
+  - wiki/people/李弘扬_港大CDS.md
+  - wiki/people/刘俊_港大DASE.md
+  - wiki/people/罗平_港大MMLab.md
+  - wiki/people/刘希慧_港大ECE.md
+  - wiki/people/Liwei-Wang_港中大CSE.md
+  - wiki/people/陈启峰_港科大CSE.md
+  - wiki/people/段默龙_港科大MAE.md
+  - wiki/people/林达华_港中大IE.md
+  - wiki/orgs/香港大学电气与计算机工程系ECE.md
+  - wiki/companies/AIeveR-Robotics.md
+  - wiki/companies/Cartesius-Robotics.md
+  - wiki/companies/CU-Craft.md
+  - wiki/companies/Sota-Robotics.md
+  - wiki/orgs/香港具身智能与机器人中心HKCLR.md
+  - wiki/orgs/港科大智能制造中心.md
+  - wiki/orgs/港科大对话与智能机器人中心CAiRE.md
+  - wiki/orgs/港科大物理AI中心.md
+  - wiki/orgs/港大潘佳机器人课题组.md
+  - wiki/orgs/香港大学AI与数据科学系.md
+  - wiki/people/潘佳_港大AI与数据科学系.md
+  - wiki/orgs/港科大无人机研究组UAVGroup.md
+  - wiki/people/沈劭劼_港科大ECE.md
+  - wiki/orgs/香港科技大学-Mevita-Robotics-Lab.md
+  - wiki/orgs/香港中文大学-Advanced-Biomedical-Imaging-Lab.md
+  - wiki/orgs/香港中文大学-LAMB.md
+  - wiki/people/申亚京_港科大ECE.md
+  - wiki/orgs/港科大多维度机器人系统实验室.md
+  - wiki/orgs/港科大深圳大模型AI实验室.md
+  - wiki/orgs/T_Stone_Robotics_Institute.md
+  - wiki/orgs/港中大多尺度医疗机器人中心.md
+  - wiki/companies/SenseTime商汤科技.md
+  - wiki/people/徐立_商汤科技.md
+  - wiki/people/刘云辉_港中大MAE.md
+  - wiki/questions/香港具身实验室归属与创业状态待核.md
+  - wiki/people/Lingpeng-Kong.md
+  - wiki/people/Taku-Komura.md
+  - wiki/people/Yanchao-Yang.md
+  - wiki/people/Kai-Han.md
+  - wiki/people/Qi-Liu.md
+  - wiki/people/Zhenqin-Wu.md
+  - wiki/people/Lequan-Yu.md
+  - wiki/orgs/香港中文大学生物医学工程学系.md
+  - wiki/orgs/香港大学-MaRS-Lab.md
+  - wiki/orgs/香港大学-Adaptive-Robotic-Controls-Lab.md
+  - wiki/orgs/香港大学-InfoBodied-AI-Lab.md
+  - wiki/orgs/香港大学-Visual-AI-Lab.md
+  - wiki/orgs/香港大学-Medical-AI-Lab.md
+  - wiki/orgs/香港大学-BioAI-@-HKU.md
+  - wiki/orgs/香港科技大学-Computational-Cognitive-Engineering-Lab.md
+  - wiki/orgs/香港科技大学-TU-LAB.md
+  - wiki/orgs/香港科技大学谢知遥课题组.md
+  - wiki/orgs/香港科技大学-Intelligent-Decision-Making-Lab.md
+  - wiki/orgs/香港科技大学李小萌医疗AI课题组.md
+  - wiki/orgs/香港科技大学-XU-Lab.md
+  - wiki/orgs/香港中文大学-CLOVER-Lab.md
+  - wiki/orgs/香港中文大学-Zhang-Research-Lab.md
+  - wiki/orgs/香港中文大学-Surgical-Robotics-and-Instrumentation-Laboratory.md
+  - wiki/orgs/香港中文大学-C-Inf-Robotics-Laboratory.md
+  - wiki/orgs/香港中文大学-Electrochemical-Energy-and-Interfaces-Laboratory.md
+  - wiki/people/Renjie-Zhou.md
+  - wiki/people/Wu-Yuan.md
+  - wiki/people/Raymond-Kai-Yu-Tong.md
+  - wiki/people/Pingchuan-Ma.md
+  - wiki/people/Haoqiang-Huang.md
+  - wiki/people/Yi-Lin.md
+  - wiki/people/Kaiqiang-Xu.md
+  - wiki/universities/香港大学.md
+  - wiki/universities/香港科技大学.md
+  - wiki/universities/香港中文大学.md
+  - wiki/maps/奖项与竞赛入口.md
+  - wiki/maps/已创业地图.md
+- Validation: 本轮链接、元数据、层级、索引、哈希和证据检查结果保存在本地执行目录；机械疑点不等同事实错误，未核实字段未宣称完成。
+
+### 香港三校本轮验证结果（2026-09-11）
+
+- 131 篇文章的链接、YAML、parent/tier、索引覆盖和入站检查无未解决结构错误；181 份来源哈希一致。
+- 证据脚本：272 个字面候选、0 个 Evidence errors；旧历史字段仍待原始来源复核，不认定全部候选为误报。
+- 39 个新人物信号复核完成；Zhenqin Wu 使用两项独立公司顾问任职与明确师承，不以学籍凑信号。
+
+## [2026-09-11] ingest | 深蓝50所国内具身智能实验室盘点：已覆盖高校增量
+- Disposition: New; Update; Disputed
+- 范围：以已覆盖高校为界，文章20个相关主条目、XbotPark去重后19项；不扩大至北京大学等其他高校。采用深蓝官网同题正文，微信原链接验证受阻，未声称版本逐字一致。
+- New: 5个组织页；新增人物0、公司0。组织按持续研究、明确合作或人才培养平台信号判断；不将完整学生名册设为统一硬门槛。
+- 证据：保存原盘点及8份有效补证正文/摘录；复用港大TEC创业目录。ATI仅名册身份者不建人物页，Xtedn转化计划仅进入ATI事件表。
+- 已有条目处理：ISR、TEA、T Stone、OpenDriveLab、Aerial Robotics Group、CKSRI、智能技术与系统实验室沿用已有组织页，不把盘点的孵化及奖项描述整体升级；AIR新增代表作与奖项归属进待核；EIR保留成立与揭牌日期口径差异。
+- 暂缓独立页：机器人控制实验室、贾佳亚团队/DV Lab、RAIL、XbotPark、罗平团队；有用新增分别进入导航与控制研究所、港科大CSE/贾佳亚、香港归属问题页、李泽湘、港大MMLab。ATC、HKUST-DJI和港大/上海AI Lab联合平台继续复用既有记录，不因这篇A2盘点重复建薄页。
+- 名称处理：VAR使用清华官方当前名称；EVAR名称沿革保留争议。ATI官网为Advanced Technologies Institute，原名Emerging Technologies Institute。两个港理工联合实验室分别建页。
+- 验证：本次文章链接和raw引用均可解析；5个新增组织页的证据检查无结构性错误。日期元数据提示人工对照来源日期；全库历史未引用raw不在本次修复范围。
+- Raw: raw/sources/2026-08-16-深蓝50所国内具身智能实验室盘点.md
+- Raw: raw/sources/清华实验室增量-视觉与机器人实验室（VAR）.md
+- Raw: raw/sources/清华实验室增量-赵行官方主页.md
+- Raw: raw/sources/2026-02-12-理大澳门大学机器人与具身智能联合实验室.md
+- Raw: raw/sources/2024-11-13-文汇港理工具身智能实验室-浏览器正文摘录.md
+- Raw: raw/sources/清华实验室增量-高阳官方主页.md
+- Raw: raw/sources/港大ATI官方-about.md
+- Raw: raw/sources/港大ATI官方-research.md
+- Raw: raw/sources/港大ATI官方-people.md
+- Updated: wiki/orgs/清华大学视觉与机器人实验室.md
+- Updated: wiki/orgs/清华大学-MARS-Lab.md
+- Updated: wiki/orgs/香港大学-Advanced-Technologies-Institute.md
+- Updated: wiki/orgs/香港理工大学与澳门大学机器人与具身智能联合实验室.md
+- Updated: wiki/orgs/香港理工大学具身智能实验室.md
+- Updated: wiki/orgs/清华大学交叉信息研究院IIIS.md
+- Updated: wiki/people/赵行_清华交叉信息研究院.md
+- Updated: wiki/people/高阳_清华交叉信息研究院.md
+- Updated: wiki/universities/香港大学.md
+- Updated: wiki/universities/香港理工大学.md
+- Updated: wiki/orgs/香港大学数据与系统工程系DASE.md
+- Updated: wiki/orgs/香港科技大学计算机科学及工程学系CSE.md
+- Updated: wiki/people/贾佳亚.md
+- Updated: wiki/orgs/港大多媒体实验室HKU-MMLab.md
+- Updated: wiki/orgs/导航与控制研究所-清华自动化系.md
+- Updated: wiki/people/李泽湘_港科大ECE.md
+- Updated: wiki/questions/香港具身实验室归属与创业状态待核.md
+- Updated: wiki/orgs/清华大学具身智能与机器人研究院EIR.md
+- Updated: wiki/companies/千寻智能.md
+- Updated: wiki/orgs/清华大学智能产业研究院AIR.md
+
+## [2026-09-11] ingest | no material: raw/sources/2024-11-13-文汇港理工具身智能实验室.md
+- Disposition: No material
+- 原站直取返回502错误页，无文章证据价值；保留失败快照，实际证据为浏览器可读正文摘录，不把错误页用作建页依据。
+
+## [2026-09-11] ingest | 超维动力与罗平
+- Disposition: New; Update; Disputed
+- Raw: raw/sources/2026-09-11-新京报-超维动力天使加轮融资.md
+- Raw: raw/sources/超维动力官网公司介绍.md
+- New: wiki/companies/超维动力.md
+- Updated: 罗平；香港大学多媒体实验室；香港大学计算与数据科学学院；已创业地图；香港具身实验室与创业网络；wiki/index.md
+- 收录判断：公司满足高校关联与产品/融资商业信号；罗平复用既有人物页，职业轨迹、奖项及创业满足至少两条独立信号，升级T0。
+- 证据边界：成立月份官网July 2025与新京报2025年9月不一致；融资保留媒体披露口径；科研副院长待校方补证；未认定学校/实验室正式孵化。其他团队成员本轮仅入公司表。
+- 验证：本次6页索引条目和本地链接通过；新增公司页与更新人物页字面证据检查无疑点、无证据错误。组织/地图提示历史来源标题、日期及既有引用，未宣称全库事实核验；香港网络来源块已移至标题后。
+
+## [2026-09-11] ingest | 36氪《具身创业里的香港教授们》逐项核对与入库
+
+- Disposition: New; Update; Disputed
+- 输入：[量子位／36氪原文](https://36kr.com/p/3951423765855618)，发布日期2026-08-23。
+- 收录口径：按正文具名创业人物/公司及文末名单核对；AI配图留作原始附件，不用图中文字生成实体或身份。作者署名、媒体名、政策与机构名称不混入创业公司计数。
+- 结果：正文35位人物中，16位原已有独立页，16位本次新增，3位为历史/背景提及而不建独立页；28个主要公司名称中，7家原已有独立页，19家本次新增，2家为历史案例而不建独立页。纳入本轮追踪的32位人物、26家公司均有实体页；不把背景人物/企业说成“全部独立建页”。
+- 新增：16人物 + 19公司 + 1待核问题页；实质更新32个已有页面。原文及28份补充正文已存档，另复用源策既有官网与报道。
+- 核实边界：学校/公司身份、代表工作、产品与高校路径有对应raw；公司自述和媒体融资保留口径；未得到的工商、任期、股权及学位细节明确待核。
+- 不新建组织层级、新闻事件页或批次观察池；未更新网站副本、未发布。
+
+### 人物逐项核对
+
+| 人物 | 入库前 | 处理与核实范围 | 页面 |
+|---|---|---|---|
+| 马毅 | 已有独立页 | 核对／更新：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [马毅](people/马毅_港大CDS.md) |
+| 王晓刚 | 已有独立页 | 核对／更新：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [王晓刚](people/王晓刚_港中大ECE.md) |
+| 贾奎 | 未收录 | 新增：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [贾奎](people/贾奎.md) |
+| 李弘扬 | 已有独立页 | 核对／更新：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [李弘扬](people/李弘扬_港大CDS.md) |
+| 王煜 | 已有独立页 | 核对／更新：联合创业及科学把关；段江哗任CEO；正式职衔待核。 | [王煜](people/王煜_港科大MAE.md) |
+| 罗平 | 已有独立页 | 核对／更新：保留超维动力联合创业；星际光年按首席科学家报道，不记创始人。 | [罗平](people/罗平_港大MMLab.md) |
+| 温维佳 | 未收录 | 新增：公司首席科学家；香港物理系荣休，广州职务时点待核。 | [温维佳](people/温维佳.md) |
+| 殷鹏 | 未收录 | 新增：赛源品牌与赛柏坦法定主体关系待核。 | [殷鹏](people/殷鹏.md) |
+| 欧国威 | 已有独立页 | 核对／更新：补校方直接支持的康诺思腾创始人，原AutoStore错误仍撤回。 | [欧国威](people/欧国威_港中大MAE.md) |
+| 刘云辉 | 已有独立页 | 核对／更新：补未来机器人及李陆洋/方牧博士生网络；不推定当前董事长。 | [刘云辉](people/刘云辉_港中大MAE.md) |
+| 张富 | 已有独立页 | 核对／更新：补硅羽创办关系，T0。 | [张富](people/张富.md) |
+| 李泽湘 | 已有独立页 | 核对／更新：补学生与孵化企业链接，创始/导师/投资/孵化区分。 | [李泽湘](people/李泽湘_港科大ECE.md) |
+| 刘明 | 未收录 | 新增：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [刘明](people/刘明.md) |
+| 沈劭劼 | 已有独立页 | 核对／更新：已有卓驭CEO及大疆车载项目牵头证据；不直接改成个人高校创办公司。 | [沈劭劼](people/沈劭劼_港科大ECE.md) |
+| 汪滔 | 已有正文提及，无独立页 | 新增：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [汪滔](people/汪滔.md) |
+| 汤晓鸥 | 已有独立页 | 核对／更新：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [汤晓鸥](people/汤晓鸥_港中大IE.md) |
+| 石金博 | 已有正文提及，无独立页 | 新增：创业与具名团队产品两条信号；个人研发分工待核。 | [石金博](people/石金博.md) |
+| 陶师正 | 未收录 | 新增：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [陶师正](people/陶师正.md) |
+| 张笛 | 未收录 | 新增：M.Phil.就读/博士差异保留；公司时间口径另核。 | [张笛](people/张笛.md) |
+| 高秉强 | 已有独立页 | 核对／更新：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [高秉强](people/高秉强_港科大ECE.md) |
+| 甘洁 | 未收录 | 新增：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [甘洁](people/甘洁.md) |
+| 王选 | 无独立页 | 历史教授创业背景例子（北大方正）；不属于本文当前香港科技创业追踪对象，保留原文来源，不扩为历史人物研究。 | 原文raw |
+| 刘积仁 | 无独立页 | 历史教授创业背景例子（东软）；保留原文来源，本轮不扩为历史人物研究。 | 原文raw |
+| 李钟毓 | 已有独立页 | 核对／更新：文中受访学者，已有学术页；不因评论创业生态而标已创业。 | [李钟毓](people/李钟毓.md) |
+| 李陆洋 | 未收录 | 新增：财富“最具潜力”名单，与40位主榜分开。 | [李陆洋](people/李陆洋.md) |
+| 方牧 | 未收录 | 新增：产品工作为公司自述；J.P. Morgan榜单是企业口径。 | [方牧](people/方牧.md) |
+| 段江哗 | 已有独立页 | 核对／更新：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [段江哗](people/段江哗_戴盟机器人.md) |
+| 郑湃 | 未收录 | 新增：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [郑湃](people/郑湃.md) |
+| 严朝旭 | 未收录 | 新增：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [严朝旭](people/严朝旭.md) |
+| 周航 | 未收录 | 新增：模感CTO；博士生与博士毕业口径待校方核。 | [周航](people/周航_模感科技.md) |
+| 陈立 | 已有正文提及，无独立页 | 新增：联合创始/Head of AI、UniAD第一作者；与库内其他同名人区分。 | [陈立](people/陈立_源策未来.md) |
+| 李天羽 | 已有正文提及，无独立页 | 新增：联合创始/CEO、ADS 4.0工作；正式导师待核。 | [李天羽](people/李天羽.md) |
+| 谭平 | 已有独立页 | 核对／更新：公司关系与独立研究、产品、奖项或职业信号见人物页；来源已存档。 | [谭平](people/谭平_港科大ECE.md) |
+| 贾佳亚 | 已有独立页 | 核对／更新：校友办核实思谋创始人兼董事会主席，T0。 | [贾佳亚](people/贾佳亚.md) |
+| 黄仁勋 | 无独立页 | 仅以英伟达CEO背景引语出现；未因这条产业评论建立高校创业人物页。 | 原文raw |
+
+### 公司逐项核对
+
+| 公司 | 入库前 | 处理与边界 | 页面 |
+|---|---|---|---|
+| 忆生科技 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [忆生科技](companies/忆生科技.md) |
+| 大晓机器人 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [大晓机器人](companies/大晓机器人.md) |
+| 跨维智能 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [跨维智能](companies/跨维智能.md) |
+| 源策未来 | 已有独立页 | 补陈立与李天羽人物双链。 | [源策未来](companies/源策未来ArchonRobotics.md) |
+| 戴盟机器人 | 已有独立页 | 补段江哗主导与视触觉产品证据；旧无Raw融资退出结论。 | [戴盟机器人](companies/戴盟机器人.md) |
+| 星际光年 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [星际光年](companies/星际光年.md) |
+| 模感科技 | 已有独立页 | 补官网团队、MoSense与触觉路线；投资名称与学历保留差异。 | [模感科技](companies/模感科技.md) |
+| 赛源 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [赛源](companies/赛源.md) |
+| 康诺思腾 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [康诺思腾](companies/康诺思腾.md) |
+| 未来机器人 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [未来机器人](companies/未来机器人.md) |
+| 硅羽科技 | 已有正文提及，无独立页 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [硅羽科技](companies/硅羽科技.md) |
+| 希迪智驾 | 已有独立页 | 已有创始人与上市来源；没有需本次替换的新增事实。 | [希迪智驾](companies/希迪智驾.md) |
+| 一清创新 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [一清创新](companies/一清创新.md) |
+| 卓驭科技 | 已有独立页 | 保留已有官网投资与CEO证据；业务不缩窄为只有重卡。 | [卓驭科技](companies/卓驭科技.md) |
+| 大疆 | 已有正文提及，无独立页 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [大疆](companies/大疆.md) |
+| 商汤 | 已有独立页 | 补王晓刚—大晓人员网络，不推定母子公司。 | [商汤](companies/SenseTime商汤科技.md) |
+| 李群自动化 | 已有正文提及，无独立页 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [李群自动化](companies/李群自动化.md) |
+| 逸动科技 | 已有正文提及，无独立页 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [逸动科技](companies/逸动科技.md) |
+| 本末科技 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [本末科技](companies/本末科技.md) |
+| 云鲸智能 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [云鲸智能](companies/云鲸智能.md) |
+| 正浩创新 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [正浩创新](companies/正浩创新.md) |
+| 海柔创新 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [海柔创新](companies/海柔创新.md) |
+| 卧安机器人 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [卧安机器人](companies/卧安机器人.md) |
+| 北大方正 | 无独立页 | 历史教授创业举例，保留原文证据；未扩为历史公司专题 | 原文raw |
+| 东软 | 无独立页 | 历史教授创业举例，保留原文证据；未扩为历史公司专题 | 原文raw |
+| 科博智能 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [科博智能](companies/科博智能.md) |
+| 光影焕像 | 已有独立页 | 已有谭平创始与官网证据；无必要重复入库。 | [光影焕像](companies/光影焕像.md) |
+| 思谋科技 | 未收录 | 新增；高校/创始或产业角色及商业信号见页面，未知法定主体和最新融资单列待核。 | [思谋科技](companies/思谋科技.md) |
+
+### 其余背景企业、投资机构与平台
+
+以下名称在正文中用于客户、投资人、供应链或交易场所背景，另行全文检索；不计入上述28家主要公司统计。没有独立页不等于漏掉一家高校创业项目，本轮不因投资/背景提及扩大建页范围。
+
+| 名称 | 入库前检索 | 本次处理 |
+|---|---|---|
+| 英伟达 | 正文提及（5篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 比亚迪 | 正文提及（5篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 一汽 | 正文提及（4篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 联想 | 正文提及（8篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 上汽 | 正文提及（1篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 智元 | 正文提及（8篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 红杉 | 正文提及（7篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 高瓴 | 正文提及（4篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| IDG | 正文提及（8篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 真格 | 正文提及（5篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 联想创投 | 正文提及（2篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 深创投 | 正文提及（1篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 南山战新投 | 未检出已有收录 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 浦东创投 | 未检出已有收录 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 港投公司 | 未检出已有收录 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+| 港交所 | 正文提及（20篇），无同名独立公司页 | 保留原文背景；涉及本次公司融资的内容按证据写在公司页，不推定已核投资法人/客户合同。 |
+
+XbotPark及香港清水湾创业基金／XBOTPARK基金：平台官网已核共同发起人与基金旧名，由[李泽湘](people/李泽湘_港科大ECE.md)、[高秉强](people/高秉强_港科大ECE.md)、[甘洁](people/甘洁.md)页承接。蓝海湾、HSITP、KTO、InnoHK等是孵化园区、学校职能或政策背景，未当创业公司建页。
+
+### 来源与更新清单
+
+- Raw: [忆生-融资报道](../raw/sources/2026-06-30-忆生-融资报道.md)
+- Raw: [大晓-中国日报](../raw/sources/2025-12-19-大晓-中国日报.md)
+- Raw: [跨维-贾奎访谈](../raw/sources/2026-03-24-跨维-贾奎访谈.md)
+- Raw: [贾奎-院系](../raw/sources/贾奎-院系.md)
+- Raw: [模感-团队](../raw/sources/模感-团队.md)
+- Raw: [模感-36氪融资](../raw/sources/2026-07-17-模感-36氪融资.md)
+- Raw: [温维佳-物理系](../raw/sources/温维佳-物理系.md)
+- Raw: [城大-殷鹏访谈](../raw/sources/城大-殷鹏访谈.md)
+- Raw: [赛源-虎嗅](../raw/sources/2025-07-06-赛源-虎嗅.md)
+- Raw: [理大-郑湃科博](../raw/sources/2026-06-理大-郑湃科博.md)
+- Raw: [康诺思腾-公司介绍](../raw/sources/康诺思腾-公司介绍.md)
+- Raw: [欧国威-走进中大](../raw/sources/2024-10-23-欧国威-走进中大.md)
+- Raw: [刘云辉-联想访谈](../raw/sources/2024-04-12-刘云辉-联想访谈.md)
+- Raw: [刘明-港科大IGV](../raw/sources/2022-08-04-刘明-港科大IGV.md)
+- Raw: [李陆洋-深圳政府](../raw/sources/2024-08-26-李陆洋-深圳政府.md)
+- Raw: [方牧-企业榜单](../raw/sources/方牧-企业榜单.md)
+- Raw: [一清-公司活动](../raw/sources/一清-公司活动.md)
+- Raw: [星际光年-融资公告](../raw/sources/2025-12-30-星际光年-融资公告.md)
+- Raw: [硅羽-36氪](../raw/sources/2026-07-02-硅羽-36氪.md)
+- Raw: [李泽湘-机器人军团](../raw/sources/2025-09-09-李泽湘-机器人军团.md)
+- Raw: [XbotPark-团队](../raw/sources/XbotPark-团队.md)
+- Raw: [XbotPark-介绍](../raw/sources/XbotPark-介绍.md)
+- Raw: [甘洁-XbotPark导师](../raw/sources/甘洁-XbotPark导师.md)
+- Raw: [汪滔-港科大校友](../raw/sources/汪滔-港科大校友.md)
+- Raw: [陶师正-港科大校友](../raw/sources/2024-陶师正-港科大校友.md)
+- Raw: [张笛-乐居](../raw/sources/2023-09-04-张笛-乐居.md)
+- Raw: [贾佳亚-港科大校友](../raw/sources/贾佳亚-港科大校友.md)
+- Raw: [原文](../raw/sources/2026-08-23-量子位-具身创业里的香港教授们.md)
+- 复用 Raw: [源策官网](../raw/sources/ArchonRobotics官方公司介绍.md)
+- 复用 Raw: [源策报道](../raw/sources/2026-06-29-36氪源策未来创始团队与种子融资中文原文.md)
+- Raw: [戴盟-深圳发改委](../raw/sources/2025-06-11-戴盟-深圳发改委.md)
+
+原文附件：[01](../raw/assets/2026-08-23-具身创业香港教授/01.jpg)、[02](../raw/assets/2026-08-23-具身创业香港教授/02.jpg)、[03](../raw/assets/2026-08-23-具身创业香港教授/03.jpg)、[04](../raw/assets/2026-08-23-具身创业香港教授/04.jpg)、[05](../raw/assets/2026-08-23-具身创业香港教授/05.jpg)、[06](../raw/assets/2026-08-23-具身创业香港教授/06.jpg)、[07](../raw/assets/2026-08-23-具身创业香港教授/07.jpg)、[08](../raw/assets/2026-08-23-具身创业香港教授/08.jpg)、[09](../raw/assets/2026-08-23-具身创业香港教授/09.jpg)、[10](../raw/assets/2026-08-23-具身创业香港教授/10.jpg)、[11](../raw/assets/2026-08-23-具身创业香港教授/11.jpg)、[12](../raw/assets/2026-08-23-具身创业香港教授/12.jpg)、[13](../raw/assets/2026-08-23-具身创业香港教授/13.jpg)。第01张为原文标注的AI生成图。
+
+- Updated: [模感科技](companies/模感科技.md)；[戴盟机器人](companies/戴盟机器人.md)；[马毅_港大CDS](people/马毅_港大CDS.md)；[王晓刚_港中大ECE](people/王晓刚_港中大ECE.md)；[罗平_港大MMLab](people/罗平_港大MMLab.md)；[张富](people/张富.md)；[贾佳亚](people/贾佳亚.md)；[欧国威_港中大MAE](people/欧国威_港中大MAE.md)；[刘云辉_港中大MAE](people/刘云辉_港中大MAE.md)；[王煜_港科大MAE](people/王煜_港科大MAE.md)；[段江哗_戴盟机器人](people/段江哗_戴盟机器人.md)；[源策未来ArchonRobotics](companies/源策未来ArchonRobotics.md)；[李弘扬_港大CDS](people/李弘扬_港大CDS.md)；[李泽湘_港科大ECE](people/李泽湘_港科大ECE.md)；[高秉强_港科大ECE](people/高秉强_港科大ECE.md)；[SenseTime商汤科技](companies/SenseTime商汤科技.md)；[香港大学-MaRS-Lab](orgs/香港大学-MaRS-Lab.md)；[香港大学机械工程系](orgs/香港大学机械工程系.md)；[香港科技大学计算机科学及工程学系CSE](orgs/香港科技大学计算机科学及工程学系CSE.md)；[香港中文大学机械与自动化工程学系MAE](orgs/香港中文大学机械与自动化工程学系MAE.md)；[港中大多尺度医疗机器人中心](orgs/港中大多尺度医疗机器人中心.md)；[T_Stone_Robotics_Institute](orgs/T_Stone_Robotics_Institute.md)；[香港大学计算与数据科学学院CDS](orgs/香港大学计算与数据科学学院CDS.md)；[OpenDriveLab](orgs/OpenDriveLab.md)；[香港科技大学电子及计算机工程学系ECE](orgs/香港科技大学电子及计算机工程学系ECE.md)；[香港科技大学机械及航空航天工程学系MAE](orgs/香港科技大学机械及航空航天工程学系MAE.md)；[香港科技大学（广州）机器人与自主系统学域](orgs/香港科技大学（广州）机器人与自主系统学域.md)；[港大多媒体实验室HKU-MMLab](orgs/港大多媒体实验室HKU-MMLab.md)；[AutoStore与欧国威错误创业归属纠正](questions/AutoStore与欧国威错误创业归属纠正.md)；[香港具身实验室归属与创业状态待核](questions/香港具身实验室归属与创业状态待核.md)；[郑家纯机器人研究院CKSRI](orgs/郑家纯机器人研究院CKSRI.md)；[香港具身实验室与创业网络](maps/香港具身实验室与创业网络.md)
+
+### 验证与未决事项
+
+- 本次实体页的YAML、相对链接、Raw指向与索引归类逐项检查；新增实体的关键身份/高校关联与独立信号按已存档正文核对。
+- 运行karpathy-llm-wiki的check_evidence.py，人工区分元数据日期、字段值、旧纠错引语与正文事实；它同时列出的全库未引用raw为既有队列，不属于本次遗漏。
+- 新增事实未发现与所引原文不符的数字性结论；存量页中的历史学术年表、数量与旧研究报告未作全量重新研究，不宣称全库事实已核完。
+- 仍待核的具体字段集中于[香港创业人物与公司口径待核](questions/香港创业人物与公司口径待核.md)，包括赛源/赛柏坦主体、学位与任职时点、模感投资机构名称、部分公司最新工商与融资。
+
+
+## [2026-09-11] ingest | IT桔子学院派具身智能项目与人物
+- Disposition: New; Update; Disputed
+- Source: https://zhuanlan.zhihu.com/p/2076328331495093738 （正文存同作者腾讯转载；关键事实另核）
+- Raw: raw/sources/2026-09-11-学院派核查-IT桔子盘点.md
+- Raw: raw/sources/2026-09-11-学院派核查-卢策吾华龙网.md
+- Raw: raw/sources/2026-09-11-学院派核查-穹彻公司介绍.md
+- Raw: raw/sources/2026-09-11-学院派核查-穹彻战略投资.md
+- Raw: raw/sources/2026-09-11-学院派核查-姜汉卿实验室.md
+- Raw: raw/sources/2026-09-11-学院派核查-姜汉卿清华校友.md
+- Raw: raw/sources/2026-09-11-学院派核查-三力士投资西湖交互.md
+- Raw: raw/sources/2026-09-11-学院派核查-西湖交互都市快报.md
+- Raw: raw/sources/2026-09-11-学院派核查-擎羽36氪.md
+- Raw: raw/sources/2026-09-11-学院派核查-擎羽钛媒体.md
+- Raw: raw/sources/2026-09-11-学院派核查-理工华汇清华科研合作.md
+- Raw: raw/sources/2026-09-11-学院派核查-张伟民北理工.md
+- Raw: raw/sources/2026-09-11-学院派核查-张巍南科大.md
+- Raw: raw/sources/2026-09-11-学院派核查-莫测公开招聘.md
+- Raw: raw/sources/2026-09-11-学院派核查-莫测36氪播客.md
+- Raw: raw/sources/2026-09-11-学院派核查-周谷越AIR个人页.md
+- Raw: raw/sources/2026-09-11-学院派核查-求之科技AIR.md
+- Raw: raw/sources/2026-09-11-学院派核查-陈涛身份核查.md
+- Raw: raw/sources/2026-09-11-学院派核查-深度机智陈凯身份.md
+- Raw: raw/sources/2026-09-11-学院派核查-陈涛教育经历连续摘录.md
+- Raw: raw/sources/2026-09-11-学院派核查-收录范围与裁决.md
+- New: wiki/companies/穹彻智能.md
+- New: wiki/people/卢策吾.md
+- New: wiki/companies/西湖交互.md
+- New: wiki/people/姜汉卿.md
+- New: wiki/companies/擎羽科技.md
+- New: wiki/people/彭锐_擎羽科技.md
+- New: wiki/companies/莫测智能.md
+- New: wiki/companies/理工华汇.md
+- New: wiki/people/张伟民_理工华汇.md
+- New: wiki/people/张巍_逐际动力.md
+- Updated: wiki/people/周谷越_清华智能产业研究院.md
+- Updated: wiki/companies/DISCOVER-Lab-求之科技AIRBOT.md
+- Updated: wiki/companies/逐际动力.md
+- Updated: wiki/orgs/香港大学机械工程系.md
+- Updated: wiki/orgs/清华大学航天航空学院.md
+- Updated: wiki/orgs/深圳市人工智能与机器人研究院AIRS.md
+- Updated: wiki/orgs/AIR智能机器人方向.md
+- Updated: wiki/orgs/清华大学智能产业研究院AIR.md
+- Updated: wiki/people/李泽湘_港科大ECE.md
+- Updated: wiki/people/孙富春_清华计算机科学与技术系.md
+- Updated: wiki/maps/已创业地图.md
+- Updated: wiki/maps/香港具身实验室与创业网络.md
+- Updated: wiki/index.md
+- 收录边界：新增5家公司、5名人物；3名是覆盖高校校友，张巍/张伟民按已纳入的企业及科研合作网络补齐，明确不推定个人学缘。未新增高校覆盖。
+- 待核：AIRS—擎羽正式孵化、莫测校方名录、部分融资与当前公司任职；胡瑞麒缺第二条独立信号，保留公司表。
+- 修订：此前对话“掌羽”纠为“擎羽”；周谷越官网只确认首席科学家，创始人另核；陈涛身份邻行摘录有学历截断，新增连续摘录替代其证据用途。
+- 验证：本次22篇新增/更新文章及索引的本地链接均可解析，索引无漏项；10个新增页面的名称与关联元数据目标唯一匹配。证据脚本未发现Raw缺失/越界等错误；字面疑点人工复核，新增内容主要为日期格式、公告编号与元数据，卢策吾成立年份补引公司原文。存量文章疑点未扩展为全库事实审查。
+
+## [2026-09-11] ingest | no material: raw/sources/2026-09-11-学院派核查-陈涛身份核查.md
+- Disposition: No material
+- 邻行摘录省略学历字段；以同日连续摘录为准，不编译该片段。
+
+## [2026-09-11] ingest | no material: raw/sources/2026-09-11-学院派核查-陈涛教育经历连续摘录.md
+- Disposition: No material
+- 用于排除同名混淆；未发现现覆盖高校关联，不新增实体。
+
+## [2026-09-11] ingest | no material: raw/sources/2026-09-11-学院派核查-深度机智陈凯身份.md
+- Disposition: No material
+- 用于区分中科大—微软联培陈凯与港校同名学者，不新增实体。
+
+## [2026-09-11] ingest | no material: raw/sources/2026-09-11-学院派核查-收录范围与裁决.md
+- Disposition: No material
+- 本次范围裁决记录，无独立知识文章。
+
+## [2026-09-11] ingest | 已存资料重编译：高校研究导读
+- Disposition: New; Update
+- 范围：按用户确认的阅读改造方案重写8个高校页；复用已存原文，不新增或改写raw，不扩展全校普查。
+- 内容：各校增加研究画像与有证据的阅读主线，以具体内容说明一级组织入口；移除库存计数、批次追加和空奖项栏目。清华既有新增院系归入正式导航；未取得可核实名单的荣誉奖学金退出推荐表，奖项实体页保留。
+- 关系：区分教师/校友创业、研究院孵化、企业任职、研究合作及暂挂高校的导航关系；不以名册推断创业率或以研究活跃推断公司经营。
+- New: wiki/orgs/香港理工大学工业及系统工程学系.md
+- Raw: raw/sources/2026-06-理大-郑湃科博.md（复用校刊证据，新增院系承接RAIDS、TeleX与CobotAI关系）
+- Updated: wiki/universities/清华大学.md
+- Updated: wiki/universities/香港大学.md
+- Updated: wiki/universities/香港中文大学.md
+- Updated: wiki/universities/香港科技大学.md
+- Updated: wiki/universities/香港科技大学（广州）.md
+- Updated: wiki/universities/香港中文大学（深圳）.md
+- Updated: wiki/universities/香港理工大学.md
+- Updated: wiki/universities/香港城市大学.md
+- Updated: wiki/people/郑湃.md（补所属院系链接）
+- Updated: wiki/companies/科博智能.md（补已有校刊支持的院系承接）
+- Updated: wiki/index.md（8校内容摘要及新增院系索引）
+- 验证：11篇文章的127个本地链接可解析，45个高校组织入口均为本校tier 1，原有组织入口全部保留；名称、更新日期、表格结构及索引收录检查通过。关键创业、导师与平台关系回查已存原文。
+- 证据脚本：限定11篇文章，0个Raw证据错误；18项字面提示经复核属于维护日期、编者概括、既有元数据或已存原文支持的身份/刊期，不据脚本自动改事实。脚本另报的60个全库未引用raw属于存量维护范围，未据此开展全库修复。
+
+## [2026-09-11] lint | 链接清理与关系复核
+- 授权：用户确认按链接审查方案执行修复。
+- 修复：窦琪Raw路径、3处Samsung空格路径、李欣阳课题组自链接、汤晓鸥索引遗漏与首页重复入口；统一外链标点边界。
+- 阅读：237页的298组重复来源改为脚注，合并709次重复外链目的地址；同段/同行合并7个实体链接，独立奖项记录保留。
+- 关系：处理19个组织页的54行泛化链接；明确有据角色、将缺正文或仅方向关联的候选退为待核，并同步受影响的人物/公司页。
+- 合并：人工智能学院课题组总入口并入学院页，两份Raw来源迁移，所属单位引用与索引已更新；旧网页地址定向跳转。
+- 发布准备：将135篇wiki、251份raw共386个被引用的未跟踪文件纳入Git；没有提交或推送。
+- 验证：源链接、索引、站点构建及生成HTML站内链接检查通过；脚注定义和跳转存在、目标图谱噪声边已移除。开始时711个raw文件内容哈希不变。
+- 边界：外部HTTP状态未做全量探测；缺正文关系保留待补证，存量融资等事实告警不因链接修复变为已核。
+- 维护记录：[链接清理记录](../references/link-cleanup-2026-09-11.md)。
+- 最终复验：沿用并行任务的人物新命名，发布依赖检查通过；1439个生成页面、41253个站内链接/资源为0失败；2000个脚注跳转为0失败。
+
+## [2026-09-11] ingest | 高校投资与合作概览重编译
+- Disposition: Update
+- 范围：按用户明确的专业投资、高校合作BD使用场景重写8校页面；复用已有原文，不新增raw、不发布网站。
+- 内容：以团队/负责人、代表技术、公司高校关系、产品及融资披露时点、现有合作平台与科研负责人构成事实表；删除研究画像、故事与阅读指导。城大按仅有成员证据呈现信息缺口。
+- 导航：精选人物、公司与下层研究组织直接可点击；完整一级组织目录保留并折叠。来源采用标题后引用块内折叠，兼容现有证据解析器。同步适配本库正在规范化的人物文件路径。
+- Updated: wiki/universities/清华大学.md
+- Updated: wiki/universities/香港大学.md
+- Updated: wiki/universities/香港中文大学.md
+- Updated: wiki/universities/香港科技大学.md
+- Updated: wiki/universities/香港科技大学（广州）.md
+- Updated: wiki/universities/香港中文大学（深圳）.md
+- Updated: wiki/universities/香港理工大学.md
+- Updated: wiki/universities/香港城市大学.md
+- Updated: wiki/index.md（对应8校摘要）
+- 验证：8页233个本地链接可解析，其中32个人物链接、27个公司链接；原有一级组织目录保留，表格及折叠结构检查通过。融资、关键角色、产品与平台关系对照已存原文；未把融资报道解释为当前募资状态，未编造BD联系人或合作意愿。
+- 证据检查：0个Raw证据错误；字面提示涉及折叠HTML、编者说明、核对日期及来源刊期格式，逐项核对未发现本次新增事实字面冲突。未扩展处理脚本报告的全库存量未引用raw。
+
+## [2026-09-11] ingest | 奖项渠道实效验证与对象深化
+- Disposition: New; Update
+- Raw: raw/sources/奖项验证-李忆唐研究主页.md; raw/sources/奖项验证-BFM-Zero项目.md; raw/sources/2025-06-03-奖项验证-Hold-My-Beer论文.md; raw/sources/奖项验证-白雨石研究主页.md; raw/sources/奖项验证-LongBench-v2论文.md; raw/sources/奖项验证-天谋科技公司沿革.md; raw/sources/奖项验证-天谋科技产品与应用.md; raw/sources/奖项验证-Apache-IoTDB官网.md; raw/sources/2025-10-17-奖项验证-大学生创新大赛清华报道.md; raw/sources/2025-10-24-奖项验证-iCenter创新大赛团队详情.md; raw/sources/2023-09-18-奖项验证-砺算科技三创参赛.md; raw/sources/奖项验证-砺算科技产品官网.md
+- New: 李忆唐、罗长盛、白雨石人物页；天谋科技公司页。
+- Updated: 特奖、一二·九、青云、大学生创新大赛、张钹、电子系挑战杯、CSE博士论文奖、百万创业赛、三创及分赛道；CipherInsight归因；相关导师、院系与地图。
+- 证据边界：13个核验对象均源自原有名单/记录，新增的是独立成果、成员、当前证据边界及IoTDB公司主体对应；不计13条新增发现，不计实际接洽或投孵成果。
+- 纠错：CipherInsight从百万创业赛表移除并归CSE论文奖；大学生创新大赛两份官方报道的统计范围分开，撤回已注册推定、信噪比/转化率最高与唯一入口；组合奖撤回命名推学科及公网无名单的断言。
+- 历史归因：日志原记录说明LiberAI先由融资报道进入，再补青云获奖；本轮不追认奖项首发。
+- 保留：Kingjune、LoonGaN和CipherInsight重取同一公告无新增独立经营证据，复用既有raw；英文同名候选不合并身份。
+- 执行工作表、28页档位、检索限制与下一步在非同步文件/奖项线索验证-2026-09-11/；维护规则变更另由references承载。
+
+
+## [2026-09-11] maintenance | 人物页面短名称
+- 按用户要求将 281 个人物页由“姓名_机构全称”改为“姓名-机构简称”；例如王鹤-银河通用、李建-清华叉院、李曙光-清华机械工程。保留英文姓名、校区区别与拟入学标记。
+- 同步人物 title、索引显示名称、现行文章链接及清华/香港人才地图引用，并更新命名规则；实体 name、正文姓名、知识更新日期与核验日期不变。
+- 验证：281 个新旧路径及 title 一致性通过，现行文章与地图无旧路径残留；原始资料与既有日志保持不变，香港人才地图 4 项现有测试通过。源链接检查未发现断链；既有及其他在途页面的索引缺项不在本轮改名范围。
+
+- 本轮收尾核验：13对象、28页处置覆盖完整；12份新增raw及3个人物/1家公司已核对关键原文，增改内容与交付文档本地链接无失效。同期地图改名后，李忆唐关系合入“清华大学交叉信息研究院研究与创业网络”，天谋合入“高校关联公司与产业关系”；旧地图不恢复。严格等时渠道实验未完成，探索性对照与下一次设计已在本地报告披露。
+
+## [2026-09-11] ingest | 清华大学概览院系与实验室覆盖补充
+- Disposition: Update
+- 范围：复用库内原文与实体页，补充清华大学概览；不新增 raw、不改写其他高校、不发布网站。
+- 内容：研究表由6行扩为31条方向记录，按大模型与Agent、具身机器人、芯片与数据系统、科学智能/脑机/聚变分组；覆盖人工智能学院12个课题组，补计算机、自动化、机械、电子及IIIS系统研究团队。另列5条关键事实待补证的实验室入口，保留原19个一级组织目录。
+- 合作与创业：展开EIR五中心及主任，增加AIR医药与计算、海信视像合作、机械企业委托与软件学院横向课题；公司表增加星海图、智谱AI、面壁智能、无问芯穹、水木分子、光象科技。
+- 证据边界：内部整理表不升级为直接事实；郭钰铎、王同翰保留正式到岗待核；具名教师不推定商务联系人；智谱配发公告的交易日期按公告列示，未将预期自动写成实际交易；融资保持来源和披露时点。
+- Updated: wiki/universities/清华大学.md；wiki/index.md（清华摘要）。
+- 验证：173个本地链接、4个页内锚点、8张表格结构通过；原19个一级组织目录无遗漏；人工智能学院12个课题组均可直达。证据脚本报告0个Raw证据错误；6条字面提示为折叠编者说明、来源元数据刊日或中英文日期格式，已对照原文核对。未扩展处理54个全库存量未引用raw提示。
+
+## [2026-09-11] ingest | 已存资料重编译：研究与产业地图
+- Disposition: Update
+- 授权范围：按用户确认的第一性原理审阅结论整理maps，合并AIR观察池，维护实质受影响的组织页、索引与网站入口；复用既有资料，未新增或改写raw，未开展全库事实重研。
+- 地图：已创业地图改为高校关联公司与产业关系，按九类技术与应用组织，每个对象只出现一次；原有97个公司或项目入口全部保留。整理期间其他工作新增的天谋科技、李忆唐等增量原位保留，当前公司表98个入口。
+- 地图：IIIS改为研究与创业网络，突出研究成果、导师、共同作者与公司去向；香港地图改按研究问题比较团队及转化平台，保留具体产业关系；奖项入口补齐香港各入口的实际届次、研究方向与具名项目，删除重复套话。
+- 合并：AIR观察池的产业联系、离任任期及待补证事项归入AIR组织页；IIIS名册与薄线索归组织、课题组页。三个旧文件的Raw引用均保留在相应承接页。
+- 证据口径：周浩与DAPO仅有内部表归属，保留为待补证；求之科技按AIR官方孵化及周谷越首席科学家身份表述。陈亦伦的AIR任期与创业关系并列，不推断先离任再创业。若新增关系摘要仅有内部表或缺本地原文，明确限定，未据整理动作升级置信度。
+- Renamed: wiki/maps/已创业地图.md → wiki/maps/高校关联公司与产业关系.md
+- Renamed: wiki/maps/清华大学交叉信息研究院高潜观察池.md → wiki/maps/清华大学交叉信息研究院研究与创业网络.md
+- Merged: wiki/maps/清华大学智能产业研究院AIR高潜观察池.md → wiki/orgs/清华大学智能产业研究院AIR.md
+- Updated: wiki/maps/香港具身实验室与创业网络.md；wiki/maps/奖项与竞赛入口.md
+- Updated: wiki/orgs/清华大学交叉信息研究院IIIS.md；wiki/orgs/EmbryoLabs.md；wiki/orgs/IDEAL实验室.md；wiki/orgs/量子信息科学小组.md；wiki/orgs/袁洋课题组.md
+- Updated: wiki/index.md；site/home.md。模板及规则中的现行地图入口同步；网站生成脚本为三个旧地图网址提供跳转，不重新建立占位文章。
+- 验证：四张地图的表格列数、唯一标题、旧Markdown目标清除、公司入口去重与覆盖检查通过；知识库Markdown链接检查0错误；网站构建通过，1457个生成页面、41923个本地链接/资源检查0错误；三个旧网址跳转及AIR待补证队列从网站副本排除均通过。
+- 构建边界：并行入库产生尚未进入Git发布清单的文件，本次用临时Git索引纳入现有知识页及已引用证据完成本地构建，未改变真实暂存区、未提交、未部署。构建另提示奖项工作流引用一份非同步维护文件，该链接按发布过滤规则处理，生成站点链接检查通过。
+- 证据检查：四地图及两个承接组织页Raw引用无解析错误；地图的数值提示为整理日期，组织页其他提示主要涉及既有元数据、编者说明和历史事实，不将局部检查视为全库事实核验。未引用raw清单属于存量维护范围，本次未处理。
+
+
+## [2026-09-11] ingest | 港城大、港理工、港中深与港科广研究网络补全
+- Disposition: New; Update；李文荣校方讲座学科称谓保留Disputed。
+- 范围：参照已有高校的院系/平台—团队—人才—成果/公司—奖项颗粒度，补齐库内其他四校；不作全校师资普查，不发布网站。
+- Raw: raw/sources/四校补全-城大于欣格软生物电子实验室.md
+- Raw: raw/sources/四校补全-城大孙宇翔自主系统实验室.md
+- Raw: raw/sources/四校补全-城大自主系统实验室论文.md
+- Raw: raw/sources/四校补全-城大李文荣机械系履历.md
+- Raw: raw/sources/四校补全-城大SEAM双中心.md
+- Raw: raw/sources/四校补全-城大全国创业大赛第二届.md
+- Raw: raw/sources/四校补全-理工XiaolingHu与康复机器人.md
+- Raw: raw/sources/四校补全-理工ENMS技术转移档案.md
+- Raw: raw/sources/四校补全-泽康科技产品.md
+- Raw: raw/sources/四校补全-理工CES踝足康复器械.md
+- Raw: raw/sources/四校补全-理工Linkerbot合作.md
+- Raw: raw/sources/四校补全-理工叠层光伏商业化综述.md
+- Raw: raw/sources/四校补全-理工叠层光伏实测效率.md
+- Raw: raw/sources/四校补全-理工生医实验室目录.md
+- Raw: raw/sources/四校补全-港中深人工智能学院简介.md
+- Raw: raw/sources/四校补全-港中深李海洲履历.md
+- Raw: raw/sources/四校补全-港中深武执政学院档案.md
+- Raw: raw/sources/四校补全-武执政研究组与产业履历.md
+- Raw: raw/sources/四校补全-Sanas语音产品.md
+- Raw: raw/sources/四校补全-港中深俞江帆履历.md
+- Raw: raw/sources/四校补全-港中深血管内软体机器人.md
+- Raw: raw/sources/四校补全-港中深朱熹智能实验室.md
+- Raw: raw/sources/四校补全-港中深吴保元可信AI.md
+- Raw: raw/sources/四校补全-港中深胡君杰机器人感知.md
+- Raw: raw/sources/四校补全-港中深林天麟双学院任职.md
+- Raw: raw/sources/四校补全-港中深李镇MaskVLA与DeepBit.md
+- Raw: raw/sources/四校补全-大湾区编程大赛华富培.md
+- Raw: raw/sources/四校补全-港科广具身智能研究所国家项目.md
+- Raw: raw/sources/四校补全-港科广功能枢纽简介.md
+- Raw: raw/sources/四校补全-港科广吴佳莹光伏团队.md
+- Raw: raw/sources/四校补全-港科广訾云龙触觉阵列.md
+- Raw: raw/sources/四校补全-港科广訾云龙院系履历.md
+- Raw: raw/sources/四校补全-港科广日内瓦四项目与转化.md
+- Raw: raw/sources/四校补全-城大于欣格官方履历.md
+- Raw: raw/sources/四校补全-城大翼机器人创业档案.md
+- New: [香港城市大学机械工程学系](orgs/香港城市大学机械工程学系.md)
+- New: [香港城市大学生物医学工程学系](orgs/香港城市大学生物医学工程学系.md)
+- New: [香港城市大学先进设计及系统工程学系](orgs/香港城市大学先进设计及系统工程学系.md)
+- New: [香港城市大学神经科学系](orgs/香港城市大学神经科学系.md)
+- New: [香港城市大学自主系统实验室](orgs/香港城市大学自主系统实验室.md)
+- New: [香港城市大学 Lab of Soft Bio-Electronics](orgs/香港城市大学-Lab-of-Soft-Bio-Electronics.md)
+- New: [香港城市大学 Centre for Advanced and Smart Manufacturing](orgs/香港城市大学-Centre-for-Advanced-and-Smart-Manufacturing.md)
+- New: [香港城市大学 Sustainable Materials & Advanced Renewable Technologies Centre](orgs/香港城市大学-Sustainable-Materials-&-Advanced-Renewable-Technologies-Centre.md)
+- New: [于欣格-港城大生医](people/于欣格-港城大生医.md)
+- New: [孙宇翔-港城大机械](people/孙宇翔-港城大机械.md)
+- New: [李文荣-港城大机械](people/李文荣-港城大机械.md)
+- New: [翼机器人](companies/翼机器人.md)
+- New: [泰康诺生物科技](companies/泰康诺生物科技.md)
+- New: [AI Motion Sports](companies/AI-Motion-Sports.md)
+- New: [香港理工大学生物医学工程学系](orgs/香港理工大学生物医学工程学系.md)
+- New: [香港理工大学 Xiaoling Hu课题组](orgs/香港理工大学-Xiaoling-Hu课题组.md)
+- New: [香港理工大学应用物理学系](orgs/香港理工大学应用物理学系.md)
+- New: [香港理工大学殷骏课题组](orgs/香港理工大学殷骏课题组.md)
+- New: [香港理工大学电机及电子工程学系](orgs/香港理工大学电机及电子工程学系.md)
+- New: [Xiaoling-Hu-港理工生医](people/Xiaoling-Hu-港理工生医.md)
+- New: [殷骏-港理工应用物理](people/殷骏-港理工应用物理.md)
+- New: [泽康科技](companies/泽康科技.md)
+- New: [Linkerbot](companies/Linkerbot.md)
+- New: [香港中文大学（深圳）人工智能学院](orgs/香港中文大学（深圳）人工智能学院.md)
+- New: [香港中文大学（深圳）理工学院](orgs/香港中文大学（深圳）理工学院.md)
+- New: [香港中文大学（深圳）武执政课题组](orgs/香港中文大学（深圳）武执政课题组.md)
+- New: [香港中文大学（深圳）朱熹课题组](orgs/香港中文大学（深圳）朱熹课题组.md)
+- New: [香港中文大学（深圳） Deep Bit Lab](orgs/香港中文大学（深圳）-Deep-Bit-Lab.md)
+- New: [深圳市人工智能与机器人研究院微型机器人中心](orgs/深圳市人工智能与机器人研究院微型机器人中心.md)
+- New: [李海洲-港中深AI](people/李海洲-港中深AI.md)
+- New: [武执政-港中深AI](people/武执政-港中深AI.md)
+- New: [Yuancheng-Wang-港中深语音](people/Yuancheng-Wang-港中深语音.md)
+- New: [俞江帆-港中深医疗机器人](people/俞江帆-港中深医疗机器人.md)
+- New: [朱熹-港中深AI](people/朱熹-港中深AI.md)
+- New: [吴保元-港中深AI](people/吴保元-港中深AI.md)
+- New: [胡君杰-港中深AI](people/胡君杰-港中深AI.md)
+- New: [李镇-港中深理工](people/李镇-港中深理工.md)
+- New: [Sanas](companies/Sanas.md)
+- New: [香港科技大学（广州）功能枢纽](orgs/香港科技大学（广州）功能枢纽.md)
+- New: [香港科技大学（广州）先进材料学域](orgs/香港科技大学（广州）先进材料学域.md)
+- New: [香港科技大学（广州）可持续能源与环境学域](orgs/香港科技大学（广州）可持续能源与环境学域.md)
+- New: [香港科技大学（广州）智能制造学域](orgs/香港科技大学（广州）智能制造学域.md)
+- New: [香港科技大学（广州）微纳系统制造中央实验室](orgs/香港科技大学（广州）微纳系统制造中央实验室.md)
+- New: [香港科技大学（广州）具身智能研究所](orgs/香港科技大学（广州）具身智能研究所.md)
+- New: [香港科技大学（广州）超快光物理研究小组](orgs/香港科技大学（广州）超快光物理研究小组.md)
+- New: [香港科技大学（广州）訾云龙课题组](orgs/香港科技大学（广州）訾云龙课题组.md)
+- New: [吴佳莹-港科广先进材料](people/吴佳莹-港科广先进材料.md)
+- New: [訾云龙-港科广能源环境](people/訾云龙-港科广能源环境.md)
+- New: [刘浩-港科广AI](people/刘浩-港科广AI.md)
+- New: [徐巍-港科广微纳制造](people/徐巍-港科广微纳制造.md)
+- New: [陈力-港科广智能制造](people/陈力-港科广智能制造.md)
+- New: [智科自动化](companies/智科自动化.md)
+- New: [HK-Tech-300全国创新创业千万大赛](awards/HK-Tech-300全国创新创业千万大赛.md)
+- New: [CES创新奖-港理工](awards/CES创新奖-港理工.md)
+- New: [日内瓦国际发明展-港理工](awards/日内瓦国际发明展-港理工.md)
+- New: [粤港澳大湾区国际编程大赛](awards/粤港澳大湾区国际编程大赛.md)
+- New: [日内瓦国际发明展-港科广](awards/日内瓦国际发明展-港科广.md)
+- Updated: [香港城市大学机器人与自动化中心](orgs/香港城市大学机器人与自动化中心CRA.md)
+- Updated: [深圳市人工智能与机器人研究院](orgs/深圳市人工智能与机器人研究院AIRS.md)
+- Updated: [林天麟](people/林天麟-港中深Freeform.md)
+- Updated: [香港中文大学（深圳） Freeform Robotics](orgs/FreeformRobotics.md)
+- Updated: [香港理工大学工业及系统工程学系](orgs/香港理工大学工业及系统工程学系.md)
+- Updated: [郑湃](people/郑湃-港理工工业系统.md)
+- Updated: [科博智能](companies/科博智能.md)
+- Updated: [香港科技大学（广州）人工智能学域](orgs/香港科技大学（广州）人工智能学域.md)
+- Updated: [香港科技大学（广州）信息枢纽](orgs/香港科技大学（广州）信息枢纽.md)
+- Updated: [香港科技大学（广州）系统枢纽](orgs/香港科技大学（广州）系统枢纽.md)
+- Updated: [梁俊卫](people/梁俊卫-港科广Precognition.md)
+- Updated: [雅可比机器人](companies/雅可比机器人.md)
+- Updated: [邱迪聪](people/邱迪聪-雅可比机器人.md)
+- Updated: [香港具身实验室归属与创业状态待核](questions/香港具身实验室归属与创业状态待核.md)
+- Updated: [香港城市大学](universities/香港城市大学.md)
+- Updated: [香港理工大学](universities/香港理工大学.md)
+- Updated: [香港中文大学（深圳）](universities/香港中文大学（深圳）.md)
+- Updated: [香港科技大学（广州）](universities/香港科技大学（广州）.md)
+- Updated: [奖项与竞赛入口](maps/奖项与竞赛入口.md)
+- Updated: [高校关联公司与产业关系](maps/高校关联公司与产业关系.md)
+- Updated: [香港具身实验室与创业网络](maps/香港具身实验室与创业网络.md)
+- 证据口径：保留申报时学籍、礼任/双聘、学员支持与创办差异；科研总项目经费不作融资，器件实验及动物实验不作量产或临床审批；未知融资币种、注册证与当前经营就地标记。
+- 来源缺口：城大使用公开代理转呈原站正文；港科广教师目录部分为动态壳，改用学院/学校具体研究报道；理工团队内地公司网站不可达，未推定主体。
+- Raw: raw/sources/四校补全-理工公告发布日期元数据.md
+- 核验补记：35份研究正文加1份公告日期元数据，共36份raw。ASL两位学生按原文改为通过博士论文答辩，未升级为已毕业；其余日期与专有名词复核记录在本地工作记录。
+- 最终验证：本次78篇文章的938处本地链接、YAML、人物标题、组织父子关系与索引日期通过；新增raw全部被引用，新增文章无孤立入口，既有raw零修改。证据脚本无Raw错误；日期/元数据提示经人工核对，未消除仍待核的事实边界。

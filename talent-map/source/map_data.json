@@ -9,7 +9,7 @@
       "detail": "人形本体、控制与强化学习",
       "state": "founder",
       "lab": "ISR Lab",
-      "path": "wiki/people/陈建宇_清华交叉信息研究院.md",
+      "path": "wiki/people/陈建宇-清华叉院.md",
       "date": "2026-09-09",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -21,7 +21,7 @@
       "formerLevel": 0,
       "identity": "清华长聘副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/陈建宇_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/陈建宇-清华叉院.md",
       "responsibility": "ISR负责人"
     },
     {
@@ -33,7 +33,7 @@
       "detail": "世界动作模型（WAM）",
       "state": "founder",
       "lab": "ISR Lab",
-      "path": "wiki/people/胡钰承_潜界动力.md",
+      "path": "wiki/people/胡钰承-潜界动力.md",
       "date": "2026-09-08",
       "tier": "在读 / 培养",
       "secondaryCompanies": [],
@@ -53,7 +53,7 @@
       "formerLevel": 2,
       "identity": "IIIS博士生",
       "currentFaculty": false,
-      "identitySource": "wiki/people/胡钰承_潜界动力.md",
+      "identitySource": "wiki/people/胡钰承-潜界动力.md",
       "responsibility": ""
     },
     {
@@ -65,7 +65,7 @@
       "detail": "双足/仿生人形，教育与文旅",
       "state": "founder",
       "lab": "ISR Lab",
-      "path": "wiki/people/姜哲源_松延动力.md",
+      "path": "wiki/people/姜哲源-松延动力.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -85,7 +85,7 @@
       "formerLevel": 2,
       "identity": "电子系本科校友\n博士阶段离校",
       "currentFaculty": false,
-      "identitySource": "wiki/people/姜哲源_松延动力.md",
+      "identitySource": "wiki/people/姜哲源-松延动力.md",
       "responsibility": ""
     },
     {
@@ -93,12 +93,12 @@
       "dept": "交叉信息研究院",
       "lane": "IIIS",
       "id": "助理教授 / 联创 / 首席科学家",
-      "relation": "EVAR Lab；指导佴瑞乾、胡英东",
+      "relation": "VAR Lab；指导佴瑞乾、胡英东",
       "detail": "通用具身模型、人形机器人",
       "state": "founder",
-      "lab": "VAR / EVAR Lab",
-      "path": "wiki/people/高阳_清华交叉信息研究院.md",
-      "date": "2026-09-09",
+      "lab": "VAR Lab",
+      "path": "wiki/people/高阳-清华叉院.md",
+      "date": "2026-09-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
       "mentorRefs": [],
@@ -109,7 +109,7 @@
       "formerLevel": 0,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/高阳_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/高阳-清华叉院.md",
       "responsibility": "VAR负责人",
       "extraInfo": [
         "林凡淇的导师；未见高阳在LiberAI任职或创办的直接证据。"
@@ -123,8 +123,8 @@
       "relation": "师从高阳；自动化本科→IIIS博士",
       "detail": "OneTwoVLA、HuMI；全身操作",
       "state": "none",
-      "lab": "VAR / EVAR Lab",
-      "path": "wiki/people/佴瑞乾_清华交叉信息研究院.md",
+      "lab": "VAR Lab",
+      "path": "wiki/people/佴瑞乾-清华叉院.md",
       "date": "2026-09-09",
       "tier": "在读 / 培养",
       "secondaryCompanies": [],
@@ -144,7 +144,7 @@
       "formerLevel": 2,
       "identity": "IIIS博士生",
       "currentFaculty": false,
-      "identitySource": "wiki/people/佴瑞乾_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/佴瑞乾-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -155,8 +155,8 @@
       "relation": "高阳博士生；已毕业、加入千寻",
       "detail": "OneTwoVLA；千寻前沿技术探索",
       "state": "industry",
-      "lab": "VAR / EVAR Lab",
-      "path": "wiki/people/胡英东_清华交叉信息研究院.md",
+      "lab": "VAR Lab",
+      "path": "wiki/people/胡英东-清华叉院.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -180,7 +180,7 @@
       "formerLevel": 2,
       "identity": "IIIS博士校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/胡英东_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/胡英东-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -191,8 +191,8 @@
       "relation": "博士导师Amato；清华博后与高阳合作",
       "detail": "多智能体强化学习；JAIR/AAAI论文",
       "state": "none",
-      "lab": "VAR / EVAR Lab",
-      "path": "wiki/people/吕雪广_清华交叉信息研究院.md",
+      "lab": "VAR Lab",
+      "path": "wiki/people/吕雪广-清华叉院.md",
       "date": "2026-09-08",
       "tier": "博士后",
       "secondaryCompanies": [],
@@ -212,7 +212,7 @@
       "formerLevel": 2,
       "identity": "IIIS博士后",
       "currentFaculty": false,
-      "identitySource": "wiki/people/吕雪广_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/吕雪广-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -224,7 +224,7 @@
       "detail": "家庭通用机器人、具身世界模型",
       "state": "founder",
       "lab": "TEA Lab",
-      "path": "wiki/people/许华哲_清华交叉信息研究院.md",
+      "path": "wiki/people/许华哲-清华叉院.md",
       "date": "2026-09-09",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -238,7 +238,7 @@
       "formerLevel": 0,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/许华哲_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/许华哲-清华叉院.md",
       "responsibility": "TEA负责人"
     },
     {
@@ -250,8 +250,8 @@
       "detail": "空间智能、机器人学习",
       "state": "founder",
       "lab": "MARS Lab",
-      "path": "wiki/people/赵行_清华交叉信息研究院.md",
-      "date": "2026-09-07",
+      "path": "wiki/people/赵行-清华叉院.md",
+      "date": "2026-09-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
         "C06"
@@ -264,7 +264,7 @@
       "formerLevel": 0,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/赵行_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/赵行-清华叉院.md",
       "responsibility": "MARS负责人"
     },
     {
@@ -276,7 +276,7 @@
       "detail": "机器人本体、空间智能引擎",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/高继扬_星海图.md",
+      "path": "wiki/people/高继扬-星海图.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -288,7 +288,7 @@
       "formerLevel": 2,
       "identity": "电子系本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/高继扬_星海图.md",
+      "identitySource": "wiki/people/高继扬-星海图.md",
       "responsibility": ""
     },
     {
@@ -300,7 +300,7 @@
       "detail": "PointNet++；三维感知与具身交互",
       "state": "industry",
       "lab": "3DVICI Lab",
-      "path": "wiki/people/弋力_清华交叉信息研究院.md",
+      "path": "wiki/people/弋力-清华叉院.md",
       "date": "2026-09-09",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -316,7 +316,7 @@
       "formerLevel": 0,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/弋力_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/弋力-清华叉院.md",
       "responsibility": "3DVICI创立者"
     },
     {
@@ -328,7 +328,7 @@
       "detail": "R2S2、LATENT；人形全身控制",
       "state": "industry",
       "lab": "3DVICI Lab",
-      "path": "wiki/people/张智楷_清华交叉信息研究院.md",
+      "path": "wiki/people/张智楷-清华叉院.md",
       "date": "2026-09-09",
       "tier": "在读 / 培养",
       "secondaryCompanies": [
@@ -352,7 +352,7 @@
       "formerLevel": 2,
       "identity": "IIIS博士生",
       "currentFaculty": false,
-      "identitySource": "wiki/people/张智楷_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/张智楷-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -364,7 +364,7 @@
       "detail": "R2S2、Click-and-Traverse",
       "state": "industry",
       "lab": "3DVICI Lab",
-      "path": "wiki/people/薛晗_清华人工智能学院.md",
+      "path": "wiki/people/薛晗-清华AI学院.md",
       "date": "2026-09-09",
       "tier": "在读 / 培养",
       "secondaryCompanies": [
@@ -388,7 +388,7 @@
       "formerLevel": 2,
       "identity": "AI学院博士生",
       "currentFaculty": false,
-      "identitySource": "wiki/people/薛晗_清华人工智能学院.md",
+      "identitySource": "wiki/people/薛晗-清华AI学院.md",
       "responsibility": ""
     },
     {
@@ -400,7 +400,7 @@
       "detail": "AlphaHoldem；银河机器人研究合作",
       "state": "industry",
       "lab": "人机交互与媒体集成所",
-      "path": "wiki/people/兴军亮_清华计算机科学与技术系.md",
+      "path": "wiki/people/兴军亮-清华计算机.md",
       "date": "2026-09-09",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -416,7 +416,7 @@
       "formerLevel": 1,
       "identity": "清华研究员",
       "currentFaculty": true,
-      "identitySource": "wiki/people/兴军亮_清华计算机科学与技术系.md",
+      "identitySource": "wiki/people/兴军亮-清华计算机.md",
       "responsibility": ""
     },
     {
@@ -428,7 +428,7 @@
       "detail": "具身多模态模型、通用机器人",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/王鹤_银河通用.md",
+      "path": "wiki/people/王鹤-银河通用.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -440,7 +440,7 @@
       "formerLevel": 2,
       "identity": "微纳本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/王鹤_银河通用.md",
+      "identitySource": "wiki/people/王鹤-银河通用.md",
       "responsibility": ""
     },
     {
@@ -452,7 +452,7 @@
       "detail": "LATENT、BodyGen；仿真到现实",
       "state": "industry",
       "lab": null,
-      "path": "wiki/people/Haofei-Lu_清华计算机系.md",
+      "path": "wiki/people/Haofei-Lu-清华计算机.md",
       "date": "2026-09-09",
       "tier": "在读 / 培养",
       "secondaryCompanies": [
@@ -482,7 +482,7 @@
       "formerLevel": 2,
       "identity": "计算机系硕士生",
       "currentFaculty": false,
-      "identitySource": "wiki/people/Haofei-Lu_清华计算机系.md",
+      "identitySource": "wiki/people/Haofei-Lu-清华计算机.md",
       "responsibility": ""
     },
     {
@@ -494,7 +494,7 @@
       "detail": "密码/量子/AI；成果转化平台",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/姚期智_清华交叉信息研究院.md",
+      "path": "wiki/people/姚期智-清华叉院.md",
       "date": "2026-09-07",
       "tier": "组织负责人",
       "secondaryCompanies": [
@@ -511,7 +511,7 @@
       "formerLevel": 0,
       "identity": "清华教授·院士",
       "currentFaculty": true,
-      "identitySource": "wiki/people/姚期智_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/姚期智-清华叉院.md",
       "responsibility": "IIIS / AI学院院长"
     },
     {
@@ -523,7 +523,7 @@
       "detail": "Robotaxi、Robotruck",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/楼天城_小马智行.md",
+      "path": "wiki/people/楼天城-小马智行.md",
       "date": "2026-09-07",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -545,7 +545,7 @@
       "formerLevel": 2,
       "identity": "IIIS博士校友\n兼课教师",
       "currentFaculty": false,
-      "identitySource": "wiki/people/楼天城_小马智行.md",
+      "identitySource": "wiki/people/楼天城-小马智行.md",
       "responsibility": ""
     },
     {
@@ -557,7 +557,7 @@
       "detail": "L4自动驾驶商业化",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/彭军_小马智行.md",
+      "path": "wiki/people/彭军-小马智行.md",
       "date": "2026-09-07",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -569,7 +569,7 @@
       "formerLevel": 2,
       "identity": "清华本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/彭军_小马智行.md",
+      "identitySource": "wiki/people/彭军-小马智行.md",
       "responsibility": ""
     },
     {
@@ -581,7 +581,7 @@
       "detail": "隐私计算、金融风控",
       "state": "industry",
       "lab": "徐葳课题组",
-      "path": "wiki/people/徐葳_清华交叉信息研究院.md",
+      "path": "wiki/people/徐葳-清华叉院.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -593,7 +593,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/徐葳_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/徐葳-清华叉院.md",
       "responsibility": "IIIS副院长"
     },
     {
@@ -605,7 +605,7 @@
       "detail": "机器学习理论、金融科技",
       "state": "none",
       "lab": "李建课题组",
-      "path": "wiki/people/李建_清华交叉信息研究院.md",
+      "path": "wiki/people/李建-清华叉院.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -617,7 +617,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/李建_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/李建-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -629,7 +629,7 @@
       "detail": "ICLR 2025杰出论文；安全对齐",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/吕凯风_清华交叉信息研究院.md",
+      "path": "wiki/people/吕凯风-清华叉院.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -649,7 +649,7 @@
       "formerLevel": 1,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/吕凯风_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/吕凯风-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -661,7 +661,7 @@
       "detail": "ICLR Spotlight；生成流网络/强化学习",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/李卓然_清华交叉信息研究院.md",
+      "path": "wiki/people/李卓然-清华叉院.md",
       "date": "2026-09-08",
       "tier": "博士后",
       "secondaryCompanies": [],
@@ -673,7 +673,7 @@
       "formerLevel": 2,
       "identity": "IIIS博士后",
       "currentFaculty": false,
-      "identitySource": "wiki/people/李卓然_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/李卓然-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -685,7 +685,7 @@
       "detail": "COLT最佳学生论文指导；优化理论",
       "state": "none",
       "lab": "AI Theory Group",
-      "path": "wiki/people/张景昭_清华交叉信息研究院.md",
+      "path": "wiki/people/张景昭-清华叉院.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -697,7 +697,7 @@
       "formerLevel": 1,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/张景昭_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/张景昭-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -709,7 +709,7 @@
       "detail": "COLT最佳学生论文一作；优化理论",
       "state": "none",
       "lab": "AI Theory Group",
-      "path": "wiki/people/陈乐偲_清华交叉信息研究院.md",
+      "path": "wiki/people/陈乐偲-清华叉院.md",
       "date": "2026-09-08",
       "tier": "在读 / 培养",
       "secondaryCompanies": [],
@@ -729,7 +729,7 @@
       "formerLevel": 2,
       "identity": "IIIS博士生",
       "currentFaculty": false,
-      "identitySource": "wiki/people/陈乐偲_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/陈乐偲-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -741,7 +741,7 @@
       "detail": "SIGMOD论文/博士论文奖；AI数据底座",
       "state": "none",
       "lab": "Embryo Labs",
-      "path": "wiki/people/张焕晨_清华交叉信息研究院.md",
+      "path": "wiki/people/张焕晨-清华叉院.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -753,7 +753,7 @@
       "formerLevel": 1,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/张焕晨_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/张焕晨-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -765,7 +765,7 @@
       "detail": "IDEAL Lab；专用计算/存储体系结构",
       "state": "none",
       "lab": "IDEAL Lab",
-      "path": "wiki/people/高鸣宇_清华交叉信息研究院.md",
+      "path": "wiki/people/高鸣宇-清华叉院.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -777,7 +777,7 @@
       "formerLevel": 1,
       "identity": "清华长聘副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/高鸣宇_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/高鸣宇-清华叉院.md",
       "responsibility": "IIIS院长助理"
     },
     {
@@ -789,7 +789,7 @@
       "detail": "DiffAqua、PlasticineLab；可微仿真",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/杜韬_清华交叉信息研究院.md",
+      "path": "wiki/people/杜韬-清华叉院.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -801,7 +801,7 @@
       "formerLevel": 1,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/杜韬_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/杜韬-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -813,7 +813,7 @@
       "detail": "Prompt-DT、RoboTool、CoVer-VLA",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/徐梦迪_清华交叉信息研究院.md",
+      "path": "wiki/people/徐梦迪-清华叉院.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -825,7 +825,7 @@
       "formerLevel": 1,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/徐梦迪_清华交叉信息研究院.md",
+      "identitySource": "wiki/people/徐梦迪-清华叉院.md",
       "responsibility": ""
     },
     {
@@ -837,7 +837,7 @@
       "detail": "具身原生模型、触觉机械臂",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/范浩强_原力灵机.md",
+      "path": "wiki/people/范浩强-原力灵机.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -849,7 +849,7 @@
       "formerLevel": 2,
       "identity": "姚班本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/范浩强_原力灵机.md",
+      "identitySource": "wiki/people/范浩强-原力灵机.md",
       "responsibility": ""
     },
     {
@@ -861,7 +861,7 @@
       "detail": "Physical AI；数采、物理引擎、模型",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/李一鸣_清华人工智能学院.md",
+      "path": "wiki/people/李一鸣-清华AI学院.md",
       "date": "2026-09-09",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -873,39 +873,7 @@
       "formerLevel": 1,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/李一鸣_清华人工智能学院.md",
-      "responsibility": ""
-    },
-    {
-      "name": "李昊展",
-      "dept": "人工智能学院",
-      "lane": "AI学院",
-      "id": "博士生",
-      "relation": "名单记师从李一鸣（待核）",
-      "detail": "VLA、强化学习PRM（名单线索）",
-      "state": "none",
-      "lab": null,
-      "path": "wiki/maps/清华大学人工智能学院高潜观察池.md",
-      "date": "2026-09-08",
-      "tier": "在读 / 培养",
-      "secondaryCompanies": [],
-      "mentorRefs": [
-        {
-          "from": "李一鸣",
-          "label": "导师待核",
-          "type": "pending"
-        }
-      ],
-      "companyNotes": [],
-      "level": 1,
-      "levelReason": "博士生",
-      "mentorNotes": [
-        "李一鸣：导师待核"
-      ],
-      "formerLevel": 2,
-      "identity": "AI学院博士生\n名单口径",
-      "currentFaculty": false,
-      "identitySource": "wiki/maps/清华大学人工智能学院高潜观察池.md",
+      "identitySource": "wiki/people/李一鸣-清华AI学院.md",
       "responsibility": ""
     },
     {
@@ -917,7 +885,7 @@
       "detail": "具身世界模型、灵巧控制",
       "state": "none",
       "lab": "交互式具身课题组",
-      "path": "wiki/people/邹雪妍_清华人工智能学院.md",
+      "path": "wiki/people/邹雪妍-清华AI学院.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -929,7 +897,7 @@
       "formerLevel": 1,
       "identity": "清华教职PI",
       "currentFaculty": true,
-      "identitySource": "wiki/people/邹雪妍_清华人工智能学院.md",
+      "identitySource": "wiki/people/邹雪妍-清华AI学院.md",
       "responsibility": ""
     },
     {
@@ -941,7 +909,7 @@
       "detail": "第一视角、人本多模态模型",
       "state": "pending",
       "lab": "MEOW LAB",
-      "path": "wiki/people/刘淼_清华人工智能学院.md",
+      "path": "wiki/people/刘淼-清华AI学院.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -953,7 +921,7 @@
       "formerLevel": 1,
       "identity": "清华教职PI",
       "currentFaculty": true,
-      "identitySource": "wiki/people/刘淼_清华人工智能学院.md",
+      "identitySource": "wiki/people/刘淼-清华AI学院.md",
       "responsibility": ""
     },
     {
@@ -965,7 +933,7 @@
       "detail": "结构化表征、模型压缩/ASVD线索",
       "state": "pending",
       "lab": null,
-      "path": "wiki/people/宋悦_清华人工智能学院.md",
+      "path": "wiki/people/宋悦-清华AI学院.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -977,20 +945,20 @@
       "formerLevel": 1,
       "identity": "清华教职PI",
       "currentFaculty": true,
-      "identitySource": "wiki/people/宋悦_清华人工智能学院.md",
+      "identitySource": "wiki/people/宋悦-清华AI学院.md",
       "responsibility": ""
     },
     {
       "name": "王同翰",
       "dept": "人工智能学院",
       "lane": "AI学院",
-      "id": "PI",
+      "id": "课题组PI（正式到岗待核）",
       "relation": "Delta-I Lab；与宋悦合作线索待核",
       "detail": "多智能体、机制设计",
       "state": "pending",
       "lab": "Delta-I Lab",
-      "path": "wiki/people/王同翰_清华人工智能学院.md",
-      "date": "2026-09-08",
+      "path": "wiki/people/王同翰-清华AI学院.md",
+      "date": "2026-09-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
         "C71"
@@ -1000,13 +968,16 @@
         "昊瞳科技：创业关联待核"
       ],
       "level": 0,
-      "levelReason": "PI",
+      "levelReason": "官网列PI，正式到岗待核",
       "mentorNotes": [],
       "formerLevel": 1,
-      "identity": "清华教职PI",
-      "currentFaculty": true,
-      "identitySource": "wiki/people/王同翰_清华人工智能学院.md",
-      "responsibility": ""
+      "identity": "课题组PI\n正式到岗待核",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/王同翰-清华AI学院.md",
+      "responsibility": "",
+      "extraInfo": [
+        "官网课题组已列PI；现有资料尚不足以确认已正式到岗，不因拟入职日期经过而自动转为在职。"
+      ]
     },
     {
       "name": "刘子鸣",
@@ -1017,7 +988,7 @@
       "detail": "KAN；物理与AI交叉",
       "state": "none",
       "lab": "LIU Lab",
-      "path": "wiki/people/刘子鸣_清华人工智能学院.md",
+      "path": "wiki/people/刘子鸣-清华AI学院.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1029,32 +1000,35 @@
       "formerLevel": 1,
       "identity": "清华教职PI",
       "currentFaculty": true,
-      "identitySource": "wiki/people/刘子鸣_清华人工智能学院.md",
+      "identitySource": "wiki/people/刘子鸣-清华AI学院.md",
       "responsibility": ""
     },
     {
       "name": "郭钰铎",
       "dept": "人工智能学院",
       "lane": "AI学院",
-      "id": "PI",
+      "id": "课题组PI（正式到岗待核）",
       "relation": "科学智能与物理感知实验室",
       "detail": "物理驱动AI、计算成像、遥感/天文",
       "state": "none",
       "lab": "科学智能与物理感知",
-      "path": "wiki/people/郭钰铎_清华人工智能学院.md",
-      "date": "2026-06-11",
+      "path": "wiki/people/郭钰铎-清华AI学院.md",
+      "date": "2026-09-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
       "mentorRefs": [],
       "companyNotes": [],
       "level": 0,
-      "levelReason": "PI",
+      "levelReason": "官网列PI，正式到岗待核",
       "mentorNotes": [],
       "formerLevel": 1,
-      "identity": "清华教职PI",
-      "currentFaculty": true,
-      "identitySource": "wiki/people/郭钰铎_清华人工智能学院.md",
-      "responsibility": ""
+      "identity": "课题组PI\n正式到岗待核",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/郭钰铎-清华AI学院.md",
+      "responsibility": "",
+      "extraInfo": [
+        "官网课题组已列PI；现有资料尚不足以确认已正式到岗，不因拟入职日期经过而自动转为在职。"
+      ]
     },
     {
       "name": "李佳",
@@ -1065,7 +1039,7 @@
       "detail": "Fitten Code、EniaCode、aiXcoder",
       "state": "industry",
       "lab": "AI Agent课题组",
-      "path": "wiki/people/李佳_清华人工智能学院.md",
+      "path": "wiki/people/李佳-清华AI学院.md",
       "date": "2026-06-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1077,7 +1051,7 @@
       "formerLevel": 1,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/李佳_清华人工智能学院.md",
+      "identitySource": "wiki/people/李佳-清华AI学院.md",
       "responsibility": ""
     },
     {
@@ -1089,7 +1063,7 @@
       "detail": "Self-Improving Models",
       "state": "pending",
       "lab": null,
-      "path": "wiki/people/陈勇超_清华人工智能学院.md",
+      "path": "wiki/people/陈勇超-清华AI学院.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1101,7 +1075,7 @@
       "formerLevel": 1,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/陈勇超_清华人工智能学院.md",
+      "identitySource": "wiki/people/陈勇超-清华AI学院.md",
       "responsibility": ""
     },
     {
@@ -1113,7 +1087,7 @@
       "detail": "AIR产业网络；学生本溯创业",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/张亚勤_清华智能产业研究院.md",
+      "path": "wiki/people/张亚勤-清华AIR.md",
       "date": "2026-09-09",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1125,7 +1099,7 @@
       "formerLevel": 0,
       "identity": "清华讲席教授·院士",
       "currentFaculty": true,
-      "identitySource": "wiki/people/张亚勤_清华智能产业研究院.md",
+      "identitySource": "wiki/people/张亚勤-清华AIR.md",
       "responsibility": "AIR创始院长"
     },
     {
@@ -1137,7 +1111,7 @@
       "detail": "In-Context Learning；端侧适应",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/詹仙园_清华智能产业研究院.md",
+      "path": "wiki/people/詹仙园-清华AIR.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -1151,7 +1125,7 @@
       "formerLevel": 2,
       "identity": "AIR研究人员",
       "currentFaculty": false,
-      "identitySource": "wiki/people/詹仙园_清华智能产业研究院.md",
+      "identitySource": "wiki/people/詹仙园-清华AIR.md",
       "responsibility": ""
     },
     {
@@ -1163,7 +1137,7 @@
       "detail": "In-Context Learning；不造机器人本体",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/李健雄_本溯智能.md",
+      "path": "wiki/people/李健雄-本溯智能.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -1189,7 +1163,7 @@
       "formerLevel": 2,
       "identity": "AIR博士经历\n自述已毕业",
       "currentFaculty": false,
-      "identitySource": "wiki/people/李健雄_本溯智能.md",
+      "identitySource": "wiki/people/李健雄-本溯智能.md",
       "responsibility": ""
     },
     {
@@ -1201,8 +1175,8 @@
       "detail": "机器人平台、仿真与VLA",
       "state": "industry",
       "lab": "AIR机器人方向",
-      "path": "wiki/people/周谷越_清华智能产业研究院.md",
-      "date": "2026-06-11",
+      "path": "wiki/people/周谷越-清华AIR.md",
+      "date": "2026-09-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
       "mentorRefs": [],
@@ -1213,8 +1187,12 @@
       "formerLevel": 1,
       "identity": "清华副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/周谷越_清华智能产业研究院.md",
-      "responsibility": ""
+      "identitySource": "wiki/people/周谷越-清华AIR.md",
+      "responsibility": "",
+      "extraInfo": [
+        "AIR副研究员/副教授、DISCOVER Lab主任、戴尔乐具身与协同机器人联合研究院院长。",
+        "AIR官网确认求之科技首席科学家；创始人与股权关系另核。"
+      ]
     },
     {
       "name": "陈亦伦",
@@ -1225,7 +1203,7 @@
       "detail": "具身基础模型、VLA与柔性制造",
       "state": "founder",
       "lab": "AIR机器人方向",
-      "path": "wiki/people/陈亦伦_它石智航.md",
+      "path": "wiki/people/陈亦伦-它石智航.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -1237,7 +1215,7 @@
       "formerLevel": 2,
       "identity": "电子系本硕校友\nAIR研究经历",
       "currentFaculty": false,
-      "identitySource": "wiki/people/陈亦伦_它石智航.md",
+      "identitySource": "wiki/people/陈亦伦-它石智航.md",
       "responsibility": ""
     },
     {
@@ -1249,7 +1227,7 @@
       "detail": "机器人、自动驾驶",
       "state": "none",
       "lab": "AIR机器人方向",
-      "path": "wiki/people/赵昊_清华智能产业研究院.md",
+      "path": "wiki/people/赵昊-清华AIR.md",
       "date": "2026-06-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1261,7 +1239,7 @@
       "formerLevel": 1,
       "identity": "清华教职PI",
       "currentFaculty": true,
-      "identitySource": "wiki/people/赵昊_清华智能产业研究院.md",
+      "identitySource": "wiki/people/赵昊-清华AIR.md",
       "responsibility": ""
     },
     {
@@ -1273,7 +1251,7 @@
       "detail": "科学基础模型；生物/化学/材料AI",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/马维英_清华智能产业研究院.md",
+      "path": "wiki/people/马维英-清华AIR.md",
       "date": "2026-06-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1285,7 +1263,7 @@
       "formerLevel": 1,
       "identity": "清华讲席教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/马维英_清华智能产业研究院.md",
+      "identitySource": "wiki/people/马维英-清华AIR.md",
       "responsibility": ""
     },
     {
@@ -1297,7 +1275,7 @@
       "detail": "NLP、医疗健康、科学智能",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/刘洋_AIR.md",
+      "path": "wiki/people/刘洋-清华AIR.md",
       "date": "2026-06-11",
       "tier": "组织负责人",
       "secondaryCompanies": [],
@@ -1309,7 +1287,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/刘洋_AIR.md",
+      "identitySource": "wiki/people/刘洋-清华AIR.md",
       "responsibility": "AIR院长"
     },
     {
@@ -1321,7 +1299,7 @@
       "detail": "DrugCLIP；AI药物虚拟筛选",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/兰艳艳_清华智能产业研究院.md",
+      "path": "wiki/people/兰艳艳-清华AIR.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1333,7 +1311,7 @@
       "formerLevel": 1,
       "identity": "清华首席研究员",
       "currentFaculty": true,
-      "identitySource": "wiki/people/兰艳艳_清华智能产业研究院.md",
+      "identitySource": "wiki/people/兰艳艳-清华AIR.md",
       "responsibility": "AIR副院长"
     },
     {
@@ -1345,7 +1323,7 @@
       "detail": "ChatDD；对话式药物研发",
       "state": "industry",
       "lab": null,
-      "path": "wiki/people/聂再清_清华智能产业研究院.md",
+      "path": "wiki/people/聂再清-清华AIR.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1357,7 +1335,7 @@
       "formerLevel": 1,
       "identity": "清华首席研究员",
       "currentFaculty": true,
-      "identitySource": "wiki/people/聂再清_清华智能产业研究院.md",
+      "identitySource": "wiki/people/聂再清-清华AIR.md",
       "responsibility": ""
     },
     {
@@ -1369,7 +1347,7 @@
       "detail": "DAPO大模型强化学习系统线索",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/周浩_清华智能产业研究院.md",
+      "path": "wiki/people/周浩-清华AIR.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1381,7 +1359,7 @@
       "formerLevel": 1,
       "identity": "清华副研究员",
       "currentFaculty": true,
-      "identitySource": "wiki/people/周浩_清华智能产业研究院.md",
+      "identitySource": "wiki/people/周浩-清华AIR.md",
       "responsibility": ""
     },
     {
@@ -1393,7 +1371,7 @@
       "detail": "生成模型、RDT、物理世界模型",
       "state": "founder",
       "lab": "TSAIL",
-      "path": "wiki/people/朱军_清华计算机科学与技术系.md",
+      "path": "wiki/people/朱军-清华计算机.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1405,7 +1383,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/朱军_清华计算机科学与技术系.md",
+      "identitySource": "wiki/people/朱军-清华计算机.md",
       "responsibility": "TSAIL负责人"
     },
     {
@@ -1417,7 +1395,7 @@
       "detail": "AI安全、对齐、ARES/MultiTrust",
       "state": "none",
       "lab": "T-STAR Lab",
-      "path": "wiki/people/董胤蓬_清华人工智能学院.md",
+      "path": "wiki/people/董胤蓬-清华AI学院.md",
       "date": "2026-06-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1437,7 +1415,7 @@
       "formerLevel": 1,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/董胤蓬_清华人工智能学院.md",
+      "identitySource": "wiki/people/董胤蓬-清华AI学院.md",
       "responsibility": "AI学院院长助理"
     },
     {
@@ -1449,7 +1427,7 @@
       "detail": "SageAttention；量化注意力与推理加速",
       "state": "none",
       "lab": "TSAIL",
-      "path": "wiki/people/张金涛_清华计算机系.md",
+      "path": "wiki/people/张金涛-清华计算机.md",
       "date": "2026-09-08",
       "tier": "在读 / 培养",
       "secondaryCompanies": [],
@@ -1469,7 +1447,7 @@
       "formerLevel": 2,
       "identity": "计算机系博士生",
       "currentFaculty": false,
-      "identitySource": "wiki/people/张金涛_清华计算机系.md",
+      "identitySource": "wiki/people/张金涛-清华计算机.md",
       "responsibility": "",
       "extraInfo": [
         "2026年首届腾讯青云奖学金获得者（腾讯新闻报道）。"
@@ -1484,7 +1462,7 @@
       "detail": "Motus具身世界模型（研究项目）",
       "state": "none",
       "lab": "TSAIL",
-      "path": "wiki/people/谭恒楷_清华计算机系.md",
+      "path": "wiki/people/谭恒楷-清华计算机.md",
       "date": "2026-09-08",
       "tier": "在读 / 培养",
       "secondaryCompanies": [],
@@ -1504,7 +1482,7 @@
       "formerLevel": 2,
       "identity": "计算机系博士生",
       "currentFaculty": false,
-      "identitySource": "wiki/people/谭恒楷_清华计算机系.md",
+      "identitySource": "wiki/people/谭恒楷-清华计算机.md",
       "responsibility": ""
     },
     {
@@ -1516,7 +1494,7 @@
       "detail": "视觉、强化学习、可信AI",
       "state": "industry",
       "lab": "智能技术与系统实验室",
-      "path": "wiki/people/苏航_清华计算机科学与技术系.md",
+      "path": "wiki/people/苏航-清华计算机.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -1532,7 +1510,7 @@
       "formerLevel": 1,
       "identity": "清华副研究员",
       "currentFaculty": true,
-      "identitySource": "wiki/people/苏航_清华计算机科学与技术系.md",
+      "identitySource": "wiki/people/苏航-清华计算机.md",
       "responsibility": ""
     },
     {
@@ -1544,7 +1522,7 @@
       "detail": "NLP、大模型人才培养",
       "state": "none",
       "lab": "THUNLP",
-      "path": "wiki/people/孙茂松_THUNLP.md",
+      "path": "wiki/people/孙茂松-清华THUNLP.md",
       "date": "2026-06-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1556,7 +1534,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/孙茂松_THUNLP.md",
+      "identitySource": "wiki/people/孙茂松-清华THUNLP.md",
       "responsibility": "THUNLP长期负责人"
     },
     {
@@ -1568,7 +1546,7 @@
       "detail": "MiniCPM；端侧大模型",
       "state": "founder",
       "lab": "THUNLP",
-      "path": "wiki/people/刘知远_THUNLP.md",
+      "path": "wiki/people/刘知远-清华THUNLP.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1588,7 +1566,7 @@
       "formerLevel": 1,
       "identity": "清华长聘副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/刘知远_THUNLP.md",
+      "identitySource": "wiki/people/刘知远-清华THUNLP.md",
       "responsibility": ""
     },
     {
@@ -1600,7 +1578,7 @@
       "detail": "大模型训练/推理加速",
       "state": "founder",
       "lab": "THUNLP",
-      "path": "wiki/people/曾国洋_面壁智能.md",
+      "path": "wiki/people/曾国洋-面壁智能.md",
       "date": "2026-09-07",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -1622,7 +1600,7 @@
       "formerLevel": 2,
       "identity": "计算机系本科背景",
       "currentFaculty": false,
-      "identitySource": "wiki/people/曾国洋_面壁智能.md",
+      "identitySource": "wiki/people/曾国洋-面壁智能.md",
       "responsibility": ""
     },
     {
@@ -1634,7 +1612,7 @@
       "detail": "MiniCPM多模态、VLA",
       "state": "industry",
       "lab": "多模态智能课题组",
-      "path": "wiki/people/姚远_清华人工智能学院.md",
+      "path": "wiki/people/姚远-清华AI学院.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -1648,7 +1626,7 @@
       "formerLevel": 1,
       "identity": "清华教职PI",
       "currentFaculty": true,
-      "identitySource": "wiki/people/姚远_清华人工智能学院.md",
+      "identitySource": "wiki/people/姚远-清华AI学院.md",
       "responsibility": ""
     },
     {
@@ -1660,7 +1638,7 @@
       "detail": "GLM、AMiner、知识图谱",
       "state": "founder",
       "lab": "KEG",
-      "path": "wiki/people/唐杰_清华计算机系.md",
+      "path": "wiki/people/唐杰-清华计算机.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -1674,7 +1652,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/唐杰_清华计算机系.md",
+      "identitySource": "wiki/people/唐杰-清华计算机.md",
       "responsibility": ""
     },
     {
@@ -1686,7 +1664,7 @@
       "detail": "知识图谱、XLORE、AMiner",
       "state": "founder",
       "lab": "KEG",
-      "path": "wiki/people/李涓子_清华计算机系.md",
+      "path": "wiki/people/李涓子-清华计算机.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -1700,7 +1678,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/李涓子_清华计算机系.md",
+      "identitySource": "wiki/people/李涓子-清华计算机.md",
       "responsibility": ""
     },
     {
@@ -1712,7 +1690,7 @@
       "detail": "GLM/ChatGLM商业化",
       "state": "founder",
       "lab": "KEG",
-      "path": "wiki/people/张鹏_智谱AI.md",
+      "path": "wiki/people/张鹏-智谱AI.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -1724,7 +1702,7 @@
       "formerLevel": 2,
       "identity": "计算机系本硕博\n曾任教研人员",
       "currentFaculty": false,
-      "identitySource": "wiki/people/张鹏_智谱AI.md",
+      "identitySource": "wiki/people/张鹏-智谱AI.md",
       "responsibility": ""
     },
     {
@@ -1736,7 +1714,7 @@
       "detail": "P-tuning、GLM-130B、AgentBench",
       "state": "industry",
       "lab": "KEG",
-      "path": "wiki/people/刘潇_清华计算机系.md",
+      "path": "wiki/people/刘潇-清华计算机.md",
       "date": "2026-09-08",
       "tier": "在读 / 培养",
       "secondaryCompanies": [
@@ -1760,7 +1738,7 @@
       "formerLevel": 2,
       "identity": "计算机系博士生",
       "currentFaculty": false,
-      "identitySource": "wiki/people/刘潇_清华计算机系.md",
+      "identitySource": "wiki/people/刘潇-清华计算机.md",
       "responsibility": ""
     },
     {
@@ -1772,7 +1750,7 @@
       "detail": "机器人感知、智能控制",
       "state": "industry",
       "lab": "智能技术与系统实验室",
-      "path": "wiki/people/孙富春_清华计算机科学与技术系.md",
+      "path": "wiki/people/孙富春-清华计算机.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1784,7 +1762,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/孙富春_清华计算机科学与技术系.md",
+      "identitySource": "wiki/people/孙富春-清华计算机.md",
       "responsibility": "实验室副主任 / EIR副院长"
     },
     {
@@ -1796,7 +1774,7 @@
       "detail": "机器人感知/学习；杰青、IJRR编辑",
       "state": "none",
       "lab": "智能技术与系统实验室",
-      "path": "wiki/people/刘华平_清华计算机科学与技术系.md",
+      "path": "wiki/people/刘华平-清华计算机.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1808,7 +1786,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/刘华平_清华计算机科学与技术系.md",
+      "identitySource": "wiki/people/刘华平-清华计算机.md",
       "responsibility": "EIR模型与交互中心主任"
     },
     {
@@ -1820,7 +1798,7 @@
       "detail": "AI理论、神经网络、机器人",
       "state": "none",
       "lab": "智能技术与系统实验室",
-      "path": "wiki/people/张钹_清华计算机科学与技术系.md",
+      "path": "wiki/people/张钹-清华计算机.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1832,7 +1810,7 @@
       "formerLevel": 0,
       "identity": "清华教授·院士",
       "currentFaculty": true,
-      "identitySource": "wiki/people/张钹_清华计算机科学与技术系.md",
+      "identitySource": "wiki/people/张钹-清华计算机.md",
       "responsibility": "实验室首任主任"
     },
     {
@@ -1844,7 +1822,7 @@
       "detail": "脑启发模型；吴文俊自然科学奖",
       "state": "none",
       "lab": "智能技术与系统实验室",
-      "path": "wiki/people/胡晓林_清华计算机科学与技术系.md",
+      "path": "wiki/people/胡晓林-清华计算机.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1856,7 +1834,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/胡晓林_清华计算机科学与技术系.md",
+      "identitySource": "wiki/people/胡晓林-清华计算机.md",
       "responsibility": ""
     },
     {
@@ -1868,7 +1846,7 @@
       "detail": "自动驾驶、移动机器人；KITTI冠军",
       "state": "none",
       "lab": "智能技术与系统实验室",
-      "path": "wiki/people/邓志东_清华计算机科学与技术系.md",
+      "path": "wiki/people/邓志东-清华计算机.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1880,7 +1858,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/邓志东_清华计算机科学与技术系.md",
+      "identitySource": "wiki/people/邓志东-清华计算机.md",
       "responsibility": ""
     },
     {
@@ -1892,7 +1870,7 @@
       "detail": "计算几何/图形；杰青、国家技术发明奖",
       "state": "none",
       "lab": "人机交互与媒体集成所",
-      "path": "wiki/people/刘永进_清华计算机科学与技术系.md",
+      "path": "wiki/people/刘永进-清华计算机.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1904,7 +1882,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/刘永进_清华计算机科学与技术系.md",
+      "identitySource": "wiki/people/刘永进-清华计算机.md",
       "responsibility": ""
     },
     {
@@ -1916,7 +1894,7 @@
       "detail": "稳定学习、因果推理",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/崔鹏_清华计算机科学与技术系.md",
+      "path": "wiki/people/崔鹏-清华计算机.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -1928,7 +1906,7 @@
       "formerLevel": 1,
       "identity": "清华副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/崔鹏_清华计算机科学与技术系.md",
+      "identitySource": "wiki/people/崔鹏-清华计算机.md",
       "responsibility": ""
     },
     {
@@ -1940,7 +1918,7 @@
       "detail": "AI芯片、异构算力、软硬件协同",
       "state": "founder",
       "lab": "NICS-EFC",
-      "path": "wiki/people/汪玉_清华电子工程系.md",
+      "path": "wiki/people/汪玉-清华电子.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -1957,7 +1935,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/汪玉_清华电子工程系.md",
+      "identitySource": "wiki/people/汪玉-清华电子.md",
       "responsibility": "课题组带头人"
     },
     {
@@ -1969,7 +1947,7 @@
       "detail": "物理智能WAM、AI芯片、商业航天",
       "state": "founder",
       "lab": "NICS-EFC",
-      "path": "wiki/people/姚颂_深鉴科技.md",
+      "path": "wiki/people/姚颂-深鉴科技.md",
       "date": "2026-09-10",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -1991,7 +1969,7 @@
       "formerLevel": 2,
       "identity": "电子系本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/姚颂_深鉴科技.md",
+      "identitySource": "wiki/people/姚颂-深鉴科技.md",
       "responsibility": ""
     },
     {
@@ -2003,7 +1981,7 @@
       "detail": "AI芯片→自动驾驶感知",
       "state": "founder",
       "lab": "NICS-EFC",
-      "path": "wiki/people/单羿_深鉴科技.md",
+      "path": "wiki/people/单羿-深鉴科技.md",
       "date": "2026-09-07",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -2025,7 +2003,7 @@
       "formerLevel": 2,
       "identity": "电子系本硕博校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/单羿_深鉴科技.md",
+      "identitySource": "wiki/people/单羿-深鉴科技.md",
       "responsibility": ""
     },
     {
@@ -2037,7 +2015,7 @@
       "detail": "异构算力、模型/芯片适配",
       "state": "founder",
       "lab": "NICS-EFC",
-      "path": "wiki/people/夏立雪_无问芯穹.md",
+      "path": "wiki/people/夏立雪-无问芯穹.md",
       "date": "2026-09-07",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2057,7 +2035,7 @@
       "formerLevel": 2,
       "identity": "电子系博士校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/夏立雪_无问芯穹.md",
+      "identitySource": "wiki/people/夏立雪-无问芯穹.md",
       "responsibility": ""
     },
     {
@@ -2069,7 +2047,7 @@
       "detail": "AI体系结构、软硬件协同",
       "state": "founder",
       "lab": "NICS-EFC",
-      "path": "wiki/people/戴国浩_无问芯穹.md",
+      "path": "wiki/people/戴国浩-无问芯穹.md",
       "date": "2026-09-07",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -2091,7 +2069,7 @@
       "formerLevel": 2,
       "identity": "电子系本博校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/戴国浩_无问芯穹.md",
+      "identitySource": "wiki/people/戴国浩-无问芯穹.md",
       "responsibility": ""
     },
     {
@@ -2103,7 +2081,7 @@
       "detail": "WAM / LaWAM、MAPPO、RLinf",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/于超_清华深圳国际研究生院.md",
+      "path": "wiki/people/于超-清华深研院.md",
       "date": "2026-09-10",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -2123,7 +2101,7 @@
       "formerLevel": 1,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/于超_清华深圳国际研究生院.md",
+      "identitySource": "wiki/people/于超-清华深研院.md",
       "responsibility": ""
     },
     {
@@ -2135,7 +2113,7 @@
       "detail": "模型压缩、高效AI、AI芯片",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/韩松_MIT.md",
+      "path": "wiki/people/韩松-MIT.md",
       "date": "2026-09-07",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -2149,7 +2127,7 @@
       "formerLevel": 2,
       "identity": "电子系本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/韩松_MIT.md",
+      "identitySource": "wiki/people/韩松-MIT.md",
       "responsibility": ""
     },
     {
@@ -2161,7 +2139,7 @@
       "detail": "消费级人形机器人",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/刘武龙_贝塔无限.md",
+      "path": "wiki/people/刘武龙-贝塔无限.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2173,7 +2151,7 @@
       "formerLevel": 2,
       "identity": "电子系校友\n学位待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/刘武龙_贝塔无限.md",
+      "identitySource": "wiki/people/刘武龙-贝塔无限.md",
       "responsibility": ""
     },
     {
@@ -2185,7 +2163,7 @@
       "detail": "消费级具身系统与终端",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/陶帅_贝塔无限.md",
+      "path": "wiki/people/陶帅-贝塔无限.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -2199,7 +2177,7 @@
       "formerLevel": 2,
       "identity": "电子系背景\n学位待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/陶帅_贝塔无限.md",
+      "identitySource": "wiki/people/陶帅-贝塔无限.md",
       "responsibility": ""
     },
     {
@@ -2211,7 +2189,7 @@
       "detail": "ChaosNexus；挑战杯特奖、ICML论文",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/刘畅_清华电子工程系.md",
+      "path": "wiki/people/刘畅-清华电子.md",
       "date": "2026-09-08",
       "tier": "在读 / 培养",
       "secondaryCompanies": [],
@@ -2223,7 +2201,7 @@
       "formerLevel": 2,
       "identity": "电子系学生\n学位阶段未细分",
       "currentFaculty": false,
-      "identitySource": "wiki/people/刘畅_清华电子工程系.md",
+      "identitySource": "wiki/people/刘畅-清华电子.md",
       "responsibility": ""
     },
     {
@@ -2235,7 +2213,7 @@
       "detail": "ChaosNexus；挑战杯特奖、ICML论文",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/赵博浩_清华电子工程系.md",
+      "path": "wiki/people/赵博浩-清华电子.md",
       "date": "2026-09-08",
       "tier": "在读 / 培养",
       "secondaryCompanies": [],
@@ -2247,7 +2225,7 @@
       "formerLevel": 2,
       "identity": "电子系学生\n学位阶段未细分",
       "currentFaculty": false,
-      "identitySource": "wiki/people/赵博浩_清华电子工程系.md",
+      "identitySource": "wiki/people/赵博浩-清华电子.md",
       "responsibility": ""
     },
     {
@@ -2259,7 +2237,7 @@
       "detail": "计算光学/光场；科学探索奖、何梁何利奖",
       "state": "none",
       "lab": "Sigma Lab",
-      "path": "wiki/people/方璐_清华电子工程系.md",
+      "path": "wiki/people/方璐-清华电子.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -2271,7 +2249,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/方璐_清华电子工程系.md",
+      "identitySource": "wiki/people/方璐-清华电子.md",
       "responsibility": ""
     },
     {
@@ -2283,7 +2261,7 @@
       "detail": "3D成像、多模态感知；国家科技进步奖",
       "state": "none",
       "lab": "视觉计算实验室",
-      "path": "wiki/people/王贵锦_清华电子工程系.md",
+      "path": "wiki/people/王贵锦-清华电子.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -2295,7 +2273,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/王贵锦_清华电子工程系.md",
+      "identitySource": "wiki/people/王贵锦-清华电子.md",
       "responsibility": "视觉计算实验室负责人"
     },
     {
@@ -2307,7 +2285,7 @@
       "detail": "视觉感知、具身多模态机器人",
       "state": "none",
       "lab": "计算机视觉与具身研究室",
-      "path": "wiki/people/王生进_清华电子工程系.md",
+      "path": "wiki/people/王生进-清华电子.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -2319,7 +2297,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/王生进_清华电子工程系.md",
+      "identitySource": "wiki/people/王生进-清华电子.md",
       "responsibility": "研究室负责人"
     },
     {
@@ -2331,7 +2309,7 @@
       "detail": "视触觉传感器、触觉数据",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/王陈玉珩_汇光创新.md",
+      "path": "wiki/people/王陈玉珩-汇光创新.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2343,7 +2321,7 @@
       "formerLevel": 2,
       "identity": "电子系硕士背景",
       "currentFaculty": false,
-      "identitySource": "wiki/people/王陈玉珩_汇光创新.md",
+      "identitySource": "wiki/people/王陈玉珩-汇光创新.md",
       "responsibility": ""
     },
     {
@@ -2355,7 +2333,7 @@
       "detail": "3D AIGC、4D场景、多智能体",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/刘芳甫_清华电子工程系.md",
+      "path": "wiki/people/刘芳甫-清华电子.md",
       "date": "2026-09-08",
       "tier": "在读 / 培养",
       "secondaryCompanies": [],
@@ -2367,7 +2345,7 @@
       "formerLevel": 2,
       "identity": "电子系博士生",
       "currentFaculty": false,
-      "identitySource": "wiki/people/刘芳甫_清华电子工程系.md",
+      "identitySource": "wiki/people/刘芳甫-清华电子.md",
       "responsibility": ""
     },
     {
@@ -2379,7 +2357,7 @@
       "detail": "语音/音频识别；国际挑战赛冠军",
       "state": "none",
       "lab": "SATLab",
-      "path": "wiki/people/张卫强_清华电子工程系.md",
+      "path": "wiki/people/张卫强-清华电子.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -2391,7 +2369,7 @@
       "formerLevel": 1,
       "identity": "清华研究员",
       "currentFaculty": true,
-      "identitySource": "wiki/people/张卫强_清华电子工程系.md",
+      "identitySource": "wiki/people/张卫强-清华电子.md",
       "responsibility": "EIR数据与算力中心主任"
     },
     {
@@ -2403,7 +2381,7 @@
       "detail": "世界模型（原表分类）",
       "state": "pending",
       "lab": null,
-      "path": "wiki/people/丁宁_清华电子工程系.md",
+      "path": "wiki/people/丁宁-清华电子.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -2415,7 +2393,7 @@
       "formerLevel": 1,
       "identity": "清华助理教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/丁宁_清华电子工程系.md",
+      "identitySource": "wiki/people/丁宁-清华电子.md",
       "responsibility": ""
     },
     {
@@ -2427,7 +2405,7 @@
       "detail": "具身模型、通用机器人",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/王潜_自变量机器人.md",
+      "path": "wiki/people/王潜-自变量机器人.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2439,7 +2417,7 @@
       "formerLevel": 2,
       "identity": "清华本硕校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/王潜_自变量机器人.md",
+      "identitySource": "wiki/people/王潜-自变量机器人.md",
       "responsibility": ""
     },
     {
@@ -2451,7 +2429,7 @@
       "detail": "机器人3D视觉、工业智能操作",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/邵天兰_梅卡曼德.md",
+      "path": "wiki/people/邵天兰-梅卡曼德.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2463,7 +2441,7 @@
       "formerLevel": 2,
       "identity": "清华本科校友\n电子转软件",
       "currentFaculty": false,
-      "identitySource": "wiki/people/邵天兰_梅卡曼德.md",
+      "identitySource": "wiki/people/邵天兰-梅卡曼德.md",
       "responsibility": ""
     },
     {
@@ -2475,7 +2453,7 @@
       "detail": "人形机器人、具身大脑",
       "state": "industry",
       "lab": null,
-      "path": "wiki/people/李力耘_众擎机器人.md",
+      "path": "wiki/people/李力耘-众擎机器人.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2487,7 +2465,7 @@
       "formerLevel": 2,
       "identity": "电子系本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/李力耘_众擎机器人.md",
+      "identitySource": "wiki/people/李力耘-众擎机器人.md",
       "responsibility": ""
     },
     {
@@ -2499,7 +2477,7 @@
       "detail": "绳驱柔性机械臂、空间机器人",
       "state": "industry",
       "lab": "导航与控制研究所",
-      "path": "wiki/people/梁斌_清华自动化系.md",
+      "path": "wiki/people/梁斌-清华自动化.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -2511,7 +2489,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/梁斌_清华自动化系.md",
+      "identitySource": "wiki/people/梁斌-清华自动化.md",
       "responsibility": "导航与控制所所长"
     },
     {
@@ -2523,7 +2501,7 @@
       "detail": "空间机器人、柔性机械臂",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/王学谦_清华深圳国际研究生院.md",
+      "path": "wiki/people/王学谦-清华深研院.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -2543,7 +2521,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/王学谦_清华深圳国际研究生院.md",
+      "identitySource": "wiki/people/王学谦-清华深研院.md",
       "responsibility": ""
     },
     {
@@ -2555,7 +2533,7 @@
       "detail": "船舶喷涂/清洗等特种机器人",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/郭冠求_知有无界.md",
+      "path": "wiki/people/郭冠求-知有无界.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2575,7 +2553,7 @@
       "formerLevel": 2,
       "identity": "SIGS研究生经历\n毕业状态待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/郭冠求_知有无界.md",
+      "identitySource": "wiki/people/郭冠求-知有无界.md",
       "responsibility": ""
     },
     {
@@ -2587,7 +2565,7 @@
       "detail": "机器人控制、类脑机器人",
       "state": "industry",
       "lab": "机器人控制实验室",
-      "path": "wiki/people/赵明国_清华自动化系.md",
+      "path": "wiki/people/赵明国-清华自动化.md",
       "date": "2026-09-09",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -2601,7 +2579,7 @@
       "formerLevel": 0,
       "identity": "清华研究员",
       "currentFaculty": true,
-      "identitySource": "wiki/people/赵明国_清华自动化系.md",
+      "identitySource": "wiki/people/赵明国-清华自动化.md",
       "responsibility": "机器人实验室负责人"
     },
     {
@@ -2613,7 +2591,7 @@
       "detail": "人形机器人、开发者/教育平台",
       "state": "founder",
       "lab": "机器人控制实验室",
-      "path": "wiki/people/程昊_加速进化.md",
+      "path": "wiki/people/程昊-加速进化.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2633,7 +2611,7 @@
       "formerLevel": 2,
       "identity": "自动化本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/程昊_加速进化.md",
+      "identitySource": "wiki/people/程昊-加速进化.md",
       "responsibility": ""
     },
     {
@@ -2645,7 +2623,7 @@
       "detail": "机器人足球、人形机器人",
       "state": "industry",
       "lab": "机器人控制实验室",
-      "path": "wiki/people/董浩_加速进化.md",
+      "path": "wiki/people/董浩-加速进化.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -2669,7 +2647,7 @@
       "formerLevel": 2,
       "identity": "火神队成员\n学位院系待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/董浩_加速进化.md",
+      "identitySource": "wiki/people/董浩-加速进化.md",
       "responsibility": ""
     },
     {
@@ -2681,7 +2659,7 @@
       "detail": "类脑机器人、世界模型",
       "state": "industry",
       "lab": "脑与认知科学研究所",
-      "path": "wiki/people/陈峰_清华自动化系.md",
+      "path": "wiki/people/陈峰-清华自动化.md",
       "date": "2026-09-09",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -2695,7 +2673,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/陈峰_清华自动化系.md",
+      "identitySource": "wiki/people/陈峰-清华自动化.md",
       "responsibility": ""
     },
     {
@@ -2707,7 +2685,7 @@
       "detail": "类脑分区预测世界模型",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/高海川_千诀科技.md",
+      "path": "wiki/people/高海川-千诀科技.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2727,7 +2705,7 @@
       "formerLevel": 2,
       "identity": "自动化博士校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/高海川_千诀科技.md",
+      "identitySource": "wiki/people/高海川-千诀科技.md",
       "responsibility": ""
     },
     {
@@ -2739,7 +2717,7 @@
       "detail": "遥操作、灵巧操作、具身数据",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/莫一林_清华自动化系.md",
+      "path": "wiki/people/莫一林-清华自动化.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -2753,7 +2731,7 @@
       "formerLevel": 1,
       "identity": "清华副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/莫一林_清华自动化系.md",
+      "identitySource": "wiki/people/莫一林-清华自动化.md",
       "responsibility": ""
     },
     {
@@ -2765,7 +2743,7 @@
       "detail": "人侧数据、灵巧执行器、操作平台",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/金戈_灵御智能.md",
+      "path": "wiki/people/金戈-灵御智能.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2785,7 +2763,7 @@
       "formerLevel": 2,
       "identity": "自动化本科校友\n清华经管MBA",
       "currentFaculty": false,
-      "identitySource": "wiki/people/金戈_灵御智能.md",
+      "identitySource": "wiki/people/金戈-灵御智能.md",
       "responsibility": ""
     },
     {
@@ -2797,7 +2775,7 @@
       "detail": "三维视觉、数字人体、全息交互",
       "state": "industry",
       "lab": "脑与认知科学研究所",
-      "path": "wiki/people/刘烨斌_清华自动化系.md",
+      "path": "wiki/people/刘烨斌-清华自动化.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -2813,7 +2791,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/刘烨斌_清华自动化系.md",
+      "identitySource": "wiki/people/刘烨斌-清华自动化.md",
       "responsibility": ""
     },
     {
@@ -2825,7 +2803,7 @@
       "detail": "原生三维世界模型、数据采集",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/闵伟_影身智能.md",
+      "path": "wiki/people/闵伟-影身智能.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2845,7 +2823,7 @@
       "formerLevel": 2,
       "identity": "清华工学博士\n院系待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/闵伟_影身智能.md",
+      "identitySource": "wiki/people/闵伟-影身智能.md",
       "responsibility": ""
     },
     {
@@ -2857,7 +2835,7 @@
       "detail": "机器学习、视觉信息；国家科技进步奖",
       "state": "none",
       "lab": "脑与认知科学研究所",
-      "path": "wiki/people/季向阳_清华自动化系.md",
+      "path": "wiki/people/季向阳-清华自动化.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -2869,7 +2847,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/季向阳_清华自动化系.md",
+      "identitySource": "wiki/people/季向阳-清华自动化.md",
       "responsibility": "脑与认知所所长"
     },
     {
@@ -2881,7 +2859,7 @@
       "detail": "跨本体具身智能、机器人学习",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/黄思远_德塔智能.md",
+      "path": "wiki/people/黄思远-德塔智能.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -2895,7 +2873,7 @@
       "formerLevel": 2,
       "identity": "自动化本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/黄思远_德塔智能.md",
+      "identitySource": "wiki/people/黄思远-德塔智能.md",
       "responsibility": ""
     },
     {
@@ -2907,7 +2885,7 @@
       "detail": "人形机器人基础模型",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/马晓健_德塔智能.md",
+      "path": "wiki/people/马晓健-德塔智能.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -2919,7 +2897,7 @@
       "formerLevel": 2,
       "identity": "计算机系本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/马晓健_德塔智能.md",
+      "identitySource": "wiki/people/马晓健-德塔智能.md",
       "responsibility": ""
     },
     {
@@ -2931,7 +2909,7 @@
       "detail": "机器人、AI与控制；EIR平台",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/张涛_清华具身智能与机器人研究院.md",
+      "path": "wiki/people/张涛-清华EIR.md",
       "date": "2026-06-11",
       "tier": "组织负责人",
       "secondaryCompanies": [],
@@ -2943,7 +2921,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/张涛_清华具身智能与机器人研究院.md",
+      "identitySource": "wiki/people/张涛-清华EIR.md",
       "responsibility": "系主任 / EIR院长"
     },
     {
@@ -2955,7 +2933,7 @@
       "detail": "群智能/容错控制；风电巡检等横向课题",
       "state": "none",
       "lab": "控制与决策研究所",
-      "path": "wiki/people/何潇_清华自动化系.md",
+      "path": "wiki/people/何潇-清华自动化.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -2967,7 +2945,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/何潇_清华自动化系.md",
+      "identitySource": "wiki/people/何潇-清华自动化.md",
       "responsibility": "副系主任 / EIR副院长"
     },
     {
@@ -2979,7 +2957,7 @@
       "detail": "具身感知、AI安全；2025年多项科技奖",
       "state": "none",
       "lab": "信息处理研究所",
-      "path": "wiki/people/鲁继文_清华自动化系.md",
+      "path": "wiki/people/鲁继文-清华自动化.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -2991,7 +2969,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/鲁继文_清华自动化系.md",
+      "identitySource": "wiki/people/鲁继文-清华自动化.md",
       "responsibility": "副系主任 / EIR感知与控制中心主任"
     },
     {
@@ -3003,7 +2981,7 @@
       "detail": "认知推理、通用AI；马尔/赫尔姆霍茨奖",
       "state": "none",
       "lab": "信息处理研究所",
-      "path": "wiki/people/朱松纯_清华自动化系.md",
+      "path": "wiki/people/朱松纯-清华自动化.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3015,7 +2993,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/朱松纯_清华自动化系.md",
+      "identitySource": "wiki/people/朱松纯-清华自动化.md",
       "responsibility": ""
     },
     {
@@ -3027,7 +3005,7 @@
       "detail": "世界模型、双臂移动机器人",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/黄冠_极佳视界.md",
+      "path": "wiki/people/黄冠-极佳视界.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3039,7 +3017,7 @@
       "formerLevel": 2,
       "identity": "自动化博士背景",
       "currentFaculty": false,
-      "identitySource": "wiki/people/黄冠_极佳视界.md",
+      "identitySource": "wiki/people/黄冠-极佳视界.md",
       "responsibility": ""
     },
     {
@@ -3051,7 +3029,7 @@
       "detail": "DenseWorld；自动驾驶安全测试（待核）",
       "state": "pending",
       "lab": null,
-      "path": "wiki/people/封硕_清华自动化系.md",
+      "path": "wiki/people/封硕-清华自动化.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3063,7 +3041,7 @@
       "formerLevel": 1,
       "identity": "清华副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/封硕_清华自动化系.md",
+      "identitySource": "wiki/people/封硕-清华自动化.md",
       "responsibility": ""
     },
     {
@@ -3075,7 +3053,7 @@
       "detail": "DenseNet；医疗影像等历史应用",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/黄高_清华自动化系.md",
+      "path": "wiki/people/黄高-清华自动化.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3087,7 +3065,7 @@
       "formerLevel": 1,
       "identity": "清华教职PI",
       "currentFaculty": true,
-      "identitySource": "wiki/people/黄高_清华自动化系.md",
+      "identitySource": "wiki/people/黄高-清华自动化.md",
       "responsibility": ""
     },
     {
@@ -3099,7 +3077,7 @@
       "detail": "具身智能、自动驾驶技术转化",
       "state": "industry",
       "lab": null,
-      "path": "wiki/people/许闻达_无界动力.md",
+      "path": "wiki/people/许闻达-无界动力.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3111,7 +3089,7 @@
       "formerLevel": 2,
       "identity": "自动化本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/许闻达_无界动力.md",
+      "identitySource": "wiki/people/许闻达-无界动力.md",
       "responsibility": ""
     },
     {
@@ -3123,7 +3101,7 @@
       "detail": "微纳力学、超滑技术、人才孵化",
       "state": "none",
       "lab": "双螺旋中心",
-      "path": "wiki/people/郑泉水_清华深圳国际研究生院.md",
+      "path": "wiki/people/郑泉水-清华深研院.md",
       "date": "2026-09-09",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3135,7 +3113,7 @@
       "formerLevel": 0,
       "identity": "清华教授·院士",
       "currentFaculty": true,
-      "identitySource": "wiki/people/郑泉水_清华深圳国际研究生院.md",
+      "identitySource": "wiki/people/郑泉水-清华深研院.md",
       "responsibility": ""
     },
     {
@@ -3147,7 +3125,7 @@
       "detail": "自进化世界模型",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/崔森_无界矩阵.md",
+      "path": "wiki/people/崔森-无界矩阵.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3167,7 +3145,7 @@
       "formerLevel": 2,
       "identity": "清华助理研究员\n钱班本科校友",
       "currentFaculty": true,
-      "identitySource": "wiki/people/崔森_无界矩阵.md",
+      "identitySource": "wiki/people/崔森-无界矩阵.md",
       "responsibility": ""
     },
     {
@@ -3179,7 +3157,7 @@
       "detail": "机器触觉、真实数据、具身评测",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/丁文伯_清华深圳国际研究生院.md",
+      "path": "wiki/people/丁文伯-清华深研院.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3191,7 +3169,7 @@
       "formerLevel": 1,
       "identity": "清华副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/丁文伯_清华深圳国际研究生院.md",
+      "identitySource": "wiki/people/丁文伯-清华深研院.md",
       "responsibility": ""
     },
     {
@@ -3203,7 +3181,7 @@
       "detail": "端云协同，具身/个人终端/家居",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/高培中_奥兹智能.md",
+      "path": "wiki/people/高培中-奥兹智能.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3215,7 +3193,7 @@
       "formerLevel": 2,
       "identity": "GIX硕士生\n报道时状态",
       "currentFaculty": false,
-      "identitySource": "wiki/people/高培中_奥兹智能.md",
+      "identitySource": "wiki/people/高培中-奥兹智能.md",
       "responsibility": ""
     },
     {
@@ -3227,7 +3205,7 @@
       "detail": "人形机器人、关节模组、运控",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/任晓雨_动易科技.md",
+      "path": "wiki/people/任晓雨-动易科技.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3239,7 +3217,7 @@
       "formerLevel": 2,
       "identity": "机械系本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/任晓雨_动易科技.md",
+      "identitySource": "wiki/people/任晓雨-动易科技.md",
       "responsibility": ""
     },
     {
@@ -3251,7 +3229,7 @@
       "detail": "机器人产业化、资本与商业化",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/毛书翰_动易科技.md",
+      "path": "wiki/people/毛书翰-动易科技.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -3273,7 +3251,7 @@
       "formerLevel": 2,
       "identity": "机械系本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/毛书翰_动易科技.md",
+      "identitySource": "wiki/people/毛书翰-动易科技.md",
       "responsibility": ""
     },
     {
@@ -3285,7 +3263,7 @@
       "detail": "机器人项目；具体方向待核",
       "state": "pending",
       "lab": "制造工程研究所",
-      "path": "wiki/people/姜峣_清华机械工程系.md",
+      "path": "wiki/people/姜峣-清华机械工程.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3297,7 +3275,7 @@
       "formerLevel": 1,
       "identity": "清华副研究员",
       "currentFaculty": true,
-      "identitySource": "wiki/people/姜峣_清华机械工程系.md",
+      "identitySource": "wiki/people/姜峣-清华机械工程.md",
       "responsibility": ""
     },
     {
@@ -3309,7 +3287,7 @@
       "detail": "模块化/软体机器人；AI辅助设计",
       "state": "none",
       "lab": "制造工程研究所",
-      "path": "wiki/people/李曙光_清华机械工程系.md",
+      "path": "wiki/people/李曙光-清华机械工程.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3321,7 +3299,7 @@
       "formerLevel": 1,
       "identity": "清华副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/李曙光_清华机械工程系.md",
+      "identitySource": "wiki/people/李曙光-清华机械工程.md",
       "responsibility": "EIR软硬件与本体中心主任"
     },
     {
@@ -3333,7 +3311,7 @@
       "detail": "索驱/并联机器人；FAST系统总工程师",
       "state": "none",
       "lab": "制造工程研究所",
-      "path": "wiki/people/唐晓强_清华机械工程系.md",
+      "path": "wiki/people/唐晓强-清华机械工程.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3345,7 +3323,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/唐晓强_清华机械工程系.md",
+      "identitySource": "wiki/people/唐晓强-清华机械工程.md",
       "responsibility": ""
     },
     {
@@ -3357,7 +3335,7 @@
       "detail": "视觉/触觉、智能操作；技术发明一等奖",
       "state": "none",
       "lab": "机械电子工程研究所",
-      "path": "wiki/people/徐静_清华机械工程系.md",
+      "path": "wiki/people/徐静-清华机械工程.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3369,7 +3347,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/徐静_清华机械工程系.md",
+      "identitySource": "wiki/people/徐静-清华机械工程.md",
       "responsibility": ""
     },
     {
@@ -3381,7 +3359,7 @@
       "detail": "六维力/触觉传感器产业化、轮足机器狗",
       "state": "none",
       "lab": "机械电子工程研究所",
-      "path": "wiki/people/杨东超_清华机械工程系.md",
+      "path": "wiki/people/杨东超-清华机械工程.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3393,7 +3371,7 @@
       "formerLevel": 1,
       "identity": "清华副研究员",
       "currentFaculty": true,
-      "identitySource": "wiki/people/杨东超_清华机械工程系.md",
+      "identitySource": "wiki/people/杨东超-清华机械工程.md",
       "responsibility": ""
     },
     {
@@ -3405,7 +3383,7 @@
       "detail": "机器人加工/装配；专利与校企合作",
       "state": "none",
       "lab": "机械电子工程研究所",
-      "path": "wiki/people/吴丹_清华机械工程系.md",
+      "path": "wiki/people/吴丹-清华机械工程.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3417,7 +3395,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/吴丹_清华机械工程系.md",
+      "identitySource": "wiki/people/吴丹-清华机械工程.md",
       "responsibility": ""
     },
     {
@@ -3429,7 +3407,7 @@
       "detail": "软体机器人、人工肌肉；青橙奖、TR35",
       "state": "none",
       "lab": "设计工程研究所",
-      "path": "wiki/people/赵慧婵_清华机械工程系.md",
+      "path": "wiki/people/赵慧婵-清华机械工程.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3441,7 +3419,7 @@
       "formerLevel": 1,
       "identity": "清华副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/赵慧婵_清华机械工程系.md",
+      "identitySource": "wiki/people/赵慧婵-清华机械工程.md",
       "responsibility": ""
     },
     {
@@ -3453,7 +3431,7 @@
       "detail": "并联机构、智能制造；国家自然科学奖",
       "state": "none",
       "lab": "设计工程研究所",
-      "path": "wiki/people/刘辛军_清华机械工程系.md",
+      "path": "wiki/people/刘辛军-清华机械工程.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3465,7 +3443,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/刘辛军_清华机械工程系.md",
+      "identitySource": "wiki/people/刘辛军-清华机械工程.md",
       "responsibility": ""
     },
     {
@@ -3477,7 +3455,7 @@
       "detail": "移动并联机器人、加工装备；技术发明奖",
       "state": "none",
       "lab": "设计工程研究所",
-      "path": "wiki/people/谢福贵_清华机械工程系.md",
+      "path": "wiki/people/谢福贵-清华机械工程.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3489,7 +3467,7 @@
       "formerLevel": 1,
       "identity": "清华副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/谢福贵_清华机械工程系.md",
+      "identitySource": "wiki/people/谢福贵-清华机械工程.md",
       "responsibility": ""
     },
     {
@@ -3501,7 +3479,7 @@
       "detail": "康复机器人、助老助残、体育装备",
       "state": "none",
       "lab": "设计工程研究所",
-      "path": "wiki/people/季林红_清华机械工程系.md",
+      "path": "wiki/people/季林红-清华机械工程.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3513,7 +3491,7 @@
       "formerLevel": 0,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/季林红_清华机械工程系.md",
+      "identitySource": "wiki/people/季林红-清华机械工程.md",
       "responsibility": ""
     },
     {
@@ -3525,7 +3503,7 @@
       "detail": "物理原生模型、驾驶决策与控制",
       "state": "founder",
       "lab": "智能绿色车辆国重室",
-      "path": "wiki/people/李升波_清华车辆与运载学院.md",
+      "path": "wiki/people/李升波-清华车辆.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -3539,7 +3517,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/李升波_清华车辆与运载学院.md",
+      "identitySource": "wiki/people/李升波-清华车辆.md",
       "responsibility": ""
     },
     {
@@ -3551,7 +3529,7 @@
       "detail": "工业具身、物理交互与强化学习",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/张涛_光象科技.md",
+      "path": "wiki/people/张涛-光象科技.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3571,7 +3549,7 @@
       "formerLevel": 2,
       "identity": "车辆工程博士校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/张涛_光象科技.md",
+      "identitySource": "wiki/people/张涛-光象科技.md",
       "responsibility": ""
     },
     {
@@ -3583,7 +3561,7 @@
       "detail": "汽车/新能源工业仿真",
       "state": "industry",
       "lab": null,
-      "path": "wiki/people/董汉_清华车辆与运载学院.md",
+      "path": "wiki/people/董汉-清华车辆.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3595,7 +3573,7 @@
       "formerLevel": 2,
       "identity": "清华汽车博士校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/董汉_清华车辆与运载学院.md",
+      "identitySource": "wiki/people/董汉-清华车辆.md",
       "responsibility": ""
     },
     {
@@ -3607,7 +3585,7 @@
       "detail": "生活服务机器人、模型与数据闭环",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/李晓飞_深朴智能.md",
+      "path": "wiki/people/李晓飞-深朴智能.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3619,7 +3597,7 @@
       "formerLevel": 2,
       "identity": "车辆学院背景\n学位待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/李晓飞_深朴智能.md",
+      "identitySource": "wiki/people/李晓飞-深朴智能.md",
       "responsibility": ""
     },
     {
@@ -3631,7 +3609,7 @@
       "detail": "NeuroScale；sEMG意图/力反馈数采",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/秦深涛_清华车辆与运载学院.md",
+      "path": "wiki/people/秦深涛-清华车辆.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3643,7 +3621,7 @@
       "formerLevel": 2,
       "identity": "车辆学院博士生",
       "currentFaculty": false,
-      "identitySource": "wiki/people/秦深涛_清华车辆与运载学院.md",
+      "identitySource": "wiki/people/秦深涛-清华车辆.md",
       "responsibility": ""
     },
     {
@@ -3655,7 +3633,7 @@
       "detail": "NowcastNet、TimesNet、Autoformer",
       "state": "none",
       "lab": "机器学习课题组",
-      "path": "wiki/people/龙明盛_清华软件学院.md",
+      "path": "wiki/people/龙明盛-清华软件.md",
       "date": "2026-09-09",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3667,7 +3645,7 @@
       "formerLevel": 1,
       "identity": "清华副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/龙明盛_清华软件学院.md",
+      "identitySource": "wiki/people/龙明盛-清华软件.md",
       "responsibility": ""
     },
     {
@@ -3679,7 +3657,7 @@
       "detail": "时序/世界模型；特奖与学术新秀线索",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/吴海旭_清华软件学院.md",
+      "path": "wiki/people/吴海旭-清华软件.md",
       "date": "2026-09-09",
       "tier": "博士后",
       "secondaryCompanies": [],
@@ -3699,7 +3677,7 @@
       "formerLevel": 2,
       "identity": "软件学院博士校友\n现MIT博士后",
       "currentFaculty": false,
-      "identitySource": "wiki/people/吴海旭_清华软件学院.md",
+      "identitySource": "wiki/people/吴海旭-清华软件.md",
       "responsibility": ""
     },
     {
@@ -3711,7 +3689,7 @@
       "detail": "类脑视觉芯片、天眸芯",
       "state": "founder",
       "lab": "CBICR",
-      "path": "wiki/people/杨哲宇_清华精密仪器系.md",
+      "path": "wiki/people/杨哲宇-清华精仪.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3723,7 +3701,7 @@
       "formerLevel": 2,
       "identity": "精仪系博士背景",
       "currentFaculty": false,
-      "identitySource": "wiki/people/杨哲宇_清华精密仪器系.md",
+      "identitySource": "wiki/people/杨哲宇-清华精仪.md",
       "responsibility": ""
     },
     {
@@ -3735,7 +3713,7 @@
       "detail": "类脑互补视觉芯片",
       "state": "industry",
       "lab": "CBICR",
-      "path": "wiki/people/王韬毅_清华精密仪器系.md",
+      "path": "wiki/people/王韬毅-清华精仪.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [
@@ -3749,7 +3727,7 @@
       "formerLevel": 2,
       "identity": "精仪系博士背景",
       "currentFaculty": false,
-      "identitySource": "wiki/people/王韬毅_清华精密仪器系.md",
+      "identitySource": "wiki/people/王韬毅-清华精仪.md",
       "responsibility": ""
     },
     {
@@ -3761,7 +3739,7 @@
       "detail": "脑电AI诊疗、脑机大模型",
       "state": "founder",
       "lab": "神经工程实验室",
-      "path": "wiki/people/闫宇翔_清华生物医学工程学院.md",
+      "path": "wiki/people/闫宇翔-清华生医.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3773,7 +3751,7 @@
       "formerLevel": 2,
       "identity": "清华神经工程博士",
       "currentFaculty": false,
-      "identitySource": "wiki/people/闫宇翔_清华生物医学工程学院.md",
+      "identitySource": "wiki/people/闫宇翔-清华生医.md",
       "responsibility": ""
     },
     {
@@ -3785,7 +3763,7 @@
       "detail": "球形托卡马克、磁约束聚变",
       "state": "founder",
       "lab": "SUNIST",
-      "path": "wiki/people/谭熠_清华工程物理系.md",
+      "path": "wiki/people/谭熠-清华工物.md",
       "date": "2026-09-08",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [
@@ -3799,7 +3777,7 @@
       "formerLevel": 0,
       "identity": "清华副教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/谭熠_清华工程物理系.md",
+      "identitySource": "wiki/people/谭熠-清华工物.md",
       "responsibility": "SUNIST装置负责人"
     },
     {
@@ -3811,7 +3789,7 @@
       "detail": "核聚变商业化",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/陈锐_星环聚能.md",
+      "path": "wiki/people/陈锐-星环聚能.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3831,7 +3809,7 @@
       "formerLevel": 2,
       "identity": "工物系本科校友",
       "currentFaculty": false,
-      "identitySource": "wiki/people/陈锐_星环聚能.md",
+      "identitySource": "wiki/people/陈锐-星环聚能.md",
       "responsibility": ""
     },
     {
@@ -3843,7 +3821,7 @@
       "detail": "SUNIST；磁约束核聚变",
       "state": "none",
       "lab": "SUNIST",
-      "path": "wiki/people/高喆_清华工程物理系.md",
+      "path": "wiki/people/高喆-清华工物.md",
       "date": "2026-06-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3855,7 +3833,7 @@
       "formerLevel": 1,
       "identity": "清华教职PI",
       "currentFaculty": true,
-      "identitySource": "wiki/people/高喆_清华工程物理系.md",
+      "identitySource": "wiki/people/高喆-清华工物.md",
       "responsibility": ""
     },
     {
@@ -3867,7 +3845,7 @@
       "detail": "低温等离子体、材料生长",
       "state": "none",
       "lab": null,
-      "path": "wiki/people/蒲以康_清华工程物理系.md",
+      "path": "wiki/people/蒲以康-清华工物.md",
       "date": "2026-06-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3879,7 +3857,7 @@
       "formerLevel": 1,
       "identity": "清华教职PI",
       "currentFaculty": true,
-      "identitySource": "wiki/people/蒲以康_清华工程物理系.md",
+      "identitySource": "wiki/people/蒲以康-清华工物.md",
       "responsibility": ""
     },
     {
@@ -3891,7 +3869,7 @@
       "detail": "核能、反应堆、能源系统",
       "state": "none",
       "lab": "REAL Lab",
-      "path": "wiki/people/王侃_清华工程物理系.md",
+      "path": "wiki/people/王侃-清华工物.md",
       "date": "2026-06-11",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3903,7 +3881,7 @@
       "formerLevel": 1,
       "identity": "清华教职PI",
       "currentFaculty": true,
-      "identitySource": "wiki/people/王侃_清华工程物理系.md",
+      "identitySource": "wiki/people/王侃-清华工物.md",
       "responsibility": ""
     },
     {
@@ -3915,7 +3893,7 @@
       "detail": "AI原生量子操作系统",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/胡晓晓_量观知元.md",
+      "path": "wiki/people/胡晓晓-量观知元.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3927,7 +3905,7 @@
       "formerLevel": 2,
       "identity": "物理系直博背景",
       "currentFaculty": false,
-      "identitySource": "wiki/people/胡晓晓_量观知元.md",
+      "identitySource": "wiki/people/胡晓晓-量观知元.md",
       "responsibility": ""
     },
     {
@@ -3939,7 +3917,7 @@
       "detail": "HRM、分层推理、类脑基础模型",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/王冠_万格智能.md",
+      "path": "wiki/people/王冠-万格智能.md",
       "date": "2026-09-07",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3951,7 +3929,7 @@
       "formerLevel": 2,
       "identity": "清华计算机学士\n曾在AIR研究",
       "currentFaculty": false,
-      "identitySource": "wiki/people/王冠_万格智能.md",
+      "identitySource": "wiki/people/王冠-万格智能.md",
       "responsibility": ""
     },
     {
@@ -3963,7 +3941,7 @@
       "detail": "餐饮后厨机器人、打包与接驳",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/王栋_元节智能.md",
+      "path": "wiki/people/王栋-元节智能.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -3975,7 +3953,7 @@
       "formerLevel": 2,
       "identity": "计算机系博士背景",
       "currentFaculty": false,
-      "identitySource": "wiki/people/王栋_元节智能.md",
+      "identitySource": "wiki/people/王栋-元节智能.md",
       "responsibility": ""
     },
     {
@@ -3987,7 +3965,7 @@
       "detail": "大语言模型、通用AI",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/周伯文_清华电子工程系.md",
+      "path": "wiki/people/周伯文-清华电子.md",
       "date": "2026-09-07",
       "tier": "PI / 教研人员",
       "secondaryCompanies": [],
@@ -3999,7 +3977,7 @@
       "formerLevel": 1,
       "identity": "清华教授",
       "currentFaculty": true,
-      "identitySource": "wiki/people/周伯文_清华电子工程系.md",
+      "identitySource": "wiki/people/周伯文-清华电子.md",
       "responsibility": ""
     },
     {
@@ -4011,7 +3989,7 @@
       "detail": "工业重载转运、机器人底层框架",
       "state": "industry",
       "lab": null,
-      "path": "wiki/people/罗瑞琨_木牛机器人.md",
+      "path": "wiki/people/罗瑞琨-木牛机器人.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -4023,7 +4001,7 @@
       "formerLevel": 2,
       "identity": "清华校友\n历史院系名待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/罗瑞琨_木牛机器人.md",
+      "identitySource": "wiki/people/罗瑞琨-木牛机器人.md",
       "responsibility": ""
     },
     {
@@ -4035,7 +4013,7 @@
       "detail": "机器视觉、物流机器人",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/周博文_比邻星科技.md",
+      "path": "wiki/people/周博文-比邻星科技.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -4047,7 +4025,7 @@
       "formerLevel": 2,
       "identity": "清华博士后经历",
       "currentFaculty": false,
-      "identitySource": "wiki/people/周博文_比邻星科技.md",
+      "identitySource": "wiki/people/周博文-比邻星科技.md",
       "responsibility": ""
     },
     {
@@ -4059,7 +4037,7 @@
       "detail": "机器人本体、视触觉模组与数据",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/喻超_鹿明机器人.md",
+      "path": "wiki/people/喻超-鹿明机器人.md",
       "date": "2026-09-09",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -4071,7 +4049,7 @@
       "formerLevel": 2,
       "identity": "清华校友\n学位院系待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/喻超_鹿明机器人.md",
+      "identitySource": "wiki/people/喻超-鹿明机器人.md",
       "responsibility": ""
     },
     {
@@ -4083,7 +4061,7 @@
       "detail": "具身数据采集、处理与服务",
       "state": "industry",
       "lab": null,
-      "path": "wiki/people/姚卯青_觅蜂科技.md",
+      "path": "wiki/people/姚卯青-觅蜂科技.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -4095,7 +4073,7 @@
       "formerLevel": 2,
       "identity": "清华校友\n学位院系待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/姚卯青_觅蜂科技.md",
+      "identitySource": "wiki/people/姚卯青-觅蜂科技.md",
       "responsibility": ""
     },
     {
@@ -4107,7 +4085,7 @@
       "detail": "精密运动、力控核心零部件",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/孙杰_大寰机器人.md",
+      "path": "wiki/people/孙杰-大寰机器人.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -4119,7 +4097,7 @@
       "formerLevel": 2,
       "identity": "清华本科校友\n院系待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/孙杰_大寰机器人.md",
+      "identitySource": "wiki/people/孙杰-大寰机器人.md",
       "responsibility": ""
     },
     {
@@ -4131,7 +4109,7 @@
       "detail": "足式机器人、智能机器马（历史）",
       "state": "industry",
       "lab": null,
-      "path": "wiki/people/徐志根_鹏行智能.md",
+      "path": "wiki/people/徐志根-鹏行智能.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -4143,7 +4121,7 @@
       "formerLevel": 2,
       "identity": "清华电子科技博士\n行政院系待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/徐志根_鹏行智能.md",
+      "identitySource": "wiki/people/徐志根-鹏行智能.md",
       "responsibility": ""
     },
     {
@@ -4155,7 +4133,7 @@
       "detail": "通用机器人、核心部件",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/李一帆_Sharpa.md",
+      "path": "wiki/people/李一帆-Sharpa.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -4167,7 +4145,7 @@
       "formerLevel": 2,
       "identity": "清华本科校友\n院系待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/李一帆_Sharpa.md",
+      "identitySource": "wiki/people/李一帆-Sharpa.md",
       "responsibility": ""
     },
     {
@@ -4179,7 +4157,7 @@
       "detail": "Apex Hand灵巧手、触觉操作",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/杨思成_源升智能.md",
+      "path": "wiki/people/杨思成-源升智能.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -4191,7 +4169,7 @@
       "formerLevel": 2,
       "identity": "清华研究生校友\n学位层次待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/杨思成_源升智能.md",
+      "identitySource": "wiki/people/杨思成-源升智能.md",
       "responsibility": ""
     },
     {
@@ -4203,7 +4181,7 @@
       "detail": "Ling Cybrain云边端类脑平台",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/杨洪兵_灵生科技.md",
+      "path": "wiki/people/杨洪兵-灵生科技.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -4215,7 +4193,7 @@
       "formerLevel": 2,
       "identity": "清华校友\n学位院系待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/杨洪兵_灵生科技.md",
+      "identitySource": "wiki/people/杨洪兵-灵生科技.md",
       "responsibility": ""
     },
     {
@@ -4227,7 +4205,7 @@
       "detail": "文旅、教育、工业仿人机器人",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/王磊_清宝机器人.md",
+      "path": "wiki/people/王磊-清宝机器人.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -4239,7 +4217,7 @@
       "formerLevel": 2,
       "identity": "清华博士背景\n院系待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/王磊_清宝机器人.md",
+      "identitySource": "wiki/people/王磊-清宝机器人.md",
       "responsibility": ""
     },
     {
@@ -4251,7 +4229,7 @@
       "detail": "物理行动世界模型、手脑一体",
       "state": "founder",
       "lab": null,
-      "path": "wiki/people/都大龙_章鱼动力.md",
+      "path": "wiki/people/都大龙-章鱼动力.md",
       "date": "2026-09-08",
       "tier": "校友 / 产业",
       "secondaryCompanies": [],
@@ -4263,7 +4241,7 @@
       "formerLevel": 2,
       "identity": "清华工程博士经历\n毕业状态待核",
       "currentFaculty": false,
-      "identitySource": "wiki/people/都大龙_章鱼动力.md",
+      "identitySource": "wiki/people/都大龙-章鱼动力.md",
       "responsibility": ""
     },
     {
@@ -4275,7 +4253,7 @@
       "identity": "计算机系博士生",
       "detail": "RDT系列、物理世界模型、灵巧操作",
       "state": "founder",
-      "path": "wiki/people/刘松铭_清华计算机系.md",
+      "path": "wiki/people/刘松铭-清华计算机.md",
       "date": "2026-09-10",
       "currentFaculty": false,
       "level": 1,
@@ -4293,12 +4271,12 @@
       "name": "林凡淇",
       "dept": "交叉信息研究院",
       "lane": "IIIS",
-      "lab": "VAR / EVAR Lab",
+      "lab": "VAR Lab",
       "id": "IIIS背景\n学籍层次待核",
       "identity": "IIIS背景\n学籍层次待核",
       "detail": "模仿学习、数据规模规律",
       "state": "founder",
-      "path": "wiki/people/林凡淇_清华交叉信息研究院.md",
+      "path": "wiki/people/林凡淇-清华叉院.md",
       "date": "2026-09-10",
       "currentFaculty": false,
       "level": 1,
@@ -4308,6 +4286,411 @@
       ],
       "companyNotes": [],
       "relation": "师从高阳；LiberAI联合创始人"
+    },
+    {
+      "name": "李忆唐",
+      "dept": "交叉信息研究院",
+      "lane": "交叉信息研究院",
+      "id": "姚班研究人才 / 当前阶段待核",
+      "relation": "本人主页明确在弋力指导下开展研究；在CMU LeCAR Lab由Guanya Shi指导实习。",
+      "detail": "人形全身控制、基础控制模型",
+      "state": "none",
+      "lab": null,
+      "path": "wiki/people/李忆唐-清华叉院.md",
+      "date": "2026-09-11",
+      "tier": "在读 / 培养",
+      "secondaryCompanies": [],
+      "mentorRefs": [
+        {
+          "label": "研究指导",
+          "type": "mentor",
+          "from": "弋力"
+        }
+      ],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [
+        "弋力：研究指导"
+      ],
+      "formerLevel": 1,
+      "identity": "姚班研究人才\n当前阶段待核",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/李忆唐-清华叉院.md",
+      "responsibility": "",
+      "extraInfo": [
+        "本人主页明确在弋力指导下开展研究；在CMU LeCAR Lab由Guanya Shi指导实习。",
+        "Hold My Beer第一作者；BFM-Zero共同第一作者；2025年本科生特等奖学金。",
+        "主页学位阶段截至其自述时点；当前学位、毕业去向及合作意向待核，未确认创业。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "罗长盛",
+      "dept": "自动化系",
+      "lane": "自动化系",
+      "id": "火神队主力 / 当前阶段待核",
+      "relation": "自动化系本科候选人（2025年特奖答辩报道）；火神队主力、世界人形机器人运动会足球赛队长。",
+      "detail": "人形足球、机器人系统研发",
+      "state": "none",
+      "lab": null,
+      "path": "wiki/people/罗长盛-清华自动化.md",
+      "date": "2026-09-11",
+      "tier": "在读 / 培养",
+      "secondaryCompanies": [],
+      "mentorRefs": [],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [],
+      "formerLevel": 1,
+      "identity": "火神队主力\n当前阶段待核",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/罗长盛-清华自动化.md",
+      "responsibility": "",
+      "extraInfo": [
+        "自动化系本科候选人（2025年特奖答辩报道）；火神队主力、世界人形机器人运动会足球赛队长。",
+        "有RoboCup及世界人形机器人运动会赛事贡献，另有一二·九奖学金获奖记录。",
+        "特奖答辩候选人不等于特奖得主；个人导师与当前阶段未核，不由火神队成员身份反推实验室或赵明国师承。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "白雨石",
+      "dept": "计算机系",
+      "lane": "计算机系",
+      "id": "清华博士经历 / 当前阶段待核",
+      "relation": "姚班本科校友；清华计算机博士经历，导师李涓子由本人主页明确。",
+      "detail": "长上下文、大模型评测与Agent",
+      "state": "none",
+      "lab": null,
+      "path": "wiki/people/白雨石-清华计算机.md",
+      "date": "2026-09-11",
+      "tier": "在读 / 培养",
+      "secondaryCompanies": [],
+      "mentorRefs": [
+        {
+          "label": "博士导师",
+          "type": "mentor",
+          "from": "李涓子"
+        }
+      ],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [
+        "李涓子：博士导师"
+      ],
+      "formerLevel": 1,
+      "identity": "清华博士经历\n当前阶段待核",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/白雨石-清华计算机.md",
+      "responsibility": "",
+      "extraInfo": [
+        "姚班本科校友；清华计算机博士经历，导师李涓子由本人主页明确。",
+        "LongWriter第一作者、LongBench v2共同第一作者；首届腾讯青云奖学金。",
+        "GLM-5贡献按本人披露；不推定智谱任职、创业或当前雇佣关系。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "姜汉卿",
+      "dept": "航天航空学院",
+      "lane": "航天航空学院",
+      "id": "清华力学博士 / 现任西湖大学",
+      "relation": "2001年取得清华固体力学博士学位；现为西湖大学机械工程讲席教授、跨力学实验室负责人。",
+      "detail": "机械超材料、柔性变刚度机器人",
+      "state": "founder",
+      "lab": null,
+      "path": "wiki/people/姜汉卿-西湖大学.md",
+      "date": "2026-09-11",
+      "tier": "校友 / 产业",
+      "secondaryCompanies": [],
+      "mentorRefs": [],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [],
+      "formerLevel": 1,
+      "identity": "清华力学博士\n现任西湖大学",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/姜汉卿-西湖大学.md",
+      "responsibility": "",
+      "extraInfo": [
+        "2001年取得清华固体力学博士学位；现为西湖大学机械工程讲席教授、跨力学实验室负责人。",
+        "本图按力学学科历史归入航院入口，不倒写成在2004年成立的航院于2001年毕业。",
+        "西湖交互创始人；公司实际孵化于西湖大学跨力学实验室，非清华孵化。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "潘佳",
+      "dept": "自动化系",
+      "lane": "自动化系",
+      "id": "清华自动化本科 / 现任香港大学",
+      "relation": "清华自动化本科校友；香港大学AI与数据科学系副教授。",
+      "detail": "机器人规划、操作与触觉感知",
+      "state": "industry",
+      "lab": null,
+      "path": "wiki/people/潘佳-港大AI与数据科学.md",
+      "date": "2026-09-11",
+      "tier": "校友 / 产业",
+      "secondaryCompanies": [],
+      "mentorRefs": [],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [],
+      "formerLevel": 1,
+      "identity": "清华自动化本科\n现任香港大学",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/潘佳-港大AI与数据科学.md",
+      "responsibility": "",
+      "extraInfo": [
+        "清华自动化本科校友；香港大学AI与数据科学系副教授。",
+        "开发FCL，参与TrajOpt和ITOMP轨迹优化库。",
+        "逐际动力2023年公告任命其为首席科学家；最新任职待核，不写成创始人或清华孵化。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "刘希慧",
+      "dept": "电子工程系",
+      "lane": "电子工程系",
+      "id": "清华电子本科 / 现任香港大学",
+      "relation": "清华电子工程本科校友；香港大学ECE助理教授、IDS成员。",
+      "detail": "多模态、第一视角与具身AI",
+      "state": "none",
+      "lab": null,
+      "path": "wiki/people/刘希慧-港大电气计算机.md",
+      "date": "2026-09-11",
+      "tier": "校友 / 产业",
+      "secondaryCompanies": [],
+      "mentorRefs": [],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [],
+      "formerLevel": 1,
+      "identity": "清华电子本科\n现任香港大学",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/刘希慧-港大电气计算机.md",
+      "responsibility": "",
+      "extraInfo": [
+        "清华电子工程本科校友；香港大学ECE助理教授、IDS成员。",
+        "港中大博士导师王晓刚、Hongsheng Li；Berkeley博士后导师Trevor Darrell。",
+        "EgoPlan-Bench系列与DSPv2；Adobe Research Fellowship、WAIC Rising Stars等信号。未确认创业或企业任职。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "张福民",
+      "dept": "院系待核",
+      "lane": "院系待核",
+      "id": "清华本硕校友 / 现任香港科大",
+      "relation": "清华本科及硕士校友；香港科技大学Chair Professor。",
+      "detail": "自主系统、海洋机器人",
+      "state": "none",
+      "lab": null,
+      "path": "wiki/people/张福民-港科大电子计算机.md",
+      "date": "2026-09-11",
+      "tier": "校友 / 产业",
+      "secondaryCompanies": [],
+      "mentorRefs": [],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [],
+      "formerLevel": 1,
+      "identity": "清华本硕校友\n现任香港科大",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/张福民-港科大电子计算机.md",
+      "responsibility": "",
+      "extraInfo": [
+        "清华本科及硕士校友；香港科技大学Chair Professor。",
+        "NSF CAREER与ONR Young Investigator奖项；具体清华院系与博士导师未由本轮原文明示，不按现任ECE反推。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "何奇洸",
+      "dept": "院系待核",
+      "lane": "院系待核",
+      "id": "清华本科校友 / 现任香港中文",
+      "relation": "清华本科校友；香港中文大学机械与自动化工程学系助理教授。",
+      "detail": "软体机器人、机械智能与智能材料",
+      "state": "none",
+      "lab": null,
+      "path": "wiki/people/何奇洸-港中文机械自动化.md",
+      "date": "2026-09-11",
+      "tier": "校友 / 产业",
+      "secondaryCompanies": [],
+      "mentorRefs": [],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [],
+      "formerLevel": 1,
+      "identity": "清华本科校友\n现任香港中文",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/何奇洸-港中文机械自动化.md",
+      "responsibility": "",
+      "extraInfo": [
+        "清华本科校友；香港中文大学机械与自动化工程学系助理教授。",
+        "Science Advances无电子软体机器人分布式具身控制、Science Robotics液晶弹性体微纤维驱动器研究。",
+        "清华具体院系与个人导师待核，不按现任机械与自动化系反推清华学籍。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "潘玲",
+      "dept": "交叉信息研究院",
+      "lane": "交叉信息研究院",
+      "id": "清华IIIS博士 / 现任香港科大",
+      "relation": "清华IIIS博士校友；香港科技大学ECE助理教授。",
+      "detail": "强化学习、多智能体与模型后训练",
+      "state": "none",
+      "lab": null,
+      "path": "wiki/people/潘玲-港科大电子计算机.md",
+      "date": "2026-09-11",
+      "tier": "校友 / 产业",
+      "secondaryCompanies": [],
+      "mentorRefs": [],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [],
+      "formerLevel": 1,
+      "identity": "清华IIIS博士\n现任香港科大",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/潘玲-港科大电子计算机.md",
+      "responsibility": "",
+      "extraInfo": [
+        "清华IIIS博士校友；香港科技大学ECE助理教授。",
+        "清华优秀博士论文及AAAI New Faculty Highlights；Mila博士后导师Yoshua Bengio。",
+        "清华博士导师未核，不把姚期智的学院负责人身份当作博士导师。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "涂锋斌",
+      "dept": "微纳电子系（历史）",
+      "lane": "微纳电子系（历史）",
+      "id": "清华微电子博士 / 现任香港科大",
+      "relation": "清华微电子研究所博士校友；香港科技大学ECE助理教授。",
+      "detail": "AI芯片、端侧计算与体系结构",
+      "state": "none",
+      "lab": null,
+      "path": "wiki/people/涂锋斌-港科大电子计算机.md",
+      "date": "2026-09-11",
+      "tier": "校友 / 产业",
+      "secondaryCompanies": [],
+      "mentorRefs": [],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [],
+      "formerLevel": 1,
+      "identity": "清华微电子博士\n现任香港科大",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/涂锋斌-港科大电子计算机.md",
+      "responsibility": "",
+      "extraInfo": [
+        "清华微电子研究所博士校友；香港科技大学ECE助理教授。",
+        "按微电子学缘列入历史入口，不以现任单位反推历史行政归属；博士导师待核。",
+        "Thinker芯片获ISLPED Design Contest Award，另有清华优秀博士论文记录。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "谢源",
+      "dept": "电子工程系",
+      "lane": "电子工程系",
+      "id": "清华电子本科 / 现任香港科大",
+      "relation": "清华电子工程本科校友；香港科技大学Fang Professor of Engineering、Chair Professor、IICS Director。",
+      "detail": "AI芯片、计算机体系结构",
+      "state": "none",
+      "lab": null,
+      "path": "wiki/people/谢源-港科大电子计算机.md",
+      "date": "2026-09-11",
+      "tier": "校友 / 产业",
+      "secondaryCompanies": [],
+      "mentorRefs": [],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [],
+      "formerLevel": 1,
+      "identity": "清华电子本科\n现任香港科大",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/谢源-港科大电子计算机.md",
+      "responsibility": "",
+      "extraInfo": [
+        "清华电子工程本科校友；香港科技大学Fang Professor of Engineering、Chair Professor、IICS Director。",
+        "有IBM、AMD、Alibaba等产业经历；现任企业职务及博士导师未核。",
+        "Edward J. McCluskey Technical Achievement Award、Industrial Pioneer Award。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "訾云龙",
+      "dept": "材料科学与工程系（历史）",
+      "lane": "材料科学与工程系（历史）",
+      "id": "清华材料本科 / 现任港科大广州",
+      "relation": "清华材料科学与工程系本科校友；香港科技大学（广州）可持续能源与环境学域副教授。",
+      "detail": "机器人触觉、摩擦能量采集",
+      "state": "none",
+      "lab": null,
+      "path": "wiki/people/訾云龙-港科广能源环境.md",
+      "date": "2026-09-11",
+      "tier": "校友 / 产业",
+      "secondaryCompanies": [],
+      "mentorRefs": [],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [],
+      "formerLevel": 1,
+      "identity": "清华材料本科\n现任港科大广州",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/訾云龙-港科广能源环境.md",
+      "responsibility": "",
+      "extraInfo": [
+        "清华材料科学与工程系本科校友；香港科技大学（广州）可持续能源与环境学域副教授。",
+        "仿生双模态触觉感知、Advanced Materials触觉阵列；TR35与Nano Energy Award。",
+        "按历史学籍归类；不混同香港科技大学清水湾校区。"
+      ],
+      "groupByMentor": false
+    },
+    {
+      "name": "张启航",
+      "dept": "物理系",
+      "lane": "物理系",
+      "id": "清华物理本科 / 现任香港中文",
+      "relation": "清华物理本科校友，另有清华博士后经历；香港中文大学Research Assistant Professor。",
+      "detail": "AI光学、制造检测与生物传感",
+      "state": "none",
+      "lab": null,
+      "path": "wiki/people/张启航-港中文生医.md",
+      "date": "2026-09-11",
+      "tier": "校友 / 产业",
+      "secondaryCompanies": [],
+      "mentorRefs": [],
+      "companyNotes": [],
+      "level": 1,
+      "levelReason": "按已核学缘归类；现任身份见详情",
+      "mentorNotes": [],
+      "formerLevel": 1,
+      "identity": "清华物理本科\n现任香港中文",
+      "currentFaculty": false,
+      "identitySource": "wiki/people/张启航-港中文生医.md",
+      "responsibility": "",
+      "extraInfo": [
+        "清华物理本科校友，另有清华博士后经历；香港中文大学Research Assistant Professor。",
+        "关联Laser Metrology and Biomedicine（LAMB）Lab；PEACE粒径估计及单散斑图像粉末粒径分布研究。",
+        "个人导师不从共同论文署名反推；未确认创业或企业任职。"
+      ],
+      "groupByMentor": false
     }
   ],
   "contextPeople": [
@@ -4382,7 +4765,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/陈建宇_清华交叉信息研究院.md"
+        "wiki/people/陈建宇-清华叉院.md"
       ]
     },
     {
@@ -4394,7 +4777,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/胡钰承_潜界动力.md"
+        "wiki/people/胡钰承-潜界动力.md"
       ]
     },
     {
@@ -4406,7 +4789,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/姜哲源_松延动力.md"
+        "wiki/people/姜哲源-松延动力.md"
       ]
     },
     {
@@ -4418,8 +4801,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/高阳_清华交叉信息研究院.md",
-        "wiki/people/胡英东_清华交叉信息研究院.md"
+        "wiki/people/高阳-清华叉院.md",
+        "wiki/people/胡英东-清华叉院.md"
       ]
     },
     {
@@ -4431,7 +4814,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/许华哲_清华交叉信息研究院.md"
+        "wiki/people/许华哲-清华叉院.md"
       ]
     },
     {
@@ -4443,9 +4826,9 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/赵行_清华交叉信息研究院.md",
-        "wiki/people/高继扬_星海图.md",
-        "wiki/people/许华哲_清华交叉信息研究院.md"
+        "wiki/people/赵行-清华叉院.md",
+        "wiki/people/高继扬-星海图.md",
+        "wiki/people/许华哲-清华叉院.md"
       ]
     },
     {
@@ -4457,9 +4840,9 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/赵行_清华交叉信息研究院.md",
-        "wiki/people/高继扬_星海图.md",
-        "wiki/people/许华哲_清华交叉信息研究院.md"
+        "wiki/people/赵行-清华叉院.md",
+        "wiki/people/高继扬-星海图.md",
+        "wiki/people/许华哲-清华叉院.md"
       ]
     },
     {
@@ -4471,9 +4854,9 @@
       "historical": true,
       "primary": false,
       "sources": [
-        "wiki/people/赵行_清华交叉信息研究院.md",
-        "wiki/people/高继扬_星海图.md",
-        "wiki/people/许华哲_清华交叉信息研究院.md"
+        "wiki/people/赵行-清华叉院.md",
+        "wiki/people/高继扬-星海图.md",
+        "wiki/people/许华哲-清华叉院.md"
       ]
     },
     {
@@ -4485,12 +4868,12 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/王鹤_银河通用.md",
-        "wiki/people/弋力_清华交叉信息研究院.md",
-        "wiki/people/张智楷_清华交叉信息研究院.md",
-        "wiki/people/薛晗_清华人工智能学院.md",
-        "wiki/people/兴军亮_清华计算机科学与技术系.md",
-        "wiki/people/Haofei-Lu_清华计算机系.md"
+        "wiki/people/王鹤-银河通用.md",
+        "wiki/people/弋力-清华叉院.md",
+        "wiki/people/张智楷-清华叉院.md",
+        "wiki/people/薛晗-清华AI学院.md",
+        "wiki/people/兴军亮-清华计算机.md",
+        "wiki/people/Haofei-Lu-清华计算机.md"
       ]
     },
     {
@@ -4502,9 +4885,9 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/楼天城_小马智行.md",
-        "wiki/people/彭军_小马智行.md",
-        "wiki/people/姚期智_清华交叉信息研究院.md"
+        "wiki/people/楼天城-小马智行.md",
+        "wiki/people/彭军-小马智行.md",
+        "wiki/people/姚期智-清华叉院.md"
       ]
     },
     {
@@ -4516,9 +4899,9 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/楼天城_小马智行.md",
-        "wiki/people/彭军_小马智行.md",
-        "wiki/people/姚期智_清华交叉信息研究院.md"
+        "wiki/people/楼天城-小马智行.md",
+        "wiki/people/彭军-小马智行.md",
+        "wiki/people/姚期智-清华叉院.md"
       ]
     },
     {
@@ -4530,9 +4913,9 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/楼天城_小马智行.md",
-        "wiki/people/彭军_小马智行.md",
-        "wiki/people/姚期智_清华交叉信息研究院.md"
+        "wiki/people/楼天城-小马智行.md",
+        "wiki/people/彭军-小马智行.md",
+        "wiki/people/姚期智-清华叉院.md"
       ]
     },
     {
@@ -4544,7 +4927,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/范浩强_原力灵机.md"
+        "wiki/people/范浩强-原力灵机.md"
       ]
     },
     {
@@ -4556,7 +4939,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/李一鸣_清华人工智能学院.md"
+        "wiki/people/李一鸣-清华AI学院.md"
       ]
     },
     {
@@ -4568,8 +4951,8 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/詹仙园_清华智能产业研究院.md",
-        "wiki/people/李健雄_本溯智能.md"
+        "wiki/people/詹仙园-清华AIR.md",
+        "wiki/people/李健雄-本溯智能.md"
       ]
     },
     {
@@ -4581,8 +4964,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/詹仙园_清华智能产业研究院.md",
-        "wiki/people/李健雄_本溯智能.md"
+        "wiki/people/詹仙园-清华AIR.md",
+        "wiki/people/李健雄-本溯智能.md"
       ]
     },
     {
@@ -4594,7 +4977,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/陈亦伦_它石智航.md"
+        "wiki/people/陈亦伦-它石智航.md"
       ]
     },
     {
@@ -4606,7 +4989,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/兰艳艳_清华智能产业研究院.md"
+        "wiki/people/兰艳艳-清华AIR.md"
       ]
     },
     {
@@ -4618,7 +5001,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/朱军_清华计算机科学与技术系.md"
+        "wiki/people/朱军-清华计算机.md"
       ]
     },
     {
@@ -4630,9 +5013,9 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/刘知远_THUNLP.md",
-        "wiki/people/曾国洋_面壁智能.md",
-        "wiki/people/姚远_清华人工智能学院.md"
+        "wiki/people/刘知远-清华THUNLP.md",
+        "wiki/people/曾国洋-面壁智能.md",
+        "wiki/people/姚远-清华AI学院.md"
       ]
     },
     {
@@ -4644,9 +5027,9 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/刘知远_THUNLP.md",
-        "wiki/people/曾国洋_面壁智能.md",
-        "wiki/people/姚远_清华人工智能学院.md"
+        "wiki/people/刘知远-清华THUNLP.md",
+        "wiki/people/曾国洋-面壁智能.md",
+        "wiki/people/姚远-清华AI学院.md"
       ]
     },
     {
@@ -4658,9 +5041,9 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/刘知远_THUNLP.md",
-        "wiki/people/曾国洋_面壁智能.md",
-        "wiki/people/姚远_清华人工智能学院.md"
+        "wiki/people/刘知远-清华THUNLP.md",
+        "wiki/people/曾国洋-面壁智能.md",
+        "wiki/people/姚远-清华AI学院.md"
       ]
     },
     {
@@ -4672,10 +5055,10 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/唐杰_清华计算机系.md",
-        "wiki/people/李涓子_清华计算机系.md",
-        "wiki/people/张鹏_智谱AI.md",
-        "wiki/people/刘潇_清华计算机系.md"
+        "wiki/people/唐杰-清华计算机.md",
+        "wiki/people/李涓子-清华计算机.md",
+        "wiki/people/张鹏-智谱AI.md",
+        "wiki/people/刘潇-清华计算机.md"
       ]
     },
     {
@@ -4687,10 +5070,10 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/唐杰_清华计算机系.md",
-        "wiki/people/李涓子_清华计算机系.md",
-        "wiki/people/张鹏_智谱AI.md",
-        "wiki/people/刘潇_清华计算机系.md"
+        "wiki/people/唐杰-清华计算机.md",
+        "wiki/people/李涓子-清华计算机.md",
+        "wiki/people/张鹏-智谱AI.md",
+        "wiki/people/刘潇-清华计算机.md"
       ]
     },
     {
@@ -4702,10 +5085,10 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/唐杰_清华计算机系.md",
-        "wiki/people/李涓子_清华计算机系.md",
-        "wiki/people/张鹏_智谱AI.md",
-        "wiki/people/刘潇_清华计算机系.md"
+        "wiki/people/唐杰-清华计算机.md",
+        "wiki/people/李涓子-清华计算机.md",
+        "wiki/people/张鹏-智谱AI.md",
+        "wiki/people/刘潇-清华计算机.md"
       ]
     },
     {
@@ -4717,10 +5100,10 @@
       "historical": true,
       "primary": false,
       "sources": [
-        "wiki/people/汪玉_清华电子工程系.md",
-        "wiki/people/姚颂_深鉴科技.md",
-        "wiki/people/单羿_深鉴科技.md",
-        "wiki/people/韩松_MIT.md"
+        "wiki/people/汪玉-清华电子.md",
+        "wiki/people/姚颂-深鉴科技.md",
+        "wiki/people/单羿-深鉴科技.md",
+        "wiki/people/韩松-MIT.md"
       ]
     },
     {
@@ -4732,10 +5115,10 @@
       "historical": true,
       "primary": true,
       "sources": [
-        "wiki/people/汪玉_清华电子工程系.md",
-        "wiki/people/姚颂_深鉴科技.md",
-        "wiki/people/单羿_深鉴科技.md",
-        "wiki/people/韩松_MIT.md"
+        "wiki/people/汪玉-清华电子.md",
+        "wiki/people/姚颂-深鉴科技.md",
+        "wiki/people/单羿-深鉴科技.md",
+        "wiki/people/韩松-MIT.md"
       ]
     },
     {
@@ -4747,10 +5130,10 @@
       "historical": true,
       "primary": false,
       "sources": [
-        "wiki/people/汪玉_清华电子工程系.md",
-        "wiki/people/姚颂_深鉴科技.md",
-        "wiki/people/单羿_深鉴科技.md",
-        "wiki/people/韩松_MIT.md"
+        "wiki/people/汪玉-清华电子.md",
+        "wiki/people/姚颂-深鉴科技.md",
+        "wiki/people/单羿-深鉴科技.md",
+        "wiki/people/韩松-MIT.md"
       ]
     },
     {
@@ -4762,10 +5145,10 @@
       "historical": true,
       "primary": false,
       "sources": [
-        "wiki/people/汪玉_清华电子工程系.md",
-        "wiki/people/姚颂_深鉴科技.md",
-        "wiki/people/单羿_深鉴科技.md",
-        "wiki/people/韩松_MIT.md"
+        "wiki/people/汪玉-清华电子.md",
+        "wiki/people/姚颂-深鉴科技.md",
+        "wiki/people/单羿-深鉴科技.md",
+        "wiki/people/韩松-MIT.md"
       ]
     },
     {
@@ -4777,9 +5160,9 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/夏立雪_无问芯穹.md",
-        "wiki/people/戴国浩_无问芯穹.md",
-        "wiki/people/汪玉_清华电子工程系.md"
+        "wiki/people/夏立雪-无问芯穹.md",
+        "wiki/people/戴国浩-无问芯穹.md",
+        "wiki/people/汪玉-清华电子.md"
       ]
     },
     {
@@ -4791,9 +5174,9 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/夏立雪_无问芯穹.md",
-        "wiki/people/戴国浩_无问芯穹.md",
-        "wiki/people/汪玉_清华电子工程系.md"
+        "wiki/people/夏立雪-无问芯穹.md",
+        "wiki/people/戴国浩-无问芯穹.md",
+        "wiki/people/汪玉-清华电子.md"
       ]
     },
     {
@@ -4805,7 +5188,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/单羿_深鉴科技.md"
+        "wiki/people/单羿-深鉴科技.md"
       ]
     },
     {
@@ -4817,7 +5200,7 @@
       "historical": true,
       "primary": true,
       "sources": [
-        "wiki/people/姚颂_深鉴科技.md"
+        "wiki/people/姚颂-深鉴科技.md"
       ]
     },
     {
@@ -4829,7 +5212,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/韩松_MIT.md"
+        "wiki/people/韩松-MIT.md"
       ]
     },
     {
@@ -4841,8 +5224,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/刘武龙_贝塔无限.md",
-        "wiki/people/陶帅_贝塔无限.md"
+        "wiki/people/刘武龙-贝塔无限.md",
+        "wiki/people/陶帅-贝塔无限.md"
       ]
     },
     {
@@ -4854,8 +5237,8 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/刘武龙_贝塔无限.md",
-        "wiki/people/陶帅_贝塔无限.md"
+        "wiki/people/刘武龙-贝塔无限.md",
+        "wiki/people/陶帅-贝塔无限.md"
       ]
     },
     {
@@ -4867,7 +5250,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/王陈玉珩_汇光创新.md"
+        "wiki/people/王陈玉珩-汇光创新.md"
       ]
     },
     {
@@ -4879,8 +5262,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/王潜_自变量机器人.md",
-        "wiki/people/苏航_清华计算机科学与技术系.md"
+        "wiki/people/王潜-自变量机器人.md",
+        "wiki/people/苏航-清华计算机.md"
       ]
     },
     {
@@ -4892,7 +5275,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/邵天兰_梅卡曼德.md"
+        "wiki/people/邵天兰-梅卡曼德.md"
       ]
     },
     {
@@ -4904,7 +5287,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/郭冠求_知有无界.md"
+        "wiki/people/郭冠求-知有无界.md"
       ]
     },
     {
@@ -4916,9 +5299,9 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/程昊_加速进化.md",
-        "wiki/people/赵明国_清华自动化系.md",
-        "wiki/people/董浩_加速进化.md"
+        "wiki/people/程昊-加速进化.md",
+        "wiki/people/赵明国-清华自动化.md",
+        "wiki/people/董浩-加速进化.md"
       ]
     },
     {
@@ -4930,9 +5313,9 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/程昊_加速进化.md",
-        "wiki/people/赵明国_清华自动化系.md",
-        "wiki/people/董浩_加速进化.md"
+        "wiki/people/程昊-加速进化.md",
+        "wiki/people/赵明国-清华自动化.md",
+        "wiki/people/董浩-加速进化.md"
       ]
     },
     {
@@ -4944,8 +5327,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/高海川_千诀科技.md",
-        "wiki/people/陈峰_清华自动化系.md"
+        "wiki/people/高海川-千诀科技.md",
+        "wiki/people/陈峰-清华自动化.md"
       ]
     },
     {
@@ -4957,8 +5340,8 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/高海川_千诀科技.md",
-        "wiki/people/陈峰_清华自动化系.md"
+        "wiki/people/高海川-千诀科技.md",
+        "wiki/people/陈峰-清华自动化.md"
       ]
     },
     {
@@ -4970,8 +5353,8 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/莫一林_清华自动化系.md",
-        "wiki/people/金戈_灵御智能.md"
+        "wiki/people/莫一林-清华自动化.md",
+        "wiki/people/金戈-灵御智能.md"
       ]
     },
     {
@@ -4983,8 +5366,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/莫一林_清华自动化系.md",
-        "wiki/people/金戈_灵御智能.md"
+        "wiki/people/莫一林-清华自动化.md",
+        "wiki/people/金戈-灵御智能.md"
       ]
     },
     {
@@ -4996,8 +5379,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/闵伟_影身智能.md",
-        "wiki/people/刘烨斌_清华自动化系.md"
+        "wiki/people/闵伟-影身智能.md",
+        "wiki/people/刘烨斌-清华自动化.md"
       ]
     },
     {
@@ -5009,8 +5392,8 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/黄思远_德塔智能.md",
-        "wiki/people/马晓健_德塔智能.md"
+        "wiki/people/黄思远-德塔智能.md",
+        "wiki/people/马晓健-德塔智能.md"
       ]
     },
     {
@@ -5022,8 +5405,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/黄思远_德塔智能.md",
-        "wiki/people/马晓健_德塔智能.md"
+        "wiki/people/黄思远-德塔智能.md",
+        "wiki/people/马晓健-德塔智能.md"
       ]
     },
     {
@@ -5035,7 +5418,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/黄冠_极佳视界.md"
+        "wiki/people/黄冠-极佳视界.md"
       ]
     },
     {
@@ -5047,7 +5430,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/黄高_清华自动化系.md"
+        "wiki/people/黄高-清华自动化.md"
       ]
     },
     {
@@ -5059,7 +5442,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/崔森_无界矩阵.md"
+        "wiki/people/崔森-无界矩阵.md"
       ]
     },
     {
@@ -5071,7 +5454,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/丁文伯_清华深圳国际研究生院.md"
+        "wiki/people/丁文伯-清华深研院.md"
       ]
     },
     {
@@ -5083,7 +5466,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/高培中_奥兹智能.md"
+        "wiki/people/高培中-奥兹智能.md"
       ]
     },
     {
@@ -5095,8 +5478,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/任晓雨_动易科技.md",
-        "wiki/people/毛书翰_动易科技.md"
+        "wiki/people/任晓雨-动易科技.md",
+        "wiki/people/毛书翰-动易科技.md"
       ]
     },
     {
@@ -5108,8 +5491,8 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/任晓雨_动易科技.md",
-        "wiki/people/毛书翰_动易科技.md"
+        "wiki/people/任晓雨-动易科技.md",
+        "wiki/people/毛书翰-动易科技.md"
       ]
     },
     {
@@ -5121,8 +5504,8 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/李升波_清华车辆与运载学院.md",
-        "wiki/people/张涛_光象科技.md"
+        "wiki/people/李升波-清华车辆.md",
+        "wiki/people/张涛-光象科技.md"
       ]
     },
     {
@@ -5134,8 +5517,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/李升波_清华车辆与运载学院.md",
-        "wiki/people/张涛_光象科技.md"
+        "wiki/people/李升波-清华车辆.md",
+        "wiki/people/张涛-光象科技.md"
       ]
     },
     {
@@ -5147,7 +5530,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/李晓飞_深朴智能.md"
+        "wiki/people/李晓飞-深朴智能.md"
       ]
     },
     {
@@ -5159,7 +5542,7 @@
       "historical": true,
       "primary": true,
       "sources": [
-        "wiki/people/李晓飞_深朴智能.md"
+        "wiki/people/李晓飞-深朴智能.md"
       ]
     },
     {
@@ -5171,7 +5554,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/秦深涛_清华车辆与运载学院.md"
+        "wiki/people/秦深涛-清华车辆.md"
       ]
     },
     {
@@ -5183,8 +5566,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/杨哲宇_清华精密仪器系.md",
-        "wiki/people/王韬毅_清华精密仪器系.md"
+        "wiki/people/杨哲宇-清华精仪.md",
+        "wiki/people/王韬毅-清华精仪.md"
       ]
     },
     {
@@ -5196,8 +5579,8 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/杨哲宇_清华精密仪器系.md",
-        "wiki/people/王韬毅_清华精密仪器系.md"
+        "wiki/people/杨哲宇-清华精仪.md",
+        "wiki/people/王韬毅-清华精仪.md"
       ]
     },
     {
@@ -5209,7 +5592,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/闫宇翔_清华生物医学工程学院.md"
+        "wiki/people/闫宇翔-清华生医.md"
       ]
     },
     {
@@ -5221,8 +5604,8 @@
       "historical": false,
       "primary": false,
       "sources": [
-        "wiki/people/谭熠_清华工程物理系.md",
-        "wiki/people/陈锐_星环聚能.md"
+        "wiki/people/谭熠-清华工物.md",
+        "wiki/people/陈锐-星环聚能.md"
       ]
     },
     {
@@ -5234,8 +5617,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/谭熠_清华工程物理系.md",
-        "wiki/people/陈锐_星环聚能.md"
+        "wiki/people/谭熠-清华工物.md",
+        "wiki/people/陈锐-星环聚能.md"
       ]
     },
     {
@@ -5247,7 +5630,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/胡晓晓_量观知元.md"
+        "wiki/people/胡晓晓-量观知元.md"
       ]
     },
     {
@@ -5259,7 +5642,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/王冠_万格智能.md"
+        "wiki/people/王冠-万格智能.md"
       ]
     },
     {
@@ -5271,7 +5654,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/王栋_元节智能.md"
+        "wiki/people/王栋-元节智能.md"
       ]
     },
     {
@@ -5283,7 +5666,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/周伯文_清华电子工程系.md"
+        "wiki/people/周伯文-清华电子.md"
       ]
     },
     {
@@ -5295,7 +5678,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/周博文_比邻星科技.md"
+        "wiki/people/周博文-比邻星科技.md"
       ]
     },
     {
@@ -5307,7 +5690,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/喻超_鹿明机器人.md"
+        "wiki/people/喻超-鹿明机器人.md"
       ]
     },
     {
@@ -5319,7 +5702,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/孙杰_大寰机器人.md"
+        "wiki/people/孙杰-大寰机器人.md"
       ]
     },
     {
@@ -5331,7 +5714,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/李一帆_Sharpa.md"
+        "wiki/people/李一帆-Sharpa.md"
       ]
     },
     {
@@ -5343,7 +5726,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/杨思成_源升智能.md"
+        "wiki/people/杨思成-源升智能.md"
       ]
     },
     {
@@ -5355,7 +5738,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/杨洪兵_灵生科技.md"
+        "wiki/people/杨洪兵-灵生科技.md"
       ]
     },
     {
@@ -5367,7 +5750,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/王磊_清宝机器人.md"
+        "wiki/people/王磊-清宝机器人.md"
       ]
     },
     {
@@ -5379,7 +5762,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/都大龙_章鱼动力.md"
+        "wiki/people/都大龙-章鱼动力.md"
       ]
     },
     {
@@ -5391,7 +5774,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/许闻达_无界动力.md"
+        "wiki/people/许闻达-无界动力.md"
       ]
     },
     {
@@ -5403,7 +5786,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/李力耘_众擎机器人.md"
+        "wiki/people/李力耘-众擎机器人.md"
       ]
     },
     {
@@ -5415,7 +5798,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/董汉_清华车辆与运载学院.md"
+        "wiki/people/董汉-清华车辆.md"
       ]
     },
     {
@@ -5427,7 +5810,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/姚卯青_觅蜂科技.md"
+        "wiki/people/姚卯青-觅蜂科技.md"
       ]
     },
     {
@@ -5439,7 +5822,7 @@
       "historical": true,
       "primary": true,
       "sources": [
-        "wiki/people/徐志根_鹏行智能.md"
+        "wiki/people/徐志根-鹏行智能.md"
       ]
     },
     {
@@ -5451,7 +5834,7 @@
       "historical": true,
       "primary": true,
       "sources": [
-        "wiki/people/罗瑞琨_木牛机器人.md"
+        "wiki/people/罗瑞琨-木牛机器人.md"
       ]
     },
     {
@@ -5463,7 +5846,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/孙富春_清华计算机科学与技术系.md"
+        "wiki/people/孙富春-清华计算机.md"
       ]
     },
     {
@@ -5475,7 +5858,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/聂再清_清华智能产业研究院.md"
+        "wiki/people/聂再清-清华AIR.md"
       ]
     },
     {
@@ -5487,8 +5870,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/徐葳_清华交叉信息研究院.md",
-        "wiki/people/姚期智_清华交叉信息研究院.md"
+        "wiki/people/徐葳-清华叉院.md",
+        "wiki/people/姚期智-清华叉院.md"
       ]
     },
     {
@@ -5500,7 +5883,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/徐葳_清华交叉信息研究院.md"
+        "wiki/people/徐葳-清华叉院.md"
       ]
     },
     {
@@ -5512,7 +5895,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/李佳_清华人工智能学院.md"
+        "wiki/people/李佳-清华AI学院.md"
       ]
     },
     {
@@ -5524,7 +5907,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/梁斌_清华自动化系.md"
+        "wiki/people/梁斌-清华自动化.md"
       ]
     },
     {
@@ -5536,7 +5919,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/丁宁_清华电子工程系.md"
+        "wiki/people/丁宁-清华电子.md"
       ]
     },
     {
@@ -5548,7 +5931,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/陈勇超_清华人工智能学院.md"
+        "wiki/people/陈勇超-清华AI学院.md"
       ]
     },
     {
@@ -5560,8 +5943,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/宋悦_清华人工智能学院.md",
-        "wiki/people/王同翰_清华人工智能学院.md"
+        "wiki/people/宋悦-清华AI学院.md",
+        "wiki/people/王同翰-清华AI学院.md"
       ]
     },
     {
@@ -5573,7 +5956,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/姜峣_清华机械工程系.md"
+        "wiki/people/姜峣-清华机械工程.md"
       ]
     },
     {
@@ -5585,7 +5968,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/封硕_清华自动化系.md"
+        "wiki/people/封硕-清华自动化.md"
       ]
     },
     {
@@ -5597,8 +5980,8 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/于超_清华深圳国际研究生院.md",
-        "wiki/people/姚颂_深鉴科技.md"
+        "wiki/people/于超-清华深研院.md",
+        "wiki/people/姚颂-深鉴科技.md"
       ],
       "extraInfo": [
         "Striding AI｜世界动作模型 WAM / LaWAM；轮式双臂与人形机器人。",
@@ -5618,8 +6001,15 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/周谷越_清华智能产业研究院.md",
-        "https://air.tsinghua.edu.cn/airtd/yjtd.htm"
+        "wiki/people/周谷越-清华AIR.md",
+        "wiki/companies/DISCOVER-Lab-求之科技AIRBOT.md"
+      ],
+      "extraInfo": [
+        "AIR官方孵化企业；产品品牌AIRBOT，开展具身机器人软硬件与研发平台建设。",
+        "周谷越为首席科学家；不据二手盘点升级为已核创始人或持股关系。"
+      ],
+      "urls": [
+        "https://air.tsinghua.edu.cn/yjhzdw/qzkj.htm"
       ]
     },
     {
@@ -5631,7 +6021,7 @@
       "historical": false,
       "primary": true,
       "sources": [
-        "wiki/people/姚期智_清华交叉信息研究院.md"
+        "wiki/people/姚期智-清华叉院.md"
       ]
     },
     {
@@ -5694,6 +6084,44 @@
       "urls": [
         "https://baijiahao.baidu.com/s?id=1868783492343699774&wfr=spider&for=pc"
       ]
+    },
+    {
+      "name": "西湖交互",
+      "person": "姜汉卿",
+      "role": "创办者",
+      "core": true,
+      "pending": false,
+      "historical": false,
+      "primary": true,
+      "sources": [
+        "wiki/people/姜汉卿-西湖大学.md",
+        "wiki/companies/西湖交互.md"
+      ],
+      "extraInfo": [
+        "柔性变刚度机械臂、人机交互及康复设备；实际孵化于西湖大学跨力学实验室。",
+        "本图通过姜汉卿清华博士校友关系纳入，不表示清华持股或孵化。",
+        "三力士投资协议与产品合作报道已入库；投资交割及最新商业进展待核。"
+      ]
+    },
+    {
+      "name": "逐际动力",
+      "person": "潘佳",
+      "role": "首席科学家（2023年公告）",
+      "core": true,
+      "pending": false,
+      "historical": false,
+      "primary": true,
+      "sources": [
+        "wiki/people/潘佳-港大AI与数据科学.md",
+        "wiki/companies/逐际动力.md"
+      ],
+      "extraInfo": [
+        "LimX Dynamics；人形与通用足式机器人、运动规划和具身智能。",
+        "2023年公司公告任命潘佳为首席科学家，最新任职待核；不等于其创办或清华正式孵化。"
+      ],
+      "urls": [
+        "https://www.limxdynamics.com/zh/news/BK000003"
+      ]
     }
   ],
   "labs": [
@@ -5704,7 +6132,7 @@
     ],
     [
       "IIIS",
-      "VAR / EVAR Lab",
+      "VAR Lab",
       "高阳 佴瑞乾 胡英东 吕雪广"
     ],
     [
@@ -6069,12 +6497,6 @@
       "mentor"
     ],
     [
-      "李一鸣",
-      "李昊展",
-      "导师待核",
-      "pending"
-    ],
-    [
       "张亚勤",
       "李健雄",
       "博士导师·自述",
@@ -6235,18 +6657,24 @@
       "林凡淇",
       "导师（报道）",
       "mentor"
+    ],
+    [
+      "弋力",
+      "李忆唐",
+      "研究指导",
+      "mentor"
+    ],
+    [
+      "李涓子",
+      "白雨石",
+      "博士导师",
+      "mentor"
     ]
   ],
   "labMeta": {
     "ISR Lab": {
       "cn": "智能系统与机器人实验室",
       "direction": "控制·强化学习",
-      "scope": "核心",
-      "explanatory": false
-    },
-    "VAR / EVAR Lab": {
-      "cn": "视觉与机器人实验室",
-      "direction": "具身模型·操作",
       "scope": "核心",
       "explanatory": false
     },
@@ -6257,10 +6685,14 @@
       "explanatory": false
     },
     "MARS Lab": {
-      "cn": "赵行视觉与机器人课题组",
-      "direction": "感知·导航",
+      "cn": "清华大学 MARS Lab",
+      "direction": "多模态·自动驾驶·机器人学习",
       "scope": "核心",
-      "explanatory": true
+      "explanatory": false,
+      "extraInfo": [
+        "赵行主持；代表研究为DriveVLM、Humanoid Parkour Learning与Robot Parkour Learning。",
+        "与香港大学张富的MaRS Lab分别维护；论文署名不等于当前学生名册。"
+      ]
     },
     "3DVICI Lab": {
       "cn": "三维视觉计算与机器智能实验室",
@@ -6511,6 +6943,17 @@
       "direction": "核能·先进能源",
       "scope": "交叉",
       "explanatory": true
+    },
+    "VAR Lab": {
+      "cn": "视觉与机器人实验室",
+      "direction": "具身模型·操作",
+      "scope": "核心",
+      "explanatory": false,
+      "extraInfo": [
+        "清华当前官方名称为视觉与机器人实验室（VAR），PI为高阳。",
+        "EVAR见于旧人物页及二手盘点；是否为正式旧称、何时更名仍待核。",
+        "代表研究：ATM、CoPa、Efficient Zero。"
+      ]
     }
   },
   "deptThemes": {
@@ -6529,6 +6972,8 @@
     "生物医学工程学院": "交叉观察｜脑机接口",
     "物理系": "交叉观察｜量子、科学智能",
     "微纳电子系（历史）": "历史校友入口｜机器人、芯片",
-    "院系待核": "清华校友入口｜院系待核"
+    "院系待核": "清华校友入口｜院系待核",
+    "航天航空学院": "力学校友入口｜柔性机器人、机械超材料",
+    "材料科学与工程系（历史）": "材料学缘入口｜机器人触觉、微纳能源"
   }
 }

@@ -17,7 +17,7 @@ tags: [award, tsinghua, frontier-talent]
 
 # 人工智能创新创业能力提升证书项目（AI创证书）
 
-> Sources: 清华大学新闻网第23届中国机器人及人工智能大赛报道（https://www.tsinghua.edu.cn/info/1180/90596.htm）, 2026-09-07
+> Sources: 清华大学新闻网第23届中国机器人及人工智能大赛报道（<https://www.tsinghua.edu.cn/info/1180/90596.htm>）, 2026-09-07
 > Raw: [第23届中国机器人及人工智能大赛清华获奖](../../raw/sources/2026-09-07-第23届中国机器人及人工智能大赛清华获奖.md)
 
 ## 一句话判断
@@ -67,5 +67,5 @@ tags: [award, tsinghua, frontier-talent]
 
 ## 证据缺口
 
-- 首批导入引用的 `https://www.icenter.tsinghua.edu.cn/info/1034/1674.htm`（AI创证书 FAQ）返回 HTTP 404，已在 [首批种子页面抓取失败与待验证来源](../questions/首批种子页面抓取失败与待验证来源.md) 登记；本轮未找到替代的项目官网页，本页事实全部来自机器人大赛报道的转述，故 `confidence` 记为 `single_source`。
+- 首批导入引用的 `<https://www.icenter.tsinghua.edu.cn/info/1034/1674.htm`>（AI创证书 FAQ）返回 HTTP 404，已在 [首批种子页面抓取失败与待验证来源](../questions/首批种子页面抓取失败与待验证来源.md) 登记；本轮未找到替代的项目官网页，本页事实全部来自机器人大赛报道的转述，故 `confidence` 记为 `single_source`。
 - 本页 2026-06-11 旧版本中"披露共建院系、导师规模、实践领域"等内容为占位生成文本，无来源支撑，已移除。

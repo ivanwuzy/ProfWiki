@@ -6,19 +6,20 @@ org_type: lab
 tier: 2
 parent: 清华大学工程物理系
 domains: []
-key_people: [高喆, 谭熠]
+key_people: [谭熠]
 related_companies: [星环聚能]
 watch_tier: T2
 priority: A+
 last_verified: 2026-09-07
-confidence: verified_primary
+confidence: single_source
 tags: [org, tsinghua, frontier-talent]
 ---
 
 # 清华大学等离子体科学与聚变实验室
 
-> Sources: 等离子体科学与聚变实验室（https://www.ep.tsinghua.edu.cn/info/1028/1708.htm）; 高喆个人页（https://www.ep.tsinghua.edu.cn/info/1165/2376.htm）; 谭熠个人页（https://www.ep.tsinghua.edu.cn/info/1170/2788.htm）; Semantic Scholar检索（https://www.semanticscholar.org/search?q=SUNIST%20spherical%20tokamak%20Tsinghua&sort=relevance）
-> Raw: [等离子体科学与聚变实验室](../../raw/sources/2026-06-11-等离子体科学与聚变实验室-SUNIST-等离子体科学与聚变实验室-0a4ccea3.md); [高喆个人页](../../raw/sources/2026-06-11-等离子体科学与聚变实验室-SUNIST-高喆个人页-d73b8fd8.md); [谭熠个人页](../../raw/sources/2026-06-11-等离子体科学与聚变实验室-SUNIST-谭熠个人页-a372dd28.md)
+> Sources: [等离子体科学与聚变实验室](https://www.ep.tsinghua.edu.cn/info/1028/1708.htm)；[高喆个人页](https://www.ep.tsinghua.edu.cn/info/1165/2376.htm)；[谭熠个人页](https://www.ep.tsinghua.edu.cn/info/1170/2788.htm)；[联想之星星环聚能创始团队](https://legendstar.com.cn/news/474647802543482226)；[晚点谭熠核聚变访谈](https://www.sohu.com/a/798896741_121842006)
+> Raw: [等离子体科学与聚变实验室](../../raw/sources/2026-06-11-等离子体科学与聚变实验室-SUNIST-等离子体科学与聚变实验室-0a4ccea3.md)；[高喆个人页](../../raw/sources/2026-06-11-等离子体科学与聚变实验室-SUNIST-高喆个人页-d73b8fd8.md)；[谭熠个人页](../../raw/sources/2026-06-11-等离子体科学与聚变实验室-SUNIST-谭熠个人页-a372dd28.md)；[联想之星星环聚能创始团队](../../raw/sources/2026-01-12-联想之星星环聚能A轮融资与创始团队.md)；[晚点谭熠核聚变访谈](../../raw/sources/晚点谭熠核聚变创业访谈搜狐转载.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
@@ -35,29 +36,20 @@ tags: [org, tsinghua, frontier-talent]
 
 ## 重点人物
 
-| 人物 | 角色 | 方向 | 信号 |
+| 人物 | 角色 | 方向 | 证据与边界 |
 |---|---|---|---|
-| [高喆](../people/高喆_清华工程物理系.md) | PI/负责人/相关人员 | PI、博士生/硕士生、毕业学生、SUNIST/SUNIST-2、项目负责人、论文。 | 创建实验室节点；SUNIST/SUNIST-2建平台节点；高喆/谭熠建人物节点。 |
-| [谭熠](../people/谭熠_清华工程物理系.md) | PI/负责人/相关人员 | PI、博士生/硕士生、毕业学生、SUNIST/SUNIST-2、项目负责人、论文。 | 创建实验室节点；SUNIST/SUNIST-2建平台节点；高喆/谭熠建人物节点。 |
+| [谭熠](../people/谭熠-清华工物.md) | 清华核聚变研究与产业化关联（媒体口径） | 核聚变 | [晚点访谈转载](../../raw/sources/晚点谭熠核聚变创业访谈搜狐转载.md)记载清华核聚变研究、装置与创业经历；不据此指定本实验室PI或主任。 |
 
 ## 创业/产业化线索
 
 | 公司/项目 | 关联方式 | 相关人物 | 证据 |
 |---|---|---|---|
-| [星环聚能](../companies/星环聚能.md) | 实验室技术路线（球形托卡马克 + 重复重联）产业化：[谭熠](../people/谭熠_清华工程物理系.md) 以在职副教授身份任联合创始人兼首席科学家，其 1999 级工物系同班同学 [陈锐](../people/陈锐_星环聚能.md) 任 CEO；公司与清华合作 279 天建成 [清华大学 SUNIST-2球形托卡马克](SUNIST-2球形托卡马克.md) | [谭熠](../people/谭熠_清华工程物理系.md)、[陈锐](../people/陈锐_星环聚能.md) | 界面新闻、上海证券报、新浪财经 |
-| 硕橙科技 | 谭熠与陈锐 2016 年的第一次共同创业（工业声学检测，未建公司页） | [谭熠](../people/谭熠_清华工程物理系.md)、[陈锐](../people/陈锐_星环聚能.md) | 界面新闻、联想之星 |
+| [星环聚能](../companies/星环聚能.md) | 实验室技术路线（球形托卡马克 + 重复重联）产业化：[谭熠](../people/谭熠-清华工物.md) 以在职副教授身份任联合创始人兼首席科学家，其 1999 级工物系同班同学 [陈锐](../people/陈锐-星环聚能.md) 任 CEO；公司与清华合作 279 天建成 [清华大学 SUNIST-2球形托卡马克](SUNIST-2球形托卡马克.md) | 谭熠、陈锐 | 界面新闻、上海证券报、新浪财经 |
+| 硕橙科技 | 谭熠与陈锐 2016 年的第一次共同创业（工业声学检测，未建公司页） | [谭熠](../people/谭熠-清华工物.md)、[陈锐](../people/陈锐-星环聚能.md) | 界面新闻、联想之星 |
 
 ## 派系判断
 
-本实验室呈现"同一平台内两种模式并存"的对照样本：[谭熠](../people/谭熠_清华工程物理系.md) 深度参与经营（在职创业、任首席科学家），[高喆](../people/高喆_清华工程物理系.md) 同为 SUNIST 平台 PI 但截至目前公开信息未见其参与创业。商业侧由非本实验室学术脉络的 [陈锐](../people/陈锐_星环聚能.md)（同班同学、转金融方向）承接，是"同窗二十年后合流"的典型结构。
-
-## 导入字段
-
-PI、博士生/硕士生、毕业学生、SUNIST/SUNIST-2、项目负责人、论文。
-
-## 后续动作
-
-创建实验室节点；SUNIST/SUNIST-2建平台节点；高喆/谭熠建人物节点。
+现有访谈支持谭熠的清华核聚变研究经历与企业侧产业化路径；不能据此确定本实验室完整人员名单。原将高喆写成“同为SUNIST平台PI”的判断缺少已保存正文支持，已退至待核。
 
 ## 证据
 
@@ -66,4 +58,15 @@ PI、博士生/硕士生、毕业学生、SUNIST/SUNIST-2、项目负责人、�
 | [等离子体科学与聚变实验室](https://www.ep.tsinghua.edu.cn/info/1028/1708.htm) | 支持“等离子体科学与聚变实验室 / SUNIST”的定位、人员入口或建页动作 | 2026-06-11 |
 | [高喆个人页](https://www.ep.tsinghua.edu.cn/info/1165/2376.htm) | 支持“等离子体科学与聚变实验室 / SUNIST”的定位、人员入口或建页动作 | 2026-06-11 |
 | [谭熠个人页](https://www.ep.tsinghua.edu.cn/info/1170/2788.htm) | 支持“等离子体科学与聚变实验室 / SUNIST”的定位、人员入口或建页动作 | 2026-06-11 |
-| [Semantic Scholar检索](https://www.semanticscholar.org/search?q=SUNIST%20spherical%20tokamak%20Tsinghua&sort=relevance) | 支持“等离子体科学与聚变实验室 / SUNIST”的定位、人员入口或建页动作 | 2026-06-11 |
+
+## 待补证检索入口
+
+以下链接仅用于寻找具体论文或作者页面，不支持本文事实判断；检索结果需完成身份核对并取得原文后再引用。
+
+- [Semantic Scholar 检索](https://www.semanticscholar.org/search?q=SUNIST%20spherical%20tokamak%20Tsinghua&sort=relevance)
+
+## 待补证人才与组织线索
+
+本页高喆官方个人页快照只有导航，缺少足以核实具体职务的正文。原“PI/负责人”标签撤回；候选身份与关系待补证。
+
+- 高喆：具体关系待证；暂不建立人物关联链接。

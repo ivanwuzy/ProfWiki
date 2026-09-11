@@ -1,0 +1,160 @@
+# Fengbin Tu (涂锋斌) - Home
+
+> Source: https://fengbintu.github.io/
+> Collected: 2026-09-11
+> Published: Unknown
+> Source Level: A0（官方机构或研究者本人公开正文；自述按原口径记录）
+> Capture: 公开网页正文；删除脚本、联系方式与办公室信息；资料日期与当前状态分开判断。
+
+## 原文
+
+Fengbin Tu (涂锋斌) - Home
+Home
+Research
+Publications
+Students
+Talks
+Advice
+Gallery
+Fengbin Tu
+Ph.D. in Electronic Science and Technology, THU
+Follow
+Hong Kong
+HKUST
+Email
+Google Scholar
+ORCID
+Github
+LinkedIn
+Zhihu
+Fengbin Tu (涂锋斌)
+Assistant Professor, ECE Department, HKUST
+Associate Director, Institute of Integrated Circuits and Systems, HKUST
+Associate Director, HKUST and Intel Joint Laboratory
+Fengbin Tu is an
+Assistant Professor
+of ECE Department, Associate Director of Institute of Integrated Circuits and Systems, and Associate Director of HKUST and Intel Joint Laboratory at The Hong Kong University of Science and Technology. He is the recipient of NSFC Excellent Young Scientists Fund (国家优青). He received the Ph.D. degree in 2019 from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof.
+Shaojun Wei
+and Prof.
+Shouyi Yin
+, with the Tsinghua Excellent Dissertation Award. He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof.
+Yuan Xie
+, University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (
+ACCESS
+) under InnoHK, from 2022 to 2023.
+Dr. Tu’s research interests include AI chip, computing-in-memory, computer architecture, and reconfigurable computing. He has published 2 books and over 80 papers, including top conferences and journals on integrated circuits and computer architecture (ISSCC, JSSC, DAC, ISCA, MICRO, etc), with 3 chips selected as ISSCC Highlight Papers (2022, 2023, 2026). His AI chips Thinker and ReDCIM have been recognized by the ISLPED Design Contest Award (2017) and Top-10 Research Advances in China Semiconductors (2023). He has received the MIT Technology Review “Innovators Under 35” (TR35) Asia-Pacific (2025), Gold Medal with Jury Congratulations at the Inventions Geneva (2025), and WAIC Yunfan Award-“Bright Stars” (2024). He worked with ACCESS and developed the AC-Transformer,
+the first Hong Kong AI chip at ISSCC (2025)
+. Dr. Tu has an online collection of research on AI chip and architecture design,
+Neural Networks on Silicon
+, which has attracted many researchers all around the world. He currently serves as Associate Editor of IEEE TCAD and Vice Chair of IEEE CEDA Hong Kong Chapter. He served as Design Contest Chair of ASP-DAC 2026 and PC members of ISCA, A-SSCC, DAC, etc.
+Research Interests
+AI Chip, Computing-in-Memory, Computer Architecture, Reconfigurable Computing
+Professional Experience
+Oct. 2022 - Present:
+The Hong Kong University of Science and Technology (HKUST)
+Associate Director
+, HKUST and Intel Joint Laboratory (Since Dec. 2025)
+Associate Director
+, Institute of Integrated Circuits and Systems (Since Jan. 2025)
+Assistant Professor
+(Since Jun. 2023)
+Adjunct Assistant Professor
+(Oct. 2022 - Jun. 2023)
+Department of Electronic and Computer Engineering
+May 2022 - Present:
+AI Chip Center for Emerging Smart Systems (ACCESS)
+Faculty Member
+(Since Jun. 2023)
+Postdoctoral Fellow
+, working with Prof. Tim Cheng (May. 2022 - Jun. 2023)
+Oct. 2019 - May 2022:
+University of California, Santa Barbara (UCSB)
+Postdoctoral Scholar
+, working with Prof. Yuan Xie
+Scalable Energy-efficient Architecture Lab (SEAL)
+Department of Electrical and Computer Engineering
+Education Experience
+Sep. 2013 - Jul. 2019:
+Tsinghua University (THU)
+Ph.D.
+in Electronic Science and Technology (Advisor: Prof. Shaojun Wei, Prof Shouyi Yin)
+Dissertation:
+Architecture Design and Memory Optimization for Neural Network Accelerators
+(Tsinghua Excellent Dissertation Award)
+Beijing Outstanding Graduate (5%), GPA Rank 2/20 in the Institute of Microelectronics
+National Scholarship for Ph.D. Students (0.2%, 2017)
+Sep. 2009 - Jun. 2013:
+Beijing University of Posts and Telecommunications (BUPT)
+B.S.
+in Electronic Science and Technology
+Beijing Outstanding Graduate (5%), GPA Rank 1/255 in the School of Electronic Engineering
+National Scholarship for Undergraduate Students (0.2%, 2010, 2011, 2012)
+Academic Services
+Community Services
+Vice Chair, IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter (2026)
+Financial Chair, IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter (2025)
+Founding Member, Hong Kong High Performance Computing Association (Since 2023)
+Journal Editorial Board
+Associate Editor, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD, Since 2026)
+Associate Editor, Edge Intelligence and Systems (EIS, Since 2026)
+Young Editorial Board Member, Journal of Semiconductors (JOS, Since 2024)
+Young Editorial Board Member, Chinese Journal of Electronics (CJE, Since 2025)
+Guest Editor, Special Topic: Innovative Architectures and Electronic Systems for Efficient Artificial Intelligence, Chinese Journal of Electronics (CJE, 2025)
+Guest Editor, Special Topic: AI Chips and Systems for Large Language Models, Science China: Information Sciences (SCIS, 2024)
+Conference Services
+Design Contest Chair, Asia and South Pacific Design Automation Conference (ASP-DAC 2026)
+Panel Chair, International Conference on Computer Design (ICCD 2026)
+Digital SC Co-Chair, International Conference on Integrated Circuits, Technologies and Applications (ICTA 2026)
+Digital SC Co-Chair, International Conference on Solid-State and Integrated Circuit Technology (ICSICT 2026)
+Tutorial Chair, International Symposium on Advanced Parallel Processing Technology (APPT 2026)
+Finance Chair, International Workshop on Logic and Synthesis (IWLS 2026)
+PC Member, International Symposium on Computer Architecture (ISCA 2026)
+PC Member, International Symposium on High-Performance Computer Architecture (HPCA 2027)
+PC Member, Asian Solid-State Circuits Conference (A-SSCC 2025, 2026)
+PC Member, Design Automation Conference (DAC 2022 - 2024)
+PC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
+PC Member, International Conference on Computer Design (ICCD 2026)
+PC Member, International Conference on Integrated Circuits, Technologies and Applications (ICTA 2025)
+PC Member, International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
+PC Member, Workshop on IC Advances in China (ICAC 2026)
+Honors and Awards
+ISSCC Highlight Paper (2022, 2023, 2026)
+A-SSCC Highlighted Paper (2026)
+IEEE Senior Member (2026)
+MIT Technology Review “Innovators Under 35” (TR35) Asia-Pacific (2025)
+HKUST Faculty Recognition Honor (2025)
+Gold Medal with Congratulations of the Jury at the 50th International Exhibition of Inventions Geneva (2025)
+Nomination Award for 2024 Top-10 Research Advances in China Semiconductors (2025)
+NSFC Excellent Young Scientists Fund (国家优秀青年科学基金, 2024)
+2023 Top-10 Research Advances in China Semiconductors (2024)
+WAIC Yunfan Award-“Bright Stars” (Top-10 Chinese AI Scholars under 35, 2024)
+Nomination Award for 2023 Chip10 Science (2024)
+ZGC Forum Top-100 New Technologies and Products (2023)
+Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2022)
+Top-Pick Paper Award in Chinese Institute of Electronics (2021)
+Beijing Outstanding Graduate (BUPT 2013, THU 2019, 5%)
+THU Excellent Dissertation Award (2019)
+National Scholarship for Ph.D. Students (THU 2017, 0.2%)
+ISLPED’17 Design Contest Award (2017)
+THU Outstanding Postgraduate Assistant (2016)
+Lam Research Scholarship (2015)
+Excellent Paper Award at THU-IME Ph.D. Student Forum (2015)
+National Scholarship for Undergraduate Students (BUPT 2010, 2011, 2012, 0.2%)
+BUPT Merit Student (2010, 2011, 2012)
+Course Teaching
+ELEC 2350: Introduction to Computer Organization and Design (Spring 2024, 2025)
+ELEC 4350: AI Processor Architecture (Spring 2026)
+ELEC 5170: Advanced AI Chips and Systems (Fall 2026)
+ELEC 6910H: Advanced AI Chip and System (Fall 2024, 2025)
+Contact
+Sitemap
+Follow:
+GitHub
+Feed
+© 2026 Fengbin Tu. Powered by
+Jekyll
+&
+AcademicPages
+, a fork of
+Minimal Mistakes
+.

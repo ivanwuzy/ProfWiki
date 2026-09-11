@@ -16,8 +16,9 @@ tags: [org, tsinghua, frontier-talent, ai, ai-agent]
 
 # 清华大学 AI Agent课题组
 
-> Sources: 清华大学人工智能学院 AI Agent课题组, 2026-06-11; 清华大学人工智能学院李佳页面, 2026-06-11; Jia Li's Homepage, 2026-06-11; 清华大学人工智能学院课题组介绍, 2026-06-11
-> Raw: [AI Agent课题组](../../raw/sources/2026-06-11-ai-agent课题组.md); [李佳-清华大学人工智能学院](../../raw/sources/2026-06-11-李佳-清华大学人工智能学院.md); [Jia Li's Homepage](../../raw/sources/2026-06-11-jia-li-homepage.md); [课题组介绍](../../raw/sources/2026-06-11-清华大学人工智能学院课题组介绍.md)
+> Sources: 清华大学人工智能学院 AI Agent课题组, 2026-06-11；清华大学人工智能学院李佳页面, 2026-06-11；Jia Li's Homepage, 2026-06-11；清华大学人工智能学院课题组介绍, 2026-06-11
+> Raw: [AI Agent课题组](../../raw/sources/2026-06-11-ai-agent课题组.md)；[李佳-清华大学人工智能学院](../../raw/sources/2026-06-11-李佳-清华大学人工智能学院.md)；[Jia Li's Homepage](../../raw/sources/2026-06-11-jia-li-homepage.md)；[课题组介绍](../../raw/sources/2026-06-11-清华大学人工智能学院课题组介绍.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
@@ -28,15 +29,15 @@ AI Agent课题组是清华大学人工智能学院面向大模型驱动智能体
 | 字段 | 内容 |
 |---|---|
 | 类型 | 课题组 |
-| 所属单位 | 清华大学人工智能学院；见 [清华大学人工智能学院课题组总入口](清华大学人工智能学院课题组总入口.md) |
+| 所属单位 | [清华大学人工智能学院](清华大学人工智能学院CollegeAI.md) |
 | 方向 | AI Agent、大模型、软件工程、Coding Agent、Agent安全 |
-| 官网 | https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/AI_Agentktz.htm |
+| 官网 | <https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/AI_Agentktz.htm> |
 
 ## 重点人物
 
 | 人物 | 角色 | 方向 | 信号 |
 |---|---|---|---|
-| [李佳](../people/李佳_清华人工智能学院.md) | PI | AI Agent、大模型、软件工程 | AI学院全职PI；个人主页称其 lead the Tsinghua AI Agent Group；官方页披露与智能编程工具转化相关 |
+| [李佳](../people/李佳-清华AI学院.md) | PI | AI Agent、大模型、软件工程 | AI学院全职PI；个人主页称其 lead the Tsinghua AI Agent Group；官方页披露与智能编程工具转化相关 |
 
 ## 代表性方向与成果
 

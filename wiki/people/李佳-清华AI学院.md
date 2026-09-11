@@ -1,0 +1,71 @@
+---
+title: "李佳-清华AI学院"
+type: person
+name: 李佳
+aliases: [Jia Li]
+role_type: professor
+affiliations: [清华大学人工智能学院]
+labs: [AI Agent课题组, Tsinghua AI Agent Group]
+domains: [ai-agent, llm, software-engineering, coding-agent, agent-safety]
+status: high_potential
+watch_tier: T1
+priority: A
+related_companies: [北京非十科技有限公司]
+last_verified: 2026-06-11
+confidence: verified_primary
+tags: [person, tsinghua, frontier-talent, ai]
+---
+
+# 李佳
+
+> Sources: [清华大学人工智能学院李佳页](https://collegeai.tsinghua.edu.cn/rydw/qzpi/lijia.htm)；Jia Li's Homepage[^source-1]；[AI Agent课题组](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/AI_Agentktz.htm)
+> Raw: [李佳-清华大学人工智能学院](../../raw/sources/2026-06-11-李佳-清华大学人工智能学院.md)；[Jia Li's Homepage](../../raw/sources/2026-06-11-jia-li-homepage.md)；[AI Agent课题组](../../raw/sources/2026-06-11-ai-agent课题组.md)
+
+## 一句话判断
+
+李佳是清华人工智能学院助理教授、[清华大学 AI Agent课题组](../orgs/AI_Agent课题组.md) PI，聚焦大模型驱动智能体、软件工程智能体、Coding Agent 与 Agent 安全。
+
+## 基本信息
+
+| 字段 | 内容 |
+|---|---|
+| 当前身份 | 清华大学人工智能学院助理教授、博士生导师 |
+| 清华关联 | [清华大学人工智能学院](../orgs/清华大学人工智能学院CollegeAI.md) |
+| 方向 | AI Agent、大模型、软件工程、Coding Agent、Agent安全 |
+| 导师/实验室 | [清华大学 AI Agent课题组](../orgs/AI_Agent课题组.md)；个人主页称其 lead the Tsinghua AI Agent Group |
+| 公开主页 | [^source-1] |
+
+## 关键信号
+
+| 类型 | 内容 | 年份 | 证据 |
+|---|---|---:|---|
+| 任职 | 2025年8月起任清华大学人工智能学院助理教授、博士生导师 | 2026 | AI学院李佳页 |
+| 教育背景 | 2020年9月-2025年7月于北京大学计算机学院获得博士学位 | 2026 | AI学院李佳页 |
+| 研究方向 | 聚焦 AI Agent 的推理、记忆、工具调用、效率、安全、多智能体协作等基础能力 | 2026 | AI学院李佳页；个人主页 |
+| Coding Agent | 开源真实软件项目代码生成评估基准，训练并开源 aiXcoder-7B 系列代码大模型 | 2026 | AI学院李佳页 |
+| 产业化线索 | 与北京非十科技有限公司联合推出智能编程工具 Fitten Code 与 EniaCode，官方页称累计下载量超过150万 | 2026 | AI学院李佳页 |
+| 最新论文动态 | 个人主页列出 2025-2026 年 ACL、FSE、ISSTA、NeurIPS、ASE、ICSE 等论文动态 | 2026 | Jia Li's Homepage |
+
+## 创业/产业关联
+
+| 公司/项目 | 关系 | 状态 | 证据 |
+|---|---|---|---|
+| 北京非十科技有限公司 / Fitten Code / EniaCode | 官方页披露联合推出智能编程工具 | 公司角色、股权和融资待工商/官网交叉验证 | AI学院李佳页 |
+| aiXcoder-7B 系列 | 代码大模型/开源模型线索 | 需跟踪代码、模型、学生作者和商业化关系 | AI学院李佳页；个人主页 |
+
+## 待验证
+
+- [ ] 北京非十科技有限公司与 Fitten Code / EniaCode 的工商主体、融资、产品官网和李佳具体角色。
+- [ ] 课题组成员、GitHub 项目和学生作者名单。
+
+## 证据
+
+| 来源 | 支持事实 | 日期 |
+|---|---|---|
+| [AI学院李佳页](https://collegeai.tsinghua.edu.cn/rydw/qzpi/lijia.htm) | 当前身份、教育背景、研究方向、Coding Agent 成果、产业化线索 | 2026-06-11 |
+| Jia Li's Homepage[^source-1] | Tsinghua AI Agent Group、研究问题、2025-2026 论文动态 | 2026-06-11 |
+| [AI Agent课题组](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/AI_Agentktz.htm) | 课题组方向和 PI 关系 | 2026-06-11 |
+
+## 引用来源
+
+[^source-1]: [Jia Li's Homepage](https://lj2lijia.github.io/)

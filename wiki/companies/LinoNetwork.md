@@ -18,12 +18,12 @@ tags: [company, hkust, blockchain]
 
 # Lino Network
 
-> Sources: Crunchbase人物页 Qifeng Chen（https://www.crunchbase.com/person/qi-feng-chen）; TechNode《California-based startup Lino fights social-platform power with blockchain》（https://technode.com/2019/01/16/meet-lino-the-chinese-company-bringing-decentralized-content-to-the-world/）; 港科大CSE官方课程页（https://cse.hkust.edu.hk/ug/comp4900/F18/2018-09-19.html）; 港科大创业中心官网（https://ec.hkust.edu.hk/news/build-youtube-blockchain-seminar）; 港科大工学院官方新闻（https://seng.hkust.edu.hk/news/20190123/prof-chen-qifeng-named-one-35-innovators-under-35-china-2018-mit-technology-review）; PRNewswire《Lino Raises $20 Million》（https://www.prnewswire.com/news-releases/lino-raises-20-million-to-create-decentralized-video-community-with-blockchain-300593332.html）; Tracxn公司档案 Lino（https://tracxn.com/d/companies/lino/__HWaN99nAc-gqBRcW4fN0Yp055rwVP0VB0MTTuWZokgc）; Coinspeaker《DLive and Lino Network Join BitTorrent and Tron Ecosystem》（https://www.coinspeaker.com/dlive-lino-bittorrent-tron/）
+> Sources: [Crunchbase人物页 Qifeng Chen](https://www.crunchbase.com/person/qi-feng-chen)；[TechNode《California-based startup Lino fights social-platform power with blockchain》](https://technode.com/2019/01/16/meet-lino-the-chinese-company-bringing-decentralized-content-to-the-world/)；港科大CSE官方课程页[^source-1]；[港科大创业中心官网](https://ec.hkust.edu.hk/news/build-youtube-blockchain-seminar)；[港科大工学院官方新闻](https://seng.hkust.edu.hk/news/20190123/prof-chen-qifeng-named-one-35-innovators-under-35-china-2018-mit-technology-review)；PRNewswire《Lino Raises $20 Million》[^source-2]；[Tracxn公司档案 Lino](https://tracxn.com/d/companies/lino/__HWaN99nAc-gqBRcW4fN0Yp055rwVP0VB0MTTuWZokgc)；[Coinspeaker《DLive and Lino Network Join BitTorrent and Tron Ecosystem》](https://www.coinspeaker.com/dlive-lino-bittorrent-tron/)
 > Raw: [2018-09-13-港科大陈启峰Lino创业分享](../../raw/sources/2018-09-13-港科大陈启峰Lino创业分享.md)；[2018-02-05-Lino代币私募融资官方新闻稿](../../raw/sources/2018-02-05-Lino代币私募融资官方新闻稿.md)
 
 ## 一句话判断
 
-Lino Network 是港科大 [陈启峰](../people/陈启峰_港科大CSE.md) 教授学术生涯早期（2017年）在硅谷发起的区块链创业项目，其联合创始人兼首席科学家身份有 Crunchbase、TechNode、港科大官方页面多方交叉印证；旗下直播应用 DLive 一度签下 YouTube 头部主播 PewDiePie 实现爆发式增长，但 2019 年底核心资产被孙宇晨（Justin Sun）旗下 TRON/BitTorrent 收购并迁移上链，创投数据库 Tracxn 已将 Lino 标注为"不再活跃"——**这是本库中少见的、创业标的已明确终止/被收购的案例**。
+Lino Network 是港科大 [陈启峰](../people/陈启峰-港科大计算机.md) 教授学术生涯早期（2017年）在硅谷发起的区块链创业项目，其联合创始人兼首席科学家身份有 Crunchbase、TechNode、港科大官方页面多方交叉印证；旗下直播应用 DLive 一度签下 YouTube 头部主播 PewDiePie 实现爆发式增长，但 2019 年底核心资产被孙宇晨（Justin Sun）旗下 TRON/BitTorrent 收购并迁移上链，创投数据库 Tracxn 已将 Lino 标注为"不再活跃"——**这是本库中少见的、创业标的已明确终止/被收购的案例**。
 
 ## 基本信息
 
@@ -31,7 +31,7 @@ Lino Network 是港科大 [陈启峰](../people/陈启峰_港科大CSE.md) 教�
 |---|---|
 | 公司全称 | 待验证（未查得官方工商注册全称） |
 | 常用简称/英文名 | Lino / Lino Network |
-| 创始人 | Wei Jiequan（创始人兼CEO，中文姓名待核实）、[陈启峰](../people/陈启峰_港科大CSE.md)（联合创始人兼首席科学家）、Li Yihe（CTO，中文姓名待核实）、Wu Ziyue（联合创始人，中文姓名待核实） |
+| 创始人 | Wei Jiequan（创始人兼CEO，中文姓名待核实）、[陈启峰](../people/陈启峰-港科大计算机.md)（联合创始人兼首席科学家）、Li Yihe（CTO，中文姓名待核实）、Wu Ziyue（联合创始人，中文姓名待核实） |
 | 成立时间 | 2017年年中，美国加州Cupertino（硅谷） |
 | 主营业务 | 自研区块链（PBFT-based DPoS）支撑的去中心化自治内容/视频经济平台；旗舰应用 DLive 为对标 Twitch/YouTube 的直播平台 |
 | 融资阶段 | 2018年2月完成2000万美元代币私募（真格基金ZhenFund领投），未查到后续融资轮次 |
@@ -41,7 +41,7 @@ Lino Network 是港科大 [陈启峰](../people/陈启峰_港科大CSE.md) 教�
 
 | 关联类型 | 内容 |
 |---|---|
-| 联合创始人 | [陈启峰](../people/陈启峰_港科大CSE.md)，港科大 [香港科技大学计算机科学及工程学系](../orgs/香港科技大学计算机科学及工程学系CSE.md) 副教授，任 Lino Network 联合创始人兼首席科学家（Co-Founder & Chief Scientist）；据 TechNode 报道，创业构想产生于其赴斯坦福参加区块链活动途中的一次 Uber 车程 |
+| 联合创始人 | [陈启峰](../people/陈启峰-港科大计算机.md)，港科大 [香港科技大学计算机科学及工程学系](../orgs/香港科技大学计算机科学及工程学系CSE.md) 副教授，任 Lino Network 联合创始人兼首席科学家（Co-Founder & Chief Scientist）；据 TechNode 报道，创业构想产生于其赴斯坦福参加区块链活动途中的一次 Uber 车程 |
 | 时间线定位 | 该项目发生在陈启峰港科大教职生涯早期（2017年起），是目前唯一有多方信源交叉验证的创业经历 |
 | 港科大官方背书 | 港科大CSE课程页、创业中心官网、工学院官方新闻（MIT TR35获奖介绍）均提及其Lino创业经历，可视为校方对该创业背景的公开认可 |
 
@@ -58,7 +58,7 @@ Lino Network 是港科大 [陈启峰](../people/陈启峰_港科大CSE.md) 教�
 | 姓名 | 角色 | 背景 | 证据 |
 |---|---|---|---|
 | Wei Jiequan | 创始人兼CEO | 创业前为活跃的加密项目投资人，对区块链潜力有浓厚兴趣；中文姓名及完整背景未核实 | TechNode |
-| [陈启峰](../people/陈启峰_港科大CSE.md) | 联合创始人兼首席科学家 | 创业构想产生于赴斯坦福参加区块链活动途中；现任港科大CSE/ECE副教授 | Crunchbase、TechNode、港科大官网 |
+| [陈启峰](../people/陈启峰-港科大计算机.md) | 联合创始人兼首席科学家 | 创业构想产生于赴斯坦福参加区块链活动途中；现任港科大CSE/ECE副教授 | Crunchbase、TechNode、港科大官网 |
 | Li Yihe | CTO | 中文姓名及背景未核实 | TechNode（人物图片说明） |
 | Wu Ziyue | 联合创始人 | 中文姓名及背景未核实 | TechNode（人物图片说明） |
 | Harry Zhang | 部分信源列为Lino Network与DLive联合创始人 | 与TechNode文章列出的创始团队名单存在交叉但未完全一致，是否为同一团队的不同报道口径待核实 | A2级信源，待核实 |
@@ -92,10 +92,10 @@ Lino Network 是港科大 [陈启峰](../people/陈启峰_港科大CSE.md) 教�
 |---|---|---|
 | [Crunchbase：Qifeng Chen 人物页](https://www.crunchbase.com/person/qi-feng-chen) | 陈启峰"Co-Founder and Chief Scientist at Lino"身份 | 2026-09-07 |
 | [TechNode：California-based startup Lino fights social-platform power with blockchain](https://technode.com/2019/01/16/meet-lino-the-chinese-company-bringing-decentralized-content-to-the-world/) | 成立时间与地点、创始团队姓名、DLive 定位与月活数据 | 2026-09-07 |
-| [港科大CSE官方课程页 (2018-09-19)](https://cse.hkust.edu.hk/ug/comp4900/F18/2018-09-19.html) | 港科大官方邀请陈启峰分享创业经历 | 2026-09-07 |
+| 港科大CSE官方课程页 (2018-09-19)[^source-1] | 港科大官方邀请陈启峰分享创业经历 | 2026-09-07 |
 | [港科大创业中心官网](https://ec.hkust.edu.hk/news/build-youtube-blockchain-seminar) | "Build YouTube on Blockchain"分享会，佐证创业经历 | 2026-09-07 |
 | [港科大工学院官方新闻：MIT TR35获奖介绍](https://seng.hkust.edu.hk/news/20190123/prof-chen-qifeng-named-one-35-innovators-under-35-china-2018-mit-technology-review) | 官方新闻中提及陈启峰创业背景 | 2026-09-07 |
-| [PRNewswire：Lino Raises $20 Million](https://www.prnewswire.com/news-releases/lino-raises-20-million-to-create-decentralized-video-community-with-blockchain-300593332.html) | 2018年2月2000万美元代币私募、真格基金领投 | 2026-09-07 |
+| PRNewswire：Lino Raises $20 Million[^source-2] | 2018年2月2000万美元代币私募、真格基金领投 | 2026-09-07 |
 | [Tracxn公司档案：Lino](https://tracxn.com/d/companies/lino/__HWaN99nAc-gqBRcW4fN0Yp055rwVP0VB0MTTuWZokgc) | 公司当前"不再活跃"（not active）状态、融资总额 | 2026-09-07 |
 | CoinDesk / Yahoo Finance：PewDiePie helps DLive user growth（2019年5月报道） | DLive 2019年4月月活增长数据（约300万→500万+，环比+67%） | 2026-09-07 |
 | [Coinspeaker：DLive and Lino Network Join BitTorrent and Tron Ecosystem](https://www.coinspeaker.com/dlive-lino-bittorrent-tron/) | 2019年底DLive/Lino与BitTorrent/TRON整合、代币由LINO迁移至BTT | 2026-09-07 |
@@ -105,7 +105,13 @@ Lino Network 是港科大 [陈启峰](../people/陈启峰_港科大CSE.md) 教�
 
 港科大2018年活动原文确认陈启峰联合创始人身份；Lino自己发布的融资稿明确写 $20 million 来自 private token sale（代币私募），不能直接等同股权Seed轮。首席科学家、完整创始名单、DLive资产交易与当前停运状态仍需其各自来源存档，不能由2018年活动页推定。
 
-本轮存档来源：[2018-09-13-港科大陈启峰Lino创业分享](https://cse.hkust.edu.hk/ug/comp4900/F18/2018-09-19.html)；[2018-02-05-Lino代币私募融资官方新闻稿](https://www.prnewswire.com/news-releases/lino-raises-20-million-to-create-decentralized-video-community-with-blockchain-300593332.html)。
+本轮存档来源：2018-09-13-港科大陈启峰Lino创业分享[^source-1]；2018-02-05-Lino代币私募融资官方新闻稿[^source-2]。
 
 > **Status: Outdated** (2026-09-08)
 > 原页将融资统一称为“Seed轮”；公司原始融资稿写明 private token sale，现按代币私募更正，不将其作为已核实的股权融资轮次。
+
+## 引用来源
+
+[^source-1]: [港科大CSE官方课程页](https://cse.hkust.edu.hk/ug/comp4900/F18/2018-09-19.html)
+
+[^source-2]: [PRNewswire《Lino Raises $20 Million》](https://www.prnewswire.com/news-releases/lino-raises-20-million-to-create-decentralized-video-community-with-blockchain-300593332.html)

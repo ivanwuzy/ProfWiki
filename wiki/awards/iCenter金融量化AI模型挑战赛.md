@@ -17,7 +17,7 @@ tags: [award, tsinghua, frontier-talent]
 
 # iCenter 金融量化 AI 模型挑战赛
 
-> Sources: 清华 iCenter（https://www.icenter.tsinghua.edu.cn/info/1025/1846.htm）, 2026-09-07
+> Sources: 清华 iCenter（<https://www.icenter.tsinghua.edu.cn/info/1025/1846.htm>）, 2026-09-07
 > Raw: [第八届 iCenter 金融量化 AI 模型挑战赛获奖名单](../../raw/sources/2026-09-07-第八届iCenter金融量化AI模型挑战赛获奖名单.md)
 
 ## 一句话判断
@@ -34,7 +34,7 @@ iCenter 课程配套的校内量化建模赛，规模小、名单完整但缺院
 | 课程负责人 | 陈震 |
 | 组织与颁奖 | 主持：汪浩（国家级双创教育实践基地导师）；颁奖：张琦（双创教学部部长） |
 | 奖品赞助 | 北京艾托邦人工智能科技有限公司 |
-| 官网/入口 | https://www.icenter.tsinghua.edu.cn/info/1025/1846.htm |
+| 官网/入口 | <https://www.icenter.tsinghua.edu.cn/info/1025/1846.htm> |
 
 ## 获奖/参赛记录
 
@@ -72,5 +72,5 @@ iCenter 课程配套的校内量化建模赛，规模小、名单完整但缺院
 
 ## 证据缺口
 
-- 首批导入引用的 `https://www.icenter.tsinghua.edu.cn/info/1055/2588.htm` 返回 HTTP 404，已替换为上述现行链接，并在 [首批种子页面抓取失败与待验证来源](../questions/首批种子页面抓取失败与待验证来源.md) 登记。
+- 首批导入引用的 `<https://www.icenter.tsinghua.edu.cn/info/1055/2588.htm`> 返回 HTTP 404，已替换为上述现行链接，并在 [首批种子页面抓取失败与待验证来源](../questions/首批种子页面抓取失败与待验证来源.md) 登记。
 - 页面正文未完整入库，名单经检索交叉验证，`confidence` 记为 `verified_secondary`。

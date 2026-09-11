@@ -17,12 +17,12 @@ tags: [org, tsinghua, iiis, frontier-talent]
 
 # 清华大学 Embryo Labs
 
-> Sources: IIIS Embryo Labs 页（https://iiis.tsinghua.edu.cn/kxyj/ktzjs/Embryo_Labs.htm）; GitHub 组织 embryo-labs（https://github.com/embryo-labs）; IIIS 人员队伍（https://iiis.tsinghua.edu.cn/rydw.htm）
+> Sources: IIIS Embryo Labs 页[^source-1]；GitHub 组织 embryo-labs[^source-2]；[IIIS 人员队伍](https://iiis.tsinghua.edu.cn/rydw.htm)
 > Raw: [IIIS公开人员候选名单](../../raw/sources/2026-09-07-清华大学交叉信息研究院IIIS-公开人员候选名单.md)（来源编号 S1、S6）
 
 ## 一句话判断
 
-Embryo Labs 是 IIIS 的数据库系统课题组，PI [张焕晨](../people/张焕晨_清华交叉信息研究院.md) 来自 CMU + Snowflake 体系，方向已从传统数据库延伸到"面向 AI 的数据底座"，是本库观察 AI Infra 中数据层这一环的入口；**9 位在读博士生是 IIIS 单课题组中公开规模最大的学生群体**。
+Embryo Labs 是 IIIS 的数据库系统课题组，PI [张焕晨](../people/张焕晨-清华叉院.md) 来自 CMU + Snowflake 体系，方向已从传统数据库延伸到"面向 AI 的数据底座"，是本库观察 AI Infra 中数据层这一环的入口；**9 位在读博士生是 IIIS 单课题组中公开规模最大的学生群体**。
 
 > 命名提示：网络上大量 "Embryo Labs" 结果实为生殖医学领域的胚胎实验室，与本课题组无关。
 
@@ -32,16 +32,16 @@ Embryo Labs 是 IIIS 的数据库系统课题组，PI [张焕晨](../people/张�
 |---|---|
 | 类型 | 课题组 / group |
 | 所属单位 | [清华大学交叉信息研究院](清华大学交叉信息研究院IIIS.md) |
-| PI | [张焕晨](../people/张焕晨_清华交叉信息研究院.md) |
+| PI | [张焕晨](../people/张焕晨-清华叉院.md) |
 | 方向 | 数据库管理系统、索引/过滤数据结构、数据压缩、云数据库；智能云原生数据库、复杂查询优化、向量化执行引擎、LSM-tree 存储引擎、面向 AI 的现代存储格式 |
-| 官网 | https://iiis.tsinghua.edu.cn/kxyj/ktzjs/Embryo_Labs.htm |
-| 开源组织 | https://github.com/embryo-labs（标注 "Database Group at IIIS, Tsinghua University"，约 9 个公开仓库） |
+| 官网 | [^source-1] |
+| 开源组织 | [^source-2]（标注 "Database Group at IIIS, Tsinghua University"，约 9 个公开仓库） |
 
 ## 重点人物
 
 | 人物 | 角色 | 方向 | 信号 |
 |---|---|---|---|
-| [张焕晨](../people/张焕晨_清华交叉信息研究院.md) | PI | 数据库管理系统、云数据库、数据压缩 | CMU 博士、Snowflake 博士后；SIGMOD/VLDB 连续产出；GitHub 开源组织活跃 |
+| [张焕晨](../people/张焕晨-清华叉院.md) | PI | 数据库管理系统、云数据库、数据压缩 | CMU 博士、Snowflake 博士后；SIGMOD/VLDB 连续产出；GitHub 开源组织活跃 |
 
 ## 成员（在读博士生）
 
@@ -63,7 +63,7 @@ Embryo Labs 是 IIIS 的数据库系统课题组，PI [张焕晨](../people/张�
 
 | 姓名 | 页面标签 | 不纳入原因 |
 |---|---|---|
-| 蒙瑞俊 | Incoming 博士生 | 非"在读博士生"，尚未入学；见[清华大学交叉信息研究院高潜观察池](../maps/清华大学交叉信息研究院高潜观察池.md) |
+| 蒙瑞俊 | Incoming 博士生 | 非"在读博士生"，尚未入学；按本页名册快照保留 |
 
 ## 代表性开源项目
 
@@ -91,6 +91,12 @@ Embryo Labs 是 IIIS 的数据库系统课题组，PI [张焕晨](../people/张�
 
 | 来源 | 支持事实 | 日期 |
 |---|---|---|
-| [IIIS Embryo Labs 页](https://iiis.tsinghua.edu.cn/kxyj/ktzjs/Embryo_Labs.htm) | 课题组归属、9 位在读博士生名单、蒙瑞俊为 Incoming | 2026-09-07 |
-| [GitHub embryo-labs](https://github.com/embryo-labs) | 开源组织归属、代表性仓库 | 2026-09-07 |
+| IIIS Embryo Labs 页[^source-1] | 课题组归属、9 位在读博士生名单、蒙瑞俊为 Incoming | 2026-09-07 |
+| GitHub embryo-labs[^source-2] | 开源组织归属、代表性仓库 | 2026-09-07 |
 | [IIIS 人员队伍](https://iiis.tsinghua.edu.cn/rydw.htm) | 张焕晨职称与公开研究方向 | 2026-09-07 |
+
+## 引用来源
+
+[^source-1]: [IIIS Embryo Labs 页](https://iiis.tsinghua.edu.cn/kxyj/ktzjs/Embryo_Labs.htm)
+
+[^source-2]: [GitHub 组织 embryo-labs](https://github.com/embryo-labs)

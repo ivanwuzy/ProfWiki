@@ -1,0 +1,54 @@
+---
+title: "周浩-清华AIR"
+type: person
+name: 周浩
+aliases: [Hao Zhou]
+role_type: professor
+affiliations: [清华大学智能产业研究院（AIR）]
+labs: []
+domains: [ai4science, nlp, reinforcement-learning, foundation-model]
+status: academic_only
+watch_tier: T2
+related_companies: []
+last_verified: 2026-09-08
+confidence: single_source
+tags: [person, tsinghua, air, ai4science, frontier-talent]
+---
+
+# 周浩
+
+> Sources: [清华大学智能产业研究院（AIR）官网](https://air.tsinghua.edu.cn/)
+> Raw: [AA计划清华高校老师信息表](../../raw/sources/2026-09-08-AA计划-清华高校老师信息表.md)
+> Updated: 2026-09-08
+
+## 一句话判断
+
+周浩是[清华大学智能产业研究院](../orgs/清华大学智能产业研究院AIR.md)副研究员／副教授，内部整理表将 **LLM 强化学习系统 DAPO** 记在其名下；目前未见创业线索。
+
+## 基本信息
+
+| 字段 | 内容 |
+|---|---|
+| 当前身份 | 清华大学 AIR 副研究员／副教授（内部表两处口径并存） |
+| 清华关联 | 在职 |
+| 方向 | AI for Science、自然语言处理、大模型强化学习 |
+| 导师/实验室 | 待验证 |
+| 公开主页 | AIR 官网 |
+
+## 关键信号
+
+| 类型 | 内容 | 年份 | 证据 |
+|---|---|---:|---|
+| 开源/系统 | LLM 强化学习系统 **DAPO** | 待验证 | 内部整理表 |
+
+## 待验证
+
+- [ ] 确切职称
+- [ ] **DAPO 与其本人的署名关系**——DAPO 通常被归为字节跳动 Seed × 清华 AIR 的联合工作，作者名单需逐一核对
+- [ ] 是否存在创业线索
+
+## 证据
+
+| 来源 | 支持事实 | 日期 |
+|---|---|---|
+| 内部整理表 | AIR 归属、DAPO 线索 | 2026-09-08 |

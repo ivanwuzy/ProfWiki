@@ -6,85 +6,57 @@ org_type: lab
 tier: 2
 parent: 香港科技大学电子及计算机工程学系
 domains: [robotics, autonomous-driving, visual-inertial-navigation, drone, slam]
-watch_tier: T0
-last_verified: 2026-09-08
-confidence: unverified
+watch_tier: T1
+last_verified: 2026-09-11
+confidence: verified_primary
 tags: [org, hkust, lab, uav]
 ---
 
 # 香港科技大学无人机研究组
 
-> Sources: HKUST Aerial Robotics Group官网；沈劭劼个人主页；卓驭科技融资报道
-> Updated: 2026-09-08
-> Raw: [沈劭劼-港科大教师主页](../../raw/sources/沈劭劼-港科大教师主页.md)；[卓驭科技官网发展历程](../../raw/sources/卓驭科技官网发展历程.md)；[2025-11-21-卓驭科技获一汽战略投资超36亿元](../../raw/sources/2025-11-21-卓驭科技获一汽战略投资超36亿元.md)；[2023-01-06-大疆车载分拆为卓驭科技](../../raw/sources/2023-01-06-大疆车载分拆为卓驭科技.md)
-
-> **证据状态（2026-09-08）：待核。** 本轮仅补存沈劭劼教职及卓驭关系证据，实验室自身名册、成果和去向仍无充分原始存档，原置信度 `verified_primary` 暂予撤回。下列历史内容保留为线索，不作为已核实的身份、创业、融资或平台规模结论；补存并逐项核对来源后再恢复置信度。
+> Sources: HKUST Aerial Robotics Group官网；沈劭劼个人主页；卓驭科技融资报道；[Group - HKUST Aerial Robotics Group](http://uav.ust.hk/group/)；[Current Members - HKUST Aerial Robotics Group](https://uav.hkust.edu.hk/current-members/)；[Alumni - HKUST Aerial Robotics Group](https://uav.hkust.edu.hk/group/alumni/)
+> Updated: 2026-09-11
+> Raw: [沈劭劼-港科大教师主页](../../raw/sources/沈劭劼-港科大教师主页.md)；[卓驭科技官网发展历程](../../raw/sources/卓驭科技官网发展历程.md)；[2025-11-21-卓驭科技获一汽战略投资超36亿元](../../raw/sources/2025-11-21-卓驭科技获一汽战略投资超36亿元.md)；[2023-01-06-大疆车载分拆为卓驭科技](../../raw/sources/2023-01-06-大疆车载分拆为卓驭科技.md)；[Group - HKUST Aerial Robotics Group](../../raw/sources/香港三校系统采集-ust-team-922-1.md)；[Current Members - HKUST Aerial Robotics Group](../../raw/sources/香港三校系统采集-ust-uav-current.md)；[Alumni - HKUST Aerial Robotics Group](../../raw/sources/香港三校系统采集-ust-uav-alumni.md)
 
 ## 一句话判断
 
-港科大机器人创业最核心的学生网络来源，[沈劭劼](../people/沈劭劼_港科大ECE.md)主持，研究VINS算法，并通过沈劭劼CEO身份关联[卓驭科技](../companies/卓驭科技.md)，毕业生进入大疆、华为诺亚、小鹏等形成二次创业储备池。
+沈劭劼主持的无人机与自主系统团队，公开名册能连接机器人定位、主动感知、规划控制及学术/产业去向。
 
 ## 基本信息
 
-| 字段 | 内容 |
+所属[香港科技大学电子及计算机工程学系](香港科技大学电子及计算机工程学系ECE.md)；负责人[沈劭劼](../people/沈劭劼-港科大电子计算机.md)。官网：<https://uav.hkust.edu.hk/> 。
+
+## 研究与产业关联
+
+团队公开列 T-RO / RA-L 最佳论文等奖项。沈劭劼的卓驭 CEO 身份见人物页，毕业生任职见下面具名校友表；不能将投资方融资直接视为课题组产业合同。
+
+## 当前博士与研究成员
+
+| 分组 | 公开成员 |
 |---|---|
-| 类型 | 实验室（lab）|
-| 英文全称 | HKUST Aerial Robotics Group |
-| 所属院系 | [香港科技大学电子及计算机工程学系](香港科技大学电子及计算机工程学系ECE.md) |
-| 负责人 | [沈劭劼](../people/沈劭劼_港科大ECE.md) |
-| 官网 | 待补 |
-| 核心研究方向 | 无人机、自动驾驶、视觉惯性导航（VINS）、SLAM |
+| PhD | Zhe Tong 佟哲；Pusen Gao 高浦森；Yang Xu 徐洋；Xiaoyang Yan 闫笑阳；Mu Hu 胡牧；Zehuan Yu 余泽寰；Peize Liu 刘珮泽；Zhijian Qiao 乔志健；Yiyao Zhu 朱熠耀；Muleilan Pei 裴穆雷澜；Di Luan 栾迪；Xinyi Chen 陈芯仪；Tong Li 李桐；Pengqin Wang 王鹏钦；William Wu 吴易霖 |
+| MPhil（原站栏目） | Siqi Liu 刘思琪；开始日期为 2018，当前状态需进一步核验 |
+| RA | Tensy Wong 王天馨 |
 
-## 核心成果
+## 校友与产业去向
 
-### 算法与开源
-- **VINS-Mono / VINS-Fusion**：视觉惯性里程计算法，自动驾驶与机器人定位核心技术
-- 开源项目被全球机器人研究者广泛使用
+| 人员 | 原站去向与作品 |
+|---|---|
+| Haojia Li 李昊佳 | 校友页列 2026 年 8 月博士毕业，Algorithm engineer, ZYT；无人机吊载规划与控制 |
+| Chen Feng 冯宸 | 2026 年 8 月博士毕业；UZH & ETH Zurich Robotics and Perception Group 博士后；Active perception flight |
+| Xiuyuan Lu 路修远 | ZYT 算法工程师；事件相机状态估计与感知 |
+| Chuhao Liu 刘楚豪 | Mammotion Technology Vision SLAM expert；Semantic Scene Graph and Multi-agent visual SLAM |
+| Yichen Zhang 张亦宸 | Noah’s Ark Lab Hong Kong 研究员；无人机自主探索 |
+| Xupeng Xie 谢旭鹏 | 去向港科大（广州）博士，不能计为港科大本校在读 |
 
-### 创业转化
-- **卓驭科技**：沈劭劼任CEO；由大疆车载发展为独立经营主体，正式创始人待核
-- 多位毕业生进入大疆、华为诺亚方舟实验室、小鹏汽车等头部企业
+## 当前状态冲突
 
-## 学生与博士后
+> **Status: Disputed（2026-09-11）**：李昊佳同时出现于 Current Members 和 Alumni；校友页给出 2026 年 8 月毕业与 ZYT 去向，故不重复计作当前学生。其余原站长时间未更新的 Present 标签仍待个人页交叉确认。
 
-### 已毕业创业/产业
-| 姓名 | 毕业年份 | 去向 | 备注 |
-|---|---|---|---|
-| 待补 | - | 大疆 | 多位毕业生 |
-| 待补 | - | 华为诺亚方舟实验室 | - |
-| 待补 | - | 小鹏汽车 | - |
-| 待补 | - | [卓驭科技](../companies/卓驭科技.md) | 沈劭劼创业团队核心成员 |
+## 修订记录
 
-> 注：根据原始观察清单，"沈劭劼的学生网络是港科大机器人创业最有价值的资产"，但具体学生名单需从课题组主页、论文作者、LinkedIn等渠道补全。
-
-### 在读学生
-待补：需从课题组主页、最新论文作者列表提取。
-
-## 研究方向
-
-- 无人机自主导航
-- 视觉惯性里程计（Visual-Inertial Odometry）
-- 同时定位与地图构建（SLAM）
-- 自动驾驶感知与定位
-- 多传感器融合
-
-## 产业合作
-
-- **港科大-大疆联合创新实验室**：沈劭劼任主任
-- 一汽集团：通过卓驭科技战略投资
-- 比亚迪、上汽：卓驭科技后续融资方
+> **Status: Disputed（2026-09-11）**：撤回旧“港科大最有价值创业学生网络”、未具名人数及将研究人员推为公司核心创始团队的表述；当前使用具体公开身份和去向，不做未经证实的创业排名。
 
 ## 待验证
 
-- [ ] 完整学生名单（在读+已毕业）
-- [ ] 历届博士/硕士毕业生创业统计
-- [ ] VINS算法引用数与产业应用案例
-- [ ] 与大疆的具体合作项目与人才输送关系
-- [ ] 课题组官网链接
-
-## 证据
-
-| 来源 | 支持事实 | 日期 |
-|---|---|---|
-| 原始观察清单 | "学生网络是港科大机器人创业最有价值资产" | 2026-09-07 |
-| 卓驭科技融资报道 | 一汽36亿战投，创始人沈劭劼 | 2026-09-07 |
+名册更新不一致人员的个人状态、完整开源贡献及论文角色、付费产业合作。

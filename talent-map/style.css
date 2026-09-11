@@ -167,6 +167,15 @@ select{
 #map.z-far .ov{display:block}
 #map.z-far .d2,#map.z-far .d3{display:none}
 #map.z-mid .d3{display:none}
+#map.has-selection:not(.z-far) .map-node:not(.selected):not(.connected){opacity:.28}
+#map.has-selection .base-relation{display:none}
+#connections{pointer-events:none}
+#map.z-far #connections{display:none}
+.map-node.selected > :is(rect,circle):first-child,
+.map-node.connected > :is(rect,circle):first-child{
+  stroke:var(--m-mentor);stroke-width:2.4px;vector-effect:non-scaling-stroke;
+}
+.map-node.selected > :is(rect,circle):first-child{stroke:var(--accent);stroke-width:3px}
 /* Names keep the same size and baseline across detail tiers. */
 
 /* Spotlight: one element supplies both the ring and the scrim over
@@ -182,6 +191,8 @@ select{
   box-shadow:0 0 0 5px color-mix(in srgb,var(--accent) 22%,transparent),
              0 0 0 99999px var(--scrim);
 }
+#highlight.relations-selected{box-shadow:0 0 0 5px color-mix(in srgb,var(--accent) 16%,transparent)}
+#highlight.relations-selected.overview-hidden{display:none}
 #hover{
   border-color:color-mix(in srgb,var(--accent) 55%,transparent);
   background:color-mix(in srgb,var(--accent) 7%,transparent);
@@ -194,6 +205,7 @@ select{
   padding:5px;background:var(--panel);
   border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow-sm);
 }
+#viewport:has(#detail.open) .controls{right:348px}
 .controls button{
   border:0;cursor:pointer;background:transparent;color:var(--txt2);
   border-radius:7px;padding:7px 10px;font-size:13px;line-height:1;
@@ -234,6 +246,7 @@ select{
 
 #detail-links{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
 #detail-links:empty{display:none}
+#detail-links p{font-size:13px;color:var(--txt2);margin:0}
 #detail-links button{
   border:1px solid var(--line);background:var(--bg);cursor:pointer;
   border-radius:999px;padding:5px 11px;font-size:12px;color:var(--txt2);
@@ -269,7 +282,9 @@ footer{
   select{order:4;max-width:120px;font-size:12px}
   .legend{gap:12px;padding:6px 12px;overflow-x:auto}
   .legend .sep{display:none}
-  #detail{width:min(320px,86vw)}
+  #detail{top:auto;width:100%;height:44%;border-left:0;border-top:1px solid var(--line);transform:translateY(100%);padding:16px 20px}
+  #detail.open{transform:none}
+  #viewport:has(#detail.open) .controls{right:12px;bottom:calc(44% + 12px)}
   .controls{right:12px;bottom:12px}
   footer{padding:8px 12px}
   footer span:last-child{display:none}

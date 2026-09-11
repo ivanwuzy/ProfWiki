@@ -17,8 +17,9 @@ tags: [org, tsinghua, frontier-talent]
 
 # 清华大学 Lamb Lab
 
-> Sources: Lamb Lab（https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/Lamb_Lab.htm）; Semantic Scholar检索（https://www.semanticscholar.org/search?q=Alex%20Lamb%20machine%20learning&sort=relevance）
+> Sources: Lamb Lab[^source-1]
 > Raw: [Lamb Lab](../../raw/sources/2026-06-11-LambLab-LambLab-c517b721.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
@@ -43,7 +44,7 @@ tags: [org, tsinghua, frontier-talent]
 
 | 公司/项目 | 关联方式 | 相关人物 | 证据 |
 |---|---|---|---|
-| 待验证 | 创建轻量课题组节点；后续按论文影响力决定是否扩展。 | 待抽取 | https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/Lamb_Lab.htm |
+| 待验证 | 创建轻量课题组节点；后续按论文影响力决定是否扩展。 | 待抽取 | [^source-1] |
 
 ## 导入字段
 
@@ -57,5 +58,14 @@ tags: [org, tsinghua, frontier-talent]
 
 | 来源 | 支持事实 | 日期 |
 |---|---|---|
-| [Lamb Lab](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/Lamb_Lab.htm) | 支持“Lamb Lab”的定位、人员入口或建页动作 | 2026-06-11 |
-| [Semantic Scholar检索](https://www.semanticscholar.org/search?q=Alex%20Lamb%20machine%20learning&sort=relevance) | 支持“Lamb Lab”的定位、人员入口或建页动作 | 2026-06-11 |
+| Lamb Lab[^source-1] | 支持“Lamb Lab”的定位、人员入口或建页动作 | 2026-06-11 |
+
+## 待补证检索入口
+
+以下链接仅用于寻找具体论文或作者页面，不支持本文事实判断；检索结果需完成身份核对并取得原文后再引用。
+
+- [Semantic Scholar 检索](https://www.semanticscholar.org/search?q=Alex%20Lamb%20machine%20learning&sort=relevance)
+
+## 引用来源
+
+[^source-1]: [Lamb Lab](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/Lamb_Lab.htm)

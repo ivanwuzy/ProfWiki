@@ -1,0 +1,18 @@
+# ATI about
+
+> Source: https://ati.hku.hk/about/
+> Collected: 2026-09-11
+> Published: Unknown
+
+About
+Mission
+The Advanced Technologies Institute (ATI), (former Emerging Technologies Institute) is a platform for interdisciplinary research, a harbor for international cooperation, and a bridge for knowledge exchange and technology transfer in the University of Hong Kong.
+ATI concentrates on discovering new knowledge and technology in cyber-enabled engineering, which will support the economic development and well-being of the citizens of Hong Kong, the PRD Region, China, and other parts of the world. ATI provides the researchers and students in the Faculty of Engineering as well as other Faculties with an outstanding and diversified academic and research experience on information technology, robotics, artificial intelligence, industrial automation, biomedicine, and nanotechnology, and help the Faculty of Engineering in educating the future work force in meeting the on-coming technical challenges and advancements of the world.
+ATI was established based on the Robotics and Automation Laboratory at Michigan State University that was founded by Prof. Ning Xi in 1997 and moved to the University of Hong Kong in 2015.
+Vision
+The recent advances in Internet technology, micro/nano technology, and biomedical technology have posed new challenges and opportunities for science and technology development. The integration of the cyber-infrastructure with engineering systems that will enable new technological developments in cyber-physical systems and impact on the applications such as manufacturing, services, and biomedical, as well as to promote new approaches to learning and training. The cyber-enabled engineering will enable humans to extend action and intelligence to remote locations, and to objects on a scale that human beings cannot easily see, feel, and manipulate. This will enable industries to combine its advanced technology with the world’s labor and other resources to boost the competitiveness of its products in the world market.
+The Advanced Technologies Institute (ATI) aims to become a leading institute worldwide for interdisciplinary research, technology development and knowledge dissemination in the emerging field of cyber-enabled engineering. It will place Faculty of Engineering at the University of Hong Kong at the frontier of research and education in information technology, manufacturing, communication, biomedicine, and educational technology. Many innovative technologies with strong commercialization potential have been developed as results of the research conducted in ATI.
+Laboratories
+ATI has the state-of-the-art laboratory facilities to support research and development. The laboratories are located in the Cyberport, Hong Kong. They include Cyber-enabled Robotics Laboratory, Nano-bio Robotics Laboratory, and Intelligent Sensor Laboratory,The Cyber-enabled robotics Laboratory is equipped with robotics experimental platforms such as industrial robots, mobile robots, and teleoperated robots.
+The Nano-bio Robotics Laboratory has multiple Atomic Force Microscopy based nano robotic manipulators. In addition, the laboratory is equipped with full scale nano/bio specimen production and preparation capability to support research and development in nano manufacturing and biomedicine.
+The Intelligent Sensor Laboratory is equipped with sensor fabrication, calibration and testing capabilities. It is capable of manufacturing various kind of sensors such as haptic sensors, dimensional measurement sensors, and electromyographic sensors.

@@ -1,16 +1,16 @@
 ---
 type: question
 name: AutoStore与欧国威错误创业归属纠正
-last_verified: 2026-09-08
+last_verified: "2026-09-11"
 confidence: verified_primary
 tags: [question, correction, entity-resolution]
 ---
 
 # AutoStore与欧国威错误创业归属纠正
 
-> Sources: AutoStore官方IPO招股书（2021-10-08）；港中大MAE欧国威教师主页
-> Raw: [AutoStore招股书原文摘录](../../raw/sources/2021-10-08-AutoStore-IPO招股书创始人与上市地.md)；[欧国威教师主页](../../raw/sources/欧国威-港中大MAE教师主页.md)
-> Updated: 2026-09-08
+> Sources: AutoStore官方IPO招股书（2021-10-08）；港中大MAE欧国威教师主页；[欧国威-走进中大](https://www.focus.cuhk.edu.hk/tc/20241023/%E9%86%AB%E5%B7%A5%E5%90%88%E4%BD%9C-%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C/051-tc-science-engineering-technology-tc/)
+> Raw: [AutoStore招股书原文摘录](../../raw/sources/2021-10-08-AutoStore-IPO招股书创始人与上市地.md)；[欧国威教师主页](../../raw/sources/欧国威-港中大MAE教师主页.md)；[欧国威-走进中大](../../raw/sources/2024-10-23-欧国威-走进中大.md)
+> Updated: 2026-09-11
 
 ## 结论
 
@@ -29,5 +29,5 @@ tags: [question, correction, entity-resolution]
 
 ## 已同步
 
-- [欧国威](../people/欧国威_港中大MAE.md)：重编为医疗机器人学术/产业化人物，T1，未核实公司创始身份。
+- [欧国威](../people/欧国威-港中文机械自动化.md)：此前按学术/产业化信号列T1；2026-09-11取得校刊直接证明创办[康诺思腾](../companies/康诺思腾.md)，已改T0。AutoStore关系依旧撤回。
 - 全局索引撤下AutoStore公司条目，保留本纠错页。

@@ -10,15 +10,16 @@ key_people: [刘俊]
 related_companies: []
 watch_tier: T1
 priority: A
-last_verified: 2026-09-07
+last_verified: 2026-09-11
 confidence: verified_primary
 tags: [org, hku, frontier-talent]
 ---
 
 # 香港大学数据与系统工程系
 
-> Sources: HKU DASE官网（https://www.dase.hku.hk/）；AIR Lab官网（https://airlab.hku.hk/）
-> Raw: [香港大学工程学院院系与重点人物调研报告](raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)
+> Sources: [HKU DASE官网](https://www.dase.hku.hk/)；[AIR Lab官网](https://airlab.hku.hk/)；[Academic Staff - People - The University of Hong Kong - Department of Data and Systems Engineering](https://www.dase.hku.hk/people/academic-staff)；[Honorary and Adjunct Appointments / Part-time Appointments - People - The University of Hong Kong - Department of Data and Systems Engineering](https://www.dase.hku.hk/people/honorary-and-adjunct-appointments/part-time-appointments)；[港大ATI官方-people](https://ati.hku.hk/people/)
+> Raw: [香港大学工程学院院系与重点人物调研报告](../../raw/sources/2026-09-07-香港大学工程学院院系与重点人物调研报告.md)；[Academic Staff - People - The University of Hong Kong - Department of Data and Systems Engineering](../../raw/sources/香港三校系统采集-hku-dase-staff.md)；[Honorary and Adjunct Appointments / Part-time Appointments - People - The University of Hong Kong - Department of Data and Systems Engineering](../../raw/sources/香港三校系统采集-hku-dase-adjunct.md)；[港大ATI官方-people](../../raw/sources/港大ATI官方-people.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
@@ -34,21 +35,19 @@ tags: [org, hku, frontier-talent]
 | 成立时间 | 1973年 |
 | QS排名2026 | 数据科学全球第18位 |
 | 方向 | 系统分析、AI、智能系统、微纳米机器人、医疗AI、运筹学、优化 |
-| 官网 | https://www.dase.hku.hk/ |
+| 官网 | <https://www.dase.hku.hk/> |
 
 ## 重点人物
 
 | 人物 | 角色 | 方向 | 信号 |
 |---|---|---|---|
-| [刘俊](../people/刘俊_港大DASE.md) | 副教授、AIR Lab负责人 | 微纳米机器人、医疗AI、智能传感器 | 15年+微纳米与医疗机器人经验，Nature Communications |
+| [刘俊](../people/刘俊-港大数据系统.md) | 副教授、AIR Lab负责人 | 微纳米机器人、医疗AI、智能传感器 | 15年+微纳米与医疗机器人经验，Nature Communications |
 
 ## 下属实验室/课题组
 
-本库目前已给「香港大学数据与系统工程系DASE」建立以下 tier: 2 实验室/研究组页面：
-
-| 实验室/研究组 | 负责人 | 重点方向 | 页面链接 |
-|---|---|---|---|
-| AIR Lab | [刘俊](../people/刘俊_港大DASE.md) | 微纳米机器人、医疗机器人、单细胞操作、IVF应用 | [香港大学自动化与智能机器人实验室](港大AIR_Lab.md) |
+| 实验室/课题组 | 重点方向 |
+|---|---|
+| [香港大学自动化与智能机器人实验室](港大AIR_Lab.md) | [micro-nano-robotics, medical-robotics, cell-manipulation, biomedical-engineering] |
 
 ## 核心研究方向
 
@@ -121,3 +120,53 @@ DASE在香港大学工程学院中承担系统工程与AI智能系统研究，�
 | AIR Lab官网 | 刘俊负责人、实验室研究方向、团队信息 | 2026-09-07 |
 | 刘俊个人主页 | 职业经历、研究成果 | 2026-09-07 |
 | HKU Knowledge Exchange报道 | 微纳米与医疗机器人开创性进展 | 2026-09-07 |
+
+## 人员名册
+
+此表保存采集时的公开栏目快照；含合聘、荣休、附属等身份，不能相加为全职人数。“方向待补”表示名册未提供，非无相关研究。重点方向标注只用于安排后续检索。
+
+| 分类 | 姓名 | 公开职务 | 方向原文 | 范围标注 | 主页 |
+|---|---|---|---|---|---|
+| Academic Staff | Bill K.P. Chan | Lecturer | 未在名册列明 | 方向待补 | [原页]() |
+| Academic Staff | H.P. Chen | Professor of Practice | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/h-p-chen) |
+| Academic Staff | J.C. Chen | Research Assistant Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/j-c-chen) |
+| Academic Staff | J.Y. Chen | Assistant Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/j-y-chen) |
+| Academic Staff | Y. Cheng | Associate Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/y-cheng) |
+| Academic Staff | H.H. Cheung | Senior Lecturer | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/hh-cheung) |
+| Academic Staff | S.Y. Hu | Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/s-y-hu) |
+| Academic Staff | W.J. Huang | Research Assistant Professor Affiliation with HKU Musketeers Foundation Institute of Data Science (HKU-IDS) | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/wj-huang) |
+| Academic Staff | Y.H. Kuo | Associate Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/y-h-kuo) |
+| Academic Staff | J.Y. Li | Assistant Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/j-y-li) |
+| Academic Staff | X.  Li | Assistant Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/x-li) |
+| Academic Staff | S.C.  Lin | Assistant Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/s-c-lin) |
+| Academic Staff | J. Liu | Associate Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/j-liu) |
+| Academic Staff | S. N.   Liu | Assistant Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/s-n-liu) |
+| Academic Staff | X.  Ma | Research Assistant Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/x-ma) |
+| Academic Staff | Jonathan W.C. Ng | Principal Lecturer | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/j-w-c-ng) |
+| Academic Staff | Calvin K.L. Or | Associate Professor Assistant Head of Department | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/c-k-l-or) |
+| Academic Staff | Max Z.J. Shen | Chair Professor in Logistics and Supply Chain Management | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/max-z-j-shen) |
+| Academic Staff | C. Sun | Assistant Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/c-sun) |
+| Academic Staff | N. Xi | Head of Department Chair Professor of Robotics and Automation Director of Advanced Technologies Institute, The University of Hong Kong | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/n-xi) |
+| Academic Staff | Y. Xu | Assistant Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/y-xu) |
+| Academic Staff | F.N. Zhang | Associate Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/f-n-zhang) |
+| Academic Staff | Ray Y. Zhong | Associate Professor | 未在名册列明 | 方向待补 | [原页](https://www.dase.hku.hk/people/r-y-zhong) |
+
+## 覆盖范围与证据边界
+
+本轮名册来源：[Academic Staff - People - The University of Hong Kong - Department of Data and Systems Engineering](https://www.dase.hku.hk/people/academic-staff)。原始名单见 Raw。教授身份与研究方向不作为独立建页信号。人员现职以学校最新名单为锚点，旧个人主页中的职称与毕业预测不自动沿用。
+
+学生、博士后与毕业校友从下属团队名单继续核实；没有公开名单不表示没有成员。
+
+## 附属聘任与产业检索边界
+
+已保存相关公开附属聘任名册（见 Raw）。荣誉、兼职、访问与研究系列不混作全职教师；当前仅补名册原文，逐人公司/产业身份检索尚未全量完成。官网仍列示的历史人物也不能仅凭名单认作现任。
+
+## 已建人物入口
+
+| 人物 | 阅读入口 |
+|---|---|
+| [刘俊](../people/刘俊-港大数据系统.md) | 任职、独立成果、师承及产业关系见人物页。 |
+
+## 关联研究平台
+
+[香港大学 Advanced Technologies Institute](香港大学-Advanced-Technologies-Institute.md)官网列Ning Xi为Director，同时任本系Head。该双重任职已记录；ATI的行政挂靠待核，不列作已确认下属组织。

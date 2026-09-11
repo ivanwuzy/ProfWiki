@@ -24,7 +24,7 @@ tags: [company, tsinghua, world-model, autonomous-driving, frontier-talent]
 
 ## 一句话判断
 
-幂级智能由[清华大学自动化系](../orgs/清华大学自动化系.md)副教授[封硕](../people/封硕_清华自动化系.md)关联创办，走"面向安全测试的物理状态预测"路线，代表模型 DenseWorld。
+幂级智能由[清华大学自动化系](../orgs/清华大学自动化系.md)副教授[封硕](../people/封硕-清华自动化.md)关联创办，走"面向安全测试的物理状态预测"路线，代表模型 DenseWorld。
 
 ## ⚠️ 重名区分
 

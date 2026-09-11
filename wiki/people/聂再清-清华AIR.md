@@ -1,0 +1,67 @@
+---
+title: "聂再清-清华AIR"
+type: person
+name: 聂再清
+aliases: [Zaiqing Nie]
+role_type: professor
+affiliations: [清华大学智能产业研究院（AIR）]
+labs: []
+domains: [ai, ai-bio]
+status: active_founder
+watch_tier: T1
+priority: A+
+related_companies: [水木分子]
+last_verified: 2026-09-07
+confidence: verified_secondary
+tags: [person, tsinghua, air, frontier-talent]
+---
+
+# 聂再清
+
+> Sources: [智源社区《对话清华大学聂再清教授：首个千亿生物医药chatGPT是如何炼成的？》](https://hub.baai.ac.cn/view/31192)；[量子位《首个千亿生物医药ChatGPT来了！清华AIR聂再清：这个行业未来的"Killer APP"》](https://www.qbitai.com/2023/09/85652.html)；[腾讯新闻《成立仅一年，水木分子完成近亿元融资》](https://news.qq.com/rain/a/20240814A08F5D00)；新浪财经水木分子团队报道；[AIR研究团队](https://air.tsinghua.edu.cn/airtd/yjtd.htm)；[水木分子](https://air.tsinghua.edu.cn/yjhzdw/smfz.htm)
+> Raw: [AIR研究团队](../../raw/sources/2026-06-11-聂再清-AIR研究团队-f0de4e00.md)；[水木分子](../../raw/sources/2026-06-11-聂再清-水木分子-5d693f57.md)
+
+## 一句话判断
+
+聂再清是清华大学国强教授、[清华大学智能产业研究院](../orgs/清华大学智能产业研究院AIR.md) 首席研究员，此前任微软亚洲研究院首席研究员、阿里巴巴人工智能实验室北京负责人兼天猫精灵首席科学家；在 AIR 孵化的生物医药基础大模型公司 [水木分子](../companies/水木分子AIR孵化.md) 中担任**首席科学家**，是"制药版 ChatGPT"——对话式药物研发助手 ChatDD 的技术负责人，但公开报道均未称其为"创始人"或"联合创始人"，工商登记法定代表人另有其人（胡瑞豪），故按证据强度只记为首席科学家。
+
+## 基本信息
+
+| 字段 | 内容 |
+|---|---|
+| 当前身份 | 清华大学国强教授，[清华大学智能产业研究院](../orgs/清华大学智能产业研究院AIR.md) 首席研究员 |
+| 清华关联 | [清华大学智能产业研究院](../orgs/清华大学智能产业研究院AIR.md) |
+| 方向 | 对话式智能助理、信息检索、AI+生物医药大模型 |
+| 此前履历 | 微软亚洲研究院首席研究员；阿里巴巴人工智能实验室北京负责人兼天猫精灵首席科学家（团队 2019 年获吴文俊人工智能科技进步奖） |
+| 教育背景 | 美国亚利桑那州立大学博士（师从 Subbarao Kambhampati） |
+| 公开主页 | AIR研究团队 |
+
+## 关键信号
+
+| 类型 | 内容 | 年份 | 证据 |
+|---|---|---:|---|
+| 创业 | 担任 AIR 孵化公司 [水木分子](../companies/水木分子AIR孵化.md) 首席科学家，主导对话式药物研发助手 ChatDD 及千亿参数底座 ChatDD-FM100B 的研发 | 2023 起 | 智源社区、量子位 |
+| 开源 | 主导开源生物医药多模态大模型 BioMedGPT-1.6B / BioMedGPT-10B，后与 AIR 联合开源化学分子通用基座模型 BioMedGPT-Mol | 2023 | 智源社区 |
+| 产业履历 | 微软亚洲研究院首席研究员；阿里巴巴人工智能实验室北京负责人兼天猫精灵首席科学家 | 加入 AIR 前 | 智源社区、量子位 |
+
+## 创业/产业关联
+
+| 公司/项目 | 关系 | 状态 | 证据 |
+|---|---|---|---|
+| [水木分子（AIR孵化）](../companies/水木分子AIR孵化.md) | 首席科学家（非工商登记法定代表人/大股东，非公开报道称谓的"创始人"） | 成立约一年即完成天使轮+种子轮累计近亿元融资（2024-08 披露） | 腾讯新闻、极客公园、智源社区 |
+
+## 待验证
+
+- [ ] 聂再清是否持有水木分子股权、其"首席科学家"身份的具体权责边界（顾问型还是深度经营型）。
+- [ ] 加入 AIR 的具体时间与"国强教授"头衔的正式聘任时间。
+- [ ] 在微软亚洲研究院、阿里巴巴任职的具体起止年份。
+
+## 证据
+
+| 来源 | 支持事实 | 日期 |
+|---|---|---|
+| [智源社区：对话清华大学聂再清教授：首个千亿生物医药chatGPT是如何炼成的？](https://hub.baai.ac.cn/view/31192) | 首席科学家身份、履历、ChatDD-FM100B 技术细节 | 2026-09-07 |
+| [量子位：首个千亿生物医药ChatGPT来了！清华AIR聂再清：这个行业未来的"Killer APP"](https://www.qbitai.com/2023/09/85652.html) | 背景、产品发布节点 | 2026-09-07 |
+| [腾讯新闻：成立仅一年，水木分子完成近亿元融资](https://news.qq.com/rain/a/20240814A08F5D00) | 水木分子融资信息 | 2026-09-07 |
+| [AIR研究团队](https://air.tsinghua.edu.cn/airtd/yjtd.htm) | AIR 研究员身份 | 2026-06-11 |
+| [水木分子（AIR官网）](https://air.tsinghua.edu.cn/yjhzdw/smfz.htm) | AIR 孵化关系 | 2026-06-11 |

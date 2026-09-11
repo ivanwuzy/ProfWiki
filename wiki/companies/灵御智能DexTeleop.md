@@ -18,7 +18,7 @@ tags: [company, embodied-ai]
 
 # 灵御智能
 
-> Sources: [灵御融资与金戈莫一林专访](https://finance.sina.com.cn/stock/t/2026-08-26/doc-iniprcpy2180194.shtml)；[莫一林官方师承与职业履历](https://www.au.tsinghua.edu.cn/info/1076/3152.htm)；[灵御智能天使轮与创始团队](https://news.pedaily.cn/202603/561676.shtml)
+> Sources: 灵御融资与金戈莫一林专访[^source-1]；[莫一林官方师承与职业履历](https://www.au.tsinghua.edu.cn/info/1076/3152.htm)；[灵御智能天使轮与创始团队](https://news.pedaily.cn/202603/561676.shtml)
 > Raw: [灵御融资与金戈莫一林专访](../../raw/sources/2026-08-26-灵御融资与金戈莫一林专访.md)；[莫一林官方师承与职业履历](../../raw/sources/莫一林官方师承与职业履历.md)；[灵御智能天使轮与创始团队](../../raw/sources/2026-03-13-公司补充0909-灵御智能天使轮与创始团队.md)
 > Updated: 2026-09-09
 
@@ -40,20 +40,20 @@ tags: [company, embodied-ai]
 
 莫一林为清华自动化教师；金戈自动化系学士、经管 MBA；校友和教师联合创业。
 
-证据：[灵御融资与金戈莫一林专访](https://finance.sina.com.cn/stock/t/2026-08-26/doc-iniprcpy2180194.shtml)。高校人才背景、课题组源头与学校持股、采购、IP 授权分别核验，本页不由前者推断后者。
+证据：灵御融资与金戈莫一林专访[^source-1]。高校人才背景、课题组源头与学校持股、采购、IP 授权分别核验，本页不由前者推断后者。
 
 ## 核心团队
 
 | 人物 | 关系及证据边界 |
 |---|---|
-| [莫一林](../people/莫一林_清华自动化系.md) | 灵御联合创始人兼首席科学家 |
-| [金戈](../people/金戈_灵御智能.md) | 灵御联合创始人兼 CEO |
+| [莫一林](../people/莫一林-清华自动化.md) | 灵御联合创始人兼首席科学家 |
+| [金戈](../people/金戈-灵御智能.md) | 灵御联合创始人兼 CEO |
 
 ## 技术路线与商业进展
 
 公开专访披露融资、机器人本体、真机数据采集及云端操作平台 Nexus，商业进展按公司/媒体口径记录。
 
-证据：[灵御融资与金戈莫一林专访](https://finance.sina.com.cn/stock/t/2026-08-26/doc-iniprcpy2180194.shtml)。性能、客户覆盖和融资口径为来源披露，未做独立交付审计。
+证据：灵御融资与金戈莫一林专访[^source-1]。性能、客户覆盖和融资口径为来源披露，未做独立交付审计。
 
 ## 待验证
 
@@ -62,7 +62,7 @@ tags: [company, embodied-ai]
 
 ## 证据
 
-[灵御融资与金戈莫一林专访](https://finance.sina.com.cn/stock/t/2026-08-26/doc-iniprcpy2180194.shtml)。
+灵御融资与金戈莫一林专访[^source-1]。
 
 ## 师承阶段补证
 
@@ -79,3 +79,7 @@ tags: [company, embodied-ai]
 报告记录灵御智能于 2026-08 下旬披露新融资，媒体口径为数亿元 Pre-A 轮；莫一林任联合创始人兼首席科学家，金戈任联合创始人兼 CEO。金额和轮次尚未取得投资方公告，保留为报道口径。
 
 证据：[清华大学 frontier scout 30d 报告](../../raw/sources/2026-09-09-清华大学-frontier-scout-30d报告.md)。
+
+## 引用来源
+
+[^source-1]: [灵御融资与金戈莫一林专访](https://finance.sina.com.cn/stock/t/2026-08-26/doc-iniprcpy2180194.shtml)

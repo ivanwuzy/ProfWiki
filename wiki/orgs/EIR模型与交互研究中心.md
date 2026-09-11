@@ -17,7 +17,7 @@ tags: [org, tsinghua, frontier-talent]
 
 # 清华大学具身智能与机器人研究院模型与交互研究中心
 
-> Sources: 模型与交互研究中心（https://eir.tsinghua.edu.cn/yjjg/mxyjhyjzx.htm）
+> Sources: 模型与交互研究中心[^source-1]
 > Raw: [模型与交互研究中心](../../raw/sources/2026-06-11-EIR模型与交互研究中心-模型与交互研究中心-aeb2792c.md)
 
 ## 一句话判断
@@ -43,7 +43,7 @@ tags: [org, tsinghua, frontier-talent]
 
 | 公司/项目 | 关联方式 | 相关人物 | 证据 |
 |---|---|---|---|
-| 待验证 | 创建中心节点；刘华平建人物占位。 | 刘华平 | https://eir.tsinghua.edu.cn/yjjg/mxyjhyjzx.htm |
+| 待验证 | 创建中心节点；刘华平建人物占位。 | 刘华平 | [^source-1] |
 
 ## 导入字段
 
@@ -57,4 +57,8 @@ tags: [org, tsinghua, frontier-talent]
 
 | 来源 | 支持事实 | 日期 |
 |---|---|---|
-| [模型与交互研究中心](https://eir.tsinghua.edu.cn/yjjg/mxyjhyjzx.htm) | 支持“EIR模型与交互研究中心”的定位、人员入口或建页动作 | 2026-06-11 |
+| 模型与交互研究中心[^source-1] | 支持“EIR模型与交互研究中心”的定位、人员入口或建页动作 | 2026-06-11 |
+
+## 引用来源
+
+[^source-1]: [模型与交互研究中心](https://eir.tsinghua.edu.cn/yjjg/mxyjhyjzx.htm)

@@ -16,8 +16,9 @@ tags: [org, tsinghua, frontier-talent, ai, ai-safety]
 
 # 清华大学安全与可信人工智能实验室
 
-> Sources: 清华大学人工智能学院 T-STAR Lab, 2026-06-11; 清华大学人工智能学院董胤蓬页面, 2026-06-11; 清华大学人工智能学院课题组介绍, 2026-06-11
-> Raw: [T-STAR Lab](../../raw/sources/2026-06-11-t-star-lab.md); [董胤蓬-清华大学人工智能学院](../../raw/sources/2026-06-11-董胤蓬-清华大学人工智能学院.md); [课题组介绍](../../raw/sources/2026-06-11-清华大学人工智能学院课题组介绍.md)
+> Sources: 清华大学人工智能学院 T-STAR Lab, 2026-06-11；清华大学人工智能学院董胤蓬页面, 2026-06-11；清华大学人工智能学院课题组介绍, 2026-06-11
+> Raw: [T-STAR Lab](../../raw/sources/2026-06-11-t-star-lab.md)；[董胤蓬-清华大学人工智能学院](../../raw/sources/2026-06-11-董胤蓬-清华大学人工智能学院.md)；[课题组介绍](../../raw/sources/2026-06-11-清华大学人工智能学院课题组介绍.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
@@ -28,15 +29,15 @@ T-STAR Lab 是清华大学人工智能学院 AI 安全与可信 AI 方向的全�
 | 字段 | 内容 |
 |---|---|
 | 类型 | 实验室/课题组 |
-| 所属单位 | 清华大学人工智能学院；见 [清华大学人工智能学院课题组总入口](清华大学人工智能学院课题组总入口.md) |
+| 所属单位 | [清华大学人工智能学院](清华大学人工智能学院CollegeAI.md) |
 | 方向 | 人工智能基础理论、机器学习、大模型安全与对齐、生成式AI、可信AI |
-| 官网 | https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/T_STAR_Lab.htm |
+| 官网 | <https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/T_STAR_Lab.htm> |
 
 ## 重点人物
 
 | 人物 | 角色 | 方向 | 信号 |
 |---|---|---|---|
-| [董胤蓬](../people/董胤蓬_清华人工智能学院.md) | PI | AI安全、大模型安全与对齐、生成式AI | AI学院全职PI；页面列出 T-STAR Lab PI；代表性工作含 MultiTrust、T2VSafetyBench、ARES 等评测基准 |
+| [董胤蓬](../people/董胤蓬-清华AI学院.md) | PI | AI安全、大模型安全与对齐、生成式AI | AI学院全职PI；页面列出 T-STAR Lab PI；代表性工作含 MultiTrust、T2VSafetyBench、ARES 等评测基准 |
 
 ## 代表性方向与成果
 

@@ -6,7 +6,7 @@ domains:
 - embodied-ai
 - robotics
 watch_tier: T2
-last_verified: '2026-09-08'
+last_verified: "2026-09-11"
 confidence: verified_primary
 tags:
 - org
@@ -17,8 +17,9 @@ tier: 1
 
 # 香港中文大学（深圳） Freeform Robotics
 
-> Sources: [Freeform-Robotics成员](https://freeformrobotics.org/people/)；[Tin-Lun-Lam研究主页](https://freeformrobotics.org/tllam)；[AIRS科研力量](https://airs.cuhk.edu.cn/team)
-> Raw: [Freeform-Robotics成员](../../raw/sources/香港具身核查-Freeform-Robotics成员.md)；[Tin-Lun-Lam研究主页](../../raw/sources/香港具身核查-Tin-Lun-Lam研究主页.md)；[AIRS科研力量](../../raw/sources/香港具身核查-AIRS科研力量.md)
+> Sources: [Freeform-Robotics成员](https://freeformrobotics.org/people/)；[Tin-Lun-Lam研究主页](https://freeformrobotics.org/tllam)；[AIRS科研力量](https://airs.cuhk.edu.cn/team)；[港中深林天麟双学院任职](https://sai.cuhk.edu.cn/zh-hans/teacher/173)；[港中深胡君杰机器人感知](https://sai.cuhk.edu.cn/zh-hans/teacher/153)
+> Raw: [Freeform-Robotics成员](../../raw/sources/香港具身核查-Freeform-Robotics成员.md)；[Tin-Lun-Lam研究主页](../../raw/sources/香港具身核查-Tin-Lun-Lam研究主页.md)；[AIRS科研力量](../../raw/sources/香港具身核查-AIRS科研力量.md)；[港中深林天麟双学院任职](../../raw/sources/四校补全-港中深林天麟双学院任职.md)；[港中深胡君杰机器人感知](../../raw/sources/四校补全-港中深胡君杰机器人感知.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
@@ -28,14 +29,14 @@ tier: 1
 
 | 字段 | 内容 |
 |---|---|
-| 所属单位 | 香港中文大学（深圳）；林天麟个人页列SSE任职，但团队作为组织的正式挂靠待核，导航暂挂高校。[归属与状态待核](../questions/香港具身实验室归属与创业状态待核.md) |
+| 所属单位 | 香港中文大学（深圳）；林天麟学院档案确认理工学院与人工智能学院双聘，但团队作为组织的正式挂靠待核，导航暂挂高校。[归属与状态待核](../questions/香港具身实验室归属与创业状态待核.md) |
 | 当前运行 | 人员页区分研究人员、学生和校友；主任主页列February 2026 Science Robotics成果。 |
-| 负责人 | [林天麟](../people/林天麟_港中深Freeform.md)（Tin Lun Lam） |
+| 负责人 | [林天麟](../people/林天麟-港中深Freeform.md)（Tin Lun Lam） |
 | 代表工作 | FreeBOT；Snail-Inspired Robotic Swarms；Modular Reconfigurable Robots: Towards On-Demand Multifunctional Applications |
 
 ## 重点人物
 
-Junjie Hu、Yuan Gao、Tianwei Zhang、Liguang Zhou列为Researchers；Guanqi Liang、Haobo Luo、Yuxiao Tu等列为Students。本轮仅林天麟满足已核验人物信号要求。
+旧组页将Junjie Hu、Yuan Gao、Tianwei Zhang、Liguang Zhou列为Researchers，Guanqi Liang、Haobo Luo、Yuxiao Tu等列为Students。[Junjie Hu（胡君杰）](../people/胡君杰-港中深AI.md)已补齐独立论文与职业轨迹，学院确认其2025年8月加入AI学院；组页研究成员与学院任职可并存，不推定其已经离组。其余人员继续按原名册核验。
 
 ## 创业/产业化线索
 

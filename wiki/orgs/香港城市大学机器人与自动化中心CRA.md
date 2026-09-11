@@ -6,7 +6,7 @@ domains:
 - embodied-ai
 - robotics
 watch_tier: T2
-last_verified: '2026-09-08'
+last_verified: "2026-09-11"
 confidence: verified_primary
 tags:
 - org
@@ -17,12 +17,13 @@ tier: 1
 
 # 香港城市大学机器人与自动化中心
 
-> Sources: [CityU-CRA成员摘录](https://www.cityu.edu.hk/cra/core_members.htm)
-> Raw: [CityU-CRA成员摘录](../../raw/sources/2026-06-18-香港具身核查-CityU-CRA成员摘录.md)
+> Sources: [CityU-CRA成员摘录](https://www.cityu.edu.hk/cra/core_members.htm)；[城大于欣格官方履历](https://www.cityu.edu.hk/stfprofile/xingeyu.htm)
+> Raw: [CityU-CRA成员摘录](../../raw/sources/2026-06-18-香港具身核查-CityU-CRA成员摘录.md)；[城大于欣格官方履历](../../raw/sources/四校补全-城大于欣格官方履历.md)
+> Updated: 2026-09-11
 
 ## 一句话判断
 
-城大跨学科机器人与自动化组织，2026年仍维护核心成员目录；逐项项目与创业转化需另核。
+城大跨学科机器人与自动化组织；成员于欣格已补齐电子皮肤与多模态触觉成果，其余成员按名册逐项核实。
 
 ## 基本信息
 
@@ -36,7 +37,7 @@ tier: 1
 
 ## 重点人物
 
-核心名册包括Dong Sun、Lixin Dong、Xinge Yu、King W. C. Lai等。本次来源只核实成员和任职，不满足新建个人页所需的独立技术/创业信号，暂留名册。
+核心名册包括Dong Sun、Lixin Dong、[Xinge Yu（于欣格）](../people/于欣格-港城大生医.md)、King W. C. Lai等。于欣格另有校方履历支持具名论文与奖项，已建立人物页；其余成员的独立成果不由本次名册推定。名册所列职称按原页面时点理解。
 
 ## 创业/产业化线索
 
