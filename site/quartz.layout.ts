@@ -1,6 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import TalentMapLink from "./components/TalentMapLink"
+import HomeActions from "./components/HomeActions"
 import type { Options as ExplorerOptions } from "./quartz/components/Explorer"
 
 // Explorer serializes this function for the browser, so keep its data inside the function.
@@ -92,6 +93,10 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.ConditionalRender({
+      component: HomeActions(),
+      condition: (page) => page.fileData.slug === "index" || page.fileData.slug === "wiki/index",
+    }),
+    Component.ConditionalRender({
       component: globalGraphPreview,
       condition: (page) => page.fileData.slug === "index" || page.fileData.slug === "wiki/index",
     }),
@@ -147,6 +152,10 @@ export const defaultListPageLayout: PageLayout = {
     }),
   ],
   right: [
+    Component.ConditionalRender({
+      component: HomeActions(),
+      condition: (page) => page.fileData.slug === "wiki/index",
+    }),
     globalGraphPreview,
     Component.ConditionalRender({
       component: TalentMapLink(),

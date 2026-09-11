@@ -393,36 +393,26 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const activeScale = defaultScale * 1.1
     for (const n of nodeRenderData) {
       const prominent = isProminentLabel(n)
-      n.label.style.fontWeight = prominent ? "700" : "400"
+      const alpha = prominent ? labelOpacity : zoomLabelOpacity()
+      const labelScale = prominent ? activeScale : defaultScale
+      if (n.label.alpha === alpha && n.label.scale.x === labelScale) continue
 
-      if (prominent) {
-        tweenGroup.add(
-          new Tweened<Text>(n.label).to(
-            {
-              alpha: labelOpacity,
-              scale: { x: activeScale, y: activeScale },
-            },
-            100,
-          ),
-        )
-      } else {
-        tweenGroup.add(
-          new Tweened<Text>(n.label).to(
-            {
-              alpha: Math.min(n.label.alpha, labelOpacity),
-              scale: { x: defaultScale, y: defaultScale },
-            },
-            100,
-          ),
-        )
-      }
+      // Keep glyphs stable on hover. Animate scalar display properties instead of
+      // walking Pixi Text/ObservablePoint objects or invalidating text textures.
+      const state = { alpha: n.label.alpha, scale: n.label.scale.x }
+      tweenGroup.add(
+        new Tweened(state).to({ alpha, scale: labelScale }, 100).onUpdate(() => {
+          n.label.alpha = state.alpha
+          n.label.scale.set(state.scale)
+        }),
+      )
     }
 
     tweenGroup.getAll().forEach((tw) => tw.start())
     tweens.set("label", {
-      update: tweenGroup.update.bind(tweenGroup),
+      update: (time) => tweenGroup.update(time, false),
       stop() {
-        tweenGroup.getAll().forEach((tw) => tw.stop())
+        tweenGroup.removeAll()
       },
     })
   }
@@ -822,6 +812,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   function applyVisualSettings(settings: GraphVisualSettings) {
+    // A slider change takes effect immediately; an old hover animation must not
+    // overwrite the new opacity/scale on its next frame.
+    tweens.get("label")?.stop()
     fontSize = settings.fontSize
     labelOpacity = settings.labelOpacity
     opacityScale = settings.opacityScale
@@ -833,7 +826,6 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     for (const node of nodeRenderData) {
       const prominent = isProminentLabel(node)
       node.label.style.fontSize = fontSize * 15
-      node.label.style.fontWeight = prominent ? "700" : "400"
       node.label.scale.set(prominent ? activeScale : defaultScale)
       node.label.alpha = prominent ? labelOpacity : zoomLabelOpacity()
     }
