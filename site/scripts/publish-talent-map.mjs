@@ -1,3 +1,5 @@
+import { fileURLToPath } from "node:url"
+import { execFileSync } from "node:child_process"
 import { mkdir, copyFile, writeFile } from "node:fs/promises"
 const source = new URL("../../talent-map/", import.meta.url)
 const target = new URL("../public/talent-map/", import.meta.url)
@@ -52,3 +54,13 @@ await writeFile(new URL("../public/wiki/orgs/清华大学人工智能学院课�
 <link rel="canonical" href="https://ivanwuzy.github.io/ProfWiki/wiki/orgs/清华大学人工智能学院CollegeAI">
 </head><body><a href="./清华大学人工智能学院CollegeAI">课题组入口已合并至清华大学人工智能学院</a></body></html>
 `)
+
+// Recompile the reviewed PKU selection so newly tracked articles gain detail links.
+execFileSync(process.execPath, [fileURLToPath(new URL("../../pku-talent-map/source/build.cjs", import.meta.url))], { stdio: "inherit" })
+const pkuSource = new URL("../../pku-talent-map/", import.meta.url)
+const pkuTarget = new URL("../public/pku-talent-map/", import.meta.url)
+await mkdir(pkuTarget, { recursive: true })
+for (const file of ["index.html", "style.css", "app.js", "data.js"]) {
+  await copyFile(new URL(file, pkuSource), new URL(file, pkuTarget))
+}
+console.log("Published PKU talent map to public/pku-talent-map/")
