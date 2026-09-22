@@ -20,7 +20,9 @@ const universityMaps = [
     english: "PEKING UNIVERSITY",
     description: "具身人才地图",
     href: "pku-talent-map/",
-    logo: null,
+    // Official PKU white lockup; left 240×240 seal extracted without distortion.
+    // https://www.pku.edu.cn/Uploads/Picture/2019/12/26/s5e04147ee4a83.png
+    logo: "static/pku-emblem-white.png",
     color: "#8c1d2c",
     light: "#b44955",
     dark: "#54131d",
@@ -56,7 +58,7 @@ const TalentMapLink: QuartzComponent = ({ fileData }) => {
           >
             <span class="university-map-brand">
               <span class={`university-map-seal${university.squareLogo ? " square-logo" : ""}`} aria-hidden="true">
-                {university.logo ? <img src={`${root}/${university.logo}`} alt="" width="180" height="58" /> : <span class="university-text-mark">北大</span>}
+                <img src={`${root}/${university.logo}`} alt="" width={university.squareLogo ? 44 : 180} height={university.squareLogo ? 44 : 58} />
               </span>
               <span class="university-map-name">
                 <strong>{university.name}</strong>
@@ -85,7 +87,6 @@ a.talent-map-link:focus-visible{outline:3px solid #b98ac6;outline-offset:4px}
 .university-map-seal{display:block;flex:0 0 44px;width:44px;height:44px;overflow:hidden;opacity:.96}
 .university-map-seal img{content-visibility:visible;display:block;width:136.55px;height:44px;max-width:none;margin:0;border-radius:0}
 .university-map-seal.square-logo img{width:44px;height:44px;border-radius:50%;object-fit:contain}
-.university-text-mark{box-sizing:border-box;display:grid;place-items:center;width:44px;height:44px;border:1px solid #ffffff70;border-radius:50%;font-size:14px;font-weight:600;color:#fff}
 .university-map-name{display:flex;flex-direction:column;gap:5px;min-width:0}
 .university-map-name strong{font-size:1.12rem;font-weight:600;letter-spacing:.12em;line-height:1.3;color:#fff}
 .university-map-name small{font-size:.55rem;font-weight:500;letter-spacing:.09em;color:#e5cce9;white-space:nowrap}
