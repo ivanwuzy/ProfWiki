@@ -240,6 +240,14 @@ a {
       grid-area: grid-sidebar-right;
       margin-right: 0;
       flex-direction: column;
+      @media all and ($desktop) {
+        height: 100dvh;
+        overflow-y: auto;
+        scrollbar-width: thin;
+        & > * {
+          flex-shrink: 0;
+        }
+      }
       @media all and ($mobile) {
         margin-left: inherit;
         margin-right: inherit;
