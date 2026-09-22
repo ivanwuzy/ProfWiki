@@ -15,7 +15,7 @@
 - `source/selection.cjs`：人工审阅的组织、人物、关系及原文摘录。
 - `source/build.cjs`：读取所选文章，检查正式团队成员链接、关系摘录和跨院平台证据，生成 `data.js`。
 - `index.html`、`style.css`、`app.js`、`data.js`：发布白名单。构建源码、维护记录不发布。
-- `site/components/TalentMapLink.tsx` 与 `site/home.md`：首页入口。北大使用文字标识，不冒充官方校徽。
+- `site/components/TalentMapLink.tsx` 与 `site/home.md`：首页入口。首页北大卡片使用官网白色校徽，与清华卡片保持 44px 徽章尺寸；地图页顶栏保留文字标识。
 - `site/scripts/publish-talent-map.mjs`：网站构建后重编北大数据并复制白名单；CI 包含地图检查。
 
 在仓库根目录执行：
@@ -34,3 +34,7 @@ npm run build --prefix site
 北大与香港地图合计 10 项检查通过。浏览器实测首页卡片进入地图、搜索刘家铭并沿导师关系跳转仉尚航、计算机学院与产业筛选、桌面及 390×844 窄屏显示；窄屏页面宽度为 390，无页面级横向溢出，地图画布可以横向浏览；地图没有脚本报错。
 
 发布分支补齐北大知识页及原始来源的 Git 跟踪，并按文章首链接重建索引，修复前轮更新误覆盖原有条目的问题；保留其他未发布工作。正式知识链接检查通过（0 failures）。原始快照按不可变规则保留其空白和换行。云端发布由 main 分支的 GitHub Pages 工作流完成。
+
+## 首页校徽素材
+
+来自[北京大学官网白色组合标识](https://www.pku.edu.cn/Uploads/Picture/2019/12/26/s5e04147ee4a83.png)（官网首页引用，2026-09-22 取得）。从原图左侧提取完整 240×240 校徽，保留透明背景和白色线条，不拉伸；保存为 `site/quartz/static/pku-emblem-white.png`，首页显示为 44×44，与清华校徽一致。
