@@ -33,9 +33,9 @@ test('high-risk relationships retain employment, collaboration, and historical b
  assert.notEqual(person('邓胜亮').group,person('赵恒爽').group);
  for(const e of data.edges.filter(e=>e.quote))assert.ok(fs.readFileSync(path.join(root,e.evidence[0]),'utf8').includes(e.quote));
 });
-test('homepage puts Hong Kong immediately after Tsinghua with square official emblem',()=>{
+test('homepage retains Hong Kong after Tsinghua with square official emblem',()=>{
  const home=fs.readFileSync(path.join(root,'site/home.md'),'utf8');
- assert.match(home,/清华具身人才交互地图[^\n]+\n- \[香港高校人才交互地图/);
+ assert.match(home,/清华具身人才交互地图[\s\S]+香港高校人才交互地图/);
  const component=fs.readFileSync(path.join(root,'site/components/TalentMapLink.tsx'),'utf8');
  assert.ok(component.indexOf('href: "talent-map/"')<component.indexOf('href: "hong-kong-talent-map/"'));
  assert.ok(fs.existsSync(path.join(root,'site/quartz/static/hong-kong-emblem.gif')));

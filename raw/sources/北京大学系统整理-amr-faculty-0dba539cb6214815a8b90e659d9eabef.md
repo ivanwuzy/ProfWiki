@@ -1,0 +1,193 @@
+# 谢广明_北京大学先进制造与机器人学院
+
+> Source: https://amr.pku.edu.cn/jzyg/szdw/X/0dba539cb6214815a8b90e659d9eabef.htm
+> Collected: 2026-09-22
+> Published: Unknown
+> Note: 正文与公开页面文本摘录；省略邮箱、联系方式等非研究必需内容。网页导航可能保留；采集日期不等同发布日期。
+
+谢广明_北京大学先进制造与机器人学院
+首页
+学院介绍
+学院概况
+现任领导
+历史沿革
+新闻中心
+新闻快讯
+新闻专题
+系所中心
+先进制造系
+机器人科学与工程系
+控制科学与系统工程系
+北京大学机器人研究中心
+教职员工
+杰出人才
+师资队伍
+教育教学
+本科生教育
+研究生教育
+专业学位教育
+境外学习
+留学生
+科学研究
+重要项目
+科研动态
+学术活动
+学生天地
+新闻动态
+通知发布
+公示信息
+学工队伍
+办事指南
+下载专区
+办公服务
+学院办公室
+办事流程
+在线办公
+诚聘英才
+首页
+学院介绍
+学院概况
+现任领导
+历史沿革
+新闻中心
+新闻快讯
+新闻专题
+系所中心
+先进制造系
+机器人科学与工程系
+控制科学与系统工程系
+北京大学机器人研究中心
+教职员工
+杰出人才
+师资队伍
+教育教学
+本科生教育
+研究生教育
+专业学位教育
+境外学习
+留学生
+科学研究
+重要项目
+科研动态
+学术活动
+学生天地
+新闻动态
+通知发布
+公示信息
+学工队伍
+办事指南
+下载专区
+办公服务
+学院办公室
+办事流程
+在线办公
+诚聘英才
+教职员工
+杰出人才
+师资队伍
+您所在的位置：
+首页
+教职员工
+师资队伍
+X
+X
+谢广明
+教授、博士生导师
+个人主页：
+http://www2.coe.pku.edu.cn/subpaget.asp?id=58
+主要研究方向：
+智能仿生机器人、机器人创新设计与应用、仿生集群协作、复杂系统动力学与控制等。
+个人简介：
+主持包括重点项目在内的多项国家自然科学基金项目。获得国家自然科学奖二等奖、教育部自然科学奖一等奖等多项奖励。担任中国仿真学会理事、机器人系统仿真专业委员会主任等。是《International Journal of Robotics and Simulation》期刊主编，《Bioinspiration & biomimetics》、《Advanced Robotics Research》、《Scientific Reports》、《智能系统学报》、《水下无人系统学报》、《兵工自动化》等期刊编委。
+Google Scholar:
+https://scholar.google.com.hk/citations?hl=en&user=9SDlKoMAAAAJ
+ResearchGate:
+https://www.researchgate.net/profile/Guangming-Xie-3
+教育经历：
+1991-1996 清华大学应用数学系 应用数学、电子与计算机技术双学位
+1996-1998 清华大学自动化系 控制理论与控制工程 硕士学位
+1998-2001 清华大学自动化系 控制理论与控制工程 博士学位
+科研工作经历：
+2001-2003 北京大学力学系 博士后
+2003-2005 北京大学力学系 讲师
+2005-2013 北京大学工学院 副教授
+2013-2025
+北京大学工学院 教授
+2015-2016 加州大学河滨分校 访问教授
+2025-今     北京大学先进制造与机器人学院 教授
+主要科研项目：
+国家自然科学基金区域创新发展联合基金重点项目，动态非结构环境下仿生水下作业机器人的基础理论和关键技术研究，2023-01至2026-12，主持
+国家自然科学基金面上项目，基于仿生机器鱼的鱼类集群游动节能机理探究，2023-01至2026-12，主持
+国家自然科学基金重点项目，近浅海水下捕捞机器人的基础理论与关键 技术研究，2017-01至2021-12，主持
+国家自然科学基金重大研究计划-培育项目，基于演化博弈的智能群体 控制理论及在共融机器人协作中的应用，2017-01至2019-12，主持
+国家自然科学基金面上项目，仿箱鲀机器鱼人工侧线系统的仿生设计与 实验研究，2016-01至2019-12，主持
+主要论文列表：
+1.
+Monolithic Programmable Fabric-Stacking Enables Multifunctional Soft Robots
+，J Wu, M Wu, C Wang, G Xie，
+IEEE Transactions on Robotics
+，2025
+2.
+An interpretable approach to estimate the self-motion in fish-like robots using mode decomposition analysis
+，Y Zhai, X Zheng, LM Chao, S Li, M Xiong, Y Jia, L Li, G Xie，
+Nature Communications
+16 (1), 3887，2025
+3.
+An Isochron-Based Solution to Pursuit-Evasion Games of Two Heterogeneous Players
+，S Li, C Wang, G Xie，
+IEEE Transactions on Automatic Control
+，2024
+4.
+Distributed Task Allocation With Minimum Makespan for Heterogeneous Multiplayer Pursuit-Evasion Games
+，S Li, C Wang, J Sun, S Zhang, G Xie，
+IEEE Transactions on Automatic Control
+，2024
+5.
+Octopus-inspired underwater soft robotic gripper with crawling and swimming capabilities
+，M Wu, WH Afridi, J Wu, RH Afridi, K Wang, X Zheng, C Wang, G Xie，
+Research
+7, 0456，2024（期刊年度最佳论文奖）
+6.
+Multimodal soft amphibious robots using simple plastic-sheet-reinforced thin pneumatic actuators
+，J Wu, M Wu, W Chen, C Wang, G Xie，
+IEEE Transactions on Robotics
+40, 1874-1889，2024
+7.
+Biomimetic Electric Sense-Based Localization
+，J Zheng, J Wang, X Guo, C Huntrakul, C Wang, G Xie，
+IEEE Robotics & Automation Magazine
+1070 (9932/22)，2022
+8.
+From simulation to reality: A learning framework for fish-like robots to perform control tasks
+，T Zhang, R Tian, H Yang, C Wang, J Sun, S Zhang, G Xie，
+IEEE Transactions on Robotics
+38 (6), 3861-3878，2022
+9.
+Glowing Sucker Octopus (Stauroteuthis syrtensis)‐Inspired Soft Robotic Gripper for Underwater Self‐Adaptive Grasping and Sensing (Adv. Sci. 17/2022)
+，M Wu, X Zheng, R Liu, N Hou, WH Afridi, RH Afridi, X Guo, J Wu, C Wang, ...，
+Advanced Science
+9 (17), 2270111，2022
+10.
+Underwater wireless communication via TENG-generated Maxwell’s displacement current, H Zhao, M Xu, M Shu, J An, W Ding, X Liu, S Wang, C Zhao, H Yu, ...,
+Nature Communications
+13 (1), 3325,2022
+11.
+Online State Estimation of a Fin-Actuated Underwater Robot Using Artificial Lateral Line System
+；X Zheng, W Wang, M Xiong, G Xie,
+IEEE Transactions on Robotics
+，2020
+12.
+Vortex phase matching as a strategy for schooling in robots and in fish,
+L Li, M Nagy, JM Graving, J Bak-Coleman, G Xie, ID Couzin
+，
+Nature communications
+11 (1), 5408，2020
+13.
+Limit-cycle-based design of formation control for mobile agents
+；C Wang, W Xia, G Xie,
+IEEE Transactions on Automatic Control
+，2019
+地址：北京市海淀区中关村北大街新奥工学大楼
+邮编：100871
+电话：010-62751811
+版权所有©北京大学先进制造与机器人学院

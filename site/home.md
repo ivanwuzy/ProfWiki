@@ -5,11 +5,12 @@ description: 从高校、实验室与人物出发，探索师承关系、研究�
 
 从 **高校 → 院系与实验室 → 人物 → 创业公司**，探索前沿科技人才之间的联系。
 
-重点关注清华及香港高校的 AI、具身智能与机器人、脑机接口、核聚变与先进能源，以及 AI 驱动的交叉学科。
+重点关注清华、北大及香港高校的 AI、具身智能与机器人、脑机接口、核聚变与先进能源，以及 AI 驱动的交叉学科。
 
 ## 主入口
 
 - [清华具身人才交互地图](https://ivanwuzy.github.io/ProfWiki/talent-map/) — 从院系、团队和人物关系开始探索
+- [北京大学人才交互地图](https://ivanwuzy.github.io/ProfWiki/pku-talent-map/) — 按院系与团队探索具身研究、人才培养和创业关系
 - [香港高校人才交互地图](https://ivanwuzy.github.io/ProfWiki/hong-kong-talent-map/) — 按学校与研究方向探索团队、跨校师承和创业关系
 - [高校关联公司与产业关系](maps/高校关联公司与产业关系.md) — 按技术方向区分创业、任职、孵化与合作关系
 - [香港具身实验室与创业网络](maps/香港具身实验室与创业网络.md) — 比较研究能力、师生网络与产业联系
@@ -19,6 +20,7 @@ description: 从高校、实验室与人物出发，探索师承关系、研究�
 ## 从高校进入
 
 - [清华大学](universities/清华大学.md)
+- [北京大学](universities/北京大学.md)
 - [香港大学](universities/香港大学.md)
 - [香港中文大学](universities/香港中文大学.md)
 - [香港科技大学](universities/香港科技大学.md)

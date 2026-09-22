@@ -1628,3 +1628,522 @@ XbotPark及香港清水湾创业基金／XBOTPARK基金：平台官网已核共�
 - Raw: raw/sources/四校补全-理工公告发布日期元数据.md
 - 核验补记：35份研究正文加1份公告日期元数据，共36份raw。ASL两位学生按原文改为通过博士论文答辩，未升级为已毕业；其余日期与专有名词复核记录在本地工作记录。
 - 最终验证：本次78篇文章的938处本地链接、YAML、人物标题、组织父子关系与索引日期通过；新增raw全部被引用，新增文章无孤立入口，既有raw零修改。证据脚本无Raw错误；日期/元数据提示经人工核对，未消除仍待核的事实边界。
+
+## [2026-09-22] ingest | 北京大学重点领域系统整理
+- Disposition: New; Update; Disputed
+- 范围：参照清华大学结构，覆盖北京本部与深圳研究生院的AI、具身机器人、芯片脑机、科学智能、先进能源与聚变研究入口。
+- 新增：{'orgs': 26, 'people': 24, 'companies': 7, 'awards': 4, 'universities': 1, 'questions': 1}；复用并更新6个既有页面，未复制王鹤、银河通用等已有实体。
+- 原始来源：150份本次快照；110份用于知识页，其余为重复/导航/不可用探索记录，逐项处置如下。
+- 原文：只新增和规范本次初查文件名，未改写原文；已知日期与来源差异以正文与来源登记为准。
+- 未决：脑机临床、聚变工程/公司化、近年校级奖项完整附件、最新融资及少数行政职务。
+- New: wiki/orgs/北京大学计算机学院.md
+- New: wiki/orgs/北京大学前沿计算研究中心.md
+- New: wiki/orgs/北京大学具身感知与交互实验室.md
+- New: wiki/orgs/北京大学人工智能研究院.md
+- New: wiki/orgs/北京大学-逆矩阵世界模型联合实验室.md
+- New: wiki/orgs/北京大学智能学院.md
+- New: wiki/orgs/北京大学先进制造与机器人学院.md
+- New: wiki/orgs/北京大学-节卡通用智能机器人联合实验室.md
+- New: wiki/orgs/北京大学机器人研究中心.md
+- New: wiki/orgs/北京大学集成电路学院.md
+- New: wiki/orgs/北京大学PRIME课题组.md
+- New: wiki/orgs/北京大学深圳研究生院.md
+- New: wiki/orgs/北京大学深圳研究生院科学智能学院.md
+- New: wiki/orgs/北京大学深圳研究生院信息工程学院.md
+- New: wiki/orgs/北京大学深圳研究生院新材料学院.md
+- New: wiki/orgs/北京大学物理学院.md
+- New: wiki/orgs/北京大学理论物理研究所.md
+- New: wiki/orgs/北京大学重离子物理研究所.md
+- New: wiki/orgs/北京大学前沿交叉学科研究院.md
+- New: wiki/orgs/北京大学国际机器学习研究中心.md
+- New: wiki/orgs/北京大学数学科学学院.md
+- New: wiki/orgs/北京大学未来技术学院.md
+- New: wiki/orgs/北京大学王选计算机研究所.md
+- New: wiki/orgs/北京大学碳中和研究院.md
+- New: wiki/people/董豪-北大计算机.md
+- New: wiki/people/卢宗青-智在无界.md
+- New: wiki/people/杨耀东-灵初智能.md
+- New: wiki/people/朱毅鑫-北大人工智能.md
+- New: wiki/people/张牧涵-北大人工智能.md
+- New: wiki/people/唐希源-北大集成电路.md
+- New: wiki/people/杨玉超-北大集成电路.md
+- New: wiki/people/孙仲-北大集成电路.md
+- New: wiki/people/李萌-北大集成电路.md
+- New: wiki/people/贺笛-北大智能.md
+- New: wiki/people/王立威-北大智能.md
+- New: wiki/people/仉尚航-北大计算机.md
+- New: wiki/people/黄铁军-北大计算机.md
+- New: wiki/people/万小军-北大王选所.md
+- New: wiki/people/王启宁-北大机器人.md
+- New: wiki/people/李忠奎-北大机器人.md
+- New: wiki/people/刘宏-北大信工.md
+- New: wiki/people/刘梦源-北大信工.md
+- New: wiki/people/莫凡洋-北大科学智能.md
+- New: wiki/people/袁粒-北大科学智能.md
+- New: wiki/people/鄂维南-北大数学.md
+- New: wiki/people/潘锋-北大新材料.md
+- New: wiki/people/高家红-北大物理.md
+- New: wiki/people/周航-北大信工.md
+- New: wiki/companies/智在无界.md
+- New: wiki/companies/灵初智能.md
+- New: wiki/companies/逆矩阵科技.md
+- New: wiki/companies/启元机器人.md
+- New: wiki/companies/深势科技.md
+- New: wiki/companies/北集光.md
+- New: wiki/companies/节卡机器人.md
+- New: wiki/awards/北京大学信息工程学院科创新星评选.md
+- New: wiki/awards/ICLR杰出论文奖-北大团队.md
+- New: wiki/awards/亚洲控制会议最佳论文奖-北大团队.md
+- New: wiki/awards/深圳创新创业大赛-北大北集光项目.md
+- New: wiki/universities/北京大学.md
+- New: wiki/questions/北京大学重点领域覆盖与证据缺口.md
+- New: wiki/orgs/北京大学激光加速器实验室.md
+- New: wiki/orgs/北京大学科学智能计算实验室.md
+- Updated: wiki/people/王鹤-银河通用.md
+- Updated: wiki/companies/银河通用.md
+- Updated: wiki/questions/银河通用合作网络证据边界与待核.md
+- Updated: wiki/people/朱松纯-清华自动化.md
+- Updated: wiki/maps/高校关联公司与产业关系.md
+- Updated: wiki/maps/奖项与竞赛入口.md
+- Raw: raw/sources/北京大学初查-pku-cs-org.md
+- Raw: raw/sources/北京大学系统整理-aais-home-dsjkxyjzx.md
+- Raw: raw/sources/北京大学系统整理-aais-home-nmkxyjsyjzx.md
+- Raw: raw/sources/北京大学系统整理-aais-home-swyxkxkyjzx1.md
+- Raw: raw/sources/北京大学系统整理-aais-home-国际机器学习研究中心.md
+- Raw: raw/sources/北京大学系统整理-aais-home-学院概况.md
+- Raw: raw/sources/北京大学系统整理-aais-home-研究中心.md
+- Raw: raw/sources/北京大学系统整理-aais-home-磁共振成像研究中心.md
+- Raw: raw/sources/北京大学系统整理-aais-home.md
+- Raw: raw/sources/北京大学系统整理-ai-chip-award.md
+- Raw: raw/sources/北京大学系统整理-ai-faculty.md
+- Raw: raw/sources/北京大学系统整理-ai-intro.md
+- Raw: raw/sources/北京大学系统整理-ai4s-home-1224.md
+- Raw: raw/sources/北京大学系统整理-ai4s-home-1245.md
+- Raw: raw/sources/北京大学系统整理-ai4s-home-1322.md
+- Raw: raw/sources/北京大学系统整理-ai4s-home-1460.md
+- Raw: raw/sources/北京大学系统整理-ai4s-home-1461.md
+- Raw: raw/sources/北京大学系统整理-ai4s-home-8511.md
+- Raw: raw/sources/北京大学系统整理-ai4s-home-实验室与研究中心.md
+- Raw: raw/sources/北京大学系统整理-ai4s-intro.md
+- Raw: raw/sources/北京大学系统整理-amr-faculty-0dba539cb6214815a8b90e659d9eabef.md
+- Raw: raw/sources/北京大学系统整理-amr-faculty-2f3aa646c29a417aae8934458413a8c2.md
+- Raw: raw/sources/北京大学系统整理-amr-faculty-73a7e84e4e2345a7a4e7b51ec671c2c3.md
+- Raw: raw/sources/北京大学系统整理-amr-faculty-a0e58060728f41219573ecdcf94b50e2.md
+- Raw: raw/sources/北京大学系统整理-amr-faculty.md
+- Raw: raw/sources/北京大学系统整理-amr-home-7dc0d7a51c1b49fabca6bf0112e55c7b.md
+- Raw: raw/sources/北京大学系统整理-amr-home-a03cf4b6563f4cf49cb77fde5ba528c4.md
+- Raw: raw/sources/北京大学系统整理-amr-home-c5700902662847049f68bf07fd6cce56.md
+- Raw: raw/sources/北京大学系统整理-amr-home-index.md
+- Raw: raw/sources/北京大学系统整理-amr-home-学院概况.md
+- Raw: raw/sources/北京大学系统整理-being-code.md
+- Raw: raw/sources/北京大学系统整理-being-home.md
+- Raw: raw/sources/北京大学系统整理-carbon-home-ff2b61a41c5b4870a55a35b1844e2535.md
+- Raw: raw/sources/北京大学系统整理-carbon-home.md
+- Raw: raw/sources/北京大学系统整理-cfcs-epic.md
+- Raw: raw/sources/北京大学系统整理-cfcs-intro.md
+- Raw: raw/sources/北京大学系统整理-cfcs-vcla.md
+- Raw: raw/sources/北京大学系统整理-cfcs-wang-award.md
+- Raw: raw/sources/北京大学系统整理-clapa-home.md
+- Raw: raw/sources/北京大学系统整理-cmlr-faculty.md
+- Raw: raw/sources/北京大学系统整理-cmlr-intro.md
+- Raw: raw/sources/北京大学系统整理-cs-intro.md
+- Raw: raw/sources/北京大学系统整理-cs-presidentaward.md
+- Raw: raw/sources/北京大学系统整理-donghao-home.md
+- Raw: raw/sources/北京大学系统整理-dp-about.md
+- Raw: raw/sources/北京大学系统整理-dp-home.md
+- Raw: raw/sources/北京大学系统整理-ece-home.md
+- Raw: raw/sources/北京大学系统整理-ece-intro.md
+- Raw: raw/sources/北京大学系统整理-ece-jointlab.md
+- Raw: raw/sources/北京大学系统整理-ece-liumengyuan.md
+- Raw: raw/sources/北京大学系统整理-ece-tian.md
+- Raw: raw/sources/北京大学系统整理-ece-yang.md
+- Raw: raw/sources/北京大学系统整理-ece-yuan.md
+- Raw: raw/sources/北京大学系统整理-ece-zhou-startup.md
+- Raw: raw/sources/北京大学系统整理-ece-zhou.md
+- Raw: raw/sources/北京大学系统整理-epic-home.md
+- Raw: raw/sources/北京大学系统整理-ew-faculty.md
+- Raw: raw/sources/北京大学系统整理-extra-pku-sz.md
+- Raw: raw/sources/北京大学系统整理-future-home-5590fd925a1b43adaf0870cd29d03f60.md
+- Raw: raw/sources/北京大学系统整理-future-home.md
+- Raw: raw/sources/北京大学系统整理-ic-intro.md
+- Raw: raw/sources/北京大学系统整理-ic-limeng.md
+- Raw: raw/sources/北京大学系统整理-ic-lin-award.md
+- Raw: raw/sources/北京大学系统整理-ic-yang-chip.md
+- Raw: raw/sources/北京大学系统整理-ic-yang.md
+- Raw: raw/sources/北京大学系统整理-inverse-world.md
+- Raw: raw/sources/北京大学系统整理-luzongqing-home.md
+- Raw: raw/sources/北京大学系统整理-materials-intro.md
+- Raw: raw/sources/北京大学系统整理-materials-lithium.md
+- Raw: raw/sources/北京大学系统整理-materials-magnesium.md
+- Raw: raw/sources/北京大学系统整理-math-home.md
+- Raw: raw/sources/北京大学系统整理-physics-fields.md
+- Raw: raw/sources/北京大学系统整理-physics-ihip.md
+- Raw: raw/sources/北京大学系统整理-physics-itp.md
+- Raw: raw/sources/北京大学系统整理-physics-plasma.md
+- Raw: raw/sources/北京大学系统整理-physics-sleep.md
+- Raw: raw/sources/北京大学系统整理-physics-sleep2.md
+- Raw: raw/sources/北京大学系统整理-pku-departments.md
+- Raw: raw/sources/北京大学系统整理-pku-sz.md
+- Raw: raw/sources/北京大学系统整理-research-3600.md
+- Raw: raw/sources/北京大学系统整理-research-3620.md
+- Raw: raw/sources/北京大学系统整理-research-3640.md
+- Raw: raw/sources/北京大学系统整理-research-3730.md
+- Raw: raw/sources/北京大学系统整理-sai-faculty.md
+- Raw: raw/sources/北京大学系统整理-sai-iclraward.md
+- Raw: raw/sources/北京大学系统整理-sai-intro.md
+- Raw: raw/sources/北京大学系统整理-sai-wang.md
+- Raw: raw/sources/北京大学系统整理-tang-chip.md
+- Raw: raw/sources/北京大学系统整理-tang-home.md
+- Raw: raw/sources/北京大学系统整理-wanghe.md
+- Raw: raw/sources/北京大学系统整理-wx-home.md
+- Raw: raw/sources/北京大学系统整理-yang-home.md
+- Raw: raw/sources/北京大学系统整理-zhuyi-home.md
+- Raw: raw/sources/北京大学系统整理-万小军.md
+- Raw: raw/sources/北京大学系统整理-仉尚航.md
+- Raw: raw/sources/北京大学系统整理-余肇飞.md
+- Raw: raw/sources/北京大学系统整理-刘宏.md
+- Raw: raw/sources/北京大学系统整理-刘梦源.md
+- Raw: raw/sources/北京大学系统整理-卢宗青.md
+- Raw: raw/sources/北京大学系统整理-唐希源.md
+- Raw: raw/sources/北京大学系统整理-孙仲.md
+- Raw: raw/sources/北京大学系统整理-张牧涵.md
+- Raw: raw/sources/北京大学系统整理-朱松纯.md
+- Raw: raw/sources/北京大学系统整理-朱毅鑫.md
+- Raw: raw/sources/北京大学系统整理-杨耀东.md
+- Raw: raw/sources/北京大学系统整理-王亦洲.md
+- Raw: raw/sources/北京大学系统整理-王启宁.md
+- Raw: raw/sources/北京大学系统整理-董豪.md
+- Raw: raw/sources/北京大学系统整理-贺笛.md
+- Raw: raw/sources/北京大学系统整理-黄铁军.md
+- 验证：本次页的本地链接、YAML、组织父链及索引逐项核查；证据脚本无Raw缺失错误。自动字面量候选仅涉及采集日期、HTML折叠标签和既有解释性引用块，已人工区分。
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-ai-faculty.md
+- Disposition: No material
+- 原因：同URL正文另份已用于知识页：raw/sources/北京大学系统整理-ai-faculty.md
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-ai-intro.md
+- Disposition: No material
+- 原因：同URL正文另份已用于知识页：raw/sources/北京大学系统整理-ai-intro.md
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-ai-leaders.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-ai-research.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-ai.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-cs-fields.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-cs.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-engineering.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-home.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-ic.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-math-research.md
+- Disposition: No material
+- 原因：错误、验证或空正文；不作为事实证据
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-math.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-physics-research.md
+- Disposition: No material
+- 原因：同URL正文另份已用于知识页：raw/sources/北京大学系统整理-physics-fields.md
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学初查-pku-physics.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-ai-home.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-ai-research.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-ai4s-home-1459.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-ai4s-home-学院概况.md
+- Disposition: No material
+- 原因：同URL正文另份已用于知识页：raw/sources/北京大学系统整理-ai4s-intro.md
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-ai4s-home.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-amr-home.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-carbon-home-index.md
+- Disposition: No material
+- 原因：错误、验证或空正文；不作为事实证据
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-cfcs-home.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-cs-home-gk.md
+- Disposition: No material
+- 原因：同URL正文另份已用于知识页：raw/sources/北京大学系统整理-cs-intro.md
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-cs-home-产学研合作.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-cs-home-教研系列.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-cs-home.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-extra-materials-lithium.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-extra-materials-magnesium.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-future-home-index.md
+- Disposition: No material
+- 原因：错误、验证或空正文；不作为事实证据
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-future-home-学院概况.md
+- Disposition: No material
+- 原因：错误、验证或空正文；不作为事实证据
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-ic-home.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-iclr-paper.md
+- Disposition: No material
+- 原因：错误、验证或空正文；不作为事实证据
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-materials-home.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-pku-engineering.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-pku-news.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-research-4050.md
+- Disposition: No material
+- 原因：同URL正文另份已用于知识页：raw/sources/北京大学系统整理-tang-chip.md
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-sai-home-2629.md
+- Disposition: No material
+- 原因：同URL正文另份已用于知识页：raw/sources/北京大学系统整理-sai-iclraward.md
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-sai-home-kycg.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-sai-home-学院简介.md
+- Disposition: No material
+- 原因：同URL正文另份已用于知识页：raw/sources/北京大学系统整理-sai-intro.md
+
+## [2026-09-22] ingest | no material: raw/sources/北京大学系统整理-sai-home.md
+- Disposition: No material
+- 原因：探索用首页、导航或摘要；选定事实已有详情正文承接，未扩编无关新闻
+
+## [2026-09-22] ingest | 北京大学具身组织与团队覆盖补齐
+- Disposition: New; Update; Disputed
+- 范围：机器人学院系所、具身团队、智能学院与深圳名录，以及视觉平台、学生与产业关系；既有无关工作保留。
+- Raw: raw/sources/北京大学具身补齐-ece-page4.md
+- Raw: raw/sources/北京大学具身补齐-刘梦源.md
+- Raw: raw/sources/北京大学具身补齐-陈宝权.md
+- Raw: raw/sources/北京大学具身补齐-麦金耿.md
+- Raw: raw/sources/北京大学具身补齐-haptic.md
+- Raw: raw/sources/北京大学具身补齐-李阿明.md
+- Raw: raw/sources/北京大学具身补齐-yulab.md
+- Raw: raw/sources/北京大学具身补齐-孙志勇.md
+- Raw: raw/sources/北京大学具身补齐-刘航欣.md
+- Raw: raw/sources/北京大学具身补齐-控制科学与系统工程系.md
+- Raw: raw/sources/北京大学具身补齐-zhuyi.md
+- Raw: raw/sources/北京大学具身补齐-李忠奎.md
+- Raw: raw/sources/北京大学具身补齐-张玺.md
+- Raw: raw/sources/北京大学具身补齐-跨媒体通用人工智能全国重点实验室.md
+- Raw: raw/sources/北京大学具身补齐-cvda.md
+- Raw: raw/sources/北京大学具身补齐-ai.md
+- Raw: raw/sources/北京大学具身补齐-李启亮.md
+- Raw: raw/sources/北京大学具身补齐-王启宁.md
+- Raw: raw/sources/北京大学具身补齐-haptic-People.md
+- Raw: raw/sources/北京大学具身补齐-孙环波.md
+- Raw: raw/sources/北京大学具身补齐-钟亦武.md
+- Raw: raw/sources/北京大学具身补齐-ece-page2.md
+- Raw: raw/sources/北京大学具身补齐-视频与视觉技术研究所-研究组.md
+- Raw: raw/sources/北京大学具身补齐-先进制造系.md
+- Raw: raw/sources/北京大学具身补齐-视频与视觉技术研究所-研究中心概况.md
+- Raw: raw/sources/北京大学具身补齐-libliu.md
+- Raw: raw/sources/北京大学具身补齐-机器人科学与工程系.md
+- Raw: raw/sources/北京大学具身补齐-陈伟.md
+- Raw: raw/sources/北京大学具身补齐-ece-page3.md
+- Raw: raw/sources/北京大学具身补齐-刘珂.md
+- Raw: raw/sources/北京大学具身补齐-CoRe-People.md
+- Raw: raw/sources/北京大学具身补齐-高伟.md
+- Raw: raw/sources/北京大学具身补齐-robotics-sz-主要成员及合作团队.md
+- Raw: raw/sources/北京大学具身补齐-喻俊志.md
+- Raw: raw/sources/北京大学具身补齐-周大权.md
+- Raw: raw/sources/北京大学具身补齐-王雪峰.md
+- Raw: raw/sources/北京大学具身补齐-庞智博.md
+- Raw: raw/sources/北京大学具身补齐-robotics-sz-实验室简介.md
+- Raw: raw/sources/北京大学具身补齐-黄松芳.md
+- Raw: raw/sources/北京大学具身补齐-唐晨宇.md
+- Raw: raw/sources/北京大学具身补齐-刘利斌.md
+- Raw: raw/sources/北京大学具身补齐-段志生.md
+- Raw: raw/sources/北京大学具身补齐-孔诗涵.md
+- Raw: raw/sources/北京大学具身补齐-周志浩.md
+- Raw: raw/sources/北京大学具身补齐-robotics-sz.md
+- Raw: raw/sources/北京大学具身补齐-张飞天.md
+- Raw: raw/sources/北京大学具身补齐-CoRe.md
+- Raw: raw/sources/北京大学具身补齐-赵卉菁.md
+- Raw: raw/sources/北京大学具身补齐-黄天云.md
+- Raw: raw/sources/北京大学具身补齐-刘畅.md
+- Raw: raw/sources/北京大学具身补齐-yulab-团队成员-Tea.md
+- Raw: raw/sources/北京大学具身补齐-liuhx.md
+- Raw: raw/sources/北京大学具身补齐-段慧玲.md
+- Raw: raw/sources/北京大学具身补齐-陈杰.md
+- Raw: raw/sources/北京大学具身补齐-cs.md
+- Raw: raw/sources/北京大学具身补齐-ece-page6.md
+- Raw: raw/sources/北京大学具身补齐-haptic-Commercialization.md
+- Raw: raw/sources/北京大学具身补齐-视频与视觉技术研究所-中心博士生刘家铭.md
+- Raw: raw/sources/北京大学具身补齐-罗定生.md
+- Raw: raw/sources/北京大学具身补齐-吕鹏宇.md
+- Raw: raw/sources/北京大学具身补齐-国萌.md
+- Raw: raw/sources/北京大学具身补齐-王龙.md
+- Raw: raw/sources/北京大学具身补齐-刘宏.md
+- Raw: raw/sources/北京大学具身补齐-aimia.md
+- Raw: raw/sources/北京大学具身补齐-钟方成.md
+- Raw: raw/sources/北京大学系统整理-朱毅鑫.md
+- Raw: raw/sources/北京大学系统整理-cfcs-vcla.md
+- Raw: raw/sources/北京大学系统整理-amr-faculty.md
+- Raw: raw/sources/北京大学系统整理-王亦洲.md
+- Raw: raw/sources/北京大学系统整理-amr-home-7dc0d7a51c1b49fabca6bf0112e55c7b.md
+- Raw: raw/sources/北京大学系统整理-sai-faculty.md
+- Raw: raw/sources/北京大学具身补齐-楚天广.md
+- Raw: raw/sources/北京大学具身补齐-陈光.md
+- Raw: raw/sources/北京大学具身补齐-何冠楠.md
+- Raw: raw/sources/北京大学具身补齐-黄琳.md
+- Raw: raw/sources/北京大学具身补齐-罗琳.md
+- Raw: raw/sources/北京大学具身补齐-梅文俊.md
+- Raw: raw/sources/北京大学具身补齐-宋洁.md
+- Raw: raw/sources/北京大学具身补齐-孙铭阳.md
+- Raw: raw/sources/北京大学具身补齐-邵金燕.md
+- Raw: raw/sources/北京大学具身补齐-唐聿劼.md
+- Raw: raw/sources/北京大学具身补齐-吴建国.md
+- Raw: raw/sources/北京大学具身补齐-王金枝.md
+- Raw: raw/sources/北京大学具身补齐-王勇.md
+- Raw: raw/sources/北京大学具身补齐-王茤祥.md
+- Raw: raw/sources/北京大学具身补齐-谢广明.md
+- Raw: raw/sources/北京大学具身补齐-杨林.md
+- Raw: raw/sources/北京大学具身补齐-杨莹.md
+- Raw: raw/sources/北京大学具身补齐-袁小婷.md
+- Raw: raw/sources/北京大学具身补齐-杨剑影.md
+- Raw: raw/sources/北京大学具身补齐-尤鹏程.md
+- Raw: raw/sources/北京大学具身补齐-张智琅.md
+- Raw: raw/sources/北京大学具身补齐-amr.md
+- Raw: raw/sources/北京大学具身补齐-sai.md
+- Raw: raw/sources/北京大学具身补齐-下页.md
+- Raw: raw/sources/北京大学具身补齐-sai-page3.md
+- Raw: raw/sources/北京大学具身补齐-sai-page4.md
+- Raw: raw/sources/北京大学具身补齐-sai-page5.md
+- Raw: raw/sources/北京大学具身补齐-ece-faculty.md
+- Raw: raw/sources/北京大学具身补齐-ece-page5.md
+- Raw: raw/sources/北京大学具身补齐-ece-page7.md
+- Updated: wiki/people/喻俊志-北大机器人.md
+- Updated: wiki/people/张飞天-北大机器人.md
+- Updated: wiki/people/刘畅-北大机器人.md
+- Updated: wiki/people/黄天云-北大机器人.md
+- Updated: wiki/people/国萌-北大机器人.md
+- Updated: wiki/people/刘珂-北大机器人.md
+- Updated: wiki/people/孙环波-北大机器人.md
+- Updated: wiki/people/庞智博-北大机器人.md
+- Updated: wiki/people/王雪峰-北大机器人.md
+- Updated: wiki/people/孙志勇-北大机器人.md
+- Updated: wiki/people/黄松芳-北大机器人.md
+- Updated: wiki/people/麦金耿-北大机器人.md
+- Updated: wiki/people/周志浩-北大人工智能.md
+- Updated: wiki/people/刘航欣-北大智能.md
+- Updated: wiki/people/刘利斌-北大智能.md
+- Updated: wiki/people/赵卉菁-北大智能.md
+- Updated: wiki/people/钟亦武-北大智能.md
+- Updated: wiki/people/陈宝权-北大智能.md
+- Updated: wiki/people/王亦洲-北大计算机.md
+- Updated: wiki/people/陈杰-北大信工.md
+- Updated: wiki/people/高伟-北大信工.md
+- Updated: wiki/people/周大权-北大信工.md
+- Updated: wiki/people/钟方成-北大信工.md
+- Updated: wiki/people/唐晨宇-北大信工.md
+- Updated: wiki/orgs/北京大学机器人科学与工程系.md
+- Updated: wiki/orgs/北京大学控制科学与系统工程系.md
+- Updated: wiki/orgs/北京大学先进制造系.md
+- Updated: wiki/orgs/北京大学机器智能实验室.md
+- Updated: wiki/orgs/北京大学微机器智能实验室.md
+- Updated: wiki/orgs/北京大学工业具身智能实验室.md
+- Updated: wiki/orgs/北京大学-Haptic-Sensing-Lab.md
+- Updated: wiki/orgs/北京大学机器学习与智能仿人机器人课题组.md
+- Updated: wiki/orgs/北京大学可视计算与学习实验室.md
+- Updated: wiki/orgs/北京大学计算机视觉与数字艺术实验室.md
+- Updated: wiki/orgs/北京大学-CoRe-Lab.md
+- Updated: wiki/orgs/跨媒体通用人工智能全国重点实验室.md
+- Updated: wiki/orgs/北京大学具身智能与机器人研究中心.md
+- Updated: wiki/orgs/北京大学智能机器人开放实验室.md
+- Updated: wiki/orgs/北京大学-AIMIA实验室.md
+- Updated: wiki/orgs/北京大学视频与视觉技术国家工程研究中心.md
+- Updated: wiki/people/刘家铭-北大计算机.md
+- Updated: wiki/orgs/北京大学先进制造与机器人学院.md
+- Updated: wiki/orgs/北京大学智能学院.md
+- Updated: wiki/orgs/北京大学前沿计算研究中心.md
+- Updated: wiki/orgs/北京大学深圳研究生院信息工程学院.md
+- Updated: wiki/orgs/北京大学人工智能研究院.md
+- Updated: wiki/universities/北京大学.md
+- Updated: wiki/questions/北京大学重点领域覆盖与证据缺口.md
+- Updated: wiki/people/朱毅鑫-北大人工智能.md
+- Updated: wiki/people/王启宁-北大机器人.md
+- Updated: wiki/people/刘宏-北大信工.md
+- Updated: wiki/people/刘梦源-北大信工.md
+- Updated: wiki/people/仉尚航-北大计算机.md
+- Updated: wiki/people/李忠奎-北大机器人.md
+- Updated: wiki/people/卢宗青-智在无界.md
+- Updated: wiki/people/黄铁军-北大计算机.md
+- Updated: wiki/people/朱松纯-清华自动化.md
+- Updated: wiki/orgs/北京大学计算机学院.md
+- Updated: wiki/orgs/北京大学机器人研究中心.md
+- Updated: wiki/orgs/北京大学-节卡通用智能机器人联合实验室.md
+
+## [2026-09-22] ingest | 庞智博实验室名称差异补证
+- Disposition: Update
+- Raw: raw/sources/北京大学具身补齐-pi-lab.md
+- Updated: 北京大学工业具身智能实验室；庞智博；北京大学重点领域覆盖与证据缺口
+- 仅支持网页标题与校方实验室称谓差异；不将导航壳当科研正文。
